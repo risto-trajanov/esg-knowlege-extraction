@@ -1,0 +1,1016 @@
+[
+  {
+    "text": "We, the shareholders, must protect our assets against devastating climate change, and we therefore support companies to substantially reduce greenhouse gas (GHG) emissions.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Shareholders request the Company to set and publish medium- and long-term targets to reduce the greenhouse gas (GHG) emissions of the Company’s operations and energy products (Scope 1, 2, and 3) consistent with the goal of the Paris Climate Agreement: to limit global warming to well below 2°C above pre-industrial levels and to pursue efforts to limit the temperature increase to 1.5°C.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The policies of energy companies—the largest greenhouse gas (GHG) emitters—are crucial to confronting the climate crisis.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "Therefore shareholders support oil and gas companies to substantially reduce their emissions.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We, the shareholders, understand this support to be essential in protecting all our assets in the global economy from devastating climate change.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "We therefore support the Company to set emission reduction targets for all emissions: the emissions of the company’s operations and the emissions of its energy products (Scope 1, 2, and 3).",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Reducing Scope 3 emissions, the vast majority, is essential to limiting global heating.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "The world’s leading international scientific bodies recently released reports which clearly state the need for deep cuts in emissions in order to limit global warming to safe levels.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "A growing international consensus has emerged among financial institutions that climate-related risks are a source of financial risk, and therefore limiting global warming is essential to risk management and responsible stewardship of the economy.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Backing from investors that insist on targets for all emissions continues to gain momentum: 2021 saw unprecedented investor support for climate resolutions.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "In the US, three of these climate resolutions passed with a historic majority.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "In Europe, support for these climate resolutions continued to build.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "In 2021, a Dutch court ordered Shell to severely reduce their worldwide emissions (Scope 1, 2, and 3) by 2030.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "This indicates that oil majors and large investors have an individual legal responsibility to combat dangerous climate change by reducing emissions and confirms the risk of liability.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We believe that the Company could lead and thrive in the energy transition.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "We therefore encourage you to set targets that are inspirational for society, employees, shareholders, and the energy sector, allowing the company to meet an increasing demand for energy while reducing GHG emissions to levels consistent with curbing climate change.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Climate change is a challenge for all of us, and we need to address it holistically.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "Chevron is committed to an honest conversation about the energy transition.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We could reduce our GHG emissions by changing our portfolio and selling our emissions-producing assets, but that would not serve our stockholders, who benefit from our strong asset base.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Moreover, it would not benefit the global effort to combat climate change if we were to sell such assets to another company, who would still operate the assets, but perhaps to a less carbon-efficient standard.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "We have heard our stockholders’ requests for relevant and comparable data to allow them to evaluate how we are performing on GHG management compared to others in our industry.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron has developed the Portfolio Carbon Intensity (“PCI”) methodology, which we believe addresses the interests of stakeholders wanting comparable metrics that address Scopes 1, 2 and 3 emissions.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "PCI covers the full value chain emissions of our products, from production to use by customers.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "PCI is transparent and replicable by leveraging information readily found in financial statements, emissions disclosures, and emission factors.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board is holding Chevron accountable by endorsing PCI reduction targets.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron intends to reach these goals through innovation and top-tier performance.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "As part of this, and as you will see from our support of Proxy Item 7, Chevron is committed to detecting and mitigating methane emissions.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Therefore, your Board recommends that you vote against this proposal.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Markets require information to operate and deploy capital effectively.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "global and U.S. accounting and auditing standard-setters reiterated that material climate-related risks should be accounted for in company financial statements and audits.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "investor groups, representing assets worth over $103 trillion, have also called on companies and auditors to fully reflect climate risks to companies’ financial results and position.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "These concerns reflect a converging consensus by policymakers, investors, and companies on growing climate risk, the need to limit global temperature increase to 1.5° C (net zero global greenhouse gas (GHG) emissions by 2050), and the impact of such actions to companies.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "The International Energy Agency’s (IEA) Net Zero Scenario describes an energy sector pathway to achieve net zero emissions.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "Given these global climate imperatives, to best allocate investments, investors are calling for information to assess the financial impacts of climate-related physical and transition risks on companies and identify companies best positioned to thrive in a low carbon economy.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "more than 70% of listed companies, representing some of the world’s largest carbon-polluters, are not fully accounting for climate-related risks in their financial statements.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron continues to develop new fossil fuel resources while acknowledging climate related risks8 that could lead to increased future impairments.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Despite the materiality of this issue, Chevron’s audited annual disclosures do not currently provide investors with sufficient insight into assumptions used to assess productive assets for impairment and stranded asset risk.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "an independent 2021 analysis concluded that Chevron’s financial statements lack the requisite transparency about climate-related assumptions and estimates, and that the company does not appear to use Paris-aligned assumptions and estimates.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "peers (Shell, bp, TotalEnergies) have released more transparent disclosures in their audited financial statements, articulating the extent of consideration of climate change contingencies and risks.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Investors seek additional information from Chevron to understand the impact of climate-related factors on its business model and current financial reporting.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron supports the goals of the Paris Agreement and is committed to lowering our portfolio carbon intensity, on a full-cycle basis, and to being transparent about our progress.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron received a similar proposal last year, seeking an audited report on how the energy sector pathway hypothesized in the IEA Net Zero 2050 scenario (NZE 2050) would affect Chevron’s financial position and underlying assumptions.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Subsequent to that proposal, we tested our portfolio using NZE 2050 demand and commodity price projections.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "We reported on the results of this scenario test in our updated Climate Change Resilience Report in October 2021.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "That report discusses how our portfolio would fare from a financial viability perspective and also the changes we would need to make under the NZE 2050 assumptions.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s Corporate Audit department, which performs the internal audit function at Chevron, conducted a non-rated assurance review of the NZE 2050 scenario analysis, and determined that the analysis was conducted in accordance with established internal process and emerging external guidance.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We regularly analyze alternative scenarios to stress-test our portfolio, and we integrate those learnings to help us remain competitive and resilient in any environment.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "This information is confidential and competitively sensitive.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "We do not report audited outcomes on these scenarios.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Rather, we report and disclose in accordance with U.S. GAAP and are audited in accordance with the standards of the Public Company Accounting Oversight Board.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "With this oversight framework, our strategic plans reflect management’s best assessment of the longer-term outlook on supply, demand and commodity prices and its judgment in deploying the Company’s strategy in that environment.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We consider the likelihood of the IEA’s NZE 2050 scenario to be remote and do not rely on the NZE 2050 scenario for our business planning.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Your Board believes it would not be a responsible use of Company resources to produce a further report to address a speculative scenario, as the Proposal requests.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Whereas, at least a quarter of today’s global warming is caused by methane emissions from human sources.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Methane is 86 times more potent than carbon dioxide over a 20-year period, meaning reducing emissions now can buy valuable time to address the climate crisis.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "In 2019, 30% of U.S. methane emissions from human activities came from natural gas and petroleum systems, from venting, flaring, and leaking.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "However, the Environmental Protection Agency (EPA) formula used to estimate methane emissions is not a good foundation for a corporate mitigation strategy, failing to capture many major leaks, wasting valuable product (worth $2 billion per year) and substantially underestimating emissions.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Studies have found actual emissions to be between 50 and 90% higher than estimated emissions reported using the formula.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "In certain basins, studies have found emissions to be more than 10 times higher than industry disclosed figures.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Companies that do not manage methane emissions jeopardize other industry decarbonization efforts, and risk their reputation and license to operate, as investors, regulators and civil society are setting expectations to address this issue.",
+    "labels": [
+      "Environmental Positive",
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In 2021, investors managing more than $5.35 trillion supported strong federal methane regulations.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The U.S. joined the Global Methane Pledge, committing to using best available inventory methodologies to quantify methane emissions.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Companies, including U.S. companies EQT and Jonah Energy, have joined the Oil and Gas Methane Partnership, committing to improving methane data quality and consistency.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "According to EPA data, Chevron ranks 73d of U.S. top 100 oil and gas producers, with a methane intensity of 0.08%.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Resolved, shareholders request that the Board oversee the preparation of a report analyzing a critical climate change concern, the reliability of Chevron’s methane emission disclosures.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The report should summarize the outcome of any efforts to directly measure methane emissions by the Company;",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "provide investors with insight as to whether there is likely to be a material difference between direct measurement results and the Company’s published estimates of methane emissions;",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "assess the degree to which any differences would alter estimates of the Company’s Scope 1 emissions.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "At management’s discretion, we recommend that the report: Provide a narrative explanation of the difference between the Company’s estimated methane emissions and the Company’s, own direct measurements, or any third party measurements, by site or region,",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Describe any efforts to validate emissions estimates and disclosure through a third-party audit or evaluation.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron views the assessment of direct methane emissions measurement discussed in the “Resolved” section of the Proposal as largely consistent with our current and ongoing efforts to address Scope 1 emissions.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We plan to release a Methane Strategy Update (“Update”) later this year, which will address methane detection, direct measurement quantification, and disclosure.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Without disclosing confidential information and to the extent reasonably feasible, subject to the limitations of current direct measurement technology discussed above, we intend to include information referenced in the “Resolved” section of the Proposal in the Update, including how detection technologies have advanced, how they can inform emission reduction strategies, and the challenges and uncertainties of current direct measurement technology.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Therefore, your Board recommends that you vote for this proposal.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron, in partnership with Total, PTT, and Myanmar Oil and Gas Enterprise (MOGE), holds equity in one of the largest investment projects in Myanmar (Burma): the Yadana gas field and pipeline that has generated billions of dollars for the Myanmar military junta.",
+    "labels": [
+      "Governance Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Together, Total and Chevron have a majority controlling interest in Yadana project.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Since it seized power in the February 1st, 2021, coup d’etat, the Myanmar military now holds total control over MOGE.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The United States and United Kingdom have imposed sanctions against Myanmar military-owned companies.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "A bipartisan group of senators have urged the U.S. administration to place sanctions on MOGE.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The Myanmar military has a long history of egregious human rights abuses, particularly against ethnic minorities.",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "In August 2017, a military crackdown caused an estimated more than 700,000 Rohingya to flee to neighboring Bangladesh where they remain to this day.",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "The U.S. Holocaust Memorial Museum has reported that the Rohingya remain “at grave risk of additional mass atrocities and even genocide.”",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Nicholas Koumjian, head of the United Nations Independent Investigative Mechanism for Myanmar, stated in November 2021, that preliminary evidence collected since the military coup shows a widespread and systematic attack on civilians “amounting to crimes against humanity.”",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "The National Unity Government of Myanmar, made up of elected officials and civil society leaders, has called on the oil companies operating in Myanmar to withhold from the military junta and place in escrow any payments due to the Myanmar government.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Since the February 2021 military coup, the “Blood Money Campaign” by Myanmar and international civil society organizations has organized protests, consumer boycotts, and media pressure against companies, including Chevron, that provide financial support to the military junta.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "In addition, dozens of oil workers in Myanmar have petitioned oil companies to suspend payments to the ruling junta.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "ICRtoP lists several countries, cited by the United Nations and civil society organizations, in which Chevron is currently producing oil and gas: Burma (Myanmar), Democratic Republic of Congo, and Nigeria.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron and your Board share the proponent’s concern for human rights, and we condemn the violence and human rights abuses occurring in Myanmar.",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "On January 21, 2022, Chevron released a statement announcing our intention to exit Myanmar.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We intend to conduct our exit in a planned and orderly manner, and while doing so, we will continue to meet our commitments and support the humanitarian needs of local communities.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "Our commitment to human rights is reflected throughout our business and in how we conduct ourselves, including in our Human Rights Policy, our Operational Excellence Management System, and our Business Conduct and Ethics Code, all of which are on our website.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "At times locations where we operate experience civil unrest and challenging conditions.",
+    "labels": [
+      "Social Neutral"
+    ]
+  },
+  {
+    "text": "Our approach to human rights is consistent.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "Wherever we operate, we work to support local communities with basic human needs, including healthcare, education, and energy.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "We believe we have the right processes and governance to ensure that we make the right decisions about where and how we conduct our business.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Accordingly, your Board does not believe the report requested in the Proposal is necessary.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Resolved: Shareholders request that the Board of Directors commission and publicly disclose the findings of an independent racial equity audit, analyzing if, and how, Chevron’s policies and practices discriminate against or disparately impact communities of color.",
+    "labels": [
+      "Social Negative",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The report should clearly identify, and recommend steps to eliminate, business activities that further systemic racism, environmental injustice, threaten civil rights, or present barriers to diversity, equity, and inclusion (DEI).",
+    "labels": [
+      "Social Negative",
+      "Environmental Negative",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Input from impacted workers, community members, customers, or other relevant stakeholders should inform the audit and report.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "The report should exclude confidential and proprietary information, as well as information relevant to any pending legal proceeding or threatened proceeding of which Chevron has notice.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Racial inequity and environmental racism are systemic risks that threaten society and the economy.",
+    "labels": [
+      "Social Negative",
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Companies that fail to correct policies and practices deemed to be racist, discriminatory, or furthering inequities face legal, financial, reputational, and human capital management risks.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Companies that commit to holistically advance racial justice and foster DEI benefit from stronger performance, employee satisfaction, innovation, and positive social impact. 2",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron is one of the highest greenhouse gas emitting companies in the world.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Its emissions contribute to the climate crisis, which disparately impacts people of color and furthers systemic racism.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Chevron’s operations, discharges, and leaks disproportionately burden communities of color with pollution and human health risks.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "For example, 80% of residents living adjacent to Chevron’s Richmond, CA refinery are people of color, and they experience higher rates of cardiovascular disease, cancer, and asthma.",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Chevron’s Richmond facility is the city’s largest polluter and the company has spent millions of dollars to influence city politics and funding.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron also finances the Richmond police, which has been linked to police brutality.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Beyond Richmond, Chevron finances police groups in major U.S. cities and Chevron representatives serve on the boards of Houston and Salt Lake City police foundations.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Additionally, Chevron faces scrutiny for financing United States politicians with failing civil rights grades issued by the NAACP.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron’s business disparately impacts Indigenous Peoples.",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Over 60% of publicly reported abuses from Chevron’s operations impacted Indigenous Peoples, including violation of land rights, allegations of genocide, violence against Indigenous women, and widespread environmental damage and human rights violations in Ecuador, Indonesia, Nigeria, and the United States.",
+    "labels": [
+      "Social Negative",
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "While Chevron has made DEI and philanthropic commitments to support Black employees and communities, its practices have historically exacerbated racial inequities.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "An independent 2021 report documented dozens of outstanding legal cases against Chevron for alleged environmental damage and human rights violations, noting that the company has only paid .006% of associated fines, court judgements, and settlements.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "A racial equity audit would help Chevron identify, prioritize, remedy, and avoid adverse impacts on people of color while reducing reputational risk and liabilities.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board shares the proponent’s commitment to addressing racial injustice.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "Chevron strives to empower people to improve their lives and meet their full potential.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "This commitment is reflected throughout our business and in how we conduct ourselves around the world.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "We demonstrate this commitment through promoting diversity and inclusion, fostering prosperity, respecting human rights, and contributing to the U.N. Sustainable Development Goals in the communities where we operate around the world.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s actions in support of racial equity are described in detail in numerous publications:",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The Chevron Way explains our beliefs, vision, purpose, and values. It guides how we work and establishes a common understanding of our culture and aspirations. Diversity and inclusion are the first among our Chevron Way values.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s Business Conduct and Ethics Code underscores our commitment to diversity and inclusion, as well as our respect for human rights.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s Human Rights Policy reinforces our commitment to respecting human rights, including nondiscrimination, in accordance with the U.N. Guiding Principles on Business and Human Rights.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s Operational Excellence Management System describes how we integrate community engagement and support into how we conduct our business.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s Corporate Sustainability Report describes how we are living up to our commitments to diversity and inclusion, human rights, creating prosperity and sustainable development goals.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive",
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "While your Board shares the proponent’s concern for racial equity, the proponent’s supporting statement cites unsubstantiated and inaccurate allegations and statistics.",
+    "labels": [
+      "Social Neutral",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Your Board believes that the vision and values of The Chevron Way, along with Chevron’s Business Conduct and Ethics Code, Human Rights Policy, OEMS, Enterprise Risk Management process, and Corporate Sustainability Report all provide robust information and documentation of Chevron’s approach and actions on racial equity and related issues.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive",
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "Chevron is committed to periodic re-evaluation and assessment to continue to identify additional business practices to enhance diversity, equity and inclusion.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Therefore, your Board recommends that you vote against this proposal.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "RESOLVED: Shareowners request that the Board of Chevron Corporation take the steps necessary to amend Company bylaws and appropriate governing documents to give holders of 10% of outstanding common stock the power to call a special shareowners meeting. To the fullest extent permitted, such bylaw shall not contain exceptions or excluding conditions that apply to shareowners but not to the management or Board.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Management’s handling of a range of issues has increased both risk and cost to shareholders, which necessitates lowering the threshold to call a special meeting.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "A recent report, Chevron’s Global Destruction,1 documents legal actions filed against Chevron and its subsidiaries around the world – providing evidence that Chevron is liable for $50+ billion in legal judgments and seizure claims globally.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Perhaps the most pressing issue is the ongoing effort by Ecuadorian communities to enforce a $9.5 billion judgment against Chevron for devastating oil pollution (the “Ecuadorian Judgment”).",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Chevron asserts that 'several international courts have determined the Ecuadorian Judgment to be fraudulent.'",
+    "labels": [
+      "Social Neutral",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In reality, no court since the Ecuadorian Judgment was rendered has reviewed the facts of the case de novo.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Neither the arbitration held in the Netherlands under a bilateral investment treaty, nor any court since has ruled on Chevron’s assertion that the Ecuadorian Judgment resulted from fraud.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Therefore, enforcement of the Ecuadorian Judgment remains a serious and ongoing financial risk.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "CEO/board chair Michael Wirth’s statements regarding the Ecuador Judgment were challenged in a House Oversight Committee where a Member observed that Wirth told shareholders “[there] was no scientific evidence of contamination.”",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "He has not yet responded, and has also demurred on the question of how much Chevron has spent on litigation and PR regarding the Ecuador matter.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Alberto Guerra was the principal witness in the Chevron RICO trial.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "He later recanted essential portions of his testimony and admitted receiving payment from Chevron, and that Chevron’s law firm – Gibson Dunn & Crutcher – had coached him before testifying in 50+ meetings.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Mr. Wirth has so far not responded to the House Oversight Committee whether he approved the use of Company funds to pay Guerra – including more than $432,000 in monthly payments and $48,000 in exchange for evidence.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The Ecuadorian Judgment represents a serious liability: under oath, Deputy Controller Rex Mitchell testified that such a seizure: 'would cause significant, irreparable damage to Chevron.'",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "In light of these serious matters – which evidence a lack of accountability in Chevron’s C-suite and board room – shareholders need strengthened capacity to call a special meeting.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Your Board continues to believe that Chevron’s 15% threshold ensures that a reasonable number of stockholders consider a matter important enough to merit a special meeting.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Preparing for and holding a special meeting is time-consuming and expensive.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Under the By-Laws, a special meeting cannot be called:",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "If the Board has already called or will call an Annual Meeting of Stockholders for the same purpose specified in the special meeting request, or",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "If an annual or special meeting was held not more than 12 months before the request for a special meeting was received and included the purpose specified in the special meeting request.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Given the time and cost associated with special meetings, your Board believes that these are appropriate and reasonable limitations.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Stockholders can be assured that their right to be apprised of and vote on significant matters is protected not only by their existing right to call for special meetings and participate in Chevron’s Annual Meeting, but also by state law and other regulations.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron is incorporated in Delaware, which requires that major corporate actions, such as a merger or a sale of all or substantially all of Chevron’s assets, be approved by stockholders.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Also, Chevron is listed on the New York Stock Exchange, which requires, among other things, that listed companies obtain stockholder approval for equity compensation plans and significant issuances of equity securities to related parties and for when such issuances represent more than 20% of an issuer’s voting power.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron has robust corporate governance practices to protect stockholder interests, including a declassified Board; proxy access; no supermajority voting provisions in its By-Laws and Certificate of Incorporation, and a strong independent Board structure.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Finally, although the proposal purports to relate to special meetings, its supporting statement shows that this is a vehicle to discuss the fraudulent Ecuador litigation and various frivolous allegations against Chevron.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The 'report' referenced in the supporting statement is riddled with falsehoods–including the allegation that 'Chevron is liable for $50+ billion in legal judgments'–which have no basis in fact.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Your Board continues to believe its current By-Law is in stockholders’ best interests and provides appropriate reasonable limitations on the right to call special meetings.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Therefore, your Board recommends that you vote against this proposal.",
+    "labels": [
+      "Governance Negative"
+    ]
+  }
+]

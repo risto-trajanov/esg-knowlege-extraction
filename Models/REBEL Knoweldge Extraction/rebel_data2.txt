@@ -1,0 +1,752 @@
+[
+  {
+    "id": "ESG001",
+    "title": "Tesla Implements Sustainability Measures",
+    "context": "Tesla, the electric vehicle company, has announced plans to reduce its carbon footprint by implementing sustainable practices in its operations.",
+    "triplets": "<triplet> Tesla <subj> company <obj> sustainability measures <triplet> Tesla <subj> company <obj> carbon footprint reduction"
+  },
+  {
+    "id": "ESG002",
+    "title": "Walmart Commits to Renewable Energy",
+    "context": "Walmart, the retail giant, has pledged to transition to 100% renewable energy by 2035 in an effort to reduce its greenhouse gas emissions.",
+    "triplets": "<triplet> Walmart <subj> company <obj> renewable energy commitment <triplet> Walmart <subj> company <obj> greenhouse gas emissions reduction"
+  },
+  {
+    "id": "ESG003",
+    "title": "Apple Launches Recycling Program",
+    "context": "Apple, the technology company, has launched a new recycling program to recover materials from old devices and reduce the environmental impact of electronic waste.",
+    "triplets": "<triplet> Apple <subj> company <obj> recycling program launch <triplet> Apple <subj> company <obj> electronic waste reduction"
+  },
+  {
+    "id": "ESG004",
+    "title": "Microsoft Invests in Sustainable Data Centers",
+    "context": "Microsoft, the technology company, is investing in sustainable data centers to reduce the environmental impact of its operations and ensure the responsible use of resources.",
+    "triplets": "<triplet> Microsoft <subj> company <obj> sustainable data center investment <triplet> Microsoft <subj> company <obj> environmental impact reduction"
+  },
+  {
+    "id": "ESG005",
+    "title": "BlackRock Launches ESG-Focused Investment Platform",
+    "context": "BlackRock, the global investment firm, has launched an investment platform focused on environmental, social, and governance (ESG) issues to meet the growing demand for sustainable investments.",
+    "triplets": "<triplet> BlackRock <subj> investment firm <obj> ESG-focused investment platform launch <triplet> BlackRock <subj> investment firm <obj> sustainable investment demand"
+  },
+  {
+    "id": "ESG006",
+    "title": "Unilever Commits to Zero Deforestation",
+    "context": "Unilever, the consumer goods company, has pledged to achieve zero deforestation in its supply chain by 2023 to reduce the environmental impact of its operations and promote sustainable sourcing.",
+    "triplets": "<triplet> Unilever <subj> company <obj> zero deforestation commitment <triplet> Unilever <subj> company <obj> sustainable sourcing promotion"
+  },
+  {
+    "id": "ESG007",
+    "title": "Google Announces Carbon-Free Energy Goals",
+    "context": "Google, the technology company, has announced plans to operate on 100% carbon-free energy by 2030 and reach net-zero carbon emissions by 2020.",
+    "triplets": "<triplet> Google <subj> company <obj> carbon-free energy goal <triplet> Google <subj> company <obj> net-zero carbon emissions target"
+  },
+  {
+    "id": "ESG008",
+    "title": "JP Morgan Launches Climate Research Initiative",
+    "context": "JP Morgan, the investment bank, has launched a new climate research initiative to help its clients navigate the risks and opportunities associated with climate change.",
+    "triplets": "<triplet> JP Morgan <subj> investment bank <obj> climate research initiative launch <triplet> JP Morgan <subj> investment bank <obj> climate risk management support"
+  },
+  {
+    "id": "ESG009",
+    "title": "Coca-Cola Introduces Sustainable Packaging",
+    "context": "Coca-Cola, the beverage company, has introduced a new line of sustainable packaging made from recycled materials to reduce the environmental impact of its products.",
+    "triplets": "<triplet> Coca-Cola <subj> company <obj> sustainable packaging introduction <triplet> Coca-Cola <subj> company <obj> product environmental impact reduction"
+  },
+  {
+    "id": "ESG010",
+    "title": "Chevron Corporation Lacks Net-Zero Emissions Commitment",
+    "context": "As of December 2020, Chevron Corporation had neither committed to net-zero emissions by 2050 across its value chain, nor disclosed how its financial assumptions would change from doing so.",
+    "triplets": "<triplet> Chevron Corporation <subj> company <obj> lack of net-zero emissions commitment <triplet> Chevron Corporation <subj> company <obj> undisclosed financial assumption changes"
+  },
+  {
+    "id": "ESG011",
+    "title": "BP, Shell and Total Adjust Accounting Practices for Low-Carbon Energy Transition",
+    "context": "Additionally, in 2020, BP, Shell and Total reviewed their 2019 financial accounting practices in light of the accelerating low-carbon energy transition. All three subsequently adjusted critical accounting assumptions, resulting in material impairments, and disclosed how climate change affected the adjustments.",
+    "triplets": "<triplet> BP, Shell and Total <subj> companies <obj> accounting practices review <triplet> BP, Shell and Total <subj> companies <obj> critical accounting assumptions adjustment <triplet> climate change <subj> phenomenon <obj> accounting adjustments impact"
+  },
+  {
+    "id": "ESG012",
+    "title": "IEA Issues 'Net Zero 2050' Scenario",
+    "context": "In October 2020, the International Energy Agency (IEA) issued a new “Net Zero 2050” scenario which describes what it would mean for the energy sector globally to reach net-zero GHG emissions by 2050.",
+    "triplets": "<triplet> International Energy Agency <subj> organization <obj> 'Net Zero 2050' scenario issuance <triplet> energy sector <subj> sector <obj> net-zero GHG emissions goal by 2050"
+  },
+  {
+    "id": "ESG013",
+    "title": "Net-Zero GHG Emissions Consistent with 1.5°C Temperature Increase",
+    "context": "This more aggressive global action to curtail climate change is consistent with a 1.5°C temperature increase globally.",
+    "triplets": "<triplet> global action to curtail climate change <subj> action <obj> 1.5°C temperature increase consistency"
+  },
+  {
+    "id": "ESG014",
+    "title": "Chevron Shareholders Request Audited Report on Fossil Fuel Demand Reduction",
+    "context": "Shareholders request that Chevron’s Board of Directors issue an audited report to shareholders on whether and how a significant reduction in fossil fuel demand, envisioned in the IEA Net Zero 2050 scenario, would affect its financial position and underlying assumptions. The Board should summarize its findings to shareholders by January 31, 2022, and the report should be completed at reasonable cost and omitting proprietary information.",
+    "triplets": "<triplet> Chevron <subj> company <obj> audited report on fossil fuel demand reduction <triplet> Chevron's Board of Directors <subj> entity <obj> report issuing to shareholders <triplet> significant fossil fuel demand reduction <subj> scenario <obj> financial impact"
+  },
+  {
+    "id": "ESG015",
+    "title": "Chevron's Climate Change Resilience Report",
+    "context": "Chevron believes the future of energy is lower carbon and aims to equip stockholders with data and facts so that they can make informed choices as the world moves toward the global net-zero ambitions of the Paris agreement.",
+    "triplets": "<triplet> Chevron <subj> company <obj> lower carbon future belief <triplet> Chevron <subj> company <obj> stockholder data and fact provision"
+  },
+  {
+    "id": "ESG016",
+    "title": "Chevron's Climate Change Resilience Report",
+    "context": "In March 2021, the Company published its third Climate Change Resilience Report aligned with the Task Force for Climate-related Financial Disclosures.",
+    "triplets": "<triplet> Chevron <subj> company <obj> Climate Change Resilience Report publication <triplet> Chevron <subj> company <obj> Task Force for Climate-related Financial Disclosures alignment"
+  },
+  {
+    "id": "ESG017",
+    "title": "Chevron's Climate Change Resilience Report",
+    "context": "The report outlines Chevron’s approach to the energy transition, including testing the resiliency of Chevron’s portfolio against the International Energy Agency’s Sustainable Development Scenario (“SDS”) and Net Zero Scenario.",
+    "triplets": "<triplet> Chevron <subj> company <obj> energy transition approach outline <triplet> Chevron <subj> company <obj> portfolio resiliency testing against SDS and Net Zero Scenario"
+  },
+  {
+    "id": "ESG018",
+    "title": "Chevron Outlines Steps Towards Net-Zero Future",
+    "context": "At its Investor Day on March 9, 2021, Chevron outlined the steps it is taking, and the challenges it faces, in working toward a net-zero future.",
+    "triplets": "<triplet> Chevron <subj> company <obj> net-zero future <triplet> Chevron <subj> company <obj> steps towards achieving net-zero"
+  },
+  {
+    "id": "ESG019",
+    "title": "Chevron Identifies Changes for Net-Zero Future",
+    "context": "This includes changes in portfolio, execution of projects identified through marginal abatement cost curves, and the policy, innovations, and offsets necessary to achieve net-zero.",
+    "triplets": "<triplet> Chevron <subj> company <obj> portfolio changes <triplet> Chevron <subj> company <obj> project execution for net-zero <triplet> Chevron <subj> company <obj> policy, innovations, and offsets for net-zero"
+  },
+  {
+    "id": "ESG020",
+    "title": "Microsoft Aims to be Carbon Negative by 2030",
+    "context": "Microsoft has announced its commitment to become carbon negative by 2030. The company plans to reduce its carbon footprint by investing in renewable energy and sustainable practices.",
+    "triplets": "<triplet> Microsoft <subj> technology company <obj> carbon negative commitment <triplet> Microsoft <subj> technology company <obj> carbon footprint reduction"
+  },
+  {
+    "id": "ESG021",
+    "title": "Unilever Commits to Net-Zero Emissions by 2039",
+    "context": "Unilever, the consumer goods company, has committed to achieving net-zero emissions from all its products by 2039. The company will reduce its carbon footprint by transitioning to renewable energy and investing in sustainable agriculture practices.",
+    "triplets": "<triplet> Unilever <subj> consumer goods company <obj> net-zero emissions commitment <triplet> Unilever <subj> consumer goods company <obj> renewable energy transition"
+  },
+  {
+    "id": "ESG022",
+    "title": "Google Launches $150 Million Environmental Fund",
+    "context": "Google has launched a $150 million environmental fund to support companies that are working to create a sustainable future. The fund will invest in projects related to renewable energy, sustainable agriculture, and circular economy.",
+    "triplets": "<triplet> Google <subj> technology company <obj> environmental fund launch <triplet> environmental fund <subj> fund <obj> support sustainable projects"
+  },
+  {
+    "id": "ESG023",
+    "title": "Walmart Aims to Achieve Zero Waste by 2025",
+    "context": "Walmart has set a goal to achieve zero waste in its operations by 2025. The company will reduce waste by recycling, composting, and investing in sustainable packaging solutions.",
+    "triplets": "<triplet> Walmart <subj> retailer <obj> zero waste goal <triplet> Walmart <subj> retailer <obj> waste reduction through recycling and composting"
+  },
+  {
+    "id": "ESG024",
+    "title": "Apple Commits to Carbon Neutrality by 2030",
+    "context": "Apple has committed to become carbon neutral across its entire supply chain by 2030. The company will reduce its carbon footprint by transitioning to renewable energy and investing in energy efficiency measures.",
+    "triplets": "<triplet> Apple <subj> technology company <obj> carbon neutrality commitment <triplet> Apple <subj> technology company <obj> renewable energy transition"
+  },
+  {
+    "id": "ESG025",
+    "title": "Nestle Commits to Net-Zero Emissions by 2050",
+    "context": "Nestle, the food and beverage company, has committed to achieving net-zero emissions by 2050. The company will reduce its carbon footprint by investing in renewable energy, sustainable agriculture, and regenerative farming practices.",
+    "triplets": "<triplet> Nestle <subj> food and beverage company <obj> net-zero emissions commitment <triplet> Nestle <subj> food and beverage company <obj> renewable energy investment"
+  },
+  {
+    "id": "ESG026",
+    "title": "Investors Demand ESG Accountability",
+    "context": "As sustainable investing gains popularity, investors are demanding more accountability from companies in the areas of environmental, social, and governance (ESG) performance.",
+    "triplets": "<triplet> sustainable investing <subj> trend <obj> gaining popularity <triplet> investors <subj> group <obj> demanding ESG accountability <triplet> companies <subj> entities <obj> expected to improve ESG performance"
+  },
+  {
+    "id": "ESG027",
+    "title": "Renewable Energy Adoption on the Rise",
+    "context": "As the world becomes more aware of the environmental impacts of fossil fuels, there is a growing shift towards renewable energy sources such as solar and wind power.",
+    "triplets": "<triplet> world <subj> planet <obj> impacted by fossil fuels <triplet> renewable energy <subj> source <obj> growing shift <triplet> solar and wind power <subj> alternatives <obj> fossil fuels"
+  },
+  {
+    "id": "ESG028",
+    "title": "Companies Take Steps to Reduce Waste",
+    "context": "In an effort to be more sustainable, many companies are implementing waste reduction initiatives such as recycling programs and reducing the use of single-use plastics.",
+    "triplets": "<triplet> companies <subj> entities <obj> taking steps to reduce waste <triplet> waste reduction <subj> initiative <obj> recycling programs <triplet> single-use plastics <subj> material <obj> being reduced"
+  },
+  {
+    "id": "ESG029",
+    "title": "Social Issues Come to the Forefront",
+    "context": "As social issues such as income inequality and diversity become more prominent in public discourse, companies are being called upon to take action and address these concerns.",
+    "triplets": "<triplet> social issues <subj> topic <obj> becoming prominent <triplet> public discourse <subj> conversation <obj> raising awareness <triplet> companies <subj> entities <obj> called upon to address concerns"
+  },
+  {
+    "id": "ESG030",
+    "title": "Corporate Governance Practices in the Spotlight",
+    "context": "Recent high-profile scandals have brought corporate governance practices into focus, with stakeholders demanding greater transparency and accountability from companies.",
+    "triplets": "<triplet> high-profile scandals <subj> events <obj> bringing corporate governance practices into focus <triplet> stakeholders <subj> group <obj> demanding greater transparency and accountability <triplet> companies <subj> entities <obj> expected to improve corporate governance"
+  },
+  {
+    "id": "ESG031",
+    "title": "Renewable Energy on the Rise",
+    "context": "The adoption of renewable energy is rapidly increasing as companies aim to reduce their carbon footprint and meet their sustainability goals.",
+    "triplets": "<triplet> companies <subj> entities <obj> adoption of renewable energy <triplet> renewable energy <subj> concept <obj> reduction of carbon footprint <triplet> sustainability goals <subj> objectives <obj> met through renewable energy"
+  },
+  {
+    "id": "ESG032",
+    "title": "Water Scarcity Poses Risks to Businesses",
+    "context": "With climate change exacerbating water scarcity in many regions, businesses are starting to recognize the financial risks associated with water shortages and are taking steps to address the issue.",
+    "triplets": "<triplet> climate change <subj> phenomenon <obj> exacerbation of water scarcity <triplet> businesses <subj> entities <obj> recognition of financial risks <triplet> water shortages <subj> issue <obj> addressed through risk management"
+  },
+  {
+    "id": "ESG033",
+    "title": "Sustainable Investing Gains Popularity",
+    "context": "Investors are increasingly interested in investing in companies that prioritize ESG considerations, leading to a rise in sustainable investment strategies.",
+    "triplets": "<triplet> investors <subj> entities <obj> interest in ESG considerations <triplet> companies <subj> entities <obj> prioritization of ESG considerations <triplet> sustainable investment strategies <subj> concept <obj> gaining popularity"
+  },
+  {
+    "id": "ESG034",
+    "title": "Employee Diversity Benefits Businesses",
+    "context": "Research has shown that companies with diverse workforces tend to have better financial performance and are more innovative, highlighting the benefits of prioritizing diversity and inclusion in the workplace.",
+    "triplets": "<triplet> diverse workforces <subj> concept <obj> linked to better financial performance <triplet> companies <subj> entities <obj> prioritization of diversity and inclusion <triplet> innovation <subj> concept <obj> promoted through diversity"
+  },
+  {
+    "id": "ESG035",
+    "title": "Plastic Waste Reduction Efforts Increase",
+    "context": "Concerns about the environmental impact of plastic waste have led many companies to take action by implementing plastic reduction initiatives and investing in alternative materials.",
+    "triplets": "<triplet> companies <subj> entities <obj> implementation of plastic reduction initiatives <triplet> plastic waste <subj> issue <obj> addressed through reduction efforts <triplet> alternative materials <subj> concept <obj> investment in research and development"
+  },
+  {
+    "id": "ESG036",
+    "title": "Biodiversity Conservation Efforts Gain Attention",
+    "context": "As the loss of biodiversity accelerates, governments and companies are recognizing the importance of preserving natural ecosystems and are investing in conservation efforts.",
+    "triplets": "<triplet> loss of biodiversity <subj> issue <obj> addressed through conservation efforts <triplet> governments and companies <subj> entities <obj> recognition of importance of biodiversity conservation <triplet> natural ecosystems <subj> concept <obj> preservation"
+  },
+  {
+    "id": "ESG037",
+    "title": "Renewable Energy Investing Increases",
+    "context": "As the world transitions to a low-carbon economy, investors are increasingly turning to renewable energy investments as a way to both mitigate climate risks and capitalize on growth opportunities.",
+    "triplets": "<triplet> world <subj> concept <obj> transitioning to low-carbon economy <triplet> investors <subj> entities <obj> interest in renewable energy investing <triplet> climate risks and growth opportunities <subj> concepts <obj> mitigated and capitalized on through renewable energy investments"
+  },
+  {
+    "id": "ESG038",
+    "title": "Gender Equality in the Workplace Improves",
+    "context": "As the business case for gender diversity becomes more widely recognized, companies are taking steps to improve gender equality in the workplace, such as implementing equal pay policies and increasing the representation of women in leadership positions.",
+    "triplets": "<triplet> gender diversity <subj> concept <obj> linked to business case <triplet> companies <subj> entities <obj> implementation of equal pay policies and increasing representation of women in leadership positions <triplet> workplace <subj> concept <obj> improved through gender equality efforts"
+  },
+  {
+    "id": "ESG039",
+    "title": "Circular Economy Gains Traction",
+    "context": "As concerns about resource depletion and waste generation grow, the circular economy model, which aims to reduce waste and promote the reuse of materials, is gaining momentum among businesses and governments.",
+    "triplets": "<triplet> resource depletion and waste generation <subj> issues <obj> addressed through circular economy <triplet> businesses and governments <subj> entities <obj> adoption of circular economy model <triplet> waste reduction and material reuse <subj> concepts <obj> promoted through circular economy"
+  },
+  {
+    "id": "ESG040",
+    "title": "Sustainable Agriculture Practices Becoming More Common",
+    "context": "As concerns about food security and environmental impact mount, farmers and agribusinesses are increasingly adopting sustainable agriculture practices, such as crop rotation and organic farming, to ensure long-term viability.",
+    "triplets": "<triplet> food security and environmental impact <subj> concerns <obj> addressed through sustainable agriculture practices <triplet> farmers and agribusinesses <subj> entities <obj> adoption of sustainable agriculture practices <triplet> crop rotation and organic farming <subj> concepts <obj> promoted through sustainable agriculture"
+  },
+  {
+    "id": "ESG041",
+    "title": "Solar Power Plant Reduces Emissions",
+    "context": "A new solar power plant in Spain helps reduce the country's reliance on fossil fuels and lowers its greenhouse gas emissions.",
+    "triplets": "<triplet> solar power plant <subj> facility <obj> Spain location <triplet> solar power plant <subj> facility <obj> reduced fossil fuel reliance <triplet> solar power plant <subj> facility <obj> lower greenhouse gas emissions"
+  },
+  {
+    "id": "ESG042",
+    "title": "Plastic Ban Promotes Circular Economy",
+    "context": "A nationwide ban on single-use plastics has been implemented, encouraging businesses to adopt more sustainable materials and promote a circular economy.",
+    "triplets": "<triplet> nationwide ban <subj> policy <obj> single-use plastics <triplet> businesses <subj> entities <obj> sustainable materials adoption <triplet> circular economy <subj> concept <obj> promoted by plastic ban"
+  },
+  {
+    "id": "ESG043",
+    "title": "Green Bonds Finance Sustainable Projects",
+    "context": "An increasing number of companies are issuing green bonds to finance sustainable projects that aim to mitigate the effects of climate change.",
+    "triplets": "<triplet> companies <subj> entities <obj> green bonds issuance <triplet> green bonds <subj> financial instrument <obj> sustainable projects financing <triplet> climate change <subj> event <obj> effects mitigation"
+  },
+  {
+    "id": "ESG044",
+    "title": "Water Conservation in Agriculture",
+    "context": "Agricultural businesses are adopting innovative irrigation techniques to conserve water resources and improve the sustainability of their practices.",
+    "triplets": "<triplet> agricultural businesses <subj> entities <obj> innovative irrigation techniques <triplet> water resources <subj> resources <obj> conservation in agriculture <triplet> sustainability <subj> concept <obj> improved agricultural practices"
+  },
+  {
+    "id": "ESG045",
+    "title": "Corporate Social Responsibility Reporting",
+    "context": "Many corporations have started publishing annual Corporate Social Responsibility (CSR) reports to showcase their commitment to social and environmental goals.",
+    "triplets": "<triplet> corporations <subj> entities <obj> CSR reports publication <triplet> CSR reports <subj> documents <obj> social and environmental goals <triplet> corporations <subj> entities <obj> commitment showcase"
+  },
+  {
+    "id": "ESG046",
+    "title": "Deforestation Reduction Through Reforestation",
+    "context": "Several countries have joined a global initiative to combat deforestation by investing in reforestation projects and promoting sustainable land use.",
+    "triplets": "<triplet> countries <subj> entities <obj> global initiative participation <triplet> deforestation <subj> issue <obj> reforestation projects <triplet> sustainable land use <subj> concept <obj> promoted by initiative"
+  },
+  {
+    "id": "ESG047",
+    "title": "Transition to Renewable Energy Sources",
+    "context": "The energy sector is shifting towards renewable energy sources, such as solar, wind, and hydro power, to reduce its dependency on fossil fuels and decrease greenhouse gas emissions.",
+    "triplets": "<triplet> energy sector <subj> industry <obj> renewable energy transition <triplet> solar, wind, hydro power <subj> energy sources <obj> fossil fuels dependency reduction <triplet> greenhouse gas emissions <subj> issue <obj> decrease through renewables"
+  },
+  {
+    "id": "ESG048",
+    "title": "Employee Well-being Programs",
+    "context": "Companies are increasingly implementing employee well-being programs to promote a healthy work-life balance and reduce workplace stress.",
+    "triplets": "<triplet> companies <subj> entities <obj> employee well-being programs <triplet> healthy work-life balance <subj> concept <obj> promotion by programs <triplet> workplace stress <subj> issue <obj> reduction through programs"
+  },
+  {
+    "id": "ESG049",
+    "title": "Sustainable Supply Chain Management",
+    "context": "Many businesses are adopting sustainable supply chain management practices to reduce their environmental impact and ensure ethical sourcing of raw materials.",
+    "triplets": "<triplet> businesses <subj> entities <obj> sustainable supply chain management <triplet> environmental impact <subj> issue <obj> reduction by practices <triplet> ethical sourcing <subj> concept <obj> raw materials procurement"
+  },
+  {
+    "id": "ESG050",
+    "title": "Green Building Certification",
+    "context": "Construction companies are pursuing green building certifications, such as LEED and BREEAM, to demonstrate their commitment to energy efficiency and sustainable design.",
+    "triplets": "<triplet> construction companies <subj> entities <obj> green building certifications <triplet> LEED and BREEAM <subj> certifications <obj> commitment demonstration <triplet> energy efficiency <subj> concept <obj> sustainable design promotion"
+  },
+  {
+    "id": "ESG051",
+    "title": "Community Engagement in ESG Initiatives",
+    "context": "Companies are actively engaging with local communities to develop and implement ESG initiatives that address social and environmental concerns.",
+    "triplets": "<triplet> companies <subj> entities <obj> community engagement <triplet> local communities <subj> stakeholders <obj> ESG initiatives development <triplet> social and environmental concerns <subj> issues <obj> addressed by initiatives"
+  },
+  {
+    "id": "ESG052",
+    "title": "Investing in Clean Transportation",
+    "context": "Cities around the world are investing in clean transportation options, such as electric buses and bicycles, to reduce air pollution and traffic congestion.",
+    "triplets": "<triplet> cities <subj> entities <obj> clean transportation investment <triplet> electric buses and bicycles <subj> transportation options <obj> air pollution reduction <triplet> traffic congestion <subj> issue <obj> alleviated by clean transportation"
+  },
+  {
+    "id": "ESG053",
+    "title": "Adapting to Climate Change",
+    "context": "Governments and organizations are working together to develop strategies for adapting to the impacts of climate change, including rising sea levels and extreme weather events.",
+    "triplets": "<triplet> governments and organizations <subj> entities <obj> climate change adaptation strategies <triplet> rising sea levels <subj> impact <obj> adaptation planning <triplet> extreme weather events <subj> impact <obj> adaptation measures"
+  },
+  {
+    "id": "ESG054",
+    "title": "Promoting Gender Equality",
+    "context": "Companies are implementing policies and initiatives to promote gender equality, including equal pay and leadership opportunities for women.",
+    "triplets": "<triplet> companies <subj> entities <obj> gender equality promotion <triplet> equal pay <subj> policy <obj> gender equality measure <triplet> leadership opportunities <subj> initiative <obj> women's career advancement"
+  },
+  {
+    "id": "ESG055",
+    "title": "Reducing Food Waste",
+    "context": "Restaurants and grocery stores are partnering with food rescue organizations to reduce food waste and redistribute surplus food to those in need.",
+    "triplets": "<triplet> restaurants and grocery stores <subj> entities <obj> food rescue organization partnerships <triplet> food waste <subj> issue <obj> reduction through partnerships <triplet> surplus food <subj> resource <obj> redistribution to those in need"
+  },
+  {
+    "id": "ESG056",
+    "title": "Supporting Fair Labor Practices",
+    "context": "Brands in the fashion industry are taking steps to ensure fair labor practices in their supply chains by conducting audits and collaborating with labor rights organizations.",
+    "triplets": "<triplet> fashion brands <subj> entities <obj> fair labor practices support <triplet> supply chains <subj> systems <obj> audits for labor practices <triplet> labor rights organizations <subj> entities <obj> collaboration for fairness"
+  },
+  {
+    "id": "ESG057",
+    "title": "Encouraging Biodiversity Conservation",
+    "context": "Agricultural companies are implementing measures to conserve biodiversity, such as planting cover crops and creating wildlife habitats on their farmland.",
+    "triplets": "<triplet> agricultural companies <subj> entities <obj> biodiversity conservation measures <triplet> cover crops <subj> practice <obj> biodiversity support <triplet> wildlife habitats <subj> creations <obj> farmland conservation efforts"
+  },
+  {
+    "id": "ESG058",
+    "title": "Implementing Water Stewardship",
+    "context": "Industrial facilities are adopting water stewardship practices to reduce water consumption, recycle wastewater, and minimize water pollution.",
+    "triplets": "<triplet> industrial facilities <subj> entities <obj> water stewardship practices <triplet> water consumption <subj> aspect <obj> reduction through stewardship <triplet> wastewater recycling <subj> practice <obj> water pollution minimization"
+  },
+  {
+    "id": "ESG059",
+    "title": "Promoting Financial Inclusion",
+    "context": "Financial institutions are developing inclusive products and services to promote financial inclusion for underserved populations and small businesses.",
+    "triplets": "<triplet> financial institutions <subj> entities <obj> inclusive products development <triplet> financial inclusion <subj> goal <obj> underserved populations support <triplet> small businesses <subj> entities <obj> access to financial services"
+  },
+  {
+    "id": "ESG060",
+    "title": "Investing in Education and Training",
+    "context": "Companies are investing in employee education and training programs to develop a skilled workforce and foster a culture of continuous learning.",
+    "triplets": "<triplet> companies <subj> entities <obj> education and training investment <triplet> skilled workforce <subj> outcome <obj> employee development <triplet> continuous learning <subj> culture <obj> fostered by programs"
+  },
+  {
+    "id": "ESG061",
+    "title": "Amazon Prioritizes Renewable Energy",
+    "context": "Amazon has committed to using 100% renewable energy in its data centers by 2025, aiming to decrease its environmental impact.",
+    "triplets": "<triplet> Amazon <subj> company <obj> renewable energy commitment <triplet> data centers <subj> facilities <obj> 100% renewable energy use"
+  },
+  {
+    "id": "ESG062",
+    "title": "Microsoft Tackles Water Scarcity",
+    "context": "Microsoft has initiated a water replenishment strategy to conserve water resources and replenish water in regions where they operate.",
+    "triplets": "<triplet> Microsoft <subj> company <obj> water replenishment strategy <triplet> water resources <subj> assets <obj> conservation and replenishment"
+  },
+  {
+    "id": "ESG063",
+    "title": "Unilever Aims for Zero Waste",
+    "context": "Unilever has set a goal of achieving zero waste to landfill across its global operations by 2030, focusing on waste reduction and recycling.",
+    "triplets": "<triplet> Unilever <subj> company <obj> zero waste goal <triplet> global operations <subj> scope <obj> landfill waste elimination"
+  },
+  {
+    "id": "ESG064",
+    "title": "Apple Promotes Worker Well-being",
+    "context": "Apple has introduced new policies and programs to enhance the well-being of its employees, including mental health support and flexible work arrangements.",
+    "triplets": "<triplet> Apple <subj> company <obj> worker well-being promotion <triplet> mental health support <subj> initiative <obj> employee well-being improvement"
+  },
+  {
+    "id": "ESG065",
+    "title": "Coca-Cola Addresses Plastic Pollution",
+    "context": "Coca-Cola has pledged to make 100% of its packaging recyclable by 2025, aiming to reduce plastic waste and improve sustainability.",
+    "triplets": "<triplet> Coca-Cola <subj> company <obj> recyclable packaging pledge <triplet> plastic waste <subj> issue <obj> reduction through sustainability efforts"
+  },
+  {
+    "id": "ESG066",
+    "title": "Google Supports Carbon Capture Technologies",
+    "context": "Google is investing in the research and development of carbon capture technologies to help combat climate change and reduce global carbon emissions.",
+    "triplets": "<triplet> Google <subj> company <obj> carbon capture technology investment <triplet> climate change <subj> issue <obj> carbon emissions reduction"
+  },
+  {
+    "id": "ESG067",
+    "title": "Starbucks Encourages Sustainable Practices",
+    "context": "Starbucks is promoting the use of reusable cups and straws in its stores to minimize single-use plastic waste and support environmental sustainability.",
+    "triplets": "<triplet> Starbucks <subj> company <obj> reusable cups promotion <triplet> single-use plastic waste <subj> issue <obj> environmental sustainability support"
+  },
+  {
+    "id": "ESG068",
+    "title": "Walmart Implements Energy Efficiency Measures",
+    "context": "Walmart has set targets to improve the energy efficiency of its stores and distribution centers, aiming to reduce greenhouse gas emissions and operational costs.",
+    "triplets": "<triplet> Walmart <subj> company <obj> energy efficiency targets <triplet> stores and distribution centers <subj> facilities <obj> greenhouse gas emissions reduction"
+  },
+  {
+    "id": "ESG069",
+    "title": "Nike Pursues Sustainable Supply Chain",
+    "context": "Nike is working to create a more sustainable supply chain by sourcing environmentally-friendly materials and collaborating with suppliers to reduce waste and emissions.",
+    "triplets": "<triplet> Nike <subj> company <obj> sustainable supply chain pursuit <triplet> environmentally-friendly materials <subj> inputs <obj> waste and emissions reduction"
+  },
+  {
+    "id": "ESG070",
+    "title": "IBM Invests in AI for ESG Solutions",
+    "context": "IBM is leveraging artificial intelligence (AI) to develop innovative ESG solutions that help businesses improve their environmental, social, and governance performance.",
+    "triplets": "<triplet> IBM <subj> company <obj> AI for ESG solutions investment <triplet> businesses <subj> entities <obj> ESG performance improvement"
+  },
+  {
+    "id": "ESG071",
+    "title": "Airbnb Promotes Responsible Tourism",
+    "context": "Airbnb is launching initiatives to promote responsible tourism, including working with local communities to preserve cultural heritage and minimize negative environmental impacts.",
+    "triplets": "<triplet> Airbnb <subj> company <obj> responsible tourism promotion <triplet> local communities <subj> entities <obj> cultural heritage preservation"
+  },
+  {
+    "id": "ESG072",
+    "title": "Ford Embraces Electric Vehicles",
+    "context": "Ford is accelerating its shift towards electric vehicles, aiming to reduce carbon emissions and meet increasing consumer demand for eco-friendly transportation.",
+    "triplets": "<triplet> Ford <subj> company <obj> electric vehicles adoption <triplet> carbon emissions <subj> aspect <obj> reduction through EVs"
+  },
+  {
+    "id": "ESG073",
+    "title": "Nestlé Supports Sustainable Agriculture",
+    "context": "Nestlé is partnering with farmers to implement sustainable agriculture practices, such as crop rotation and reduced pesticide use, to protect natural resources and promote biodiversity.",
+    "triplets": "<triplet> Nestlé <subj> company <obj> sustainable agriculture support <triplet> farmers <subj> partners <obj> natural resources protection"
+  },
+  {
+    "id": "ESG074",
+    "title": "PepsiCo Addresses Food Waste",
+    "context": "PepsiCo is implementing innovative solutions to reduce food waste in its production facilities, including utilizing food waste for energy generation and recycling by-products.",
+    "triplets": "<triplet> PepsiCo <subj> company <obj> food waste reduction solutions <triplet> production facilities <subj> locations <obj> waste-to-energy and recycling initiatives"
+  },
+  {
+    "id": "ESG075",
+    "title": "HSBC Enhances Gender Diversity",
+    "context": "HSBC is committed to enhancing gender diversity within its workforce, implementing policies to promote equal opportunities and support the career advancement of women.",
+    "triplets": "<triplet> HSBC <subj> company <obj> gender diversity enhancement <triplet> equal opportunities <subj> aspect <obj> women's career advancement support"
+  },
+  {
+    "id": "ESG076",
+    "title": "3M Focuses on Reducing Water Usage",
+    "context": "To reduce water consumption in its manufacturing processes, 3M is investing in water-saving technologies and promoting conservation strategies.",
+    "triplets": "<triplet> 3M <subj> company <obj> water usage reduction focus <triplet> manufacturing processes <subj> activities <obj> water-saving technologies investment"
+  },
+  {
+    "id": "ESG077",
+    "title": "Siemens Enhances Eco-friendly Product Offerings",
+    "context": "Expanding its environmentally friendly product portfolio, Siemens is developing energy-efficient solutions and technologies that minimize resource consumption.",
+    "triplets": "<triplet> Siemens <subj> company <obj> eco-friendly product expansion <triplet> energy-efficient solutions <subj> innovations <obj> resource consumption minimization"
+  },
+  {
+    "id": "ESG078",
+    "title": "Adobe Prioritizes Employee Mental Health",
+    "context": "Adobe emphasizes the mental well-being of its employees by offering a range of programs, including stress management workshops and mental health days.",
+    "triplets": "<triplet> Adobe <subj> company <obj> employee mental health priority <triplet> stress management workshops <subj> initiatives <obj> mental well-being support"
+  },
+  {
+    "id": "ESG079",
+    "title": "Shell Explores Carbon Capture Solutions",
+    "context": "In an effort to reduce its environmental impact, Shell is researching and investing in carbon capture and storage (CCS) technologies.",
+    "triplets": "<triplet> Shell <subj> company <obj> carbon capture solutions exploration <triplet> environmental impact <subj> aspect <obj> CCS technology investment"
+  },
+  {
+    "id": "ESG080",
+    "title": "Visa Supports Financial Inclusion",
+    "context": "Visa is collaborating with fintech companies to develop digital financial services that promote financial inclusion and help unbanked populations access banking services.",
+    "triplets": "<triplet> Visa <subj> company <obj> financial inclusion support <triplet> fintech companies <subj> partners <obj> digital financial services development"
+  },
+  {
+    "id": "ESG081",
+    "title": "Patagonia Advocates for Ethical Labor Practices",
+    "context": "Patagonia is a strong advocate for ethical labor practices and ensures that its supply chain partners adhere to fair labor standards and provide safe working conditions.",
+    "triplets": "<triplet> Patagonia <subj> company <obj> ethical labor practices advocacy <triplet> supply chain partners <subj> entities <obj> fair labor standards adherence"
+  },
+  {
+    "id": "ESG082",
+    "title": "Microsoft Promotes Digital Accessibility",
+    "context": "Microsoft is committed to making its products and services more accessible for individuals with disabilities, investing in research to improve digital accessibility.",
+    "triplets": "<triplet> Microsoft <subj> company <obj> digital accessibility promotion <triplet> individuals with disabilities <subj> users <obj> accessible products and services"
+  },
+  {
+    "id": "ESG083",
+    "title": "Unilever Strives for Sustainable Packaging",
+    "context": "Unilever is working towards adopting sustainable packaging solutions by incorporating biodegradable materials and reducing overall packaging waste.",
+    "triplets": "<triplet> Unilever <subj> company <obj> sustainable packaging adoption <triplet> biodegradable materials <subj> resources <obj> packaging waste reduction"
+  },
+  {
+    "id": "ESG084",
+    "title": "General Electric Invests in Renewable Energy",
+    "context": "General Electric is actively investing in renewable energy projects, including wind and solar power, to help combat climate change and reduce dependence on fossil fuels.",
+    "triplets": "<triplet> General Electric <subj> company <obj> renewable energy investment <triplet> wind and solar power <subj> energy sources <obj> climate change mitigation"
+  },
+  {
+    "id": "ESG085",
+    "title": "Coca-Cola Addresses Water Stewardship",
+    "context": "Coca-Cola is focusing on responsible water stewardship by implementing water-saving technologies and collaborating with local communities to protect water resources.",
+    "triplets": "<triplet> Coca-Cola <subj> company <obj> water stewardship focus <triplet> water-saving technologies <subj> methods <obj> water resource protection"
+  },
+  {
+    "id": "ESG086",
+    "title": "Starbucks Supports Ethical Coffee Sourcing",
+    "context": "Starbucks is committed to sourcing its coffee beans ethically, ensuring that farmers receive fair compensation and that environmentally friendly practices are followed.",
+    "triplets": "<triplet> Starbucks <subj> company <obj> ethical coffee sourcing commitment <triplet> farmers <subj> suppliers <obj> fair compensation and eco-friendly practices"
+  },
+  {
+    "id": "ESG087",
+    "title": "IBM Enhances AI Ethics Initiatives",
+    "context": "IBM is focusing on the ethical development and use of artificial intelligence (AI) by creating guidelines and promoting transparency in its AI-based products and services.",
+    "triplets": "<triplet> IBM <subj> company <obj> AI ethics initiatives enhancement <triplet> AI-based products and services <subj> offerings <obj> transparency promotion"
+  },
+  {
+    "id": "ESG088",
+    "title": "Procter & Gamble Emphasizes Circular Economy",
+    "context": "Procter & Gamble is embracing the circular economy concept by prioritizing waste reduction, recycling initiatives, and sustainable product design.",
+    "triplets": "<triplet> Procter & Gamble <subj> company <obj> circular economy emphasis <triplet> waste reduction <subj> aspect <obj> recycling and sustainable design"
+  },
+  {
+    "id": "ESG089",
+    "title": "Walmart Implements Energy Efficiency Measures",
+    "context": "Walmart is taking steps to improve energy efficiency in its stores and distribution centers by upgrading lighting systems and optimizing heating and cooling systems.",
+    "triplets": "<triplet> Walmart <subj> company <obj> energy efficiency measures implementation <triplet> stores and distribution centers <subj> locations <obj> lighting and HVAC optimization"
+  },
+  {
+    "id": "ESG090",
+    "title": "Amazon Invests in Green Transportation",
+    "context": "Amazon is investing in green transportation solutions, such as electric delivery vehicles and eco-friendly logistics, to minimize the environmental impact of its operations.",
+    "triplets": "<triplet> Amazon <subj> company <obj> green transportation investment <triplet> electric delivery vehicles <subj> innovations <obj> eco-friendly logistics adoption"
+  },
+  {
+    "id": "ESG091",
+    "title": "Google Supports Renewable Energy Integration",
+    "context": "Google is actively supporting the integration of renewable energy sources into the power grid, investing in energy storage solutions and smart grid technologies.",
+    "triplets": "<triplet> Google <subj> company <obj> renewable energy integration support <triplet> energy storage solutions <subj> technology <obj> smart grid technologies investment"
+  },
+  {
+    "id": "ESG092",
+    "title": "Apple Prioritizes Privacy and Data Security",
+    "context": "Apple places a high priority on privacy and data security, implementing strong encryption methods and promoting transparency in its data collection and usage practices.",
+    "triplets": "<triplet> Apple <subj> company <obj> privacy and data security prioritization <triplet> strong encryption methods <subj> measures <obj> transparency in data practices"
+  },
+  {
+    "id": "ESG093",
+    "title": "Nestlé Commits to Sustainable Palm Oil",
+    "context": "Nestlé is committed to using only sustainably sourced palm oil in its products, working closely with suppliers to ensure that environmental and social standards are met.",
+    "triplets": "<triplet> Nestlé <subj> company <obj> sustainable palm oil commitment <triplet> suppliers <subj> entities <obj> environmental and social standards compliance"
+  },
+  {
+    "id": "ESG094",
+    "title": "Visa Promotes Financial Inclusion",
+    "context": "Visa is dedicated to promoting financial inclusion by expanding access to affordable financial services for underserved communities worldwide.",
+    "triplets": "<triplet> Visa <subj> company <obj> financial inclusion promotion <triplet> underserved communities <subj> groups <obj> affordable financial services access"
+  },
+  {
+    "id": "ESG095",
+    "title": "Ford Advances Electric Vehicle Production",
+    "context": "Ford is accelerating its production of electric vehicles, investing in advanced battery technologies and charging infrastructure to reduce greenhouse gas emissions.",
+    "triplets": "<triplet> Ford <subj> company <obj> electric vehicle production advancement <triplet> advanced battery technologies <subj> innovations <obj> charging infrastructure investment"
+  },
+  {
+    "id": "ESG096",
+    "title": "Plastic Waste Reduction Initiatives Gain Traction",
+    "context": "Initiatives aimed at reducing plastic waste, such as banning single-use plastics and promoting recycling, are gaining momentum around the world.",
+    "triplets": "<triplet> plastic waste reduction initiatives <subj> efforts <obj> gaining momentum globally <triplet> single-use plastics bans <subj> measures <obj> recycling promotion"
+  },
+  {
+    "id": "ESG097",
+    "title": "Urban Green Spaces Enhance Livability",
+    "context": "In many cities, the development of urban green spaces is enhancing the quality of life for residents by improving air quality, providing recreational opportunities, and supporting biodiversity.",
+    "triplets": "<triplet> urban green spaces <subj> areas <obj> quality of life enhancement <triplet> air quality improvement <subj> effect <obj> biodiversity support"
+  },
+  {
+    "id": "ESG098",
+    "title": "Adidas Champions Ocean Plastic Reduction",
+    "context": "Sportswear manufacturer Adidas is actively working to reduce ocean plastic pollution by incorporating recycled plastic materials into its products and supporting ocean clean-up initiatives.",
+    "triplets": "<triplet> Adidas <subj> company <obj> ocean plastic reduction championing <triplet> recycled plastic materials <subj> components <obj> ocean clean-up initiatives support"
+  },
+  {
+    "id": "ESG099",
+    "title": "Microfinance Institutions Empower Entrepreneurs",
+    "context": "Microfinance institutions play a crucial role in empowering entrepreneurs in developing countries, providing small loans and financial services that foster economic growth and poverty alleviation.",
+    "triplets": "<triplet> microfinance institutions <subj> entities <obj> entrepreneurs empowerment <triplet> small loans <subj> financial support <obj> economic growth and poverty alleviation"
+  },
+  {
+    "id": "ESG100",
+    "title": "Carbon Offsetting Projects Mitigate Emissions",
+    "context": "Carbon offsetting projects, such as reforestation and renewable energy development, are helping to mitigate greenhouse gas emissions by providing alternatives to traditional carbon-intensive practices.",
+    "triplets": "<triplet> carbon offsetting projects <subj> initiatives <obj> emissions mitigation <triplet> reforestation <subj> example <obj> renewable energy development"
+  },
+  {
+    "id": "ESG101",
+    "title": "Sustainable Agriculture Supports Food Security",
+    "context": "Sustainable agriculture practices, like crop rotation and organic farming, contribute to global food security by promoting biodiversity and reducing the negative environmental impacts of food production.",
+    "triplets": "<triplet> sustainable agriculture <subj> practices <obj> food security support <triplet> crop rotation <subj> technique <obj> organic farming"
+  },
+  {
+    "id": "ESG102",
+    "title": "Economic Inequality Spurs Social Unrest",
+    "context": "Rising economic inequality has been linked to increased social unrest, as disparities in income and wealth can lead to social tensions and reduced opportunities for disadvantaged populations.",
+    "triplets": "<triplet> economic inequality <subj> issue <obj> social unrest increase <triplet> income disparities <subj> cause <obj> reduced opportunities for disadvantaged populations"
+  },
+  {
+    "id": "ESG103",
+    "title": "Ikea Embraces Circular Economy Principles",
+    "context": "Ikea is adopting circular economy principles in its business model, focusing on designing products for reuse, repair, and recycling to minimize waste and extend product lifespans.",
+    "triplets": "<triplet> Ikea <subj> company <obj> circular economy principles adoption <triplet> product design for reuse <subj> strategy <obj> waste minimization"
+  },
+  {
+    "id": "ESG104",
+    "title": "Water Scarcity Affects Global Communities",
+    "context": "Water scarcity is affecting communities around the world, causing challenges in agriculture, energy production, and human health, and driving efforts to improve water management and conservation.",
+    "triplets": "<triplet> water scarcity <subj> issue <obj> global community impacts <triplet> agriculture challenges <subj> effects <obj> water management improvement efforts"
+  },
+  {
+    "id": "ESG105",
+    "title": "Child Labor Laws Protect Young Workers",
+    "context": "The enforcement of child labor laws is crucial for protecting the rights and well-being of young workers, ensuring they receive adequate education and are not subjected to exploitation.",
+    "triplets": "<triplet> child labor laws <subj> regulations <obj> young worker protection <triplet> adequate education <subj> requirement <obj> exploitation prevention"
+  },
+  {
+    "id": "ESG106",
+    "title": "Solar Energy Reduces Dependence on Fossil Fuels",
+    "context": "The adoption of solar energy is helping reduce dependence on fossil fuels, lowering greenhouse gas emissions and promoting a cleaner energy future.",
+    "triplets": "<triplet> solar energy adoption <subj> action <obj> fossil fuels dependence reduction <triplet> greenhouse gas emissions <subj> outcome <obj> cleaner energy future promotion"
+  },
+  {
+    "id": "ESG107",
+    "title": "Diversity and Inclusion Improve Workplace Culture",
+    "context": "Promoting diversity and inclusion in the workplace leads to improved employee satisfaction, increased innovation, and better decision-making.",
+    "triplets": "<triplet> diversity and inclusion promotion <subj> action <obj> workplace culture improvement <triplet> employee satisfaction <subj> result <obj> increased innovation"
+  },
+  {
+    "id": "ESG108",
+    "title": "Public Transportation Reduces Carbon Emissions",
+    "context": "Investments in public transportation infrastructure can help reduce carbon emissions by encouraging more people to use energy-efficient modes of travel.",
+    "triplets": "<triplet> public transportation investments <subj> actions <obj> carbon emissions reduction <triplet> energy-efficient travel modes <subj> alternatives <obj> more people usage encouragement"
+  },
+  {
+    "id": "ESG109",
+    "title": "Fair Trade Promotes Ethical Supply Chains",
+    "context": "Supporting fair trade practices helps promote ethical supply chains by ensuring fair wages, safe working conditions, and environmental sustainability.",
+    "triplets": "<triplet> fair trade practices support <subj> action <obj> ethical supply chains promotion <triplet> fair wages <subj> outcome <obj> safe working conditions"
+  },
+  {
+    "id": "ESG110",
+    "title": "Green Bonds Finance Sustainable Projects",
+    "context": "Green bonds are a financial instrument used to raise capital for sustainable projects, contributing to the transition towards a low-carbon and environmentally-friendly economy.",
+    "triplets": "<triplet> green bonds <subj> financial instrument <obj> sustainable projects capital raising <triplet> low-carbon economy transition <subj> goal <obj> environmentally-friendly economy"
+  },
+  {
+    "id": "ESG111",
+    "title": "Waste Management Reduces Environmental Impact",
+    "context": "Effective waste management practices help reduce the environmental impact by minimizing landfill waste and promoting recycling and composting.",
+    "triplets": "<triplet> waste management practices <subj> action <obj> environmental impact reduction <triplet> landfill waste minimization <subj> outcome <obj> recycling and composting promotion"
+  },
+  {
+    "id": "ESG112",
+    "title": "Deforestation Threatens Biodiversity",
+    "context": "Deforestation is a major threat to global biodiversity, leading to habitat loss for numerous species and contributing to climate change.",
+    "triplets": "<triplet> deforestation <subj> threat <obj> global biodiversity <triplet> habitat loss <subj> consequence <obj> numerous species"
+  },
+  {
+    "id": "ESG113",
+    "title": "Employee Wellness Programs Improve Productivity",
+    "context": "Implementing employee wellness programs can improve productivity and job satisfaction by promoting healthier lifestyles and reducing workplace stress.",
+    "triplets": "<triplet> employee wellness programs <subj> action <obj> productivity improvement <triplet> healthier lifestyles promotion <subj> method <obj> workplace stress reduction"
+  },
+  {
+    "id": "ESG114",
+    "title": "Plastic Pollution Affects Marine Life",
+    "context": "Plastic pollution in the oceans is harmful to marine life, causing entanglement, ingestion, and habitat degradation.",
+    "triplets": "<triplet> plastic pollution <subj> issue <obj> marine life harm <triplet> entanglement <subj> cause <obj> habitat degradation"
+  },
+  {
+    "id": "ESG115",
+    "title": "Renewable Energy Sources Support Sustainable Development",
+    "context": "The development of renewable energy sources, such as wind and solar power, supports sustainable development by providing clean and reliable energy.",
+    "triplets": "<triplet> renewable energy sources <subj> elements <obj> sustainable development support <triplet> wind and solar power <subj> examples <obj> clean and reliable energy"
+  },
+  {
+    "id": "ESG116",
+    "title": "Water Conservation Efforts by Industries",
+    "context": "Industries are adopting water conservation strategies to reduce their water usage and protect vital water resources.",
+    "triplets": "<triplet> industries <subj> entities <obj> water conservation strategies <triplet> water usage reduction <subj> goal <obj> water resources protection"
+  },
+  {
+    "id": "ESG117",
+    "title": "Impact Investing Promotes Positive Change",
+    "context": "Investors turn to impact investing to support companies that generate positive environmental, social, and governance outcomes.",
+    "triplets": "<triplet> impact investing <subj> approach <obj> positive change support <triplet> investors <subj> entities <obj> ESG outcomes generation"
+  },
+  {
+    "id": "ESG118",
+    "title": "Sustainable Agriculture Protects Ecosystems",
+    "context": "Sustainable agriculture practices are essential for preserving ecosystems and maintaining long-term food security.",
+    "triplets": "<triplet> sustainable agriculture practices <subj> methods <obj> ecosystems preservation <triplet> food security maintenance <subj> objective <obj> long-term sustainability"
+  },
+  {
+    "id": "ESG119",
+    "title": "Governments Set Emissions Reduction Targets",
+    "context": "To combat climate change, governments worldwide establish emissions reduction targets and implement policies to achieve them.",
+    "triplets": "<triplet> governments <subj> entities <obj> emissions reduction targets establishment <triplet> climate change combat <subj> purpose <obj> policies implementation"
+  },
+  {
+    "id": "ESG120",
+    "title": "Companies Prioritize Gender Equality",
+    "context": "Promoting gender equality in the workplace, companies create more inclusive environments and improve employee satisfaction.",
+    "triplets": "<triplet> companies <subj> entities <obj> gender equality promotion <triplet> inclusive environments creation <subj> action <obj> employee satisfaction improvement"
+  },
+  {
+    "id": "ESG121",
+    "title": "Solar Energy Reduces Dependency on Fossil Fuels",
+    "context": "By investing in solar energy, companies can significantly reduce their dependency on fossil fuels and lower greenhouse gas emissions.",
+    "triplets": "<triplet> companies <subj> entities <obj> solar energy investment <triplet> fossil fuels dependency <subj> issue <obj> reduction <triplet> greenhouse gas emissions <subj> outcome <obj> lowering"
+  },
+  {
+    "id": "ESG122",
+    "title": "Plastic Waste Reduction Initiatives",
+    "context": "Many companies have launched initiatives to reduce plastic waste, aiming to protect marine life and prevent pollution.",
+    "triplets": "<triplet> companies <subj> entities <obj> plastic waste reduction initiatives <triplet> marine life protection <subj> goal <obj> pollution prevention"
+  },
+  {
+    "id": "ESG123",
+    "title": "Fair Labor Practices Improve Worker Conditions",
+    "context": "Companies that implement fair labor practices can improve working conditions and foster a more ethical work environment.",
+    "triplets": "<triplet> companies <subj> entities <obj> fair labor practices implementation <triplet> working conditions improvement <subj> action <obj> ethical work environment"
+  },
+  {
+    "id": "ESG124",
+    "title": "Community Engagement Enhances Corporate Reputation",
+    "context": "Engaging with local communities can help companies enhance their corporate reputation and build strong relationships with stakeholders.",
+    "triplets": "<triplet> local communities engagement <subj> activity <obj> corporate reputation enhancement <triplet> companies <subj> entities <obj> strong relationships building"
+  },
+  {
+    "id": "ESG125",
+    "title": "Microsoft's Commitment to Carbon Neutrality",
+    "context": "Microsoft has pledged to achieve carbon neutrality by 2030, taking significant steps to reduce its environmental impact.",
+    "triplets": "<triplet> Microsoft <subj> company <obj> carbon neutrality commitment <triplet> 2030 <subj> year <obj> carbon neutrality goal <triplet> Microsoft <subj> company <obj> environmental impact reduction"
+  }
+]

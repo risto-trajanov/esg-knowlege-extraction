@@ -1,0 +1,1978 @@
+[
+  {
+    "text": "Whereas, we believe in full disclosure of our Company’s direct and indirect lobbying activities and expenditures to assess whether Chevron’s lobbying is consistent with the Company’s expressed goals and in the best interests of shareowners.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Resolved, the shareowners of Chevron request the preparation of a report, updated annually, disclosing:",
+    "labels": []
+  },
+  {
+    "text": "1. Company policy and procedures governing lobbying, both direct and indirect, and grassroots lobbying communications.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "2. Payments by Chevron used for (a) direct or indirect lobbying or (b) grassroots lobbying communications, in each case including the amount of the payment and the recipient.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "3. Chevron’s membership and payments to any tax-exempt organization that writes and/or endorses model legislation.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "4. Description of management’s and the Board’s decision-making process and oversight for making payments described in sections 2 and 3 above.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "For purposes of this proposal, a “grassroots lobbying communication” is a communication directed to the general public that (a) refers to specific legislation or regulation, (b) reflects a view on the legislation or regulation and (c) encourages the recipient of the communication to take action with respect to the legislation or regulation.",
+    "labels": []
+  },
+  {
+    "text": "“Indirect lobbying” is lobbying engaged in by a trade association or other organization of which Chevron is a member.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Your Board recommends a vote AGAINST this proposal because Chevron already provides extensive disclosure on its lobbying activities and expenditures.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "At Chevron’s last eight Annual Meetings, an average of 73 percent of votes cast opposed this proposal.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Your Board agrees with Proponents that Chevron must protect its free speech rights and rights to engage on issues important to its business, and in which it has expertise.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron already discloses extensive information about its political contributions and lobbying activities.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In many cases, this disclosure goes beyond what is required by law.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In addition, the Company discloses a full list of trade associations with annual dues of more than $100,000 wherein a portion of the dues may be used for lobbying.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The associations on this list represent 96 percent of the Company’s annual trade association expenditures.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Energy production, development, and consumption is a critical public policy issue.",
+    "labels": [
+      "Environmental Neutral"
+    ]
+  },
+  {
+    "text": "Policy decisions can significantly affect Chevron’s strategies, capital investments, operations and, ultimately, stockholder value.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Opponents of our industry are well resourced to influence policy decisions in a manner that increases risk for Chevron.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "It is essential, therefore, for Chevron to exercise its fundamental right and responsibility to participate in the public policymaking process.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron does so by engaging with policymakers and expressing its views on pending policy proposals, by engaging in direct and indirect lobbying, and by participating in a diverse range of business and policy organizations that advocate positions supporting free markets and responsible energy legislation and regulations.",
+    "labels": [
+      "Governance Positive",
+      "Environmental Neutral"
+    ]
+  },
+  {
+    "text": "In addition, Chevron exercises its right to participate in the political process by making contributions to candidates and entities supportive of the energy industry, a reasonable regulatory environment, and a healthy market-based business environment.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron does not agree with all of the positions of every industry, trade or policy organization in which it participates.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "However, Chevron believes that through continuous participation with these organizations it has the best opportunity to influence their positions in a manner that aligns with the long-term interests of its stockholders.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron adheres to the highest ethical standards when engaging in lobbying and political activities, ensures that such activities align with corporate goals, and complies with all laws and regulations governing lobbying activities and disclosure.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron agrees that transparency and accountability are important aspects of corporate political activity.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "That is why Chevron provides extensive disclosure of these activities.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The Company’s lobbying activities in the United States are strictly regulated by federal, state, and local lobbying laws.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Each governing jurisdiction determines its own regulations regarding lobbying compliance and also establishes the policies and guidelines associated with reporting and disclosure.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "On Chevron’s website, stockholders and the public can find:",
+    "labels": []
+  },
+  {
+    "text": "Information about Chevron’s political contributions, lobbying philosophy and oversight mechanisms.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s most recent annual Corporate Political Contributions report and the Chevron Employee Political Action Committee (“CEPAC”) contributions report.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Itemized in each report are all contributions to candidates, organizations, and committees as well as those related to ballot measures.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "A list of trade association memberships in which annual dues paid are $100,000 or more and wherein a portion of the dues may be used for lobbying.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "A link to the federal lobbying disclosure website and instructions for accessing Chevron’s current and previous years’ federal quarterly reports.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "These reports disclose total expenditures related to lobbying and issues lobbied.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "A link to the federal lobbying contributions search website.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "This site contains the details of the Company’s current and previous years’ contributions.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "There is also a link to the Federal Election Commission website, which contains current and previous years’ reports on CEPAC contributions.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "A link to the California Secretary of State Lobbying Activity website and instructions for accessing the Company’s current and previous years’ quarterly lobbying reports.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Links to other states’ lobbying activity websites and instructions for accessing the Company’s state lobbying reports are currently being added to the website to provide greater access and transparency into the Company’s lobbying activities.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s political activities are subject to thorough review and oversight.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "All corporate political contributions are centrally controlled, budgeted, and reviewed for compliance with applicable law.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Each contribution is reported in its applicable jurisdiction.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "On an annual basis, the Public Policy Committee of the Board of Directors reviews the policies, procedures and expenditures for Chevron’s political activities, including political contributions and direct and indirect lobbying.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In addition, Chevron’s employees are required to complete political and lobbying compliance training.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board is confident that the Company’s political activities are aligned with Chevron’s goals and the long-term interests of our stockholders.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board encourages you to review the reports and other materials described above.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We are confident you will agree that the Company’s disclosures are extensive and address the proposal’s request.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Therefore, your Board recommends that you vote AGAINST this proposal.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Resolved: Shareholders request the Board of Directors charter a new Board Committee on Climate Risk to evaluate the board and management’s climate strategy and to better inform board decision making on climate risks and opportunities.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The charter should explicitly require the committee to report to the full board on corporate strategy, above and beyond matters of legal compliance, assessing the company’s responses to climate related risks and opportunities, including the potential impacts of climate change on business, strategy, financial planning, and our company’s operating environment.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "While the ultimate responsibility for climate strategy should fall on the full board, a board committee can conduct a more focused review than the full board, and therefore better inform and strengthen board decision making by:",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Preparing reports to the board with depth and attention to existential climate risks;",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Making recommendations to the board regarding corporate planning time frames, carbon reduction goals, and capital allocation strategies to redirect its business model and financial flows consistent with the Paris Agreement;",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Providing leadership for the full board’s climate deliberations;",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Coordinating with audit and compensation committees to ensure integrated attention to climate risk;",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Delineating responsibility and evaluating the efficacy of management and board responses to climate risks and opportunities.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "A formal board committee charter clarifies a fiduciary duty of care on climate change matters.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The board should consider the need for staffing to adequately resource the committee.1",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Whereas: Board oversight of climate change strategy and planning is essential to address the existential threat of climate change to the fossil fuel industry and our Company.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Climate risk merits the creation of a board committee to help lead the necessary transition.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Major oil companies face unprecedented disruption to their business driven by global imperatives to limit global warming and competition from non-carbon-emitting technologies.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "The Intergovernmental Panel on Climate Change projects dramatic drops in industry emissions of 50 to 90 percent by 2050 are necessary to limit global warming to 1.5 and 2 degrees Celsius.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "As fiduciaries, our board is responsible for stewardship of business performance and long-term strategic planning, in light of risk factors like climate science and policy.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Committee charter language can help to define the scope of fiduciary duties of committee members and ensure that effective systems are in place.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "A failure to adequately plan for a low carbon transition, including climate change policy, competition from renewables, peak oil demand, and unburnable fossil fuel reserves, may place investor capital at substantial risk.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Implementing the Proposal would represent a prudent path forward by formalizing board level oversight of climate change strategy so the company may remain successful in an increasingly decarbonizing economy.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board recommends a vote AGAINST this proposal because the full Board already has oversight of the Company’s strategy, including the Company’s response to climate change, and has Committees that also consider climate change issues.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "In 2019, stockholders representing 92 percent of the votes cast opposed a similar proposal to create a Board Committee on climate change.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Your Board has the diverse skills, experience and expertise to enable the Board to effectively provide oversight of the risks and opportunities in the energy business.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The Company’s governance of climate change–related issues is described in its 2018 Climate Change Resilience Report and the February 2019 supplement, which are on Chevron’s website.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The reports build on the Company’s voluntary report in 2017 and align with the reporting framework of the Financial Stability Board’s Task Force on Climate-related Financial Disclosures.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s Board of Directors and each of the governing bodies that assist the Board in its oversight of climate change issues meet several times per year.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The Board oversees the Company’s risk management policies and practices to ensure that the Company employs appropriate risk management systems.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s governance structure includes multiple avenues for your Board to exercise its oversight responsibilities with respect to risk and opportunities, including those related to climate change.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "On an annual basis, the full Board reviews long-term energy outlooks and leading indicators that could signify change.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Outside experts have met with your full Board to share their perspectives on climate change and the energy transition.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Outside experts with sharply differing viewpoints enable your Board to consider the risks and opportunities arising from climate change.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The Board also has access to Chevron’s internal subject-matter experts and regularly receives briefings on such climate change–related issues as policies and regulations, technology, and adaptation.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board has four standing Committees: Public Policy, Audit, Nominating and Governance, and Management Compensation.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "These Committees regularly assess risks and opportunities related to climate change.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Each Committee includes only independent Directors and is chaired by an independent Director who determines the frequency, length and agenda of the meetings, and who has access to management, information, and independent advisors, as needed.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The Public Policy Committee (“PPC”) periodically assesses and advises on risks that may arise in connection with social, political, environmental and public policy aspects of Chevron’s business.",
+    "labels": [
+      "Environmental Neutral",
+      "Social Neutral",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "As part of this effort, the PPC considers important issues relating to climate risks, such as policy trends and their potential implications.",
+    "labels": [
+      "Environmental Neutral",
+      "Social Neutral",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The PPC makes recommendations for anticipating and responding to these trends so that the Company can achieve its business goals.",
+    "labels": [
+      "Environmental Neutral",
+      "Social Neutral",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The Audit Committee analyzes potential financial risk exposures as part of Chevron’s enterprise risk management program, including potential financial risks associated with climate change.",
+    "labels": [
+      "Environmental Neutral",
+      "Social Neutral",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "These risks are discussed in the Risk Factors section of the Company’s 2019 Annual Report on Form 10-K.",
+    "labels": [
+      "Environmental Neutral",
+      "Social Neutral",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The Management Compensation Committee assesses and approves the incorporation of greenhouse gas–related performance measures into the scorecard that affects the compensation of management and most employees.",
+    "labels": [
+      "Environmental Positive",
+      "Social Neutral",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The Nominating and Governance Committee identifies and recommends prospective Directors with the goal of maintaining a Board composition appropriate to overseeing the wide-ranging risks affecting Chevron.",
+    "labels": [
+      "Environmental Neutral",
+      "Social Neutral",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We frequently reassess our governance structure and the skills, experience and expertise of our Board of Directors to ensure that Chevron maintains an effective framework for managing the Company’s performance and risks to our business.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board believes in having members with a diverse set of experiences to enable the full Board to effectively oversee the Company.",
+    "labels": [
+      "Governance Positive",
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "Six of our non-employee Directors bring specific environmental skills and qualifications to the Board.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "Their experience comes from the academic and business sectors.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "This diverse set of perspectives helps ensure that the Board challenges itself and management on the risks and opportunities related to climate change.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Because Chevron already has an effective governance structure to oversee climate change risks and opportunities, the new committee requested by the proposal is not warranted.",
+    "labels": [
+      "Governance Positive",
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "Therefore, your Board recommends that you vote AGAINST this proposal.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Shareholders request that the Board of Directors conduct an evaluation and issue a report within the next year (at reasonable cost, omitting proprietary information) describing if, and how, Chevron’s lobbying activities (direct and through trade associations) align with the goal of limiting average global warming to well below 2 degrees Celsius (the Paris Climate Agreement’s goal). The report should also address the risks presented by any misaligned lobbying and the company’s plans, if any, to mitigate these risks.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "According to the most recent annual “Emissions Gap Report” issued by the United Nations Environment Programme (November 26, 2019), critical gaps remain between the commitments national governments have made and the actions required to prevent the worst effects of climate change.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Companies have an important and constructive role to play in enabling policy-makers to close these gaps.",
+    "labels": [
+      "Environmental Positive",
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "Corporate lobbying activities that are inconsistent with meeting the goals of the Paris Agreement present regulatory, reputational and legal risks to investors.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "These efforts also present systemic risks to our economies, as delays in implementation of the Paris Agreement increase the physical risks of climate change, pose a systemic risk to economic stability and introduce uncertainty and volatility into our portfolios.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "We believe that Paris-aligned climate lobbying helps to mitigate these risks, and contributes positively to the long-term value of our investment portfolios.",
+    "labels": [
+      "Environmental Positive",
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "Of particular concern are the trade associations and other politically active organizations that speak for business but, unfortunately, too often present forceful obstacles to progress in addressing the climate crisis.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "As investors, we view fulfillment of the Paris Agreement’s agreed goal—to hold the increase in the global average temperature to “well below” 2°C above preindustrial levels, and to pursue efforts to limit the temperature increase to 1.5°C—as an imperative.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "We are convinced that unabated climate change will have a devastating impact on our clients, plan beneficiaries, and the value of their portfolios.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "We see future “business as usual” scenarios of 3-4°C or greater as both unacceptable and uninvestable.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Two hundred institutional investors managing $6.5 trillion recently wrote to Chevron, seeking information on how the company is managing this critical governance issue.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Insufficient information is presently available to help investors understand whether Chevron works to ensure that its lobbying activities, directly, in the company’s name, and indirectly, through trade associations, align with the Paris Agreement’s goals, and whether Chevron takes any action to address any misalignments it has found.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron’s reply was not responsive to this request.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Thus, we urge the Board and management to assess the company’s climate related lobbying and report to shareholders.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board recommends a vote AGAINST this proposal because your Board believes that a special report is duplicative.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Chevron has a disciplined process for lobbying activities that is transparent through existing disclosures.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron already discloses extensive information about its lobbying activities as well as its political contributions.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In many cases, this disclosure goes beyond what is required by law.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In addition, the company discloses a full list of trade associations with annual dues of more than $100,000 wherein a portion of the dues may be used for lobbying.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The associations on this list represent 96 percent of the Company’s annual trade association expenditures.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Energy production, development and consumption is a critical public policy issue.",
+    "labels": [
+      "Environmental Neutral",
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Policy decisions can significantly affect Chevron’s strategies, capital investments, operations and, ultimately, stockholder value.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Opponents of Chevron’s industry are well resourced to influence policy decisions in a manner that increases risk for Chevron.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "It is essential, therefore, for Chevron to exercise its fundamental right and responsibility to participate in the public policymaking process.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron does so by engaging with policymakers and expressing its views on pending policy proposals, by engaging in direct and indirect lobbying, and by participating in a diverse range of business and policy organizations that advocate positions supporting free markets and responsible energy legislation and regulation.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In addition, Chevron exercises its right to participate in the political process by making contributions to candidates and entities supportive of the oil and gas industry and a reasonable regulatory environment.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron shares the concerns of governments and the public about climate change risks.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron recognizes that the use of fossil fuels to meet the world’s ever-growing energy needs is a contributor to rising levels of greenhouse gases (“GHGs”) in the earth’s atmosphere.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Chevron believes that taking prudent, practical, and cost-effective actions to address climate change risks is the right thing to do.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "Chevron supports a well-designed price on carbon as the primary policy tool to achieve GHG emissions reduction goals.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "This approach can best incentivize the most efficient and cost-effective emissions reductions while providing support to impacted communities and creating a level playing field that maintains economic competitiveness.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "To this end, Chevron works with governments and other stakeholders to develop climate policy that addresses environmental goals while continuing to ensure critical access to affordable, reliable, and ever-cleaner energy.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron also engages through its various trade associations to ensure the development of well-designed climate policy.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In doing so, Chevron works to ensure that such policy aligns with Chevron’s Climate Principles of encouraging global engagement, striking a balanced and measured approach, supporting research and innovation, and providing transparency for consumers.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron does not agree with all of the positions of every industry, trade or policy organization in which it participates.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "However, Chevron believes that through continuous participation with these organizations it has the best opportunity to influence their positions in a manner that aligns with the long-term interests of its stockholders.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Engaging only with groups that already align with Chevron’s positions would undermine the Company’s ability to build and expand coalitions in support of its positions, including Chevron’s support for well-designed climate policy.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron adheres to the highest ethical standards when engaging in lobbying and political activities, ensures that such activities align with corporate goals, and complies with all laws and regulations governing lobbying activities and disclosure.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board takes its fiduciary duties to stockholders very seriously.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron exercises its fundamental right and responsibility to participate in the public policymaking process across myriad public policy issues important to its business.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We would not be fulfilling our fiduciary duty if we were to base our decisions on what a particular constituency believes the appropriate exercise of these fundamental rights to be.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Such an approach would put the Company at a competitive disadvantage and would unnecessarily limit the benefits associated with Chevron’s participation in the public policymaking process through engagement with a broad array of stakeholders.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board is confident that the Company’s lobbying and political activities – and association memberships – are aligned with Chevron’s goals and the long-term interests of our stockholders.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board encourages you to review the extensive disclosures on our lobbying and political activities found on Chevron’s website.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We are confident you will agree that the Company’s disclosures render the additional report called for in this proposal duplicative.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Resolved: Shareholders request that Chevron, with board oversight, publish a report, omitting proprietary information and prepared at reasonable cost, assessing the public health risks of expanding petrochemical operations and investments in areas increasingly prone to climate change-induced storms, flooding, and sea level rise.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Investors request the company assess, among other related issues at management and Board discretion: The adequacy of measures the company is employing to prevent public health impacts from associated chemical releases.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Whereas: Investors are concerned about the financial, health, environmental, and reputational risks associated with operating and building-out new chemical plants and related infrastructure in Gulf Coast locations increasingly prone to catastrophic storms and flooding associated with climate change.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Petrochemical facilities like ethane crackers and polyethylene processing plants produce dangerous pollutants including benzene (a known carcinogen), Volatile Organic Compounds, and sulfur dioxide.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "These operations can become inundated and pose significant chemical release risks during extreme weather events.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Flooding from Hurricane Harvey in 2017 resulted in CPChem plant shut downs and the release of unpermitted, unsafe levels of pollutants.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Nearby Houston residents reported respiratory and other health problems following CPChem’s releases during Hurricane Harvey.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Growing storms and the costs they bring our company are predicted to increase in frequency and intensity as global warming escalates.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Recent reports show that greenhouse gas emissions throughout the petrochemical and plastic supply chain contribute significantly to climate change, thereby exacerbating the threat of physical risks such as storms.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Flood-related damage is projected to be highest in Texas, where many of CPChem’s petrochemical plants are concentrated, and Houston alone has seen three 500-year floods in a three-year span.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Chevron stated that Hurricane Harvey is the primary reason for lower earnings of $70 million from CPChem in 2017.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Civil society groups have mobilized to oppose the expansion of petrochemical facilities in their communities due to concerns regarding direct health and livelihood impacts from air and water pollutant releases.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Such opposition threatens to jeopardize CPChem’s social license to operate in the region.",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Historically, releases from CPChem’s petrochemical operations have exceeded legal limits, exposing the company to liability.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "As climate change intensifies flooding and storm strength, the potential for unplanned chemical releases grows.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "In spite of these risks, CPChem has accelerated its petrochemical activity in the Gulf Coast, investing heavily to expand in flood-prone areas of Texas.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The company has generally disclosed that physical climate-related risks may impact its business and that it has a risk management system to plan for resiliency.",
+    "labels": [
+      "Environmental Neutral",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The impacts to CPChem’s operations from Hurricane Harvey, however, indicate the company’s level of preparedness is insufficient.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "While the Company rapidly expands its petrochemical assets in climate-impacted areas, investors seek improved disclosure to understand whether CPChem is adequately evaluating and mitigating public health risks associated with climate-related impacts and the dangerous chemicals it uses.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Your Board recommends a vote AGAINST this proposal because Chevron Phillips Chemical Company LLC, the joint venture through which Chevron invests in petrochemical operations, has in place processes and standards to assess and manage significant health, environmental, and safety risks.",
+    "labels": [
+      "Environmental Positive",
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The environmental management expectation of the OEMS calls for Chevron’s organizations to protect the environment using a risk-based approach that addresses potential acute and cumulative impacts; apply environmental design standards and the mitigation hierarchy to guide selection of safeguards, including those that manage wastes and wastewater and conserve and protect water and natural resources; and conduct monitoring, analyze performance, and identify and address gaps.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "For decades, Chevron has managed risks associated with the impact of ambient conditions on our operations.",
+    "labels": [
+      "Environmental Neutral"
+    ]
+  },
+  {
+    "text": "Long-standing practices developed to manage these impacts are applied and extended to reflect possible effects of climate change and to ensure the ongoing resilience of the Company’s infrastructure.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "For example, to protect facilities against possible storm surges, Chevron spent $120 million on raising a dike at its Pascagoula, Mississippi, refinery and $16 million to construct a seawall at its Port Arthur, Texas, lubricants plant.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "As another example, Chevron recently updated the Chevron Engineering Standard for Metocean Design and Operating Conditions based on the assessment of future potential impacts to Chevron’s marine facilities, such as potential changes in storm intensity, changes to sea level and changing water currents.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "The proposal relates to the activities of Chevron Phillips Chemical, a stand-alone enterprise in which Chevron owns a 50 percent interest.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Chevron representatives carry the Chevron risk management approach described above in their engagement with Chevron Phillips Chemical, and Chevron Phillips Chemical is committed to sustainable practices throughout all of its businesses.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron Phillips Chemical strives to conduct business in a safe, secure, injury-free, and environmentally responsible manner, described in its Operation Excellence (“OE”) Policy, which is on the Chevron Phillips Chemical website.",
+    "labels": [
+      "Environmental Positive",
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "OE is a global framework to manage the health and safety of Chevron Phillips Chemical’s employees, contractors, facilities, and communities.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "It is used worldwide to assess and manage global risks; manage facility risks that could impact employee and contractor health and safety, process safety, the environment, and the local community; guide the design, construction, and startup of new or modified facilities; rigorously audit performance against operational objectives and compliance requirements; and employ a “plan-do-check-act” model with the goal of reducing risk and ensuring regulatory compliance.",
+    "labels": [
+      "Environmental Positive",
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The OE framework guides Chevron Phillips Chemical’s efforts in the design of facilities.",
+    "labels": [
+      "Environmental Positive",
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Experiences and lessons from events like Hurricane Harvey are built into the design and operating procedures for existing and new facilities.",
+    "labels": [
+      "Environmental Positive",
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "For example, Chevron Phillips Chemical has incorporated weather-related scenarios into both the Process Hazard Analysis and the Layer of Protection Analysis in new facility design.",
+    "labels": [
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "Also, its U.S.-based plants have voluntarily participated in the American Chemistry Council’s Responsible Care® initiative for more than a decade.",
+    "labels": [
+      "Environmental Positive",
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Through the Responsible Care® initiative and the Responsible Care Global Charter, the chemicals industry has made a commitment to improve its environmental, health, safety and security performance and to design and operate facilities in a safe, secure and environmentally sound manner.",
+    "labels": [
+      "Environmental Positive",
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The health and safety of the communities in which Chevron Phillips Chemical operates is of a paramount concern.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "In addition to facilities design and operation, Chevron Phillips Chemical, based on the Responsible Care® initiative’s Product Safety Code, also evaluates, demonstrates, and continuously improves its product safety performance.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board believes that Chevron’s actions and reporting are appropriate and demonstrate that Chevron manages the physical risks associated with climate change arising from its own operations and from its investment in the Chevron Phillips Chemical joint venture.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The report requested in the proposal would not lead to enhanced protection against the physical risks of climate change.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Resolved, Shareholders request the Board of Directors commission an independent third-party report, at reasonable cost and omitting proprietary information, evaluating the effectiveness of Chevron’s efforts to prevent, mitigate and remedy actual and potential human rights impacts of its operations.",
+    "labels": [
+      "Governance Positive",
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "Supporting Statement: This Report might include:\t\nThe extent and nature of community consultation to inform its analysis; and Assessment of impacts on environmental justice communities.",
+    "labels": [
+      "Social Positive",
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "Whereas, Chevron is the second-largest integrated energy company in the United States.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Chevron’s global operations have contributed to negative impacts on human rights, community relations, health, air quality, and water, all of which are identified as material for the Oil and Gas Exploration and Production sector by the Sustainability Accounting Standards Board.",
+    "labels": [
+      "Social Negative",
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Its operations may have discriminatory impact, with disparate harm on communities of color and fenceline communities.",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Emissions from the use of Chevron’s products and operations contribute to the climate crisis, which may compound impacts to already burdened communities.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Discharge or leaks from Chevron’s operations may impact human health and the environment, and affected communities may not be adequately consulted or informed of risks.",
+    "labels": [
+      "Social Negative",
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "For example, spills from a Chevron well in California seeped over 900,000 gallons of crude oil and water in 2019, generating a $2.7 million fine for failure to operate with good practice and harm to human health and the environment.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Fenceline communities adjacent to Chevron’s Richmond, CA refinery have higher rates of cardiovascular disease, cancer, and asthma.",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Like most environmental justice communities burdened with the cumulative impacts of pollution, 15% of residents in Richmond are living in poverty and 80% are people of color.",
+    "labels": [
+      "Social Negative",
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "Impacts on communities may also result in litigation, project delays, and costly fines.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "An Ecuadorian court issued a $9.5 billion judgment against Chevron for its legacy Texaco operations in Ecuador, which historically disposed of billions of gallons of toxic waste into waterways, impacting over 30,000 indigenous peoples.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron faced a $160 million settlement and is required to take nationwide safety and chemical accident prevention measures following repeated violations of the Clean Air Act from chemical releases, deadly explosions, and fires.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The city of Richmond filed a lawsuit against Chevron for health impacts, economic losses, and environmental harm, citing its lapses in maintenance and disregard for public safety.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "While Chevron has a Human Rights Policy and Operational Excellence Management System, investors are unable to assess the effectiveness of these systems in identifying risks, ensuring meaningful stakeholder engagement, reducing negative impacts on communities and the environment, and provision of remedy.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "In the 2019 Corporate Human Rights Benchmark, Chevron received zero points on remedy, evaluating effectiveness of human rights actions, and communicating how impacts are addressed.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The pattern and number of penalties, court filings, and protests Chevron faces from fenceline communities raise questions about whether Chevron’s policies and systems are effectively implemented to prevent, mitigate and remedy human rights impacts.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Your Board recommends a vote AGAINST this proposal.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron is committed to supporting and maintaining the highest standards of ethical conduct and operational excellence.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "This is embedded in the Company’s culture, policies and processes, which are designed to ensure its business is conducted in a socially and environmentally responsible manner.",
+    "labels": [
+      "Social Positive",
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board shares the proponent’s stated concern for human rights.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "However, the proponent’s supporting statement contains references to legal actions and allegations of impacts from the Company’s operations that are inaccurate, misleading and, in some cases, contrary to final judgments.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The Company’s policies and processes address the concerns raised in the proposal, and a separate report is not an effective way to achieve the stated objectives.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Guided by The Chevron Way, Chevron conducts its business responsibly, providing energy that is essential to human progress while benefiting the communities where the Company operates.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s Human Rights Policy, available on its website, reinforces Chevron’s commitment to respecting human rights.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Related processes provide direction on management of potential human rights issues, such as resettlement, grievances, and relationships with indigenous peoples.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In 2019, the Company updated its Human Rights Policy to more clearly state its continuing support for international human rights, including its commitment to respect the principles set out in the United Nations Universal Declaration of Human Rights, and in the International Labor Organization Declaration on Fundamental Principles and Rights at Work, and its commitment to adhere to the United Nations Guiding Principles on Business and Human Rights, the Voluntary Principles on Security and Human Rights, and the International Finance Corporation’s Performance Standards.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s management of community-related issues is integrated into its Operational Excellence Management System (“OEMS”), which is available on Chevron’s website.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The OEMS is a framework for systematically managing workforce safety and health; process safety, reliability and integrity; environmental protection; efficiency; security; and stakeholder engagement.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive",
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "Within the OEMS, the Stakeholder Engagement and Issues Management (“SEIM”) process guides how Chevron manages social, political and reputational risks and opportunities related to communities, governments and other external stakeholders across the lifecycle of an asset.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The SEIM process includes soliciting input from communities and other stakeholders while systematically assessing risks and safeguards, including social impact mitigations, social investments, grievance mechanisms, and emergency response plans.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Also within the OEMS, the Environmental, Social and Health Impact Assessment (“ESHIA”) process is designed to systematically identify and address project-related environmental, social and health impacts, including impacts to natural resources, air quality, and community health.",
+    "labels": [
+      "Social Positive",
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "The ESHIA process is guided by four key environmental principles: include the environment in decision making, reduce the environmental footprint, operate responsibly, and steward the Company’s sites.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The OEMS includes assurance and audit programs to assess compliance with internal and external requirements.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s Enterprise Risk Management (“ERM”) process includes an annual review with executive management and the Board of Directors that identifies financial, operational, market, political, and other risks inherent in its business.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "The Board oversees Chevron’s risk management policies and practices to ensure that the appropriate systems are employed.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The Board’s Public Policy Committee monitors social, political, environmental, human rights, and public policy aspects of Chevron’s business and the communities in which it operates.",
+    "labels": [
+      "Social Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron has built successful partnerships with communities around the world.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "In Nigeria, the creation of a global memorandum of understanding has enabled communities to oversee the use of community funding provided by Chevron and its partners and to implement and manage community projects.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "This ongoing work has been recognized by the World Economic Forum, which states, “[The initiative] has established Chevron as an industry leader in social performance in Nigeria and has been adopted by other companies in the country.”",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "In Canada, stakeholder engagement for the Kitimat liquified natural gas project led to the creation of the First Nations Limited Partnership, intended to ensure that all 16 First Nations bands whose territories are along the Pacific Trail Pipeline route would be able to benefit economically from the project.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "The Company considered input from First Nations and other stakeholders and responded by funding further environmental studies, adjusting plans, and modifying the pipeline route.",
+    "labels": [
+      "Social Positive",
+      "Environmental Positive"
+    ]
+  },
+  {
+    "text": "Other examples are available in Chevron’s Corporate Responsibility Report and in the Corporate Responsibility case studies, which are on Chevron’s website.",
+    "labels": [
+      "Social Neutral",
+      "Environmental Neutral",
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Chevron engages with stakeholders, including the proponent and other investors, civil society organizations, customers, and other third parties, on an ongoing basis to inform its approach to human rights issues.",
+    "labels": [
+      "Social Positive"
+    ]
+  },
+  {
+    "text": "Your Board believes that the additional report called for by the proposal is neither necessary nor an appropriate way to ensure the Company meets its social and environmental responsibilities.",
+    "labels": [
+      "Social Negative",
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "We believe that the Chevron Way, Chevron’s Human Rights Policy, its OEMS, ERM and other processes, and its Corporate Responsibility Report all appropriately address the underlying concerns and accomplish the essential objective of the stockholder proposal.",
+    "labels": [
+      "Social Positive",
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "RESOLVED: Shareowners request that the Board of Chevron Corporation (“Chevron” or “Company”) take the steps necessary to amend Company bylaws and appropriate governing documents to give holders of 10% of outstanding common stock the power to call a special shareowners meeting. To the fullest extent permitted by law, such bylaw text in regard to calling a special meeting shall not contain exceptions or excluding conditions that apply only to shareowners but not to management or the Board.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "This Proposal grants shareowners the ability to consider important matters which may arise between annual meetings, and augments the Board’s power to itself call a special meeting.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "This Proposal earned the support of 35% of shares voted in 2019, representing approximately $54 billion in shareholder value.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We believe management has mishandled a variety of issues in ways that significantly increase both risk and costs to shareholders.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The most pressing of these issues is the ongoing legal effort by communities in Ecuador to enforce a $9.5 billion judgment against Chevron for oil pollution.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "When Chevron acquired Texaco in 2001, it inherited significant legal, financial, and reputational liabilities that stemmed from pollution of the water and lands of communities in the Ecuadorian Amazon.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "For two decades the affected communities brought suit against Texaco (and subsequently Chevron).",
+    "labels": [
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "The case reached its conclusion in 2018 when Ecuador’s Constitutional Court, in an 8-0 decision, confirmed a $9.5 billion judgment against Chevron.",
+    "labels": [
+      "Environmental Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "Instead of negotiating an expedient, fair, and comprehensive settlement with the affected communities in Ecuador, Chevron pursued a costly legal strategy that lasted for more than two decades.",
+    "labels": [
+      "Governance Negative",
+      "Social Negative"
+    ]
+  },
+  {
+    "text": "In the course of these proceedings, Chevron’s management made significant missteps, including moving the case from New York to Ecuador.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "In an unprecedented move, Chevron harassed and subpoenaed stockholders who questioned the advisability of the Company’s legal strategy.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron has acknowledged the serious risk enforcement of the $9.5 billion judgment represents.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Under oath, Deputy Controller Rex Mitchell testified that such seizure of Company assets: “would cause significant, irreparable damage to Chevron’s business reputation and business relationships.”",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "However, Chevron has yet to fully report these risks in either public filings or statements to shareholders.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "As a result, investors have requested that the U.S. Securities and Exchange Commission investigate whether Chevron violated securities laws by misrepresenting or materially omitting information in regard to the multi-billion Ecuadoran judgment.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Shareholders urgently need a reasonable 10% threshold to call special meetings.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "THEREFORE: Vote FOR this common-sense governance enhancement that would improve shareholder communication and protect shareholder value.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board recommends a vote AGAINST this proposal because stockholders have consistently supported Chevron’s current By-Law regarding special meetings.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The Board continues to believe this By-Law is in the stockholders’ best interests and provides appropriate and reasonable limitations on the right to call special meetings.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In 2010, stockholders representing approximately 80 percent of Chevron’s common stock outstanding approved an amendment to Chevron’s By-Laws that permits stockholders owning 15 percent of Chevron’s outstanding common stock to call for a special meeting.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "At Chevron’s last eight Annual Meetings, an average of 68 percent of votes cast opposed this stockholder proposal to reduce the threshold for calling special meetings to 10 percent.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Your Board continues to believe that Chevron’s 15 percent threshold provides that a reasonable number of stockholders must consider a matter important enough to merit a special meeting.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Preparing for and holding a special meeting is time-consuming and expensive.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "The 15 percent threshold helps avoid waste of Company and stockholder resources to address narrow or special interests.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "In addition to a lower threshold, the proposal would permit a special meeting without appropriate and reasonable limitations.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron’s By-Laws currently contain two important limitations.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "A special meeting cannot be called (i) if the Board has already called or will call an Annual Meeting of stockholders for the same purpose specified in the special meeting request or (ii) if an annual or special meeting was held not more than 12 months before the request for a special meeting was received and included the purpose specified in the special meeting request.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Given the time and cost associated with special meetings, your Board believes that these are appropriate and reasonable limitations.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Moreover, the issues raised in support of this proposal already are consistently discussed at Chevron’s Annual Meetings.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Stockholders can be assured that their right to be apprised of and vote on significant matters is protected not only by their existing right to call for special meetings and participate in Chevron’s Annual Meetings, but also by state law and other regulations.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron is incorporated in Delaware, which requires that major corporate actions, such as a merger or a sale of all or substantially all of Chevron’s assets, be approved by stockholders.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron is also listed on the New York Stock Exchange (“NYSE”), and the NYSE requires, among other things, that listed companies obtain stockholder approval for equity compensation plans and significant issuances of equity securities to related parties and for when such issuances represent more than 20 percent of an issuer’s voting power.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron has robust corporate governance practices to protect stockholder interests, including a declassified board; proxy access; no supermajority voting provisions in its By-Laws and Certificate of Incorporation; and a strong independent board structure.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Finally, although the proposal purports to relate to special meetings, the supporting statement makes clear that the proposal is a vehicle to discuss the Ecuador litigation and related actions against Chevron.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The proponent implies that special meetings are an appropriate vehicle for pressuring the Company to succumb to the demands in the Ecuador litigation and pay a judgment secured through fraud and corruption.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Your Board believes, and several prominent courts and international tribunals have now confirmed, that the Ecuador litigation is the product of fraud, extortion, and bribery.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "In a March 4, 2014, ruling that held that the Ecuadorian judgment was unenforceable in the United States and the plaintiffs’ counsel was liable for racketeering under the RICO statute, the U.S. District Court for the Southern District of New York (“SDNY”) found that the plaintiffs’ team “wrote the [Ecuadorian] court’s Judgment themselves and promised $500,000 to the Ecuadorian judge to rule in their favor and sign their judgment.”",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "On August 8, 2016, the U.S. Court of Appeals for the Second Circuit unanimously affirmed the SDNY’s findings, noting that “the record in the present case reveals a parade of corrupt actions…, including coercion, fraud and bribery, culminating in the promise to [the] Judge of $500,000 from a judgment in favor of the [Ecuadorian plaintiffs].”",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "In June 2017, the U.S. Supreme Court denied review, rendering the New York judgment final.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Similarly, in a separate action, on August 30, 2018, an international tribunal administered by the Permanent Court of Arbitration in The Hague issued a unanimous award in favor of Chevron, finding that the Ecuadorian judgment was procured through fraud, bribery, and corruption, and that it was based exclusively on environmental claims settled and released by the Republic of Ecuador years earlier.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The tribunal concluded that as a matter of international law, the judgment “should not be recognised or enforced by the courts of other States.”",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Finally, plaintiffs’ recognition and enforcement proceedings outside Ecuador have failed in every jurisdiction in which they have been attempted to date, including Argentina, Brazil and Canada.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board expects Chevron’s management to continue acting in the best interests of the Company’s stockholders by vigorously defending the Company against this fraudulent action.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board believes that the 15 percent threshold for special meetings remains appropriate.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "RESOLVED: Shareholders request the Board of Directors to adopt as policy, and amend the bylaws as necessary, to require that whenever possible the Chair of the Board, of Directors be an independent member of the Board. This policy would phase in for the next CEO transition.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "If the Board determines that a Chair who was independent when selected is no longer independent, within a reasonable period it shall select a new Chair who satisfies the requirements of this policy. Compliance with this policy can be waived if no independent director is available and willing to serve as Chair.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "We believe that inadequate board oversight has led to management mishandling of a number of issues, which has increased both risk and cost to stockholders.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron mishandled risk related to an ongoing legal effort by communities in Ecuador to enforce a $9.5 billion for oil pollution.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "When Chevron acquired Texaco in 2001, it inherited significant legal, financial, and reputational liabilities that stemmed from pollution of the water and lands of communities in the Ecuadorian Amazon.",
+    "labels": [
+      "Environmental Negative"
+    ]
+  },
+  {
+    "text": "In 2018, Ecuador’s Constitutional Court unanimously confirmed a $9.5 billion judgment against Chevron.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron has acknowledged the serious risk from enforcement of the $9.5 billion judgment.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Deputy Controller Rex Mitchell testified, under oath, that such seizures of Company assets “would cause significant, irreparable damage to Chevron’s business reputation and business relationships.”",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "However, instead of negotiating a swift, reasonable, and comprehensive settlement with the affected Ecuadorian communities, management has pursued a costly and protracted legal strategy that has lasted more than two decades.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "As well, investors are concerned that Chevron has not adequately addressed climate change – a massive risk that is already manifest and set to intensify over time via regulation, energy price swings, and growing uncertainty around the value of fossil fuel reserves.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron has published a climate risk scenario report and attempted to reduce capital spending; however, investor concerns remain because:",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Of Chevron’s December 2019 announcement of a $10 billion+ write-down on the value of its assets.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Climate-related tort claims and similar litigation against Chevron are mounting.",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron’s climate risk reports have downplayed significant factors, such as potential competition",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "Chevron has supported lobbying and trade associations that spread dis-information on climate science and policy, such as the American Legislative Exchange Council (“ALEC”) and the American Petroleum Institute (“API”).",
+    "labels": [
+      "Environmental Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "In addition, inadequate board attention could intensify ongoing risks and controversies related to global operations – such as renewed attacks on Chevron’s Nigeria assets in 2016, controversy over operations in Myanmar (given United Nations reports of genocide and crimes against humanity committed by the Burmese army against the Rohingya and other ethnic minorities in Burma), and a landmark enforcement action against Chevron for alleged tax evasion in Australia.",
+    "labels": [
+      "Social Negative",
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "An independent Chair would improve oversight of management, and the attention paid to long-range risks such as those noted above.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "THEREFORE: Please vote FOR this common-sense governance enhancement.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board recommends a vote AGAINST this proposal because your Board believes that stockholder interests are best served when Directors have the flexibility to determine the best person to serve as Chairman, recognizing that no single leadership model is appropriate in all circumstances.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "As required by Chevron’s By-Laws, the independent members of your Board elect the Board Chairman annually and, as part of this election, review whether to elect the CEO or another Director to serve as Chairman.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "The Board thus has great flexibility to fulfill its fiduciary duty to stockholders and choose the optimal leadership for the Board depending upon Chevron’s particular needs and circumstances at the time.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Currently, the Board has determined to appoint Michael K. Wirth to serve as CEO and as Chairman of the Board.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Your Board believes that Chevron and its stockholders currently benefit from the unity of leadership and companywide strategic alignment associated with combining the positions of Chairman and CEO.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "For example, as a global energy company that negotiates concessions and leases with host-country governments around the world, we believe it is generally advantageous to the Company for the CEO to represent the Chevron Board as its Chairman in such dialogues.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board does recognize the importance of independent oversight of the CEO and management, and it has instituted structures and practices to enhance such oversight",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "The independent oversight of Chevron’s Board leadership is further supported by strong Board refreshment, multidimensional diversity among its Directors, and regular rotation of Committee chairpersons and of the Lead Director, all of which ensures that new perspectives are brought to the selection of Chevron’s Chairman and to other critical Board decisions.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "For additional information regarding the Board’s views on its leadership structure, we encourage stockholders to read the “Board Leadership Structure” and “Independent Lead Director” sections of this Proxy Statement, on pages 19 and 20.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Although the proposal purports to relate to the Board’s leadership structure, the supporting statement makes clear that the proposal is fundamentally a vehicle to discuss the Ecuador litigation and related actions against Chevron.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Your Board believes, and several prominent courts and international tribunals have now confirmed, that the Ecuador litigation is the product of fraud, extortion, and bribery.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "In a March 4, 2014, ruling that held that the Ecuadorian judgment was unenforceable in the United States and plaintiffs’ counsel was liable for racketeering under the RICO statute, the U.S. District Court for the Southern District of New York (“SDNY”) found that the plaintiffs’ team “wrote the [Ecuadorian] court’s Judgment themselves and promised $500,000 to the Ecuadorian judge to rule in their favor and sign their judgment.”",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "On August 8, 2016, the U.S. Court of Appeals for the Second Circuit unanimously affirmed the SDNY’s findings, noting that “the record in the present case reveals a parade of corrupt actions…, including coercion, fraud and bribery, culminating in the promise to [the] Judge of $500,000 from a judgment in favor of the [Ecuadorian plaintiffs].”",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "In June 2017, the U.S. Supreme Court denied review, rendering the New York judgment final.",
+    "labels": [
+      "Governance Neutral"
+    ]
+  },
+  {
+    "text": "Similarly, in a separate action, on August 30, 2018, an international tribunal administered by the Permanent Court of Arbitration in The Hague issued a unanimous award in favor of Chevron, finding that the Ecuadorian judgment was procured through fraud, bribery, and corruption, and that it was based exclusively on environmental claims settled and released by the Republic of Ecuador years earlier.",
+    "labels": [
+      "Governance Negative"
+    ]
+  },
+  {
+    "text": "The tribunal concluded that as a matter of international law, the judgment “should not be recognised or enforced by the courts of other States.”",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Finally, plaintiffs’ recognition and enforcement proceedings outside Ecuador have failed in every jurisdiction in which they have been attempted to date, including Argentina, Brazil and Canada.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Your Board expects Chevron’s management to continue acting in the best interests of the Company’s stockholders by vigorously defending the Company against this fraudulent action.",
+    "labels": [
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Finally, the proposal posits that a different Board leadership structure is necessary to address climate change risks and operational risks around the world.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Chevron’s processes for managing enterprise risk are already subject to robust Board oversight, as described in the Climate Change Resilience Report available on Chevron’s website.",
+    "labels": [
+      "Environmental Positive",
+      "Governance Positive"
+    ]
+  },
+  {
+    "text": "Given strong independent Board oversight of the CEO and management and the Company’s corporate governance practices, including an empowered and effective independent Lead Director, your Board does not believe that a fixed policy requiring an independent Chairman is in the best interests of stockholders.",
+    "labels": [
+      "Governance Positive"
+    ]
+  }
+]
