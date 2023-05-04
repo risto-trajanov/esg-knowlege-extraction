@@ -1,0 +1,145 @@
+{
+  "docid": "30115004",
+  "title": "BP, Shell, and Total financial accounting review",
+  "uri": "Custom7",
+  "text": "Additionally, in 2020, BP, Shell and Total reviewed their 2019 financial accounting practices in light of the accelerating low-carbon energy transition.",
+  "entities": [
+    {
+      "uri": "2020-01-01T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime",
+      "boundaries": [
+        17,
+        20
+      ],
+      "surfaceform": "2020",
+      "annotator": "Date_Linker"
+    },
+    {
+      "uri": "Q218",
+      "boundaries": [
+        25,
+        27
+      ],
+      "surfaceform": "BP",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q1549502",
+      "boundaries": [
+        29,
+        34
+      ],
+      "surfaceform": "Shell",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q2184",
+      "boundaries": [
+        36,
+        41
+      ],
+      "surfaceform": "Total",
+      "annotator": "Me"
+    },
+    {
+      "uri": "2019-01-01T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime",
+      "boundaries": [
+        43,
+        46
+      ],
+      "surfaceform": "2019",
+      "annotator": "Date_Linker"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q218",
+        "boundaries": [
+          25,
+          27
+        ],
+        "surfaceform": "BP",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P921",
+        "boundaries": null,
+        "surfaceform": "reviewed",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom8",
+        "boundaries": [
+          50,
+          81
+        ],
+        "surfaceform": "their 2019 financial accounting practices",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q1549502",
+        "boundaries": [
+          29,
+          34
+        ],
+        "surfaceform": "Shell",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P921",
+        "boundaries": null,
+        "surfaceform": "reviewed",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom8",
+        "boundaries": [
+          50,
+          81
+        ],
+        "surfaceform": "their 2019 financial accounting practices",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q2184",
+        "boundaries": [
+          36,
+          41
+        ],
+        "surfaceform": "Total",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P921",
+        "boundaries": null,
+        "surfaceform": "reviewed",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom8",
+        "boundaries": [
+          50,
+          81
+        ],
+        "surfaceform": "their 2019 financial accounting practices",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    }
+  ]
+}

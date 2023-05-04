@@ -1,0 +1,274 @@
+<SEC-DOCUMENT>0001140361-23-004439.txt : 20230203
+<SEC-HEADER>0001140361-23-004439.hdr.sgml : 20230203
+<ACCEPTANCE-DATETIME>20230203163049
+ACCESSION NUMBER:		0001140361-23-004439
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20230203
+DATE AS OF CHANGE:		20230203
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Apple Inc.
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36743
+		FILM NUMBER:		23586467
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE APPLE PARK WAY
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		(408) 996-1010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE APPLE PARK WAY
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLE INC
+		DATE OF NAME CHANGE:	20070109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLE COMPUTER INC
+		DATE OF NAME CHANGE:	19970808
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>brhc10047294_defa14a.htm
+<DESCRIPTION>DEFA 14A
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Summit, a Broadridge Company
+         Document created using Broadridge PROfile 23.1.1.5115
+         Copyright 1995 - 2023 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: Arial; font-size: 10pt; text-align: left; color: rgb(0, 0, 0);">
+  <div>
+    <hr align="center" style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;">
+    <div>
+      <div style="font-size: 14pt; font-weight: bold; text-align: center;">UNITED STATES</div>
+      <div style="font-size: 14pt; font-weight: bold; text-align: center;">SECURITIES AND EXCHANGE COMMISSION</div>
+      <div style="font-size: 12pt; text-align: center;">Washington, DC 20549</div>
+      <div><br>
+      </div>
+      <div style="font-size: 18pt; font-weight: bold; text-align: center;">SCHEDULE 14A</div>
+      <div>&#160;</div>
+      <div style="font-weight: bold; text-align: center;">PROXY STATEMENT PURSUANT TO SECTION 14(a)</div>
+      <div style="font-weight: bold; text-align: center;">OF THE SECURITIES EXCHANGE ACT OF 1934</div>
+      <div style="text-align: center;"><font style="font-weight: bold;">(Amendment No.</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="font-weight: bold;">)</font></div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" id="z3156155887884e68b283f965fd6d280a" style="font-family: Arial; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);">
+
+          <tr>
+            <td style="width: 50.48%; vertical-align: top;">
+              <div style="text-align: center; margin-right: 1.2pt;">&#9745; Filed by the Registrant</div>
+            </td>
+            <td style="width: 49.52%; vertical-align: top;">
+              <div style="text-align: center; margin-right: 1.2pt;">&#9744; Filed by a Party other than the Registrant</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <table cellspacing="0" cellpadding="0" border="0" id="za20290dbcf7245d7bd765ae71cd063aa" style="font-family: Arial; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);">
+
+          <tr>
+            <td style="vertical-align: top; border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);" colspan="2">
+              <div style="margin-left: 2.1pt; font-weight: bold;">Check the appropriate box:</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 3%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); text-align: center;">&#9744;</td>
+            <td style="width: 97%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="margin-left: 2.05pt;">Preliminary Proxy Statement</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 3%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); text-align: center;">&#9744;</td>
+            <td style="width: 97%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="margin-left: 2.05pt; font-weight: bold;">Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 3%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); text-align: center;">&#9744;</td>
+            <td style="width: 97%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="margin-left: 2.05pt;">Definitive Proxy Statement</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 3%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); text-align: center;">&#9745;</td>
+            <td style="width: 97%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="margin-left: 2.05pt;">Definitive Additional Materials</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 3%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); text-align: center;">&#9744;</td>
+            <td style="width: 97%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="margin-left: 2.05pt;">Soliciting Material under &#167;240.14a-12</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="text-align: center; margin-right: 168.7pt; margin-left: 168.7pt; font-size: 24pt; font-weight: bold;">Apple Inc.</div>
+      <div style="text-align: center;"> <img width="39" border="0" height="47" src="logo.jpg"></div>
+      <div><br>
+      </div>
+      <div style="font-style: italic; text-align: center;">(Name of Registrant as Specified in Its Charter)</div>
+      <div style="text-align: center; font-style: italic;">(Name of Person(s) Filing Proxy Statement, if other than the Registrant)</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" id="z804b944e646343db95c5c036775a36fd" style="font-family: Arial; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);">
+
+          <tr>
+            <td style="vertical-align: top; background-color: rgb(241, 241, 241); border-width: 2px; border-style: solid; border-color: rgb(0, 0, 0);" colspan="2">
+              <div style="margin-left: 2.1pt; font-weight: bold;">Payment of Filing Fee (Check all boxes that apply):</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 3%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); text-align: center;">&#9745;</td>
+            <td style="width: 97%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="margin-left: 2.15pt; font-weight: bold;">No fee required.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 3%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); text-align: center;">&#9744;</td>
+            <td style="width: 97%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="margin-left: 2.15pt; font-weight: bold;">Fee paid previously with preliminary materials.</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 3%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); text-align: center;">&#9744;</td>
+            <td style="width: 97%; vertical-align: top; border-left: 2px solid rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0);">
+              <div style="margin-left: 2.15pt; font-weight: bold;">Fee computed on table in exhibit required by Item 25(b) per Exchange Act Rules 14a-6(i)(1) and 0-11.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div>
+        <hr align="center" style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;"></div>
+      <div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+        <div class="BRPFPageBreak" style="page-break-after: always;">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <div style="text-align: center;">&#160;<img width="39" border="0" height="47" src="logo.jpg"></div>
+      <div style="text-align: center;"> <br>
+      </div>
+      <div style="text-align: center;">SUPPLEMENT</div>
+      <div style="text-align: center;">TO THE</div>
+      <div style="text-align: center;">DEFINITIVE PROXY STATEMENT DATED JANUARY 12, 2023 FOR THE</div>
+      <div style="text-align: center;">ANNUAL MEETING OF SHAREHOLDERS TO BE HELD ON</div>
+      <div style="text-align: center;">MARCH 10, 2023</div>
+      <div>
+        <div>&#160;</div>
+        <div style="text-align: right;">February 3, 2023<br>
+          <br>
+        </div>
+        <div>Alex Gorsky, a member of the board of directors of Apple Inc. (&#8220;Apple&#8221;) and a nominee for re-election to Apple&#8217;s board of directors at Apple&#8217;s 2023 Annual Meeting of Shareholders, has stepped down as director and Executive Chairman of Johnson
+          &amp; Johnson.</div>
+        <div style="font-size: 12pt;"> <font style="font-size: 10pt;"><br>
+          </font></div>
+        <div>Except as specifically supplemented or amended by the information contained in this supplement to the definitive proxy statement filed on January 12, 2023 (the &#8220;Proxy Statement&#8221;), this supplement does not modify, amend, supplement or otherwise
+          affect any matter presented for consideration in the Proxy Statement. This supplement should be read in conjunction with the Proxy Statement and Apple&#8217;s Annual Report on Form 10-K for the year ended September 24, 2022, as each contains
+          information that is important to your decisions in voting at Apple&#8217;s 2023 Annual Meeting of Shareholders. Additional information is contained in the Proxy Statement that was previously made available to Apple shareholders. If you have already
+          voted, you do not need to vote again unless you would like to change or revoke your prior vote on any proposal. If you would like to change or revoke your prior vote on any proposal, please refer to page 106 of the Proxy Statement for
+          instructions on how to do so.</div>
+      </div>
+      <div> <br>
+      </div>
+      <div><br>
+      </div>
+    </div>
+    <div>
+      <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"> </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>logo.jpg
+<TEXT>
+begin 644 logo.jpg
+M_]C_X  02D9)1@ ! @  9 !D  #_[  11'5C:WD  0 $    4   _^X )D%D
+M;V)E &3      0, %00#!@H-   #3   !E    @]   *'?_; (0  @(" @("
+M @(" @," @(#! ," @,$!00$! 0$!08%!04%!04&!@<'" <'!@D)"@H)"0P,
+M# P,# P,# P,# P,# $# P,%! 4)!@8)#0L)"PT/#@X.#@\/# P,# P/#PP,
+M# P,# \,# P,# P,# P,# P,# P,# P,# P,# P,# P,_\( $0@ 9@!4 P$1
+M  (1 0,1 ?_$ ,<  0$! 0$! 0$            ("0<%!@(# 0$
+M            $  !! $$ @(#           & P0%!P( $" !,!-P%Q(5)1$
+M 0(# @H%" <)         0(#$00% !(0,"$Q05%A@1,4<9&Q(D(@H<$RHB05
+M!E)B(S-3%@?PT7*"0V,T1%02 0                   ' 3 0 " 0(& 00#
+M 0        $1(3$ 01 P46%Q@2!P\)&AP='AL?_:  P# 0 "$0,1   !OX
+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
+M/R'Z'__:  @! P,!/R'Z'__:  P# 0 "$0,1   0                 $@
+M  D          @    $   $ @   @     $@   $ $     D @ '_]H " $!
+M P$_$/E,3B0BE0B##9*#_JPY1)%#.\L\A#]RD."$P=E,B%IHJ(EGG=A#EV#R
+M1[K),H?1#JM)%2$0% "P00PK2G\N!@95<HJI15?B=B>J@F@D$BT4H!-N'VIZ
+M1_?UCFJ9T+ F,]XMU'2J(PF!;_M*:@V.Z&LWN # XTI;J+'1$F=P$CJTI/2Q
+MPB9B'^01&CSY&*]F+&[G=WT&Z7<>C"YG.*0\ @9N3HF<BDQ8(::1R-:!UL"J
+M('(FD5UODV()0DH\ ^1HB9#U3L/K7S5R>]B-NK&]-&?30F*B":6VJ6\#HQ'2
+M(K.>BI[\@^\$!61ZWOC@>"X%(RSN^0Q".:1<H)G^\[0\%LQU6-.T1V[.0]:J
+M3^@$1)$U :YW]O@5(5C)S3A;B]:#(6"BW?QR34[S.*0 $1D=?9 ?7L6EH! !
+M"6(Z@-)35&V Q)F:N'(M5CDOCM6@$8HS<&4=*A2CR%#<!$!#$+8H"6<JD$^1
+M4FN8]AC8MP'6#0XID"&@E20<MS;?!P12>!98X@Z@%U.#!( R*JV%GKT: ?(U
+M$@2ED2;%ZUWSO<DSC_UHBCIQ7*\!@<TZ$*49I1/-!$,EZHZ/,! S& J$S)>'
+:_]H " $" P$_$/H?_]H " $# P$_$/H?_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

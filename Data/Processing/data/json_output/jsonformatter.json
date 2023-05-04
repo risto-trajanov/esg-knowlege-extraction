@@ -1,0 +1,115 @@
+{
+  "docid": "30113947",
+  "title": "Shareholder Resolution",
+  "uri": "Q7835192",
+  "text": "RESOLVED: Shareholders request the Company to set and publish targets to reduce GHG emissions of the Company's operations and energy products (Scope 1, 2, and 3) consistent with the Paris Climate Agreement. Shareholders support oil and gas companies to reduce their emissions.",
+  "entities": [
+    {
+      "uri": "Q7835193",
+      "boundaries": [
+        11,
+        23
+      ],
+      "surfaceform": "Shareholders",
+      "annotator": "Investor"
+    },
+    {
+      "uri": "Q7835194",
+      "boundaries": [
+        35,
+        42
+      ],
+      "surfaceform": "Company",
+      "annotator": "Asset"
+    },
+    {
+      "uri": "Q7835195",
+      "boundaries": [
+        79,
+        94
+      ],
+      "surfaceform": "greenhouse gas",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q7835196",
+      "boundaries": [
+        128,
+        147
+      ],
+      "surfaceform": "Paris Climate Agreement",
+      "annotator": "Goal"
+    },
+    {
+      "uri": "Q7835197",
+      "boundaries": [
+        174,
+        188
+      ],
+      "surfaceform": "oil and gas companies",
+      "annotator": "Oil & Gas"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q7835193",
+        "boundaries": [
+          11,
+          23
+        ],
+        "surfaceform": "Shareholders",
+        "annotator": "Investor"
+      },
+      "predicate": {
+        "uri": "P1419",
+        "boundaries": null,
+        "surfaceform": "request",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835194",
+        "boundaries": [
+          35,
+          42
+        ],
+        "surfaceform": "Company",
+        "annotator": "Asset"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q7835193",
+        "boundaries": [
+          11,
+          23
+        ],
+        "surfaceform": "Shareholders",
+        "annotator": "Investor"
+      },
+      "predicate": {
+        "uri": "P1419",
+        "boundaries": null,
+        "surfaceform": "support",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835197",
+        "boundaries": [
+          174,
+          188
+        ],
+        "surfaceform": "oil and gas companies",
+        "annotator": "Oil & Gas"
+      },
+      "sentence_id": 2,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    }
+  ]
+}

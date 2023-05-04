@@ -1,0 +1,145 @@
+{
+  "docid": "7835179",
+  "title": "Shell Emission Reduction Ruling",
+  "uri": "Q7835179",
+  "text": "In 2021, a Dutch court ordered Shell to severely reduce their worldwide emissions (Scope 1, 2, and 3) by 2030. This indicates that oil majors and large investors have an individual legal responsibility to combat dangerous climate change by reducing emissions and confirms the risk of liability.\n\nWe believe that the Company could lead and thrive in the energy transition. We therefore encourage you to set targets that are inspirational for society, employees, shareholders, and the energy sector, allowing the company to meet an increasing demand for energy while reducing GHG emissions to levels consistent with curbing climate change.",
+  "entities": [
+    {
+      "uri": "Q154950",
+      "boundaries": [
+        22,
+        27
+      ],
+      "surfaceform": "Dutch",
+      "annotator": "Social"
+    },
+    {
+      "uri": "Q41910",
+      "boundaries": [
+        33,
+        38
+      ],
+      "surfaceform": "Shell",
+      "annotator": "Energy"
+    },
+    {
+      "uri": "Q212836",
+      "boundaries": [
+        76,
+        84
+      ],
+      "surfaceform": "emissions",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q26009",
+      "boundaries": [
+        266,
+        273
+      ],
+      "surfaceform": "company",
+      "annotator": "Asset"
+    },
+    {
+      "uri": "Q212836",
+      "boundaries": [
+        478,
+        486
+      ],
+      "surfaceform": "emissions",
+      "annotator": "Environmental"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q41910",
+        "boundaries": [
+          33,
+          38
+        ],
+        "surfaceform": "Shell",
+        "annotator": "Energy"
+      },
+      "predicate": {
+        "uri": "P3716",
+        "boundaries": null,
+        "surfaceform": "emission reduction order",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835179",
+        "boundaries": [
+          0,
+          60
+        ],
+        "surfaceform": "Shell Emission Reduction Ruling",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q26009",
+        "boundaries": [
+          266,
+          273
+        ],
+        "surfaceform": "company",
+        "annotator": "Asset"
+      },
+      "predicate": {
+        "uri": "P2860",
+        "boundaries": null,
+        "surfaceform": "set targets",
+        "annotator": "Goal-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835179",
+        "boundaries": [
+          0,
+          60
+        ],
+        "surfaceform": "Shell Emission Reduction Ruling",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 2,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Goal-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q26009",
+        "boundaries": [
+          266,
+          273
+        ],
+        "surfaceform": "company",
+        "annotator": "Asset"
+      },
+      "predicate": {
+        "uri": "P8211",
+        "boundaries": null,
+        "surfaceform": "reduce GHG emissions",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835179",
+        "boundaries": [
+          0,
+          60
+        ],
+        "surfaceform": "Shell Emission Reduction Ruling",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 2,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    }
+  ]
+}

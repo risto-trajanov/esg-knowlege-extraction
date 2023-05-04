@@ -1,0 +1,508 @@
+<SEC-DOCUMENT>0001193125-21-027387.txt : 20210203
+<SEC-HEADER>0001193125-21-027387.hdr.sgml : 20210203
+<ACCEPTANCE-DATETIME>20210203164728
+ACCESSION NUMBER:		0001193125-21-027387
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20210203
+DATE AS OF CHANGE:		20210203
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		21586812
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9729406000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d55830ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the
+Registrant&nbsp;&nbsp; &#9746; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filed by a Party other than the Registrant &#9744; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Preliminary Proxy Statement</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B></B>&#9744;<B></B><B></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"><B>Confidential, for Use of the Commission Only(as permitted by Rule <FONT STYLE="white-space:nowrap">14a-6(e)(2))</FONT></B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Proxy Statement</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Additional Materials</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Soliciting Material Pursuant to <FONT STYLE="white-space:nowrap">&#167;240.14a-12</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>E<SMALL>XXON</SMALL> M<SMALL>OBIL</SMALL> C<SMALL>ORPORATION</SMALL> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified In Its Charter) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules <FONT STYLE="white-space:nowrap">14a-6(i)(4)</FONT> and <FONT STYLE="white-space:nowrap">0-11.</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Title of each class of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Aggregate number of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11</FONT>
+(set forth the amount on which the filing fee is calculated and state how it was determined):</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Proposed maximum aggregate value of transaction:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Total fee paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee paid previously with preliminary materials.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11(a)(2)</FONT> and identify the filing for which the offsetting fee was paid previously. Identify the
+previous filing by registration statement number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Amount Previously Paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Form, Schedule or Registration Statement No.:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filing Party:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date Filed:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>This submission contains a press release issued December 14, 2020 regarding the Company&#146;s emission
+reduction plans, which may be discussed with shareholders. </I></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="71%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="28%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top"><FONT STYLE="font-size:10pt"><I>News Release</I></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g55830g1224011515857.jpg" ALT="LOGO">
+</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">CONTACT: &nbsp;&nbsp;&nbsp;&nbsp;Media Relations</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; text-indent:2.00em; font-size:10pt; font-family:Times New Roman"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;972-940-6007</FONT></FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Exxon Mobil Corporation</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">5959 Las Colinas
+Boulevard</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Irving, TX 75039-2298</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">972 940 6007 Telephone</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">972 940 6143 Facsimile</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">FOR IMMEDIATE RELEASE</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">MONDAY, DECEMBER&nbsp;14,
+2020</P></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ExxonMobil Announces Emission Reduction Plans; Expects to Meet 2020 Goals </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Greenhouse gas plans consistent with goals of Paris Agreement </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Sets 2025 greenhouse gas emission reduction plan: intensity of upstream emissions to drop by <FONT
+STYLE="white-space:nowrap">15-20%;</FONT> methane intensity by <FONT STYLE="white-space:nowrap">40-50%;</FONT> flaring intensity by <FONT STYLE="white-space:nowrap">35-45%</FONT> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Aims for industry-leading greenhouse gas performance across its businesses by 2030 </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Plans to eliminate routine flaring by 2030; provide Scope 3 emissions beginning in 2021 </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Anticipates meeting 2020 methane and flaring reductions </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">IRVING, Texas &#150; ExxonMobil said today it plans further reductions in greenhouse gas emissions over the next five years to support the goals of the Paris
+Agreement and anticipates meeting <FONT STYLE="white-space:nowrap">year-end</FONT> 2020 reductions. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ExxonMobil plans to reduce the intensity of operated
+upstream greenhouse gas emissions by 15 to 20&nbsp;percent by 2025, compared to 2016 levels. This will be supported by a 40 to 50&nbsp;percent decrease in methane intensity, and a 35 to 45&nbsp;percent decrease in flaring intensity across its global
+operations. The emission reduction plans, which cover Scope 1 and Scope 2 emissions from operated assets, are projected to be consistent with the goals of the Paris Agreement. The company also plans to align with the World Bank&#146;s initiative to
+eliminate routine flaring by 2030. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;These meaningful near-term emission reductions result from our ongoing business planning process as we work
+towards industry-leading greenhouse gas performance across all our business lines,&#148; said Darren Woods, chairman and chief executive officer of Exxon Mobil Corporation. &#147;We respect and support society&#146;s ambition to achieve net zero
+emissions by 2050, and continue to advocate for policies that promote cost-effective, market-based solutions to address the risks of climate change.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ExxonMobil&#146;s plans will leverage the continued application of operational efficiencies, and ongoing development and deployment of lower-emission
+technologies. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The plan is the result of several months of detailed analysis and includes input from shareholders. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Other measures include: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Continued investments in lower-emission technologies, such as carbon capture, manufacturing efficiencies, and
+advanced biofuels </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Increased cogeneration capacity at manufacturing facilities </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Continued support for sound policies that put a price on carbon </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Continued accounting for environmental performance as part of executive compensation. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ExxonMobil will also provide Scope 3 emissions on an annual basis, but notes that reporting of these indirect emissions does not ultimately incentivize
+reductions by the actual emitters. Meaningful decreases in global greenhouse gas emissions will require changes in society&#146;s energy choices coupled with the development and deployment of affordable lower-emission technologies. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Since 2000, the company has invested more than $10&nbsp;billion researching, developing and deploying lower-emission technologies, including nearly
+$3&nbsp;billion at cogeneration facilities that more efficiently produce electricity and reduce related emissions. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In 2018, ExxonMobil announced plans to
+achieve by <FONT STYLE="white-space:nowrap">year-end</FONT> 2020, a 15&nbsp;percent decrease in methane emissions and a 25&nbsp;percent reduction in flaring, compared with 2016 levels. The company anticipates meeting both by year end. Detailed
+emissions performance is reported in annual publications, including the Energy and Carbon Summary. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The company has supported the Paris Agreement from its
+inception and continues to support U.S. government participation in the framework. ExxonMobil assesses its business strategy and plans against a range of scenarios, including those that meet the objectives of the Paris Agreement, which assume
+progress in technologies, infrastructure and government policies related to climate change. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The company supported the Oil and Gas Climate
+Initiative&#146;s announcement to reduce methane and carbon intensity for upstream operations. It also deployed new technologies throughout its operations to reduce flaring and methane emissions, while working to test <U>new technologies</U> to
+detect and measure fugitive emissions. ExxonMobil publicly supports the regulation of methane from new and existing sources and issued a <U>methane regulatory framework</U> for governments to consider as they draft new policies. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">### </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>About ExxonMobil </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ExxonMobil, one of the largest publicly traded international energy companies, uses technology and innovation to help meet the world&#146;s growing energy
+needs. ExxonMobil holds an industry-leading inventory of resources, is one of the largest refiners and marketers of petroleum products, and its chemical company is one of the largest in the world. To learn more, visit <U>exxonmobil.com</U> and the
+<U>Energy Factor</U>. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Follow us on <U>Twitter</U> and <U>LinkedIn</U><U>.</U> </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Cautionary Statement </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Statements of future events, goals or conditions in this release are forward-looking statements. Actual future results, including project plans and timing,
+future reductions in emissions and emissions intensity, and the impact of operational and technology efforts could vary depending on the ability to execute operational objectives on a timely and successful basis; changes in laws and regulations
+including international treaties and laws and regulations regarding greenhouse gas emissions and carbon costs; trade patterns and the development and enforcement of local, national and regional mandates; unforeseen technical or operational
+difficulties; the outcome of research efforts and future technology developments, including the ability to scale projects and technologies on a commercially competitive basis; changes in supply and demand and other market factors affecting future
+prices of oil, gas, and petrochemical products; changes in the relative energy mix across activities and geographies; the actions of competitors; changes in regional and global economic growth rates and consumer preferences; the pace of regional and
+global recovery from the <FONT STYLE="white-space:nowrap">COVID-19</FONT> pandemic and actions taken by governments and consumers resulting from the pandemic; changes in population growth, economic development or migration patterns; and other
+factors discussed in this release and in Item 1A. &#147;Risk Factors&#148; in ExxonMobil&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> for 2019 and subsequent Quarterly Reports on Forms
+<FONT STYLE="white-space:nowrap">10-Q,</FONT> as well as under the heading &#147;Factors Affecting Future Results&#148; on the Investors page of ExxonMobil&#146;s website at&nbsp;www.exxonmobil.com. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Important Additional Information Regarding Proxy Solicitation </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exxon Mobil Corporation (&#147;ExxonMobil&#148;) intends to file a proxy statement and associated BLUE proxy card with the U.S. Securities and Exchange
+Commission (the &#147;SEC&#148;) in connection with the solicitation of proxies for ExxonMobil&#146;s 2021 Annual Meeting (the &#147;Proxy Statement&#148;). ExxonMobil, its directors and certain of its executive officers will be participants in the
+solicitation of proxies from shareholders in respect of the 2021 Annual Meeting. Information regarding the names of ExxonMobil&#146;s directors and executive officers and their respective interests in ExxonMobil by security holdings or otherwise is
+set forth in ExxonMobil&#146;s Annual Report on Form 10-K for the fiscal year ended December 31, 2019, filed with the SEC on February 26, 2020, ExxonMobil&#146;s proxy statement for the 2020 Annual Meeting of Shareholders, filed with the SEC on
+April 9, 2020 and ExxonMobil&#146;s Form 8-K filed with the SEC on December 1, 2020. To the extent holdings of such participants in ExxonMobil&#146;s securities are not reported, or have changed since the amounts described, in the 2020 proxy
+statement, such changes have been reflected on Initial Statements of Beneficial Ownership on Form 3 or Statements of Change in Ownership on Form 4 filed with the SEC. Details concerning the nominees of ExxonMobil&#146;s Board of Directors for
+election at the 2021 Annual Meeting will be included in the Proxy Statement. BEFORE MAKING ANY VOTING DECISION, INVESTORS AND SHAREHOLDERS OF THE COMPANY ARE URGED TO READ ALL RELEVANT DOCUMENTS FILED WITH OR FURNISHED TO THE SEC, INCLUDING THE
+COMPANY&#146;S DEFINITIVE PROXY STATEMENT AND ANY SUPPLEMENTS THERETO AND ACCOMPANYING BLUE PROXY CARD WHEN THEY BECOME AVAILABLE, BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION. Investors and shareholders will be able to obtain a copy of the
+definitive Proxy Statement and other relevant documents filed by ExxonMobil free of charge from the SEC&#146;s website, <U>www.sec.gov</U>. ExxonMobil&#146;s shareholders will also be able to obtain, without charge, a copy of the definitive Proxy
+Statement and other relevant filed documents by directing a request by mail to ExxonMobil Shareholder Services at 5959 Las Colinas Boulevard, Irving, Texas, 75039-2298 or at <U>shareholderrelations@exxonmobil.com</U> or from the investor relations
+section of ExxonMobil&#146;s website, <U>www.exxonmobil.com/investor</U>. </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g55830g1224011515857.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g55830g1224011515857.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  G ,H# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#(TG3+C6=3
+MAT^UV>=,2%WG X!/\A74_P#"K/$7K:?]_3_A7,Z'J<^C:Q;ZA;1K)-"251@<
+M'*D?UKM?^%IZ[_T#;;_OEO\ &O-@J=O?/TC'2S!5%]52Y;=>YWOA/3Y/#GA>
+MVLM1EACD1WR=_P O+$CDX[5MQ7EM.^R&XAD;&<(X)K)LUC\5>%(&U*!?]*CW
+M.@R-ISU'H:\CUG2]6\#:_'/#,YC#;H)^S#T/OZBNN4_9Q5EH?)4,%''UJD:D
+M^6K=Z6T;\F>I>-/%4?AG2\Q[7OIN(4/;U8^PK-\#:UXB\0E[R_:)+!,JNV+!
+MD;V/H*X'3K;4/B%XL,ER^$^]*1TCC'8"O0?%_B&V\'Z#'INFA8[ITV0HO_+-
+M?[WU_K4*HY-S;M%'95P-.A3C@H14JT]W_*OZ_P ^QUK7]FK%6NX P."#(,@T
+M^XN;>UC\RXGCA3^](X4?K7D'@O0L6UQXGU<.UG:JTD2,?]8PYS],_K62#KGQ
+M UYPC[CRV"V$B2G[=V6FK,ED=-U91]K[L/B=NO9:_>>X6VI6-ZQ6UO+>=AU$
+M<@8_I5EF"J68@*!DDG@5X3K?A+6O""Q7ZSYC#@":%B"K=LUZ!HWB)_$7P]U*
+M6<_Z5!:RQS$?Q'8<-^(_D:J%9M\LE9F&*RF,*<:U"ISP;M?L=@E[:R;O+N86
+MVC+;9 <#U-10:MIUS-Y,%_;2R_W$E4G\@:\"\.Z;J.NZF=.LIVC\Q29&+' 0
+M$'G\<5:\2>%]0\(W-N[SAUER8Y8R1R,9'ZBH^L2MS<NAW/A_#QJ^P=;WWLK'
+MM^O?\B[J?_7I+_Z :^;MC$,P!(7J?2O<M*U:76OAI/=W!S/]CF21O[Q56&?Q
+M&*\K\.6/]H6.O1 99+$S+_P!T/\ +-17]]QL=61)X6%:,_LR2?WV/8/ E]]O
+M\&Z>Y.6C0PMG_9.!^F*\>\9WC:EXNU.=<LJ2E![!?E_I^M=I\--96S\+ZRLC
+M?\>>;@ ^A4__ !/ZUQFFVAN/#WB#4Y.6C2) Q[L\JY_0'\Z527-"*_K0TP&'
+M6&QN(J/:Z2_[>:_X!VWP?_X]M6_WHO\ V:O2I9HX(S)-(D:#JSL !^->9_")
+MUCL]8=SA5,9)]!AZYC5=6U;QUXC%K:%_*9R((<X55'<^^.IK2%3DIKN<&,RZ
+M6,S&LW+EC&S;^2/:K?5M.NY/+M[^VE?^['*K'\@:N5X;K/@'6?#UC_:*S)(D
+M6&D,1(*>_P!*[OX<^*)]<T^:SO7+W5J!B0]70^ON/\*N%5N7+)69PXS*H0H?
+M6,-4YXK?R.#\&_\ )2K;_KM+_P"@M7LO]LZ7YWD_VC:>9G&SSESG\Z^?1!=W
+M7B&2WL0YN)9F1 IP3DD']*Z+4OAOK>G:<]]YD<QC7?(B,=P ZX]:PI5)1B^5
+M7/>S3 8?$5H2K5>5M))??_F>W5Y+JW@Z_N?&<]^EU8"-KKS K7 #8SZ8ZU;^
+M&'BBXGG;1+R0R (7MV8\C'5?RY_"N5UYV'Q%N5#''V[IG_:JZE2,X)G%EN!K
+MX7%U:*DDU'>U[J_J=)\8?]=I'^[+_-*\QKT[XP_Z[2/]V7^:5YC6%?\ B,]O
+M(O\ D7T_G^;-_P %3VUMXOT^:[=$@5GWM)]T?(W7\:]G_M[PS_S^6/Z5P_\
+MPJ&;_H)Q_P#?!H_X5%-_T%$_[X-;4U5@K<IY.85,MQM15)5VK*VB?^1Z7;WM
+ME+8_:K>>(VJ@GS%/R@#K7C7BC6[OQOXBAT_3T9K9'V0)_>/=C_GI7=/X,OQX
+M1M] @U)(XU9VF?:<N"Q('TYJ7PQX1LO!T%U?75PDDNTYF(P(T'6M)J<[1>BZ
+MGGX*KA,%SUHRYYW:BK/[_G_6YYG>66K^ /$$<BO@CYHY%^Y*O<?_ %JL:'IU
+MYX^\5RW%[)^[!\R=@?NKV4?RIVM:G?>/_%,5K9H?(#%($/\ "O=C^6:JW%OK
+M'P_\1*RL00<HX^Y,E<VB?]VY]*G.5)1DXQQ#C_7]=SU[Q+I?G>#+[3[*/8%@
+M_=H@_NX.!^5>9_#37K+1=5NH;]Q$MRBJLC= 03P?KG]*]1\-^([/Q)IJW-N0
+MLJ\2PD\H?\/>N9\1_#*UU2Z>[TZ9;65SEHR/D)]1CI73.+;52!\W@<13I0JX
+M'&WBI/?L_P"DB/XC>)M,D\.2Z;;W$<]Q.R<(<[ "&R?RQ^-9W@2TEA\!>(;E
+MU(CGAD"9[[8VR?U_2G:;\)&6X5M2OT:(')2$'+?B>E>A2Z5"- FTJT58(FMV
+MA3 X7*D9_6E&$Y2YY*Q=?%X3#8983#RYKR3;^[_)'E?PF_Y&BZ_Z]&_]"6MS
+MXO?\@W3?^NK_ ,A6GX1\"R>&=5EO&O%F#PF/:%QU(.?TJ_XQ\*OXIMK6%+E8
+M/)=F)(SG(%)4Y>Q<;:E5L?AY9M'$*7N+KKV9B^$?^24W?_7&Y_D:YKX51+/K
+MVH1.,H]DZL/4%E%>AZ/X:?2_",VB&X5VD251(!P-X(_K6=X0\#2>&-3FNVO%
+MF$D)CVA<8^8'/Z4_9RO#383Q]#V>*2EK-WCYZGDZW<^A2ZQIW.9E:V?VPX)/
+MZ$?C75VUA]E^#-]<$8:ZG5_P$BJ/Y'\ZW=>^&9U?7+K4(KY(EG??L*G@XY_7
+M-=!?^%Q=>"D\/13A-L<:>:1U*D$G'N1^M1&C)7OV=CLQ6;X:<:3C+5RBY;]/
+MZ_ XWX6PM<Z/K\"G#2HJ ^Y5Q7.>"=4A\.>+M^H@Q(5>"0L/]6<]3^(Q7I_@
+MWPD_A6.\5[E9_M!0C"XQC/\ C57Q3\/;/7[AKRWD^RW;??.,JY]3[T_934(M
+M;HQ_M/"RQ5>G4?[NI;5>2L.\7^+-(A\-7D,5W%/-<PM'&B'.=PQGZ"N8^$5G
+M*;_4+T@B)8A$#V))!_3'ZTMI\([GSU^V:C%Y(//E DG\Z]*TK2K31M/CLK*/
+M9$GYL?4^]5&,YS4I*UCFQ&(P>%P<L-AI<[GN^QX=H&K0Z)XX6]N5S"LSJYQR
+MH.1G\,UZSJ_C/1+31YITO8IV>,B.-#DN2.!7+GX3>=?233ZD/+=F8A$YYSC]
+M<52_X5%>_:,'4H/)SUP=V/IBH@JL$TD=V+J97C*L:E2K9Q2[Z_@97PPM);CQ
+MC'.BGR[>-W<_52H_4U3U_P#Y*/<_]?P_]"KV+P[X;LO#5@;>T!9W.9)6^\Y_
+MPKE]0^'$M[XDEU87Z*'G\[9M/'.<4.C)027<5+.,//&U*LW:/+RKSUN9?QA_
+MUVD?[LO\TKS&O=_&?@Y_%3V;)=+!]G#@Y&<[L?X5RW_"H9O^@G'_ -\&IK4I
+MRFVD;Y3FN$H8.%.I.S5^C[L]5HHHKN/B0K&\1Z#_ ,)#8K9O>RV\&<NL8'S^
+MF?8444FDU9FE*K.E-3@[-%;PQX/L/# F:W9III>#*XY"^@J]KNA67B'37L[Q
+M.O*2 ?-&WJ***2A%+EMH:2Q5:5;V\I/F[GBC'5/ /BAD21?-B/.#E94/J/>O
+M:O#^NVWB+28[^V#*"=KHPY5AU'O]:**YJ+<:C@MCZ;.*<:^7T\7->_IKZHU:
+H***ZSY$**** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@#__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

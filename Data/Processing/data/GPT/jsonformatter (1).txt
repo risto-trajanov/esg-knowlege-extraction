@@ -1,0 +1,130 @@
+{
+  "docid": "unknown",
+  "title": null,
+  "uri": null,
+  "text": "This focus has led many Chevron peers (including BP, Eni, Equinor, Repsol, Royal Dutch Shell, and Total) to commit to major GHG reductions, including setting “net zero emission” goals by 2050.",
+  "entities": [
+    {
+      "uri": "Q657220",
+      "boundaries": [
+        45,
+        48
+      ],
+      "surfaceform": "Chevron",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q49084",
+      "boundaries": [
+        53,
+        55
+      ],
+      "surfaceform": "BP",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q148888",
+      "boundaries": [
+        57,
+        59
+      ],
+      "surfaceform": "Eni",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q476232",
+      "boundaries": [
+        61,
+        68
+      ],
+      "surfaceform": "Equinor",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q182303",
+      "boundaries": [
+        70,
+        76
+      ],
+      "surfaceform": "Repsol",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q239671",
+      "boundaries": [
+        78,
+        93
+      ],
+      "surfaceform": "Royal Dutch Shell",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q796687",
+      "boundaries": [
+        95,
+        100
+      ],
+      "surfaceform": "Total",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q494541",
+      "boundaries": [
+        87,
+        88
+      ],
+      "surfaceform": "GHG",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q14921656",
+      "boundaries": [
+        107,
+        127
+      ],
+      "surfaceform": "net zero emission",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q39278",
+      "boundaries": [
+        131,
+        135
+      ],
+      "surfaceform": "2050",
+      "annotator": "Me"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q657220",
+        "boundaries": [
+          45,
+          48
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P127",
+        "boundaries": null,
+        "surfaceform": "owned by",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "object": {
+        "uri": null,
+        "boundaries": [
+          53,
+          135
+        ],
+        "surfaceform": "BP, Eni, Equinor, Repsol, Royal Dutch Shell, and Total) to commit to major GHG reductions, including setting “net zero emission” goals by 2050.",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    }
+  ]
+}

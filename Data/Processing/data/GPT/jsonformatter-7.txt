@@ -1,0 +1,145 @@
+{
+  "docid": "30113943",
+  "title": "Portfolio Carbon Intensity Methodology",
+  "uri": "Q7835181",
+  "text": "We have heard our stockholders’ requests for relevant and comparable data to allow them to evaluate how we are performing on GHG management compared to others in our industry. Chevron has developed the Portfolio Carbon Intensity (“PCI”) methodology, which we believe addresses the interests of stakeholders wanting comparable metrics that address Scopes 1, 2 and 3 emissions.",
+  "entities": [
+    {
+      "uri": "Q5255891",
+      "boundaries": [
+        107,
+        124
+      ],
+      "surfaceform": "GHG management",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q26009",
+      "boundaries": [
+        167,
+        174
+      ],
+      "surfaceform": "Chevron",
+      "annotator": "Asset"
+    },
+    {
+      "uri": "Q7835181",
+      "boundaries": [
+        0,
+        34
+      ],
+      "surfaceform": "Portfolio Carbon Intensity Methodology",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q19829197",
+      "boundaries": [
+        294,
+        305
+      ],
+      "surfaceform": "Scopes 1, 2",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q24052528",
+      "boundaries": [
+        310,
+        321
+      ],
+      "surfaceform": "3 emissions",
+      "annotator": "Environmental"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q26009",
+        "boundaries": [
+          167,
+          174
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Asset"
+      },
+      "predicate": {
+        "uri": "P2541",
+        "boundaries": null,
+        "surfaceform": "developed",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835181",
+        "boundaries": [
+          0,
+          34
+        ],
+        "surfaceform": "Portfolio Carbon Intensity Methodology",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q7835181",
+        "boundaries": [
+          0,
+          34
+        ],
+        "surfaceform": "Portfolio Carbon Intensity Methodology",
+        "annotator": "Environmental"
+      },
+      "predicate": {
+        "uri": "P7908",
+        "boundaries": null,
+        "surfaceform": "addresses",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q19829197",
+        "boundaries": [
+          294,
+          305
+        ],
+        "surfaceform": "Scopes 1, 2",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q7835181",
+        "boundaries": [
+          0,
+          34
+        ],
+        "surfaceform": "Portfolio Carbon Intensity Methodology",
+        "annotator": "Environmental"
+      },
+      "predicate": {
+        "uri": "P7908",
+        "boundaries": null,
+        "surfaceform": "addresses",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q24052528",
+        "boundaries": [
+          310,
+          321
+        ],
+        "surfaceform": "3 emissions",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    }
+  ]
+}

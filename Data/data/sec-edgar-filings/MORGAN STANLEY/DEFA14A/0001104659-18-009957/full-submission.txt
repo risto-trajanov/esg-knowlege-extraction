@@ -1,0 +1,1698 @@
+<SEC-DOCUMENT>0001104659-18-009957.txt : 20180215
+<SEC-HEADER>0001104659-18-009957.hdr.sgml : 20180215
+<ACCEPTANCE-DATETIME>20180215090611
+ACCESSION NUMBER:		0001104659-18-009957
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		5
+FILED AS OF DATE:		20180215
+DATE AS OF CHANGE:		20180215
+EFFECTIVENESS DATE:		20180215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MORGAN STANLEY INSTITUTIONAL FUND INC
+		CENTRAL INDEX KEY:			0000836487
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05624
+		FILM NUMBER:		18616348
+
+	BUSINESS ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		800-548-7786
+
+	MAIL ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY DEAN WITTER INSTITUTIONAL FUND INC
+		DATE OF NAME CHANGE:	19990329
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY INSTITUTIONAL FUND INC
+		DATE OF NAME CHANGE:	19920703
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000836487
+<SERIES-ID>S000002820
+<SERIES-NAME>ACTIVE INTERNATIONAL ALLOCATION PORTFOLIO
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000007736
+<CLASS-CONTRACT-NAME>CLASS I
+<CLASS-CONTRACT-TICKER-SYMBOL>MSACX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000007737
+<CLASS-CONTRACT-NAME>CLASS A
+<CLASS-CONTRACT-TICKER-SYMBOL>MSIBX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000113799
+<CLASS-CONTRACT-NAME>Class L
+<CLASS-CONTRACT-TICKER-SYMBOL>MSLLX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000155887
+<CLASS-CONTRACT-NAME>Class C
+<CLASS-CONTRACT-TICKER-SYMBOL>MSAAX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>a18-6091_1defa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+
+
+<html>
+<head>
+
+
+
+
+
+
+  </head>
+<body link=blue lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">UNITED STATES<br>  </font></b><b><font size="4" style="font-size:14.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">SCHEDULE 14A</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Proxy Statement Pursuant to Section 14(a) of<br> the Securities Exchange Act of 1934 (Amendment No. &nbsp;&nbsp;&nbsp;&nbsp;)</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed by the Registrant&nbsp;&nbsp;</font><font face="Wingdings">x</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed by a Party other than the Registrant</font>&nbsp;&nbsp;<font face="Wingdings">o</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box:</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Preliminary Proxy Statement</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Confidential, for   Use of the Commission Only (as permitted by Rule 14a-6(e)(2))</font></b></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Definitive Proxy Statement</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Definitive Additional Materials</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Soliciting Material under &#167;240.14a-12</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">MORGAN STANLEY   INSTITUTIONAL FUND, INC.</font></b></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name   of Registrant as Specified In Its Charter)</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name   of Person(s) Filing Proxy Statement, if other than the Registrant)</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Payment of Filing Fee (Check the   appropriate box):</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">No fee required.</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Fee computed on table below per   Exchange Act Rules 14a-6(i)(1) and 0-11.</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(1)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title of each class of securities to   which transaction applies:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Aggregate number of securities to   which transaction applies:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(3)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Per unit price or other underlying   value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth   the amount on which the filing fee is calculated and state how it was   determined):</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(4)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Proposed maximum aggregate value of   transaction:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(5)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Total fee paid:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Fee paid previously with preliminary   materials.</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check box if any part of the fee is   offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing   for which the offsetting fee was paid previously. Identify the previous   filing by registration statement number, or the Form or Schedule and the date   of its filing.</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(1)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Amount Previously Paid:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Form, Schedule or Registration   Statement No.:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(3)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filing Party:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(4)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date Filed:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr height="0">
+<td width="36" style="border:none;"></td>
+<td width="31" style="border:none;"></td>
+<td width="2" style="border:none;"></td>
+<td width="639" style="border:none;"></td>   </tr> </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109764\18-6091-1\task8738032\6091-1-ba.htm',USER='109764',CD='Feb 14 12:35 2018' -->
+
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">MORGAN STANLEY INSTITUTIONAL FUND,&nbsp;INC.</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">on behalf of its</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Active International Allocation Portfolio</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">c/o Morgan Stanley Investment Management Inc.<br> 522 Fifth Avenue<br> New York, NY 10036</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">NOTICE OF ADJOURNED SPECIAL MEETING</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">February&nbsp;15, 2018</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dear Shareholder:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We are writing to notify you that the special meeting (the &#147;Special Meeting&#148;) of the shareholders of the Active International Allocation Portfolio (the &#147;Fund&#148;), a portfolio of Morgan Stanley Institutional Fund,&nbsp;Inc. (the &#147;Company&#148;), which was originally scheduled for and convened on December&nbsp;8, 2017, as adjourned from time to time, has been further adjourned to a new date of March&nbsp;23, 2018 and will be reconvened on such date. The Special Meeting will be held at the offices of Morgan Stanley Investment Management Inc., 522 Fifth Avenue, 3rd Floor, New York, NY 10036 at 9:00 a.m., Eastern Time.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The purpose of the Special Meeting is:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>To change the Fund&#146;s investment objective.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>To consider and act upon any other business as may properly come before the Meeting or any adjournment or postponement thereof.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">To comply with applicable law with respect to the record date for such an adjourned shareholder meeting, the Board of Directors of the Company has established a new record date of February&nbsp;9, 2018 (the &#147;New Record Date&#148;) for the adjourned Special Meeting. Only shareholders of record at the close of business on the New Record Date are entitled to notice of and to vote at the adjourned Special Meeting (and any further adjournments thereof). The information in this letter amends the Notice of Special Meeting of Shareholders (the &#147;Original Notice&#148;) and the Proxy Statement for Morgan Stanley Institutional Fund,&nbsp;Inc. (the &#147;Proxy Statement&#148;) and any other information about the Special Meeting. If you were a shareholder of the Fund on October&nbsp;10, 2017 (the &#147;Original Record Date&#148;), you previously received the Original Notice and the Proxy Statement. If you were not a shareholder of the Fund on the Original Record Date, enclosed is the Original Notice and Proxy Statement.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&#151;IF YOU HAVE NOT PREVIOUSLY VOTED YOUR SHARES,</font></b>&nbsp;either because you have not previously received the Original Notice and Proxy Statement or because you did receive the Original Notice and Proxy Statement but have not yet voted, please cast your vote on the enclosed proxy card and return in the envelope provided. You may also cast your vote by telephone or internet using the instructions provided on the enclosed proxy card. The Board of Directors of the Company recommends a vote &#145;&#145;FOR&#146;&#146; the proposal to change the Fund&#146;s investment objective for the reasons discussed in the Proxy Statement.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">PLEASE REMEMBER TO VOTE YOUR SHARES AS SOON AS POSSIBLE</font></b>.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&#151; IF YOU HAVE PREVIOUSLY VOTED YOUR SHARES AND DO NOT WISH TO CHANGE YOUR VOTE,</font></b>&nbsp;no action is necessary. Unless we receive instructions from you to the contrary, we will vote your shares according to your instructions on any previously submitted proxy card or pursuant to any instructions previously submitted by telephone or through the internet. You may also vote additional shares obtained subsequent to the Original Record Date and owned as of the New Record Date, as described herein.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&#151; IF YOU HAVE PREVIOUSLY VOTED YOUR SHARES AND WISH TO CHANGE YOUR VOTE,</font></b>&nbsp;you may do so by following the directions on the enclosed proxy card or by casting your vote by telephone or internet using the instructions provided on the enclosed proxy card. You may also vote additional shares obtained subsequent to the Original Record Date and owned as of the New Record Date, as described herein.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109764\18-6091-1\task8738032\6091-1-bg.htm',USER='109764',CD='Feb 14 14:21 2018' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">At the close of business on February&nbsp;9, 2018 the Fund had 15,412,482.18 shares outstanding and entitled to vote. As of February&nbsp;9, 2018, the Directors and officers of the Company as a group owned less than 1% of any Class&nbsp;of the outstanding common stock of the Fund. As of February&nbsp;9, 2018, the following persons or entities owned, of record or beneficially, more than 5% of the shares of any Class&nbsp;of the Fund&#146;s outstanding shares:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Class&nbsp;I</font></b></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Morgan Stanley&nbsp;&amp; Co. LLC</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Harborside Financial Center</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Plaza II, 3rd Fl.</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Jersey City, NJ 07311</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>92.86%</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Class&nbsp;A</font></b></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Morgan Stanley&nbsp;&amp; Co. LLC</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Harborside Financial Center</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Plaza II, 3rd Fl.</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Jersey City, NJ 07311</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>69.60%</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Class&nbsp;A</font></b></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">State Street Bank&nbsp;&amp; Trust Company</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">105 Rosemont Rd.</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Westwood, MA 02090</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>7.47%</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Class&nbsp;A</font></b></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">National Financial Services LLC</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">499 Washington Blvd.</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Jersey City, NJ 07310</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>5.80%</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Class&nbsp;L</font></b></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Morgan Stanley&nbsp;&amp; Co. LLC</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Harborside Financial Center</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Plaza II, 3rd Fl.</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Jersey City, NJ 07311</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>73.43%</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Class&nbsp;C</font></b></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Wells Fargo Clearing Services LLC</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2801 Market St.</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Saint Louis, MO 63103</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>43.80%</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Class&nbsp;C</font></b></p>
+<p style="margin:0in 0in .0001pt;text-indent:1.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Morgan Stanley Investment Management</font></p>
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">485 Lexington Ave, 14th Fl.</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 1.0in;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">New York, NY 10017</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>36.05%</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">To the extent the information in the Original Notice and Proxy Statement has not been amended by this Notice, such information remains applicable to this solicitation of proxies and the Special Meeting of Shareholders. If you would like another copy of the Original Notice and Proxy Statement, it is available at https://www.proxy-direct.com/mor-29701.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We appreciate your careful and prompt consideration of this matter.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Sincerely,</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">MARY E. MULLIN</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Secretary</font></i></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109764\18-6091-1\task8738032\6091-1-bg.htm',USER='109764',CD='Feb 14 14:21 2018' -->
+
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Arial" style="font-size:14.0pt;font-weight:bold;">EVERY SHAREHOLDER&#146;S VOTE IS IMPORTANT</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt 5.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="57%" valign="top" style="padding:0in 0in 0in 0in;width:57.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="42%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:42.5%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="4" face="Arial" style="font-size:14.0pt;font-weight:bold;">EASY VOTING OPTIONS:</font></b></p>    </td>   </tr>
+<tr>
+<td width="57%" valign="top" style="padding:0in 0in 0in 0in;width:57.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="57%" valign="top" style="padding:0in 0in 0in 0in;width:57.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:6.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:6.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:6.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="57%" valign="top" style="padding:0in 0in 0in 0in;width:57.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-weight:bold;"><img width="58" height="56" src="g60911bi01i001.jpg" alt="GRAPHIC"></font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">VOTE ON THE INTERNET<br>   Log on to:<br>    <u>www.proxy-direct.com</u><br>   or scan the QR code<br>   Follow the on-screen instructions<br>    <i>available 24 hours</i></font></b></p>    </td>   </tr>
+<tr>
+<td width="57%" valign="top" style="padding:0in 0in 0in 0in;width:57.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:14.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:14.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="4" face="Arial" style="font-size:14.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="57%" rowspan="4" valign="top" style="padding:0in 0in 0in 0in;width:57.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" rowspan="4" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"><img width="51" height="61" src="g60911bi01i002.jpg" alt="GRAPHIC"></font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">VOTE BY PHONE</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">Call 1-800-337-3503</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">Follow the recorded instructions</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><i><font size="1" face="Arial" style="font-size:9.0pt;font-style:italic;font-weight:bold;">available 24 hours</font></i></b></p>    </td>   </tr>
+<tr>
+<td width="57%" valign="top" style="padding:0in 0in 0in 0in;width:57.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:14.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:14.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="4" face="Arial" style="font-size:14.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="57%" rowspan="4" valign="top" style="padding:0in 0in 0in 0in;width:57.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" rowspan="4" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-weight:bold;"><img width="42" height="62" src="g60911bi01i003.jpg" alt="GRAPHIC"></font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">VOTE BY MAIL</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">Vote, sign and date this Proxy Card</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">and return in the postage-paid</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">envelope</font></b></p>    </td>   </tr>
+<tr>
+<td width="57%" valign="top" style="padding:0in 0in 0in 0in;width:57.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:14.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:14.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="4" face="Arial" style="font-size:14.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="57%" rowspan="5" valign="top" style="padding:0in 0in 0in 0in;width:57.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" rowspan="5" valign="top" style="padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-weight:bold;"><img width="61" height="57" src="g60911bi01i004.jpg" alt="GRAPHIC"></font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">VOTE IN PERSON</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">Attend Shareholder Meeting</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">522 Fifth Avenue 3</font></b><b><font size="1" face="Arial" style="font-size:4.5pt;font-weight:bold;position:relative;top:-4.0pt;">rd</font></b><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">&nbsp;Floor</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">New York, NY 10036</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">on March 23, 2018</font></b></p>    </td>   </tr>  </table>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;">Please detach at perforation before mailing.</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">PROXY</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">MORGAN   STANLEY INSTITUTIONAL FUND, INC.</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.0%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr height="18" style="height:13.5pt;">
+<td width="8%" height="18" valign="top" style="height:13.5pt;padding:0in 0in 0in 0in;width:8.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" height="18" valign="bottom" style="height:13.5pt;padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="80%" height="18" valign="top" style="height:13.5pt;padding:0in 0in 0in 0in;width:80.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">ACTIVE   INTERNATIONAL ALLOCATION PORTFOLIO</font></b></p>    </td>
+<td width="2%" height="18" valign="bottom" style="height:13.5pt;padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="8%" height="18" valign="top" style="height:13.5pt;padding:0in 0in 0in 0in;width:8.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">SPECIAL   MEETING OF SHAREHOLDERS</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">TO BE HELD ON   MARCH 23, 2018</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>  </table>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="1" face="Arial" style="font-size:8.5pt;font-weight:bold;">This proxy is solicited on behalf of the Board of Directors of Morgan Stanley Institutional Fund, Inc.</font></b></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Arial" style="font-size:9.0pt;">The undersigned hereby constitutes and appoints John H. Gernon, Mary E. Mullin and Francesca Mead, and each of them, as proxies for the undersigned, with full power of substitution and resubstitution, and hereby authorizes said proxies, and each of them, to represent and vote, as designated on the reverse side, all shares of the Portfolio held of record by the undersigned on February 9, 2018 at the Special Meeting of Shareholders to be held at 522 Fifth Avenue, 3</font><font size="1" face="Arial" style="font-size:4.5pt;position:relative;top:-4.0pt;">rd</font><font size="1" face="Arial" style="font-size:9.0pt;">&#160;Floor, New York, NY 10036, on March 23, 2018 at 9:00 a.m., Eastern Time, and at any adjournments or postponements thereof.&#160; The undersigned hereby revokes any and all proxies with respect to such shares heretofore given by the undersigned.</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="1" face="Times New Roman" style="font-size:6.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">This proxy card, when properly executed, will be voted in the manner directed herein by the undersigned Shareholder, and, in the discretion of such proxies, upon any and all other matters as may properly come before the meeting or any adjournments or postponements thereof.&#160; If no direction is made, this proxy will be voted &#147;FOR&#148; the Proposal.</font></b></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">VOTE VIA THE INTERNET: <u>www.proxy-direct.com</u></font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">VOTE VIA THE TELEPHONE: 1-800-337-3503</font></b></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:21.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>
+<td width="14%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:14.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Arial" style="font-size:12.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" colspan="2" valign="top" bgcolor="#D8D8D8" style="background:#D8D8D8;border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:21.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Arial" style="font-size:12.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:5.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Arial" style="font-size:12.0pt;">&nbsp;</font></p>    </td>
+<td width="14%" valign="top" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:14.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Arial" style="font-size:12.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:8.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Arial" style="font-size:8.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="25%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:25.0%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr height="0">
+<td width="419" style="border:none;"></td>
+<td width="112" style="border:none;"></td>
+<td width="41" style="border:none;"></td>
+<td width="35" style="border:none;"></td>
+<td width="100" style="border:none;"></td>   </tr> </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:9.0pt;">&nbsp;</font></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;">MSI_29701_020918</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></b></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109952\18-6091-1\task8738565\6091-1-bi-01.htm',USER='109952',CD='Feb 14 16:53 2018' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Arial" style="font-size:14.0pt;">EVERY SHAREHOLDER&#146;S VOTE IS IMPORTANT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Arial" style="font-size:12.0pt;font-weight:bold;">Important Notice Regarding the Availability of Proxy Materials for the</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Arial" style="font-size:12.0pt;font-weight:bold;">Special Meeting of Shareholders to Be Held on March 23, 2018.</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Arial" style="font-size:12.0pt;">The Proxy Statement for this meeting is available at:&#160; <u>https://www.proxy-direct.com/mor-29701</u></font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in 6.0pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:normal;">&nbsp;</font></b></p>
+<p align="center" style="font-weight:bold;line-height:normal;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;">Please detach at perforation before mailing.</font></b></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">TO VOTE MARK BLOCKS BELOW IN BLUE OR BLACK INK AS SHOWN IN THIS EXAMPLE:&#160;&#160;&#160; </font></b><font size="5" face="Wingdings" style="font-size:18.0pt;position:relative;top:3.0pt;">x</font><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">&#160; </font></b></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="1" face="Times New Roman" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="3%" bgcolor="black" style="background:black;padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" color="white" face="Times New Roman" style="color:white;font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" color="white" face="Arial" style="color:white;font-size:8.0pt;font-weight:bold;">A</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="96%" colspan="5" style="padding:0in 0in 0in 0in;width:96.66%;">
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 65.55pt;text-indent:-60.5pt;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">Proposal</font></b><b><font face="Times New Roman" style="font-weight:bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">THE BOARD RECOMMENDS THAT YOU CAST YOUR VOTE   &#147;FOR&#148; THE PROPOSAL AS DESCRIBED IN THE PROXY STATEMENT.</font></b></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:6.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="73%" colspan="2" style="padding:0in 0in 0in 0in;width:73.6%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:6.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.82%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:6.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:6.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="7%" valign="top" style="padding:0in 0in 0in 0in;width:7.9%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:6.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="73%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:73.6%;">
+<p style="margin:0in 0in .0001pt 5.05pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.82%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">FOR</font></b></p>    </td>
+<td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">AGAINST</font></b></p>    </td>
+<td width="7%" valign="top" style="padding:0in 0in 0in 0in;width:7.9%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">ABSTAIN</font></b></p>    </td>   </tr>
+<tr>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>
+<td width="73%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:73.6%;">
+<p style="margin:0in 0in .0001pt 5.05pt;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.82%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>
+<td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>
+<td width="7%" valign="top" style="padding:0in 0in 0in 0in;width:7.9%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">1.</font></b></p>    </td>
+<td width="69%" valign="top" style="padding:0in 0in 0in 0in;width:69.18%;">
+<p style="margin:0in 0in .0001pt 5.05pt;text-align:justify;"><font size="1" face="Arial" style="font-size:9.0pt;">To change the Fund&#146;s investment   objective.</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.42%;">
+<p style="margin:0in 0in .0001pt 5.05pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.82%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="7%" valign="top" style="padding:0in 0in 0in 0in;width:7.9%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>   </tr>
+<tr>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="69%" valign="top" style="padding:0in 0in 0in 0in;width:69.18%;">
+<p style="margin:0in 0in .0001pt 5.05pt;text-align:justify;"><font size="1" face="Arial" style="font-size:9.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.42%;">
+<p style="margin:0in 0in .0001pt 5.05pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.82%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="7%" valign="top" style="padding:0in 0in 0in 0in;width:7.9%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">2.</font></b></p>    </td>
+<td width="69%" valign="top" style="padding:0in 0in 0in 0in;width:69.18%;">
+<p style="margin:0in 0in .0001pt 5.05pt;text-align:justify;"><font size="1" face="Arial" style="font-size:9.0pt;">To consider and act upon any other   business as may properly come before the Meeting or any adjournment(s) or   postponement(s) thereof.</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.42%;">
+<p style="margin:0in 0in .0001pt 5.05pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.82%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="7%" valign="top" style="padding:0in 0in 0in 0in;width:7.9%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 2.5in .0001pt .25in;text-align:justify;text-autospace:none;text-indent:-.25in;"><font size="1" face="Arial" style="font-size:9.0pt;">&nbsp;</font></p>
+<p style="margin:0in 2.5in .0001pt .25in;text-align:justify;text-autospace:none;text-indent:-.25in;"><font size="1" face="Arial" style="font-size:9.0pt;">&nbsp;</font></p>
+<p style="margin:0in 2.5in .0001pt .25in;text-align:justify;text-autospace:none;text-indent:-.25in;"><font size="1" face="Arial" style="font-size:9.0pt;">&nbsp;</font></p>
+<p style="margin:0in 2.5in .0001pt .25in;text-autospace:none;text-indent:-.25in;"><font size="1" face="Arial" style="font-size:9.0pt;">&nbsp;</font></p>
+<p style="margin:0in 2.5in .0001pt .25in;text-autospace:none;text-indent:-.25in;"><font size="1" face="Arial" style="font-size:9.0pt;">&nbsp;</font></p>
+<p style="margin:0in 2.5in .0001pt .25in;text-autospace:none;text-indent:-.25in;"><font size="1" face="Arial" style="font-size:9.0pt;">&nbsp;</font></p>
+<p style="margin:0in 2.5in .0001pt .25in;text-autospace:none;text-indent:-.25in;"><font size="1" face="Arial" style="font-size:9.0pt;">&nbsp;</font></p>
+<p style="margin:0in 2.5in .0001pt .25in;text-autospace:none;text-indent:-.25in;"><font size="1" face="Arial" style="font-size:9.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="3%" bgcolor="black" style="background:black;padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" color="white" face="Times New Roman" style="color:white;font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" color="white" face="Arial" style="color:white;font-size:8.0pt;font-weight:bold;">B</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="96%" colspan="4" style="padding:0in 0in 0in 0in;width:96.66%;">
+<p style="margin:0in 0in .0001pt 5.05pt;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">Authorized Signatures &#151;   This section must be completed for your vote to be counted.&#151; Sign and Date   Below</font></b></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="73%" style="padding:0in 0in 0in 0in;width:73.6%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.82%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="9%" valign="top" style="padding:0in 0in 0in 0in;width:9.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="7%" valign="top" style="padding:0in 0in 0in 0in;width:7.9%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>  </table>
+<p style="margin:0in 2.5in .0001pt .25in;text-autospace:none;text-indent:-.25in;"><font size="1" face="Arial" style="font-size:6.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .35in;text-indent:-.35in;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">Note</font></b><font size="1" face="Arial" style="font-size:7.0pt;">: Please sign exactly as your name(s) appear(s) on this proxy card, and date it.&#160; When shares are held jointly, each holder should sign.&#160; When signing as attorney, executor, administrator, trustee, guardian, officer of corporation or other entity or in another representative capacity, please give the full title under the signature.</font></p>
+<p style="margin:0in 0in .0001pt .25in;text-indent:-.25in;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="99%" style="border-collapse:collapse;">
+<tr>
+<td width="30%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:30.5%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">Date (mm/dd/yyyy) &#151; Please   print date below</font></b></p>    </td>
+<td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.62%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:32.88%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">Signature 1 &#151; Please keep signature   within the box</font></b></p>    </td>
+<td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:32.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">Signature 2 &#151; Please keep   signature within the box</font></b></p>    </td>   </tr>
+<tr>
+<td width="30%" valign="top" style="border:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:30.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><i><font size="6" face="Arial" style="font-size:22.0pt;font-style:italic;font-weight:bold;">/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /</font></i></b></p>    </td>
+<td width="2%" valign="bottom" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:2.62%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:32.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="bottom" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:32.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="4" face="Arial" style="font-size:14.0pt;font-weight:bold;">608999900109999999999</font></b></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="11%" style="padding:0in 0in 0in 0in;width:11.62%;">
+<p align="right" style="margin:0in 0in .0001pt 2.9pt;text-align:right;"><font size="2" face="Arial" style="font-size:1.0pt;position:relative;top:5.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Times New Roman" style="font-size:2.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="11%" rowspan="17" style="padding:0in 0in 0in 0in;width:11.62%;">
+<p align="right" style="margin:0in 0in .0001pt 2.9pt;text-align:right;"><font size="6" face="Arial" style="font-size:28.0pt;position:relative;top:5.0pt;">+</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" bgcolor="black" style="background:black;padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt .2in;"><font size="4" face="Arial" style="font-size:14.0pt;">xxxxxxxxxxxxxx</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="4" face="Arial" style="font-size:14.0pt;">MSI_29701</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="4" face="Arial" style="font-size:14.0pt;">M&nbsp;&nbsp;&nbsp;   xxxxxxxx</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" style="padding:0in 0in 0in 0in;width:3.38%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="39%" style="padding:0in 0in 0in 0in;width:39.16%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.18%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="21%" style="padding:0in 0in 0in 0in;width:21.68%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109952\18-6091-1\task8738565\6091-1-bi-01.htm',USER='109952',CD='Feb 14 16:53 2018' -->
+
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">MORGAN STANLEY INSTITUTIONAL   FUND,&nbsp;INC.<br>   SPECIAL MEETING FOR HOLDERS AS OF 2/9/18<br>   TO BE HELD ON 3/23/18</font></b></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">Your vote is important. Thank   you for voting.</font></b></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:50.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="50%" colspan="2" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:5.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt 2.9pt;"><font size="1" face="Arial" style="font-size:8.0pt;">Read the Proxy Statement and have the voting instruction form   below at hand. Please note that the telephone and Internet voting turns off   at 11:59 p.m.&nbsp;ET the night before the meeting or cutoff date.</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="18%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:18.92%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:8.0pt;">&nbsp;</font></p>    </td>
+<td width="31%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:31.08%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:8.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="18%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:18.92%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">Vote by Internet:</font></b></p>    </td>
+<td width="31%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:31.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:8.0pt;">www.proxyvote.com</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="18%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:18.92%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="31%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:31.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:8.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="18%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:18.92%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">Vote by Phone:</font></b></p>    </td>
+<td width="31%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:31.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:8.0pt;">1-800-454-8683</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="18%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:18.92%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="31%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:31.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:8.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="18%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:18.92%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">Vote by Mail:</font></b></p>    </td>
+<td width="31%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:31.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:8.0pt;">Use the   envelope enclosed</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:5.0pt;">&nbsp;</font></p>    </td>
+<td width="18%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:18.92%;">
+<p style="margin:0in 0in .0001pt 2.9pt;"><b><font size="1" face="Arial" style="font-size:5.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="31%" valign="top" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:31.08%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:5.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.42%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="1" face="Arial" style="font-size:7.0pt;">TO VOTE, MARK BLOCKS BELOW IN   BLUE OR BLACK INK AS FOLLOWS:</font></p>    </td>
+<td width="18%" valign="top" style="padding:0in 0in 0in 0in;width:18.16%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="31%" valign="top" style="padding:0in 0in 0in 0in;width:31.42%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;text-autospace:none;"><font size="1" face="Arial" style="font-size:6.0pt;">E37307-Z71880</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="99%" style="border-collapse:collapse;margin-left:1.5pt;">
+<tr>
+<td width="1%" valign="top" style="border-bottom:none;border-left:solid windowtext 1.5pt;border-right:none;border-top:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" colspan="9" valign="bottom" style="border:none;border-top:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:44.28%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" colspan="6" valign="top" style="border:none;border-top:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:46.28%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="5%" colspan="2" valign="top" style="border-bottom:solid windowtext 1.5pt;border-left:none;border-right:none;border-top:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:5.64%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" valign="top" style="border-bottom:none;border-left:none;border-right:solid windowtext 1.5pt;border-top:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:2.24%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" colspan="9" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:44.28%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" colspan="6" valign="top" style="padding:0in 0in 0in 0in;width:46.28%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="5%" colspan="2" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:5.64%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:2.24%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border-bottom:none;border-left:solid windowtext 1.5pt;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" colspan="9" valign="bottom" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:44.28%;">
+<p style="margin:0in .05in .0001pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>
+<p style="margin:0in .05in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">Important Notice Regarding the Availability of Proxy Materials   for the Shareholder Meeting. The following material is available at   www.proxyvote.com: Proxy&nbsp;Statement</font></p>
+<p style="margin:0in .05in .0001pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="46%" colspan="6" valign="top" style="border:none;padding:0in 0in 0in 0in;width:46.28%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="5%" colspan="2" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:5.64%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:2.24%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:5.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="15" valign="bottom" style="padding:0in 0in 0in 0in;width:90.56%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:5.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="5%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:5.64%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:5.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:2.24%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:5.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="33%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:33.4%;">
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" colspan="2" valign="bottom" style="padding:0in 0in 0in 0in;width:5.4%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="42%" colspan="6" valign="bottom" style="padding:0in 0in 0in 0in;width:42.88%;">
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Arial" style="font-size:7.0pt;">PLEASE &#147;X&#148; HERE ONLY IF YOU PLAN   TO ATTEND THE MEETING AND VOTE THESE SHARES IN PERSON</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.78%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Wingdings" style="font-size:7.0pt;">o</font></p>    </td>
+<td width="6%" colspan="2" valign="bottom" style="padding:0in 0in 0in 0in;width:6.26%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="5%" colspan="2" valign="bottom" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:5.72%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" colspan="13" valign="top" style="padding:0in 0in 0in 0in;width:81.68%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.78%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="6%" colspan="2" valign="bottom" style="padding:0in 0in 0in 0in;width:6.26%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="5%" colspan="2" valign="bottom" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:5.72%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:4.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" colspan="13" valign="top" style="padding:0in 0in 0in 0in;width:81.68%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:4.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.78%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:4.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="6%" colspan="2" valign="bottom" style="padding:0in 0in 0in 0in;width:6.26%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:4.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="5%" colspan="2" valign="bottom" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:5.72%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:4.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" colspan="13" valign="top" style="padding:0in 0in 0in 0in;width:81.68%;">
+<p style="margin:2.0pt 0in .0001pt;text-align:justify;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">The Board of Directors   recommends you vote FOR the following proposal:</font></b></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.78%;">
+<p align="center" style="margin:2.0pt 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">For</font></b></p>    </td>
+<td width="6%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:6.26%;">
+<p align="center" style="margin:2.0pt 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">Against</font></b></p>    </td>
+<td width="5%" colspan="2" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:5.72%;">
+<p align="center" style="margin:2.0pt 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">Abstain</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.42%;">
+<p style="margin:2.0pt 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">1.</font></p>    </td>
+<td width="78%" colspan="12" valign="top" style="padding:0in 0in 0in 0in;width:78.26%;">
+<p style="margin:2.0pt 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">To change   the Fund&#146;s investment objective.</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.78%;">
+<p align="center" style="margin:2.0pt 0in .0001pt;text-align:center;"><font size="1" face="Wingdings" style="font-size:7.0pt;">o</font></p>    </td>
+<td width="6%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:6.26%;">
+<p align="center" style="margin:2.0pt 0in .0001pt;text-align:center;"><font size="1" face="Wingdings" style="font-size:7.0pt;">o</font></p>    </td>
+<td width="5%" colspan="2" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:5.72%;">
+<p align="center" style="margin:2.0pt 0in .0001pt;text-align:center;"><font size="1" face="Wingdings" style="font-size:7.0pt;">o</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.42%;">
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="78%" colspan="12" valign="top" style="padding:0in 0in 0in 0in;width:78.26%;"><a name="StartOfCellsToJoin"></a>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.78%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="6%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:6.26%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" colspan="2" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:5.72%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.42%;">
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Arial" style="font-size:7.0pt;">2.</font></p>    </td>
+<td width="78%" colspan="12" valign="top" style="padding:0in 0in 0in 0in;width:78.26%;">
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Arial" style="font-size:7.0pt;">To   consider and act upon any other business as may properly come before the   Meeting or any adjournment(s)&nbsp;or postponement(s)&nbsp;thereof.</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.78%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="6%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:6.26%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" colspan="2" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:5.72%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="33%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:33.4%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:5.4%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.14%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:5.98%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.28%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.3%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" colspan="6" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:44.94%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:3.52%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="26%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:26.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:5.4%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.14%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:5.98%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.28%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.3%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" colspan="6" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:44.94%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:3.52%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="26%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:26.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:5.4%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.14%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:5.98%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.28%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.3%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" colspan="6" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:44.94%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:3.52%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.88%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="26%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:26.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:5.4%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.14%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:5.98%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.28%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.3%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" colspan="6" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:44.94%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" colspan="13" valign="top" style="padding:0in 0in 0in 0in;width:81.68%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>
+<td width="16%" colspan="5" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:16.76%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" colspan="13" valign="top" style="padding:0in 0in 0in 0in;width:81.68%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>
+<td width="16%" colspan="5" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:16.76%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" colspan="13" valign="top" style="padding:0in 0in 0in 0in;width:81.68%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>
+<td width="16%" colspan="5" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:16.76%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" colspan="13" valign="top" style="padding:0in 0in 0in 0in;width:81.68%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>
+<td width="16%" colspan="5" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:16.76%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" colspan="13" valign="top" style="padding:0in 0in 0in 0in;width:81.68%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>
+<td width="16%" colspan="5" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:16.76%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" colspan="13" valign="top" style="padding:0in 0in 0in 0in;width:81.68%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>
+<td width="16%" colspan="5" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:16.76%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" colspan="13" valign="top" style="padding:0in 0in 0in 0in;width:81.68%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>
+<td width="16%" colspan="5" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:16.76%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="81%" colspan="13" valign="top" style="padding:0in 0in 0in 0in;width:81.68%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>
+<td width="16%" colspan="5" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:16.76%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:6.5pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="98%" colspan="18" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:98.44%;">
+<p style="margin:0in .2in .0001pt 0in;text-align:justify;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="27%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:27.46%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.94%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.94%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="61%" colspan="12" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:61.1%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border:none;border-left:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="27%" colspan="4" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:27.46%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:5.94%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.94%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="61%" colspan="12" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:61.1%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border-bottom:none;border-left:solid windowtext 1.5pt;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="27%" colspan="4" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:27.46%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:5.94%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:3.94%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="61%" colspan="12" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:61.1%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border-bottom:none;border-left:solid windowtext 1.5pt;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="27%" colspan="4" valign="top" style="border-bottom:solid windowtext 1.5pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:27.46%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="border-bottom:solid windowtext 1.5pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:5.94%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:3.94%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:7.0pt;">&nbsp;</font></p>    </td>
+<td width="61%" colspan="12" valign="top" style="border:none;border-right:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:61.1%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="1%" valign="top" style="border-bottom:solid windowtext 1.5pt;border-left:solid windowtext 1.5pt;border-right:none;border-top:none;padding:0in 0in 0in 0in;width:1.56%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="27%" colspan="4" valign="top" style="border:none;border-bottom:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:27.46%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:4.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">Signature [PLEASE SIGN WITHIN BOX]</font></p>    </td>
+<td width="5%" valign="top" style="border:none;border-bottom:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:5.94%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:4.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:7.0pt;">Date</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="border:none;border-bottom:solid windowtext 1.5pt;padding:0in 0in 0in 0in;width:3.94%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="61%" colspan="12" valign="top" style="border-bottom:solid windowtext 1.5pt;border-left:none;border-right:solid windowtext 1.5pt;border-top:none;padding:0in 0in 0in 0in;width:61.1%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr height="0">
+<td width="11" style="border:none;"></td>
+<td width="24" style="border:none;"></td>
+<td width="1" style="border:none;"></td>
+<td width="27" style="border:none;"></td>
+<td width="141" style="border:none;"></td>
+<td width="42" style="border:none;"></td>
+<td width="28" style="border:none;"></td>
+<td width="10" style="border:none;"></td>
+<td width="36" style="border:none;"></td>
+<td width="2" style="border:none;"></td>
+<td width="40" style="border:none;"></td>
+<td width="9" style="border:none;"></td>
+<td width="16" style="border:none;"></td>
+<td width="198" style="border:none;"></td>
+<td width="34" style="border:none;"></td>
+<td width="29" style="border:none;"></td>
+<td width="15" style="border:none;"></td>
+<td width="24" style="border:none;"></td>
+<td width="16" style="border:none;"></td>   </tr> </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109952\18-6091-1\task8738565\6091-1-bi-03.htm',USER='109952',CD='Feb 14 16:54 2018' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g60911bi01i001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g60911bi01i001.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  H'!PD'!@H)" D+"PH,#QD0#PX.
+M#QX6%Q(9)" F)2,@(R(H+3DP*"HV*R(C,D0R-CL]0$! )C!&2T4^2CD_0#W_
+MP  +"  X #H! 1$ _\0 'P   04! 0$! 0$           $" P0%!@<("0H+
+M_\0 M1   @$# P($ P4%! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$(
+M(T*QP152T? D,V)R@@D*%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%56
+M5UA96F-D969G:&EJ<W1U=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBI
+MJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W
+M^/GZ_]H " $!   _ ,+Q%<:;H.EVEVV@Z=?7-_>WWFR7._/R3$#&UAV/Z5JV
+MVD6-P-9AM;"2""[T.RNGM[%-YW%U<[0QZ9'//3-6K[Q#+<>$]!TN>TM-+\.Z
+MM;;)[I%;;;OO<[5)/H@/.>M5-2FN/B-XGM+B>PBM=!G0V5G>7:LI8LPY3!P9
+M<AMHZ<&K7A;PVNH6.O6,^E'1]0T^)(O-LXR;B>-U;<"K,02X7MCK4:-%KZ^%
+M-/U.S#6ME=WMD(9E*LR0Q#;Y@!X;@9 .,UR^FWVF>(=%U\-X=TRSEL[ W$4M
+MOY@8,'4?Q,1_%7T;;_\ 'M%_N#^5>4:E:7?ARW65_$.J66G7%Y-M$FC1NEN6
+MEY+,QX4EL@]QS54WTNBWUY<C7+Q]1U!8[:VU&]L4MK0HCAB5DR5(*!L<<Y%=
+M1/?Z@WB33;2UNK:ZT2\F^U)<NJ",H0R_9H^"&;C?P=V,US.H3KX<\):=HL;Z
+MI);RV<_GQ26.R2",R'=<D9RI3. ,@$'.152QO[CP[H-[J_A"WU"YL[MX'24Q
+MF0[8 1/YI.=@;/'MG&,5:%F!::%?ZCJ_]A7FI7]UJ%G)&BS(@F56PQ8@#@XZ
+M<YJ'6Y,V>IV-[XOOIXX)'M[V"WT>'<JKC+MM((3) W>M>S0X\B/;R-HP3]*\
+M:M=:O?$^N:IX;2^CT[3F>;R4O;7[4)"I8R-YC$8P02/3(':JFO\ V'5VT[0;
+M:^MHK=8EL)-1NI05)ACW!DB8_(&*@>8#ALXYJSH5C<7]YH>DK=VVGZCI4&^W
+MO8[I;NWF.YAL\L$*)/G)ZDX'I6C);6EGX>N=,EUJ'Q!JUA;2WMH\4>XA5.3'
+M(P9MZEF^XW!QTXJ+4-)U'5?"FB:;<P"#7;CS)H[2T?[-"]OD%PP7Y02I'49Y
+M-8%XVG77AW6M,M](N+:_L[B"WACGOC<EF67#K#D<8 YV]L5JKX1#Z5)IMS9F
+M.]U/5I85G@N_/:T78IVS,OW\$'Y6(]:]FC7RXD3.=H S7@QF>TN#J>G7FY]/
+MGOUO5O%>6WMQ)(P150#_ ):<YQGGKBMGPO8PZW.'U.QTOR5M5FFMKN(2S^68
+M_E\E_NI'G&U.J@&LG1--FT_P]!>V-CJ'DZCJGEVEK]J7>D?EG]XC=$ERI&\X
+MXR,<T_1KJZ\,:C=_V7X5FAOX6_L^T+31DAY!O EQ_K#D<$8 &!6E%H?B2UUN
+MV^UZG*VL"UF($]P7$ZN 62 _\LG7A<L<$D$<"LF1;NX\16VJSVNHZ1H6EN\,
+M\HN09$N0"K.=O)9VVAF Y]:TO FMZCI>HWFI:M-ON];4W%GI,9*_:6<C$BGE
+M%R%8<G/%>S*25!(P2.1Z5Y1I>K:Z)K_2M*T2YN?#\\MS$MTT8\T2.S!B2&QM
+M#D]LX'K6=I'AH+)#X:\1Z==VDDT_E6<]LB_9MT0#&8;CNWN$()QT/05T-S;3
+MZWK>M:3I][X?55E:Y>S19-T[@A2+GL5YYV]PM6V;6;C4)]+U,:;%XCGT^4V%
+M]9!U6*/(!#%LD'<0>!6)KLL]U%%JVF-IUPELD<5U->*QBU.Y4 )LV\EU96 S
+MC!:K'B.?4[&-M<N8[NR%S:6B:GY*KOR2<1P$GKN8AMW8\5R.M>('T^>]EAM=
+M7@LH0UMI\=PJ :?> @D)@\ )QW/->]P$M!&3R2H)/X5YK#XFNK2\N]8CMO#U
+M@;Z:2#S+W49(VF$+E,[=I Q[>HS6?KEQJ'B"/7K9-+M3J[V-K+#<:?</,)8S
+M*I7;D   9.0.GK7'_P#"O_$]WXDOYM9AOBL1:2XNK>(LT_('[K@!B<YQQP#7
+M>V7A"SU+Q#8>,K_7K>.>YNT,<-M()('<' C1S@G.WICKGTKR_4-8FLO"]SI@
+MTHQ1W]XTOVXNW[XQN>%!XXW8./QK<\&V/A:\\.12:Y)I[7)EF$YN=0DBE10H
+M\LH@.&^;/7%=)X&\:'3[?P]X>N(+RYN+YE;?>PA%CB*X'ED9WC*G!/O7L%>#
+MZWIUGK5C!8Z@FMVLUA>7C9@TQIE<23%@0<CL!^=7E@%_;ZX(8]8M[2+1[2T2
+M?[$ZRNT;J/E3/?'// SZ4O@NZ\46>@S:S<65RSZ7&8(TE#[[F/(/E>61ZMN\
+MSD\;>E27WB[7M/T^3P]K?@\W[195YK0-&A)Y!3:F%(#=1WS6M#'I]YH>HF'P
+MU/;O?::_V7S(FD*M%$0PVD?NSDC!'+]>HKGCX5U,^#]+TN#1(;2:Y"3ABOG-
+M.P"NWF.5!@X'"\Y)*UV5GI^G:EHLL$/AZ1-1O[47YBE+1K&6(!C6;&8R,9V@
+0#'IS7>1C;&HZ8 &,YK__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g60911bi01i002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g60911bi01i002.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  H'!PD'!@H)" D+"PH,#QD0#PX.
+M#QX6%Q(9)" F)2,@(R(H+3DP*"HV*R(C,D0R-CL]0$! )C!&2T4^2CD_0#W_
+MVP!# 0L+"P\-#QT0$!T]*2,I/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3T]
+M/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3W_P  1"  ] #,# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#V6BBD+!5+
+M,0 .23VH Q==UR:QN[?3]/BBEOKA6DS*Q$<,:X!=L<GD@ #KZ\5F1>)-7ADP
+MZZ9?CNL#M X^FXL#^8K"N]622WO-;G8K_:4@CMA@DBW4XC '7+$EL#^_65)J
+M5O$627S(Y@,^3+&8Y&^@;&?PI@>A0^,--W!+\3Z;(3C%Y'L4_1QE#^=9FLWD
+M?B34/[/A=7TBT(>\D!RD\F,K%GH5 PS?\!'K7+Z5J-\(&+7;RQ,?E26#80/1
+ME/7\J?J%I:R>']4N;9/[.N8H6)>U)C67((VLHX.[ITSSQ0!:TOP5>:Y8)J-I
+MK6H:;:W)9X+6"9U2./<=F!GC*X/XT5Z+8H(["W00B +$H$0_@X'R_ATHI 3U
+MSOC*Z=K"'2+=RL^J.821U2$#,K?]\\?5A715Y]>ZDMY?:CK)8"(9L;,D\"-3
+M^\?\6SSZ(* ,^2YM)O&-FES+%;V=I$6M0Y"J\@^50">/E!)Q[CTKJI[>&[A\
+MNYBCFB;^&10RG\Z\W62Y1KFZNY8KG3@K$*I5PPSQ@8XQWR:+34K>VM3<V,UY
+M8?O/+\N!MREL9^X<J>*8C>\1:19Z/9I<:;YMO<23)'% CDQ2$GD%3D ;0QR,
+M8Q6GI^G_ &[5[#32,Q08U"\]\'$*'ZL"W_ *Q["1]7N;?4M2OEGMK2)Y5(B$
+M:HO\3$?WL#'MS7;>#K.2/2Y-1ND*7>IO]I=3U1",1I^" ?B30,Z"BBBD!B>+
+M-1EL=&,-FVV^O7%K;'^ZS=6_X"H9OPKSKQ7<065C#IL-NTEG%'Y"X8C&T#N
+M>2?Y&NGU74!>:]>7V0;?2U-I;^AF;!E;\!M7\&KAK:3^TM9:[MKR4J@#^45(
+M++C&!S@@GUYI@-D:;3XX;;2PK2S9EDCD*F3<0, KD8&.N/2I[F29[V.R.GQ2
+MVN5WX7(!/4Y' Q[\FJEO/%)-<ZG/9S)) 5DVACM+?=YR.H'7M5_PEIL5S<M<
+M1M(%D9E8-C 4').1][ZT =%:Z8+LV&C(@"7A\^Y4# 6VC(^7_@3;5^A->CC@
+M5S/@VW^TQW6MNN#?L%MP1]VW3(C_ .^OF;_@0KIJ0!1110!YHT0TS38M+U5S
+M9W5N[?OY@1#<DDG>).F6SD@G()(K-OO#T@LG%G&L"RL',L(RKCT)7M7K;HLB
+ME74,IX((R#6+/X/TMW:2SCET^9NKV4ABS]5'RG\10!Y?/I^H_8K>&WOCNC#!
+MV+%<YZ<\D@=,'K7016<D]E;Z=&Q%SJC^0748*0@9E<>G&0/=A4WBDS^%5CEN
+M6M]320X7S(!'(/JRG!_[Y%;OA"S-XJZ]<NK33P^5#$B;5@CSD@<G))QD^PXX
+<I@=-#$D$*11($CC4*JCHH' %/HHI %%%% '_V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g60911bi01i003.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g60911bi01i003.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  H'!PD'!@H)" D+"PH,#QD0#PX.
+M#QX6%Q(9)" F)2,@(R(H+3DP*"HV*R(C,D0R-CL]0$! )C!&2T4^2CD_0#W_
+MVP!# 0L+"P\-#QT0$!T]*2,I/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3T]
+M/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3W_P  1"  ^ "H# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#T#Q?K;V42
+MV%K*\,TL;2SS1_>AA'!*_P"VQ(5?<D]JX^+2S%=R0-9Z<CQ1QNP\AMP9LD@N
+M&!8C ^8\DYJ?5=8M(]>DO-1D*Q37KJBA2Q9+<;54#T,C,WX52_X2>WDU.[N5
+MMKEHYBFPC83A5QR-W'.:8%]DN+6)Y<K$J@DM'?W,84#KW(%5-2UK4+*SM([6
+M_P!3MKZX'G-'+<B811YX+;ESENP[<^E36^H6^N7]K81I,JN_F3"6/:#&G)'X
+MG:/QKG[F[.HZA=WS$GSY3LSV0?*H_(9_&@#K_#GCZX6]ALM=9'CG<)%=JH7:
+MQZ*X''/0,/Q'>O0J\(N(1<6\D3='4C/I[UZ3H_C.%]$L6N26G:WC,AQU;:,_
+MK2 YZWUI--T#3C+;1SI- ;EVD;G+OZ;3G)>I%N=(O3+YFA6[^4Q1S'Y1P0,G
+MT)_"ET[1%U3PYH\AFV&.R2/:T>Y3T/J#G\:CD\'N-OEM;D(#M 9X^HV_[7:F
+M!-:C1X;'4K_2[,P3V]NZONR",KG'4CL.GI7'VR[+6%?1%'Z5UW]E3:;H&N"5
+M$1)+9BFV3>3\KDD\#NU<G&<Q(?\ 9'\J!#QU%<^/$4UL! O2+Y!^'%= .HK@
+M+V*4WUQC=CS&Q^=#&CWSPX,>'+ >D0'Y$UIUF>'#GP]9^RL/R8BM.@11UL%M
+M!U$#J;67_P!!-><P<V\7^XO\J]*U-=VDWB^MO(/_ !TUYI;?\>L/_7-?Y4 2
+MCJ*YF:R1YG;<>6)KIAU%8Q@+$G<.>:!GI6D7YL])T^W6UN+F6=YPB0!2<([$
+MGDBM!M8@A_X^H+VU]Y[20#\P"/UK>M?#>E6.H_;K6T6*X^;YE=L#<<MA<X&3
+MZ"M2D!QC:G87UG<I:WEO,YA?Y$D!;[I[=:\WMY46UMU8_,T:[5 RQX'0#DUZ
+MAXUM) ]EJ,,4+"V$PDW-M8AXRHP<'.,].*S/AOX<N]/9M2NFMRDELD,:QL68
+M8.23D#':F!QUQ:7ME%#/=V-Q;P3/L228!,G!/W3ST![4MEICSV-O*L;$21JP
+L('7(S7L=_I=EJJQ)J%K%<I$_F(LJ[@&QC./Q-6%BC10JHJJHP !@ 4@/_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>g60911bi01i004.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g60911bi01i004.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  H'!PD'!@H)" D+"PH,#QD0#PX.
+M#QX6%Q(9)" F)2,@(R(H+3DP*"HV*R(C,D0R-CL]0$! )C!&2T4^2CD_0#W_
+MP  +"  Y #T! 1$ _\0 'P   04! 0$! 0$           $" P0%!@<("0H+
+M_\0 M1   @$# P($ P4%! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$(
+M(T*QP152T? D,V)R@@D*%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%56
+M5UA96F-D969G:&EJ<W1U=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBI
+MJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W
+M^/GZ_]H " $!   _ /9J*R=2\0VMC*UO"KW=Z!G[/#C*CU=C\J#W8C\:Y"XU
+MN/7]8CTS5-0GCBFF:V,=@YCBBF R$:7AI'Y& N%X[UU?AB_N+K3WM=0.=0L)
+M/LUP<8WD?=D^C*0WXGTK:HHHJO?6WVRRGMA-)"98R@DB;#)D=0?45YAK^FZI
+M+:V5K81.+(SBSOK2WCSY4W_/5@.71LJ^6SC ]:L6OA^'3]+8Z_.$N+<(KVUK
+M<#<BK)^YD,G!3;N9=W]PC/2MBUU@?:X]=15CCCD-AJ*(Y=?+W?NI=W?!/7T8
+M^E=L#FEHK)U?Q+IFB%8[RYS</]RVA4R3/]$7)_I6<+GQ-KA_T6WCT.T/26Y
+MEN&'M&#M7\23[50M;B\T3Q2QG?6-2CN4\NXE&FE8XRN2K JOS=2. >H]*AGD
+M^P,JP:=J-Y;QM*R0QV$B%E<<K([+SUX '.!D\4^TE\F5;1M/U'[&YEAFB6PD
+M6W\@@[=JA<[NF<\_>YZ5GVE[KUO)]A-WXC*QR&.&1-)0HT>?D)9P#G& <]P:
+MU-7>_P!%@C>[\5WGG3<0VT5C"\TK>BJ!S_+WKEM:\2>,O#LL0U#4(U-RIDCA
+M,49>)<X 8@8)^G K1\'>%_#[Z#INH7,]S'JU_:^=*Z7LB2S8^\>&R:C@UGP1
+M-I%SJ4>IZU]FM9$CE)N[@,K/G;QN]C^5-U?7?!6C6UE-/?:[)]MB$T217DY8
+M1GHQ!<8SCZU+J.K^!]+@LIKC5M8,5[%YT+1WERP9<X[-P<@C'M4!\1>!/[.%
+M]_:>N?9S-Y.[[5<_>QGIN]#6QI=IX4UC1EU6WU/4ULC+Y0DFU&>/Y\@8Y;U(
+MJWX,TNUMM<\0N@>66WNU@BFGD,LBQ^4C;0S$G&6)_&N6^,/_ "&M/'_3N?\
+MT(UJ^#9])2V\)0W%E-)JCZ<?(N%C)6-><@GISS7DDQ^R^&O$]FW##4H.#_LF
+M4?UK6N+6*7Q<]O<1+(D/A[*HZY"L+/<,#U!Y^M-.DVEY\%%U:=&:]LKLV\#[
+MSA$9P2,=.K'\ZE\7Z+8Z3\,_#$MI&4:^<3W!+D[G,8R>>GX5Z4J>#=-\!1?9
+M;9[_ $0W2D)%OE_>DXSSSQ6QX4.=;\4'&,ZBO'_;"*N+^+XSK=A_U[G_ -"-
+M=#X%FUD:!X9CMK>V;238 W$SM^\5^P49_P YKQ'QJ\EGXK\06&T!9+]I/U8C
+M]&KKM=B\KXI:O&!PNBR ?^ E00?\F\W/_81'_H2U/\0 #\+/!8/0H/\ T 5Z
+M79Z3<>&/"4%EX-2&\9)@Q%U*"-K'+<C%6/"N?[;\49Z_VDN<?]<(JXKXOLHU
+MRPW.J_Z,>I_VC6UX(2%M#\-7K:XL$=K8^6]GYJA9">[<]1@?E6-XA^&MCKOB
+M^XUK_A)+&)9IDD\@A3P  1G=WQZ=ZL>// MOXEUM=5TGQ!965Q)%Y$ZO*,.N
+M,9!!].".]7[SP;I<OPZB\*VNMVL01E=KAF4[FW;B<9[GWJOXA\$6>N^$]$T;
+M_A(;.$Z8NTR_*WF?*!TW<5/H?A.#1/!S:)!XHABD-W]I^TP,JG'R_+@M_LT6
+M/B&6VUOQ#8:'"NH:I<WX>,;OW42>3&/,D8=%R#P.21@5TFE^%+:V62?5"FIZ
+MC<8:>YN$!SCHJ*>%49. *^6[G_CYF^IJ$=12M]Q?I0_4?[H_E3C_ !?3^M+_
+7 'OK_A7N/P'_ .1=U+_KX7^5>IU__]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

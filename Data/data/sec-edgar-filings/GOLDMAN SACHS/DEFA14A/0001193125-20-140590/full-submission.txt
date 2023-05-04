@@ -1,0 +1,933 @@
+<SEC-DOCUMENT>0001193125-20-140590.txt : 20200512
+<SEC-HEADER>0001193125-20-140590.hdr.sgml : 20200512
+<ACCEPTANCE-DATETIME>20200512171103
+ACCESSION NUMBER:		0001193125-20-140590
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		7
+FILED AS OF DATE:		20200512
+DATE AS OF CHANGE:		20200512
+EFFECTIVENESS DATE:		20200512
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Goldman Sachs BDC, Inc.
+		CENTRAL INDEX KEY:			0001572694
+		IRS NUMBER:				462176593
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00998
+		FILM NUMBER:		20870015
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		STREET 2:		ATT: PRIVATE CREDIT GROUP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		1-212-902-0328
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		STREET 2:		ATT: PRIVATE CREDIT GROUP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Goldman Sachs Liberty Harbor Capital, LLC
+		DATE OF NAME CHANGE:	20130321
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d925757ddefa14a.htm
+<DESCRIPTION>GOLDMAN SACHS BDC, INC.
+<TEXT>
+<HTML><HEAD>
+<TITLE>Goldman Sachs BDC, Inc.</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) of the </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>(Amendment No. &nbsp;&nbsp;&nbsp;&nbsp;) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the
+Registrant&nbsp;&nbsp;&#9746; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filed by a Party other than the
+Registrant&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>Confidential, for Use of the Commission Only (as permitted by Rule <FONT STYLE="white-space:nowrap">14a-6(e)(2))</FONT></B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Soliciting Material under <FONT STYLE="white-space:nowrap">&#167;240.14a-12</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>Goldman Sachs BDC, Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified In Its Charter) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Not Applicable </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of
+Person(s) Filing Proxy Statement, if other than the Registrant) </B></P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Title of each class of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Aggregate number of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing
+fee is calculated and state how it was determined):</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Proposed maximum aggregate value of transaction:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Total fee paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee paid previously with preliminary materials.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement
+number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Amount Previously Paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Form, Schedule or Registration Statement No.:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filing Party:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date Filed:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:17pt; font-family:Times New Roman" ALIGN="center"><B>*** Exercise Your </B><B><I>Right</I></B><B> to Vote *** </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Important Notice Regarding the Availability of Proxy Materials for the </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Stockholder Meeting to Be Held on June&nbsp;17, 2020. </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="6%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:11pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="font-size:12pt"><B>GOLDMAN SACHS BDC, INC.</B></FONT></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-right:2pt"><B><U>Meeting Information</U></B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:2pt"><B>Meeting Type</B>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Annual Meeting</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:2pt"><B>For holders as of</B>: &nbsp;&nbsp;&nbsp;&nbsp;May&nbsp;11, 2020</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; padding-right:2pt"><B>Date: </B>June&nbsp;17, 2020 <B>&nbsp;&nbsp;&nbsp;&nbsp;Time: </B>&nbsp;&nbsp;&nbsp;&nbsp;10:00 AM ET</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL"><B>Location:
+</B>&nbsp;&nbsp;&nbsp;&nbsp;www.meetingcenter.io/243329110</P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9.5pt">You are receiving this communication because you hold shares in the company named above.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9.5pt">This is not a ballot. You cannot use this notice to vote these shares. This communication presents only an overview of the more
+complete proxy materials that are available to you on the Internet. You may view the proxy materials online at <I>www.proxyvote.com </I>or easily request a paper copy</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:9.5pt">(see reverse side).</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL" ALIGN="justify">We encourage you to access and review all of the important information contained in the proxy materials before voting.</P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:11pt">
+<TD VALIGN="top" ROWSPAN="3">
+
+
+<IMG SRC="g925757dsp02.jpg" ALT="LOGO">
+</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" BGCOLOR="#000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" BGCOLOR="#000000"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:11pt"><FONT COLOR="#FFFFFF">See the reverse side of this notice to obtain proxy materials and voting
+instructions.</FONT></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+</TABLE>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>&#151;&#151; &nbsp;&nbsp;Before You Vote&nbsp;&nbsp; &#151;&#151; </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center">How to Access the Proxy Materials </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="6%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Proxy Materials Available
+to VIEW or RECEIVE:</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">NOTICE AND PROXY STATEMENT</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>How to View Online:</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Have the information that is printed in
+the box marked by the arrow
+
+
+<IMG SRC="g925757g96j18.jpg" ALT="LOGO">
+ (located on the following page) and visit: <I>www.proxyvote.com.</I></P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>How to Request and Receive a PAPER or <FONT STYLE="white-space:nowrap">E-MAIL</FONT> Copy:</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">If you want to receive a paper or <FONT STYLE="white-space:nowrap">e-mail</FONT> copy of these documents, you must request one. There is NO charge for
+requesting a copy. Please choose one of the following methods to make your request:</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:10.00em; font-size:10pt; font-family:ARIAL" align="left">&nbsp;&nbsp;&nbsp;&nbsp;1) <I>BY INTERNET</I>:
+&nbsp;&nbsp;&nbsp;&nbsp;www.proxyvote.com</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:10.00em; font-size:10pt; font-family:ARIAL">&nbsp;&nbsp;&nbsp;&nbsp;2) <I>BY TELEPHONE</I>:<I> </I><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-800-579-1639</FONT></FONT></FONT></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:10.00em; font-size:10pt; font-family:ARIAL">&nbsp;&nbsp;&nbsp;&nbsp;3) <I>BY <FONT
+STYLE="white-space:nowrap">E-MAIL*</FONT></I>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sendmaterial@proxyvote.com</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">* &nbsp;&nbsp;&nbsp;&nbsp;If requesting materials by <FONT STYLE="white-space:nowrap">e-mail,</FONT> please send a blank
+<FONT STYLE="white-space:nowrap">e-mail</FONT> with the information that is printed in the box marked by the arrow
+
+
+<IMG SRC="g925757g96j18.jpg" ALT="LOGO">
+ (located on the following page) in the subject line.</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Requests, instructions and other inquiries sent to this <FONT STYLE="white-space:nowrap">e-mail</FONT> address will NOT be forwarded to your investment
+advisor. Please make the request as instructed above on or before June&nbsp;8, 2020 to facilitate timely delivery.</P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>&#151;&#151; &nbsp;&nbsp;How To Vote&nbsp;&nbsp; &#151;&#151; </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center">Please Choose One of the Following Voting Methods </P> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="6%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P STYLE="font-size:2pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="font-size:30pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:1pt" ALIGN="justify">
+
+
+<IMG SRC="g925757dsp01.jpg" ALT="LOGO">
+</P></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B>Vote By
+Internet:</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; font-size:10pt; font-family:ARIAL" ALIGN="justify"><I>Before The Meeting:</I></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B></B>Go to www.proxyvote.com. Have the information that is printed in the box marked by the arrow
+
+
+<IMG SRC="g925757g96j18.jpg" ALT="LOGO">
+ (located on the following page) available and follow the instructions.</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B></B><I>During The
+Meeting:</I></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:10pt; font-family:ARIAL" ALIGN="justify">Go to www.meetingcenter.io/243329110. Have the information that is printed in the box marked by the arrow
+
+
+<IMG SRC="g925757g96j18.jpg" ALT="LOGO">
+ (located on the following page) available and follow the instructions.</P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B>Vote By Mail: </B>You can vote by mail by requesting a paper copy of the materials, which will include a voting instruction form.</P></TD></TR>
+</TABLE>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="2%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="52%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:2.50pt solid #000000; BORDER-TOP:2.50pt solid #000000; BORDER-BOTTOM:2.50pt solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-TOP:2.50pt solid #000000; BORDER-RIGHT:2.50pt solid #000000; BORDER-BOTTOM:2.50pt solid #000000"><B>Voting Items</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10pt">&nbsp;&nbsp;&nbsp;&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="justify"><B>The Board of Directors recommends you vote FOR the following proposals:</B></P>
+<P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; text-indent:-2.00em; font-size:7pt; font-family:ARIAL" ALIGN="justify">1.&#8195;&#8202;To elect two
+Class&nbsp;III directors of the Company who will each serve until the 2023 Annual Meeting of the Stockholders or until his or her successor is duly elected and qualified:</P>
+<P STYLE="font-size:8pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:7pt; font-family:ARIAL">01)&nbsp;&nbsp;&nbsp;&nbsp; Ross J. Kari</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; font-size:7pt; font-family:ARIAL">02) &nbsp;&nbsp;&nbsp;&nbsp;Ann B. Lane</P> <P STYLE="font-size:8pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="10"></TD>
+<TD HEIGHT="10" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top"> <P STYLE="font-size:120pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:1pt" ALIGN="justify">
+
+
+<IMG SRC="g925757dsp01.jpg" ALT="LOGO">
+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:2.00em; text-indent:-2.00em; font-size:7pt; font-family:ARIAL" ALIGN="justify">2.&#8195;&#8202;To ratify the selection of PricewaterhouseCoopers LLP as the
+Company&#146;s independent registered public accounting firm for the fiscal year ending December&nbsp;31, 2020.</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL"><B>NOTE: </B>Such other business as may properly come before the meeting or any adjournment thereof.</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:1pt">&nbsp;</P></TD></TR>
+</TABLE>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="font-size:60pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="46%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:2.50pt solid #000000; BORDER-TOP:2.50pt solid #000000; BORDER-BOTTOM:2.50pt solid #000000">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-TOP:2.50pt solid #000000; BORDER-RIGHT:2.50pt solid #000000; BORDER-BOTTOM:2.50pt solid #000000"><B>Voting Instructions</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:60pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:1pt" ALIGN="justify">
+
+
+<IMG SRC="g925757dsp01.jpg" ALT="LOGO">
+</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+</TABLE>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL"><B>GOLDMAN SACHS BDC, INC. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL"><B>IMPORTANT PROXY INFORMATION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL"><B>Your Vote Counts </B></P>
+<P STYLE="font-size:120pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="51%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL"><U>PLEASE USE THE <FONT STYLE="white-space:nowrap">14-DIGIT</FONT></U><B><U> CONTROL NUMBER</U></B><U></U><U>&nbsp;&amp;</U><B><U> </U></B><U><FONT
+STYLE="white-space:nowrap">8-DIGIT</FONT></U><B><U> SECURITY CODE</U></B><U> LISTED IN THE BOXES</U><B><U> </U></B><U>BELOW WHEN REQUESTING MATERIAL VIA THE TELEPHONE</U><U></U><U>&nbsp;&amp; INTERNET</U><B>.</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><B><I>When you are ready to vote, you can use the same Control Number&nbsp;&amp; Security Code to record your vote.</I></B></P>
+<P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:1pt">
+
+
+<IMG SRC="g925757g0512214147910.jpg" ALT="LOGO">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<IMG SRC="g925757g0512214147707.jpg" ALT="LOGO">
+</P></TD></TR>
+</TABLE> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><div style="max-width:100%;margin-left:0%; margin-right:0%;border:solid 1.50pt;background-color:#d8d8d8;;padding-top:2pt;padding-bottom:3pt">
+<P STYLE="margin-top:0pt; margin-bottom:2pt; padding-top:2pt; margin-left:1%; font-size:11pt; font-family:ARIAL"><B>2020 Annual Stockholders Meeting Notice &#150; THIS IS NOT A PROXY &#150; Please read carefully for voting </B></P></div>
+<P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><div style="max-width:100%;margin-left:0%; margin-right:0%;background-color:#000000;;padding-top:2pt;padding-bottom:3pt">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; padding-top:2pt; font-size:11pt; font-family:ARIAL" ALIGN="center"><FONT STYLE="font-family:ARIAL" COLOR="#ffffff"><B><FONT STYLE="font-family:ARIAL" COLOR="#ffffff">Important Notice Regarding the
+Availability of Proxy Materials for the Goldman Sachs BDC, Inc. </FONT></B></FONT></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; padding-bottom:2pt; font-size:11pt; font-family:ARIAL" ALIGN="center"><FONT STYLE="font-family:ARIAL" COLOR="#ffffff"><B><FONT STYLE="font-family:ARIAL" COLOR="#ffffff">2020 Annual Meeting of Stockholders
+to be virtually held on June&nbsp;17, 2020. </FONT></B></FONT></P></div> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B>As a stockholder, it is important for you to vote! On the back of this
+Notice, you will find a summary of the proposals being voted on at the 2020 Annual Meeting of Stockholders along with the Board of Directors&#146; recommendations. </B></P>
+<P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B>This communication is <U>NOT</U> a form for voting and presents only an overview of the more complete Proxy Materials available to you on the Internet
+or by mail. We encourage you to access and review all of the important information contained in the Proxy Materials which include instructions on how to vote your shares. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B>The Proxy Materials, which include the Proxy Statement and Notice of Annual Meeting are available at: </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:11pt; font-family:ARIAL" ALIGN="center"><B><U><FONT STYLE="white-space:nowrap">https://www.proxy-direct.com/gol-31371</FONT></U>. </B></P>
+<P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B>If you want to receive a paper copy of the documents or an email with a link to the documents, you must request them. There is no charge to you for
+requesting a copy. Paper materials will be mailed to the address on file within three business days of receipt of the request. Please make your request as soon as possible, but no later than June&nbsp;8, 2020, to facilitate timely delivery. </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B>The 2020 Annual Meeting of Stockholders for the Goldman Sachs BDC, Inc. will be held virtually on June&nbsp;17, 2020, at 10:00 a.m., Eastern Time, at
+the following Website: <U>w</U><U>ww.meetingcenter.io/243329110</U>, The Password for the meeting is: BDC2020. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B>To participate in the Virtual
+Meeting enter the <FONT STYLE="white-space:nowrap">14-digit</FONT> control number from the shaded box on this Notice. </B></P> <P STYLE="margin-top:40pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B><I>ONLINE MATERIAL
+ACCESS AND PAPER COPY REQUESTS CAN BE MADE UTILIZING ONE OF THE THREE METHODS BELOW. </I></B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B><I>YOU CAN ALSO USE ONE OF THESE THREE METHODS TO
+ELECT A PERMANENT DELIVERY PREFERENCE FOR FUTURE MEETINGS. </I></B></P>
+<P STYLE="font-size:2pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><div style="max-width:100%;margin-left:0%; margin-right:0%;border:solid 1px;background-color:#000000;;padding-top:2pt;padding-bottom:3pt">
+<P STYLE="margin-top:0pt; margin-bottom:2pt; padding-top:2pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><FONT STYLE="font-family:ARIAL" COLOR="#ffffff"><B><FONT STYLE="font-family:ARIAL" COLOR="#ffffff">ACCESS MATERIALS AND VOTE OR REQUEST
+PAPER DELIVERY OF MATERIALS </FONT></B></FONT></P></div> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="18%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="81%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:11pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:1pt; text-indent:0.00em" ALIGN="center">&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<IMG SRC="g925757g0512214148081.jpg" ALT="LOGO">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><U>EASY ONLINE
+ACCESS</U> &#150; <U>REQUEST BY INTERNET</U></P> <P STYLE="font-size:2pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:11pt; font-family:ARIAL" ALIGN="justify">Log on to the
+Internet and go to: <U><FONT STYLE="white-space:nowrap">https://www.proxy-direct.com/gol-31371</FONT></U></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" align="left">On this site you can view the Proxy Statement
+online, request paper copies, request an email with a link to the materials and/or set future delivery preferences.</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Just follow the steps outlined on
+this secure website.</P></TD></TR>
+</TABLE> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="47%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER:1px solid #000000; padding-left:8pt"> <P STYLE="font-size:2pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL"><U>TELEPHONE REQUESTS - CALL <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-877-816-5331</FONT></FONT></FONT></U></P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:9pt; font-family:ARIAL">Obtain paper copies of the Proxy
+Statement with an option to set future delivery preference by touch tone phone. Call toll free from the U.S. or Canada at <B>NO CHARGE </B>to you<B>. </B>Follow the instructions provided in the recorded messages.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="justify"></P></TD>
+<TD VALIGN="bottom" STYLE=" BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-right:2pt"> <P STYLE="font-size:2pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><U><FONT STYLE="white-space:nowrap">E-MAIL</FONT> REQUEST AT: proxymaterials@computershare.com:</U></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" align="left"><B>Email us to request Proxy Materials for the 2020 Annual Meeting of Stockholders and/or to set future delivery preferences.</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:9pt; font-family:ARIAL"><B>-&#8194;&#8202;</B>Provide only your <U><FONT STYLE="white-space:nowrap">14-Digit</FONT> Control Number</U> and <U><FONT
+STYLE="white-space:nowrap">8-Digit</FONT> Security Code</U> as listed on this Notice in your email request for materials.</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:9pt; font-family:ARIAL"><B>-&#8194;&#8202;</B>If you want to elect to receive all future Proxy Materials in paper form or via email, please note your
+request and for email, provide the address.</P> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><div style="max-width:100%;margin-left:0%; margin-right:0%;background-color:#d8d8d8;;padding-top:2pt;padding-bottom:3pt">
+<P STYLE="margin-top:0pt; margin-bottom:2pt; padding-top:2pt; font-size:9pt; font-family:ARIAL" ALIGN="center"><B>PAPER COPY REQUESTS SHOULD BE MADE NO LATER THAN JUNE&nbsp;8, 2020, TO FACILITATE TIMELY DELIVERY. </B></P></div>
+<P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center">GSB_31371_NA_050620 </P>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL">The 2020 Annual Meeting of Stockholders of Goldman Sachs BDC, Inc. is being held to consider and vote on the following
+proposals: </P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL"><B>THE BOARD OF DIRECTORS RECOMMENDS YOU VOTE &#147;FOR&#148; PROPOSALS 1 and 2 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>1.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9pt; font-family:ARIAL; " ALIGN="left"><B>To elect two Class&nbsp;III directors of the Company who will each serve until the 2023 annual meeting of the
+stockholders or until his or her successor is duly elected and qualified: </B></P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>&nbsp;</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9pt; font-family:ARIAL; " ALIGN="left"><B>01.&nbsp;&nbsp;&nbsp;&nbsp;Ross J. Kari
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02.&nbsp;&nbsp;&nbsp;&nbsp;Ann B. Lane
+</B></P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>2.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9pt; font-family:ARIAL; " ALIGN="left"><B>To ratify the selection of PricewaterhouseCoopers LLP as the Company&#146;s independent registered public accounting
+firm for the fiscal year ending December&nbsp;31, 2020. </B></P></TD></TR></TABLE> <P STYLE="margin-top:60pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="justify">If you want to join the 2020 Annual Meeting of Stockholders to be
+held virtually on the Internet, please follow the instructions in the Proxy Materials. Please refer to the Proxy Materials for further details on the proposals and for instructions on how to vote your shares. </P>
+<P STYLE="font-size:60pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><div style="max-width:100%;margin-left:0%; margin-right:0%;background-color:#d8d8d8;;padding-top:2pt;padding-bottom:3pt">
+<P STYLE="margin-top:0pt; margin-bottom:2pt; padding-top:2pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">YOUR VOTE IS IMPORTANT NO MATTER HOW MANY SHARES YOU OWN </P></div>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Common Questions about Notice and Access </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL">Why am I receiving
+a Notice of Internet Availability instead of a Proxy Card and Proxy Statement? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="justify">Your company has elected to utilize a distribution model authorized
+by the Securities and Exchange Commission (the &#147;SEC&#148;) in 2007. This model, known as Notice and Access, allows mutual funds and public companies to send you a Notice instead of a full set of printed Proxy Materials. As a stockholder, you
+can select the means by which you access those Proxy Materials. You can view the materials electronically via the Internet, or request a full set of printed materials for this Stockholder Meeting and all future meetings, or you can make that choice
+on a case by case basis. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL">How do I access the materials, set my preference for future stockholder meeting materials and record my vote? </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="justify">On the front side of this Notice are easy to follow instructions on how to access Proxy Materials electronically or request a full set of printed
+materials. Once you are on the website or ordering on the phone, you can also make your selection for future meetings. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="justify">When you are ready to vote,
+electronic voting is available by Internet or Touch Tone Phone by using the Control Number and Security Code on the front of this Notice. The Touch Tone voting phone number is different from the ordering phone number and is displayed on the website.
+If you want to vote via Mail, you will need to request a paper copy of the materials to receive a Proxy Card and Return Envelope. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL">If I request printed Proxy
+Materials, how long will it take for me to receive them? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="justify">The SEC rule requires that the materials be sent via first class mail within three
+business days of receipt of your request. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:60pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">GSB_31371_NA_050620 </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g925757dsp01.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g925757dsp01.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( %$ #0,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /8IEUR34KV:VN52.W95AM9(QY<R[022^-P.21D' QT-"T5W
+MK_73^O+0;2T2[?JRUH5U=WFGO->PRP2F>4".50K*H<A1QP>,<]Z=K)"?Q/Y?
+MDOU,6>'2%\2WPGOGMK^>2/RYH"Z%/D4!&;&PDGD(V>O2I@M+1[O^O,<W:S>U
+MOU9T.F2F2S(:[-T\<C1M*8]A)4D'('&>.HXJMTF*UG;^MC*NIK>/4=2L?[%O
+M;T7(62<*L?EN"NWC<PSPN#]*E:JW9_\ !*;::?E_7YEW0+)+#2EA2*ZB!D=]
+MMTZM(-S$\D$YZ^I/K5/H1U;_ *V,[Q#/XBM#<2V,L)L_))01VK2S(P'IO&1G
+M'0$^QK-WL_P-(I-K\3:TP78TZ#[;*LMP4!=EC*#\LFM9V4G8QA=Q39S6O:;=
+MV]_<:R([';%)%*ES-(XDB1<;D&U#P?FZ'^(\5,/=:\W]]]%^)<[..O1?DV[G
+M56K7+6ZF[CBCF[K$Y=1^) _E3=N@'/:R+F:[N8;V:_AL2 (EL[5)ED&!DOE'
+M((.>.!C'6I7?K_5ANUK=+:_Y?<;&CO>2:<IO@WF;F"EU"NR9^4L!P"1Z?D.E
+M4R5OY&!JEO VI7,ES?12V!NX_.L_LCRO(XB&$&#\PQAL;3T]JF*M:^N]OZ\B
+MY7MIIHONO^NQL^'DMX],(M)-UOYLAC384\H;C\FT\KCICC'I5:V5_P"OZV)Z
+MO^NB_/?YF%JD(NM=N95M+Z-+29"UQ82JSE_+^\8V'/RMMRN21QC%3'37U_K^
+MO7<J5]%Y?J_U5SH]&6S&G*UC(\D3LS%Y,[RQ/S;L\@Y[<8Z53TT(6K;*\\.M
+M?VG.;-M/@M656#R0,[NW0AL..F!@_P"%);:E/H:-JMRMNHNY(I)N<M$A1?R)
+M/\Z>G01SNH.DNL7::BFK>3'M6W%FLX0C:"6W1=3DD<GC%3':_6XWTMM;\;O]
+J+&KH$UQ-I2FY$V]9'56GC*.R!B%)! .=N*I[(G9M+;^O^&-.D,* /__9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g925757dsp02.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g925757dsp02.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( $  #P,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /<;V:_2XBCLX(G!1G9I6(!((PN1TSD\X/3I0NH#M-N;B[M6
+MEN;9K:3S&41N.0 <#N1^5'1!U:_K8S=<M(KG5+-VL9+IXH)2OEOY;("4R5;(
+M(;TP1QGFA:-OT_7^G\AWTL7=$N1=:>75IV59'0&?[^ Q'/ /Y\_6GT3)V;7]
+M;(JZ_=/:O9D3WL2,Y5OLR1D,2. S/PO/3UZ=Q47L_D5T+FB7!O-'MKD^?^^0
+M./M&W?@\C.WBM)+E=B>Y1\2V-W=6V^&9$ABBD,BO(ZC/&&(4'<  WRG@YJ-$
+M[O;^K_>6DVN5;FI8*R6$*&&&$*H"I"245>P' [>U7*]]=S.-K:;&!XQ$QBMH
+MT>Z5)=\68)&C".<;6+!EY'.%)P2?7%9WM+7^K?Y_UU-%HKFGX=D>70[>9O/V
+M2#?&)VW.J'D MDYX[DYK22L[,A:-_P!?UJ5O$5Q<Q^3:VT]OOND:,6\CHKR<
+MKDJ'&&PNX8Z<C(-1;F?*_+_@EK1<W]7Z%_1[>>TTV."< >7E8U 7*I_"#M &
+M0/08JV[ZO<S2MHMB#5[.2XN(&2QMKJ/8\4@N9,(%;:>5VG.2HJ%NU_6G_#EW
+MLM"YIUNUK9)$T:Q$$_(DC.HY[%N<>W:J9*T*>KZ;+?7-K(+>UNH8E?,-R3MW
+L'&&Z'D ,/QJ;:ZE7TL6-(M);'3UMY1&NUV*I&251220HR!P!Q5-W)ZNQ_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g925757g0512214147707.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g925757g0512214147707.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  9 &P# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#TSPUX=M-3
+M\+Z5?W=[K3W-S:132N-:NU#,R@DX$H Y/0#%:G_"'Z9_S]:W_P"#R]_^.T_P
+M7_R(V@_]@^#_ - %;E &!_PA^F?\_6M_^#R]_P#CM'_"'Z9_S]:W_P"#R]_^
+M.UOT4 8'_"'Z9_S]:W_X/+W_ ..T?\(?IG_/UK?_ (/+W_X[6_10!@?\(?IG
+M_/UK?_@\O?\ X[1_PA^F?\_6M_\ @\O?_CM;]% &!_PA^F?\_6M_^#R]_P#C
+MM'_"'Z9_S]:W_P"#R]_^.UOT4 8'_"'Z9_S]:W_X/+W_ ..T?\(?IG_/UK?_
+M (/+W_X[6_10!@?\(?IG_/UK?_@\O?\ X[5CPNSOX;LS)+)*P4KOE<NQ 8@9
+M8DDG ZDYK7K'\+?\BY:?\#_]#:@#(\+Z[96'A/2+.Z6\BN(+.*.5#9395@@!
+M'W/6M;_A*-*_OW?_ ( S_P#Q%:]% &1_PE&E?W[O_P  9_\ XBC_ (2C2O[]
+MW_X S_\ Q%:]% &1_P )1I7]^[_\ 9__ (BC_A*-*_OW?_@#/_\ $5KT4 9'
+M_"4:5_?N_P#P!G_^(H_X2C2O[]W_ . ,_P#\16O10!D?\)1I7]^[_P# &?\
+M^(H_X2C2O[]W_P" ,_\ \16O10!D?\)1I7]^[_\  &?_ .(H_P"$HTK^_=_^
+M ,__ ,16O10!D?\ "4:5_?N__ &?_P"(IWA<,/#=GN1T)5FVNI4@%B1D'D<5
+'JT[M0!__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>g925757g0512214147910.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g925757g0512214147910.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  9 )0# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#K_#>F#4?"
+MVD7UUJ6MR7%S90S2O_;-VNYV0$G DP.3T%:G_"/VW_/_ *W_ .#N\_\ CM0^
+M#?\ D1_#_P#V#;?_ -%K6W0!E?\ "/VW_/\ ZW_X.[S_ ..T?\(_;?\ /_K?
+M_@[O/_CM:M% &5_PC]M_S_ZW_P"#N\_^.T?\(_;?\_\ K?\ X.[S_P".UJT4
+M 97_  C]M_S_ .M_^#N\_P#CM'_"/VW_ #_ZW_X.[S_X[6K10!E?\(_;?\_^
+MM_\ @[O/_CM'_"/VW_/_ *W_ .#N\_\ CM:M% &5_P (_;?\_P#K?_@[O/\
+MX[1_PC]M_P _^M_^#N\_^.UJT4 97_"/VW_/_K?_ (.[S_X[1_PC]M_S_P"M
+M_P#@[O/_ ([6K10!E?\ "/VW_/\ ZW_X.[S_ ..T?\(_;?\ /_K?_@[O/_CM
+M:M% &5_PC]M_S_ZW_P"#N\_^.T?\(_;?\_\ K?\ X.[S_P".UJT4 6?!LLLW
+MA.R:::69QO7S)9"[D!V RQ)). .313?!/_(I6?\ O2_^C&HH Y#PQJ<-CX3T
+M:TN8+^.X@L8(I4-A-E66-01]SL16K_;UE_<O?_ "?_XBNXHH X?^WK+^Y>_^
+M $__ ,11_;UE_<O?_ "?_P"(KN** .'_ +>LO[E[_P" $_\ \11_;UE_<O?_
+M   G_P#B*[BB@#A_[>LO[E[_ . $_P#\11_;UE_<O?\ P G_ /B*[BB@#A_[
+M>LO[E[_X 3__ !%']O67]R]_\ )__B*[BB@#A_[>LO[E[_X 3_\ Q%']O67]
+MR]_\ )__ (BNXHH X?\ MZR_N7O_ ( 3_P#Q%']O67]R]_\  "?_ .(KN**
+M.'_MZR_N7O\ X 3_ /Q%']O67]R]_P# "?\ ^(KN** .'_MZR_N7O_@!/_\
+M$4?V]9?W+W_P G_^(KN** ,/P9')'X3LEDCDC8[VVR(58 NQ&0>1P116]VHH
+# __9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>g925757g0512214148081.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g925757g0512214148081.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" !$ $0# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P!=8\:7_B7X
+MA6<,T]SI^EVUU)!#;Q3/"^[:Z;G9"#O+<  \ X[L3V-CK.M6^\:=K\5]'$QC
+M>&^C6;80?N[T*N&'0ERYKR[Q)&=*^(NHFX!_<ZQ]I;C^!I1*/_'6%>I>'=!T
+M;4[&\CN]/BDNK6]F0W(79,N]O. 61<,.)@.#ZT ;5OXZEB8+JNB7$*\9FLG%
+MS&H]QA9,^RH?K6[IGB71=9D\JPU&"6X W-;EMDR#_:C;#+^(%<I-X1N(3G3-
+M:GB&>(;V,7,:CV.5DS[ES61J6D:DT0CU;P];ZG I+!K5UFVX_B*2!2#@GA=Q
+M_J >KT5Y%9ZP]G=+;Z?XAOK*Y)!6RU LQ?T_=SCS O&/D*UWOA/6;[5[:]74
+M!;FXM+CR3);HR*X**X.UBQ'#XZGI^% '04444 %%%% 'SG\7M/>V\>:BQ=6^
+MW6T5P@ ^Z-GE8/XQ$_C7HO@B]2YN=2,1S%=1VVH*2,$"2,IC\H0?QKF?C=9K
+M%X@TB^'WKFUDA/L(W!'_ *-/Y5;^&UV6ETU54#S]):*0Y[VTJH/_ $:] 'I=
+M%%%(9B>+E5O#-UN (#Q-R.F)%.:=X"SGQ![:DH'_ (#04GBW_D5K[_=7_P!"
+M%.\!=/$'_83'_I-;TP.OHHHH$%%%% 'EGQPM(FT/1[X@^?%>F!3GC8\;,W'U
+MC6N9^'5T1)HJ@%6CO[FS)S]Y'A:<_P#CP3\J]"^+<"R_#F^D*Y:"6"1#Z?O5
+M4G_OEFKRGP.]XT-]%9^69[6[MKR,2.4!YPZE@"1E(R,X/6@#W:BN!O/&FH6\
+MGE7.H^'M,FZF*:1ICC\6C/Z5DS?$%KF7[*OB>W$HY/\ 9>F.[$?5O-'Z4AG<
+M>,?^1.U;_KV:I/ 7W?$'_83'_I-;UYG=>)KC5$FLIY_$UY:M\KJUO;6Z2#TS
+MM1L?E73^"_&ECI<.J_VU;W=C)=7OGQHL#W V>3&@YB#<YC/7UIB/5**P;;QM
+MX7NV5(M?TX2LVT12W"QR9]-C$-G\*WJ "BBB@"*XMH+RVDM[J&.>"1=KQ2H&
+M5AZ$'@BOE75/"-_X/U 0ZYH\<H9_DE+L(I3SC8Z_+V)VLN['85]7U!=V=KJ%
+MK):WEO%<6\@P\4R!U8>X/!H ^8(+O37N%,*Z?IN .+BQ&[/J) X7\^?:K+)K
+MA-P)"WD)G;)<WB1JP_O?NHPP'U85W/BOX-O$'NO"\A=.^GW$G..<^7(Q^GRO
+M[_,.!7EF+W2IYK,_:+*9.);65,;<C/S1L,<COCD=Z +C/8RF.UGU>&[?&]8[
+M2V:Z?_OIS+_(5=5I4ACG^QW,42KS+J5\+=/0 QQY7\"HK:\-Z4^J:+!<RW/V
+M:%F=1;V42Q+A7*\DY/.W^$KU_&ME+/0]+O(D2!'OV&8E"M<7+C_9'S2$=>G3
+MF@#F(8KV^@6*$2SP]A96:QQE?]^8E6'^[6G:^&[^,M+#);:*2!N>P=Q*?^!K
+ML Q[AA7:VGA_Q'J>"EM#I4!_Y:WO[R0\=HD/3I]YU(Y^6NAL? .CP%9-1\W5
+MYASNOR&0=.D0 C&.QVEN>M 'GFG>,_$6A0/:Z/9ZOXJLV?S!?LKW.PX ,?F*
+M,'&,_P# J*]K  & , =!10 M%%% !6'XD\):-XJM1%JEJ&D0$17$9VRQ$C^%
+MOUP<@X&0:** /*_AEHZ:Y-J^DW5Y=I9:3=O&B02"-I@9&/SN!N'(_@*U[#I6
+DB:9HD!ATRQ@M5;&\QK\TA'=VZL?<DFBB@"_1110 4444 ?_9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>g925757g96j18.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g925757g96j18.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$(  \ @P,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /8Y_&?ABTN);>XU_3XIHG*.CW"AE8'!!&>"#0!S%[\2[&6W
+M\06-I?6BZA;V4UQ83V\RS),%C8CMPX(R5.>.>1F@#1C>YEU!]/3Q)KQO8V;?
+M!Y-F&11T<GRL;6XP<\DX['!NKK^O+U_X?8;T=G_7_#=2&.[FFAFE@\1>(9A;
+MKFY"6]GF YP58>5]X#)(&3@>XR]+7OIW_K\>WR=DKWM;7M_7?IW'&Z9;,7Y\
+M5ZT--,FS[;Y5GY6,??SY6=N>-V,9]N:6UD_Z_P"'Z=_6P;[:_P!?IU[?)VLR
+M0WT6DKJ4GB+7U@X+ V]GO1,_?*^3D#'..H';M0_==G_PW]?=\M06NVOZ^A5>
+M]:.WCNY?%.N)82L5BNS!9F-R.F,0Y^;D*<<XXZKEV:T>_;K_ ,/Y?\&QOJAT
+MTUU:RQ0W'B'Q!#<3HK00M!9;IB>JKB+&X=\D8'/0$@2N^5?UY^G]=5<O97Z?
+MU^+Z?\!VD@:YGU(Z<OB775O%8B2%H+/,:=I"?*QM/8@G/3&0<):JZ_KR]?\
+MA]@>G]?UMU%NC<6>H"PE\3:[]J?'D1B"SS.#U*?N?X>^<8Z]"*(^\[+^O/T_
+MX;>P/W5=_P!>7K_71V8LET][)8Q^(M?>^B+;[<0V095'1R3%C:W&#GDG'8X7
+M2Z_KR]?^'V':SL_Z_P"&ZD<5U-<6LUS:^)/$$\5N 9C';VF8SGYE(,.=RCD@
+M D?7 IZ+6^G?IZ^GG_D[)7OR]>W]=^G_  5>W:PWE]837MEXFUNY@3/E-'%9
+M?Z1@=4S%R.V3@'Z<T/W5=C5F[(II>M):R7D7BG79+*(J);@0682(GKNS"#\O
+M\7'R]^AP/3?;^OP\Q*[T2U[?UU\O\U=TET\%M#=S^*-=BLIBPCN&@L]C8^[T
+MAS\W\/'/U(R6:T>_;KZ>OE_D["LU=;?UKZ>?Z"O-=17$5K-XA\00W<RJT,#0
+M66^7/7;B+'R_Q9(Q^5-*[LOZ\_3_ (;L#=E?I_6GK_71VW?#%Q=7.BL;RY>Y
+MFBN[F#S7559ECGD1<A0!G:HZ 4@-0V\)))B0D]25% '+:AX(BN8-?N1,)]5U
+M&TEM8)9@%2W5D("* .%R<D\DT 0C2/$*7AO8].L$OF9BUR-5?>ZG^ YML;1Q
+M@8XQ]<I*RLOZ\_7_ (;;0;U=W_7_  /^'WU(ET#7(D=+?3+*!)EVW CU>3_2
+M.<EG)ML[CR"1@D'Z8>FUM.W3^OSZ]17>]]>_7^NW;H/_ +"UGR?LIT73#I_F
+M>9]B.J/Y.?3;]FSMSSMSC-&^_P#7]=/^&!:;:?U^O7O\W><V'B1]*337TZQ>
+MV4X(;5Y"73/W"?LV2N./4CJ3S0]6FP7NWMI^GI_6G0K'0-9>,6\NCZ;+8J6:
+M.S;57\J,G^Z!;9XYP,X&>,8&#\^_7^O/?\0]!9=$\07&Q[BPLI[B%%6"=]7?
+M? 1_$I%MC)XR2#GH>.*=[._7^M/3^NP=.7I_7Y=/^'O+#I7B""^6_73-/-[O
+M)><ZL^Z13_ W^C8VCC  &,>N<I>[M_7GZ_\ #;: ]=_Z_K_@[A=Z5K][>&\F
+MTK3_ +4I'DRC5G#6^.R?Z-QGOG.>AXP 1]W5?UY>G_#[Z@]5;^O7U&'1O$(N
+M6O(["RBOF+;KI=5;S&4C&TYMB-HXP,<8SZY25E9?\/Y^O_#;#ZW?]?U_P=QJ
+M:%KD$4L-MI=A;PSJ%GCCU>3$Q!Y9B;<G<1P6!!.?I3WT>W;I_P -Y;?C=>=]
+M>_\ 7]?@6;:Q\1V5G<6EGIFG6T$I)1(]5<"#/79_HW [XY]J'JK/^O(%9.Z_
+MK^OZZE5= UF.-H(='TZ*SD*F6U75G\N4CNV;;)SQNY^;'.><G]>G]=@_/^OZ
+MO_P!3H.M20):S:/ITUE&6,=K)JSF-,],?Z-GY>=N3QGCH,&^KW[]?^'\]_O=
+MS;;^O^!Y VA^()'2:>PLYKJ(*(;E]7?S(0/[I%MCGOD'/0Y&*:=G?^GY>G];
+FA96MT.A\.V-UIVD&&]$0N'N;B=UA<NB^9,\@ 8A2<!P,X%(#_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

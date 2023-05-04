@@ -1,0 +1,355 @@
+<SEC-DOCUMENT>0001564590-20-032196.txt : 20200710
+<SEC-HEADER>0001564590-20-032196.hdr.sgml : 20200710
+<ACCEPTANCE-DATETIME>20200710170143
+ACCESSION NUMBER:		0001564590-20-032196
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20200710
+DATE AS OF CHANGE:		20200710
+EFFECTIVENESS DATE:		20200710
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tesla, Inc.
+		CENTRAL INDEX KEY:			0001318605
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				912197729
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34756
+		FILM NUMBER:		201023702
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+		BUSINESS PHONE:		650-681-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TESLA MOTORS INC
+		DATE OF NAME CHANGE:	20050222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>tsla-defa14a_20200922.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+tsla-defa14a_20200922.htm
+</title>
+</head>
+<!-- NG Converter v5.0.2.46 -->
+<body>
+
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:1pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">UNITED STATES</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SECURITIES AND EXCHANGE COMMISSION</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">WASHINGTON, D.C. 20549</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SCHEDULE 14A INFORMATION</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Proxy Statement Pursuant to Section 14(a)</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">of the Securities Exchange Act of 1934</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Amendment No.&#160;&#160;&#160;&#160;)</p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Filed by the Registrant&#160;<font style="font-family:Segoe UI Symbol;">&#9746;</font></p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Filed by a Party other than the Registrant&#160;<font style="font-family:Segoe UI Symbol;">&#9744;</font></p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Check the appropriate box:</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:4pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:468pt;;">
+<tr>
+<td style="width:19.65pt;"></td>
+<td style="width:448.35pt;"></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Preliminary Proxy Statement</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Confidential, for Use of the Commission Only (as permitted by Rule&#160;14a-6&#160;(e)&#160;(2))</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Definitive Proxy Statement</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9746;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Definitive Additional Materials</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Soliciting Material Pursuant to Section&#160;240.14a-11&#160;(c)&#160;or Section&#160;240.14a-12</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:4pt;text-indent:0%;font-weight:bold;font-size:22pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">TESLA, INC.</p>
+<p style="text-align:center;margin-bottom:0pt;border-top:Solid 0.75pt #000000;padding-top:1pt;margin-top:0pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-family:Times New Roman;font-size:4pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:7.5pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Name of Registrant as Specified in its Charter)</p>
+<p style="text-align:center;margin-bottom:0pt;border-bottom:Solid 0.75pt #000000;padding-bottom:1pt;margin-top:0pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-family:Times New Roman;font-weight:bold;;font-size:4pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:4pt;text-indent:0%;font-weight:bold;font-size:7.5pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Name of Person(s) Filing Proxy Statement, if other than the Registrant)</p>
+<p style="margin-bottom:4pt;margin-top:3pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Payment of Filing Fee (Check the appropriate box):</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9746;</p></td>
+<td colspan="2" valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">No fee required.</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td colspan="2" valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Fee computed on table below per Exchange Act Rules 14a-6&#160;(i)&#160;(1) and 0-11.</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(1)</p></td>
+<td valign="top"  style="width:92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Title of each class of securities to which transaction applies:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(2)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Aggregate number of securities to which transaction applies:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(3)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule&#160;0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(4)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Proposed maximum aggregate value of transaction:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(5)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Total fee paid:</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:9.84%;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">$</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:96%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top"  style="width:96%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Fee paid previously with preliminary materials.</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Check box if any part of the fee is offset as provided by Exchange Act Rule&#160;0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:6pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(1)</p></td>
+<td valign="top"  style="width:92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Amount previously paid:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(2)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Form, Schedule or Registration Statement No.:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(3)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Filing Party:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(4)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Date Filed:</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:6pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:6pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU2"></a><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">On July 10, 2020, Tesla, Inc. issued the press release set forth below:</font></p>
+<p style="Background-color:#FFFFFF;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;Background-color:#FFFFFF;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;;font-size:10pt;">&nbsp;</p>
+<p style="text-align:center;Background-color:#FFFFFF;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">UPDATE ON TESLA&#8217;S 2020 ANNUAL MEETING OF STOCKHOLDERS; BATTERY DAY</p>
+<p style="Background-color:#FFFFFF;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-weight:bold;;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-style:italic;font-size:10pt;font-family:Times New Roman;font-weight:normal;text-transform:none;font-variant: normal;">New Date and Location</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:7.69%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Tesla, Inc. (&#8220;<font style="text-decoration:underline;">Tesla</font>&#8221;) announced today that its 2020 Annual Meeting of Stockholders (the &#8220;<font style="text-decoration:underline;">2020 Annual Meeting</font>&#8221;) will be held in person on Tuesday, September&#160;22, 2020, at 2:30 p.m. Pacific Time, at Tesla&#8217;s Fremont Factory located at 45500 Fremont Blvd, Fremont, CA 94538. Eligible stockholders may also attend Tesla&#8217;s separate Battery Day presentation, which will be held on the same day, with additional details to be announced at a later time. No formal stockholder business will be conducted at such presentation. Tesla intends to webcast both events live.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-style:italic;font-size:10pt;font-family:Times New Roman;font-weight:normal;text-transform:none;font-variant: normal;">Additional Information</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:7.69%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Further details regarding the 2020 Annual Meeting will be provided in additional proxy materials to be filed with the Securities and Exchange Commission. Stockholders who have previously sent in proxies, or voted by telephone or by Internet, will be asked to submit new proxies or vote by telephone or Internet in advance of the 2020 Annual Meeting by one of the methods described in the additional proxy materials to be distributed, and such previously sent proxies or votes will not be counted.&#160; Stockholder proposals intended for inclusion in Tesla&#8217;s definitive proxy statement for the 2020 Annual Meeting pursuant to Rule 14a-8 must be received by Tesla&#8217;s Corporate Secretary at shareholdermail@tesla.com&#160;no later than July 20, 2020 (which Tesla believes is a reasonable time before it begins to print and send its proxy materials). Tesla will continue to monitor public health and travel safety protocols required or recommended by federal, state and local governments. If necessary or advisable to protect our personnel and stockholders, we will change the date, time, location and/or format of the 2020 Annual Meeting. If we do so, we will publicly announce any such changes in advance.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Investor Relations Contact:</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">ir@tesla.com&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:7.69%;font-family:Times New Roman;font-size:1pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

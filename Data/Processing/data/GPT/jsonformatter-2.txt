@@ -1,0 +1,67 @@
+{
+  "docid": "30113943",
+  "title": "Scientific Reports on Emission Cuts",
+  "uri": "Q7835177",
+  "text": "The world’s leading international scientific bodies recently released reports which clearly state the need for deep cuts in emissions in order to limit global warming to safe levels.",
+  "entities": [
+    {
+      "uri": "Q7835177",
+      "boundaries": [
+        0,
+        46
+      ],
+      "surfaceform": "Scientific Reports on Emission Cuts",
+      "annotator": "Information/Data"
+    },
+    {
+      "uri": "Q212836",
+      "boundaries": [
+        94,
+        102
+      ],
+      "surfaceform": "emissions",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q12299",
+      "boundaries": [
+        132,
+        146
+      ],
+      "surfaceform": "global warming",
+      "annotator": "Environmental"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q7835177",
+        "boundaries": [
+          0,
+          46
+        ],
+        "surfaceform": "Scientific Reports on Emission Cuts",
+        "annotator": "Information/Data"
+      },
+      "predicate": {
+        "uri": "P2046",
+        "boundaries": null,
+        "surfaceform": "deep cuts in emissions",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q12299",
+        "boundaries": [
+          132,
+          146
+        ],
+        "surfaceform": "global warming",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    }
+  ]
+}

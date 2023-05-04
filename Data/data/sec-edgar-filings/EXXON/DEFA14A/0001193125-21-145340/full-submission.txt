@@ -1,0 +1,377 @@
+<SEC-DOCUMENT>0001193125-21-145340.txt : 20210430
+<SEC-HEADER>0001193125-21-145340.hdr.sgml : 20210430
+<ACCEPTANCE-DATETIME>20210430164552
+ACCESSION NUMBER:		0001193125-21-145340
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20210430
+DATE AS OF CHANGE:		20210430
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		21879008
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9729406000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d55661ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the
+Registrant&nbsp;&nbsp;&#9746; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Filed by a Party other than the
+Registrant&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>Confidential, for Use of the Commission Only (as permitted by Rule <FONT STYLE="white-space:nowrap">14a-6(e)(2))</FONT></B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Soliciting Material Pursuant to <FONT STYLE="white-space:nowrap">&#167;240.14a-12</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>E<SMALL>XXON</SMALL> M<SMALL>OBIL</SMALL> C<SMALL>ORPORATION</SMALL> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified In Its Charter) </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules <FONT STYLE="white-space:nowrap">14a-6(i)(4)</FONT> and <FONT STYLE="white-space:nowrap">0-11.</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Title of each class of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Aggregate number of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11</FONT>
+(set forth the amount on which the filing fee is calculated and state how it was determined):</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Proposed maximum aggregate value of transaction:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Total fee paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Fee paid previously with preliminary materials.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11(a)(2)</FONT> and identify the filing for which the offsetting fee was paid previously. Identify the
+previous filing by registration statement number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Amount Previously Paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Form, Schedule or Registration Statement No.:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filing Party:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date Filed:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">APRIL&nbsp;30, 2021, CNBC FINANCIAL NEWS </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">PUBLIC AFFAIRS TALK INTERVIEW </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">WITH
+DARREN WOODS BECKY QUICK: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Welcome back, everybody. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ExxonMobil just reporting this morning earnings for the oil giant coming in at 65 cents a share. That&#146;s better than the Street&#146;s estimate of 59
+cents. Revenue also came in above forecast. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Let&#146;s take a look at the stock in the premarket this morning, and you&#146;re going to see right now
+that Exxon shares, I believe, are still trading a little bit lower. They had been running a little bit lower. They had been lower even before we got these numbers. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Chevron reported earlier this morning, and its stock has been the worst performer in the Dow since that happened. Right now ExxonMobil shares are down by
+about 1&nbsp;percent but not as weak as they had been when we first got a look at Chevron&#146;s numbers. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Joining us right now is ExxonMobil&#146;s
+C.E.O., Darren Woods. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">And Darren, it&#146;s good to see you this morning. Thank you for being with us. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">MR. WOODS: Good to be here, Becky. Thank you. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BECKY QUICK: So
+let&#146;s talk a little bit about the numbers for what we&#146;ve seen in this most recent quarter. Obviously, the biggest story that&#146;s been impacting all of the big oil companies has been that huge rise in WTI. What did that mean for you this
+quarter? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">MR. WOODS: Well, I think the first quarter results reflect what is an improving market. But more importantly, it reflects the significant work
+and the strategic investments that we&#146;ve been making over the last several years to reshape our portfolio to be amongst the best and most price-competitive portfolio of assets in the industry. And I think we&#146;re starting to see the results
+of that work manifest themselves here in the first quarter. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BECKY QUICK: Is that around results for U.S. shale? What are you talking about? </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">MR. WOODS: So back in 2017 we started a very concerted effort to improve the earnings capacity and cash flow generation capacity of our asset base by
+developing a very advantaged set of investments &#151; investment opportunities. We restructured the organization in &#145;18 and &#145;19 basically moving 16,000 different jobs, moving &#151; organizing long value chains, which have given our
+employees a much better line of sight to the business, <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">end-to-end</FONT></FONT> profitability and accountability for that profitability, and simplified the org structure, eliminated a
+lot of organizational interfaces and the friction that comes with that. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">So I think we have a much leaner organization that is more focused on the bottom
+line results, and our employees can relate their activities better to those bottom line results. And that&#146;s, I think, what we&#146;re starting to see here in the first quarter. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BECKY QUICK: Part of that also was a big cut to capital expenditures. It&#146;s the same thing we saw for many oil companies just responding to the drop in
+oil prices. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Are your CapEx plans still in place from the most recent that we&#146;ve heard? I think it&#146;s something like 16 to $19&nbsp;billion for
+this year and then 20 to $25&nbsp;billion through 2025. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">MR. WOODS: Yes, they are, Becky. We&#146;re still pursuing &#151; we&#146;re still &#151; our
+CapEx plans are still in line with that outlook. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As you said and as I mentioned, we have built a very advantaged set of investment opportunities. All those
+investment opportunities are intact, but as we went into the pandemic and saw the impact on the industry we had to reprioritize and continuing to invest in the highest return projects and then starting to pace some of those other projects. And we
+have plans today to bring those back online. As the economies improve and as the industry outlook improves, those will be ramped up. And that&#146;s consistent with the outlook that we put out as part of our Investor Day and, in fact, last year
+after the board approved our plan. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BECKY QUICK: Hey, Darren, you&#146;ve been dealing with a lot of activist investors this year, and some of them have
+backed down, have reached agreement with the company. But you did have Engine Company No.&nbsp;1 kind of doubling down this week reiterating their complaints, I think, in an <FONT STYLE="white-space:nowrap">80-page</FONT> letter that they put out.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">They want to see changes at the board. They want to see people put into the board position who are going to be more reactive to climate change. It&#146;s
+been a big battle and it&#146;s been surprising to see the three largest pension funds back them and say they&#146;d go along with it. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Right now we have
+not heard from your biggest investors. That would be BlackRock and Vanguard. But where do things stand right now? What can you tell us? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">MR. WOODS: Well,
+you know, when that came out back in December we had, as you said, two activist investors that we engaged with. I &#151; and I talked with both of them. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I&#146;d say, if I take the first activist, D.E. Shaw, had a very good, constructive conversation, talked about the objectives, talked about how best to
+achieve those objectives and I think through the course of that conversation became very clear that we were aligned on the objectives of growing shareholder value and as those discussions progressed aligned on how best to do that. And as we rebuild
+our plans that we had developed in 2020, I think got general alignment around where we&#146;re taking the company, the benefits that we think we&#146;re going to see and I think general agreement that we were on the right track and the right
+approach. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We did a very similar process with Engine No.&nbsp;1. And I would say, you know, we agree certainly on one objective, which is making sure that
+the company is well positioned to deal with the transition and to help society more generally evolve to a lower carbon future. But I think when it comes to how best to do that, Engine No.&nbsp;1 wasn&#146;t particularly interested in engaging and
+understanding how best ExxonMobil can contribute to that and grow shareholder value while transitioning to a lower carbon future. And frankly, they&#146;re pushing us to wind down our investments, wind down the business, move into solar and wind
+where we don&#146;t really have a competitive advantage, and so I had difficulty reaching any understanding as to how best to move forward. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BECKY QUICK:
+Is D.E. Shaw on board with you? Or there have been some intimations that they might vote with Engine No.&nbsp;1. Is that not the case? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">MR. WOODS: I
+can&#146;t speak for what D.E. Shaw is going to do. I think they have been fairly aligned with the discussions that we&#146;ve had and the direction that we&#146;ve taken. And today I&#146;m not aware of any, really, air between ourselves or gap in
+terms of how we think we should move forward and what they think we should be doing. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BECKY QUICK: How about BlackRock and Vanguard? Have you discussed
+the plans with them? And do you feel like your largest shareholders are on board with you? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">MR. WOODS: You know, we&#146;ve had a pretty long engagement
+with BlackRock and Vanguard and really a lot of our big shareholders. In fact, we have a very active engagement process. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The changes that we&#146;ve made
+in the board since I have been on, since 2017 we&#146;ve brought in six new directors. All of those have been informed by discussions with shareholders and trying to address some of the concerns. And we have a fairly routine dialogue and engagement
+with those shareholders and lay those plans out to them, and I think, you know, over the years they have offered ideas and things for us to kind of focus on and we&#146;ve evolved with some of that in their thinking. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I think today we&#146;re continuing to lay out our plans, and my sense is they are aligned with the
+direction that we&#146;re heading, want to see us to continue to take a leadership role and help society transition to a lower carbon future. And some of the things we&#146;ve been doing I think they recognize as steps in that direction, trying to
+find ways to leverage what ExxonMobil can uniquely bring to this space to help society transition to a lower carbon future while building shareholder value. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">And you know, we recently announced a new business, Low Carbon Solutions. We recently announced a concept of a very large scale carbon reduction opportunity
+in Houston Ship Channel area, and I think, you know, people are interested in that. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We&#146;re going to need big steps and big reductions and companies
+like ExxonMobil to help society make this transition successfully and at a low cost. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BECKY QUICK: Darren, I hadn&#146;t realized until very recently what
+you guys have already been doing in carbon capture. I didn&#146;t realize it was something you&#146;ve been working on for about 40 or 50 years at this point. Someone told me that Exxon is the largest entity for &#151; you can look at any country,
+you can look at any company, and Exxon has actually captured more carbon over the last 40 or 50 years than just about anybody else. Explain how that works and what it is because I don&#146;t think a lot of people understand that. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">MR. WOODS: So, yeah, we&#146;ve been involved in that industry for a long, long time. And as you&#146;ve stated, Becky, we &#151; you know, we&#146;ve
+captured more anthropogenic CO2 than any other entity in the world, a hundred million &#151; 120&nbsp;million tons, which is equivalent to about 25&nbsp;million cars on the road in one year, and so &#151; and operate that technology all around the
+world. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We&#146;re doing a lot of work today to advance that technology and to lower the cost. One of the challenges with the existing technology is it
+requires more concentrated sources of CO2, and so the attractiveness of that technology is limited to certain applications. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">And of course, as you move
+out further and further and try to reduce more and more CO2, you need lower cost technology to achieve that. And that&#146;s the work we&#146;ve been doing over the last decade, investing in R&amp;D to try to lower the cost of carbon capture and
+storage so that we can deploy that more broadly. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">And we in 2018 launched a carbon capture venture that looked at trying to deploy some of that technology
+that we&#146;re developing, looked for opportunities around the world to deploy carbon capture as a whole. We&#146;ve got 20 project concepts that we&#146;re progressing and evaluating, and making some progress there in the Houston Ship Channel with
+a hundred million tons per annum of CO2 reduction in 2040 is one of those projects that we&#146;ve been talking about with governments both locally and at the federal level. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BECKY QUICK: Darren, when you talk about carbon capture it sounds great, but the reason you&#146;ve been doing this for years is you can make money doing it.
+It&#146;s something that you resell, the captured carbon, to companies like Coke and Pepsi, and in other cases you get government subsidies for it. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">So
+how does it work? If you&#146;re going to spend a hundred billion dollars building a plant like this in the Houston area, how does it work? How do you make money on that? Because nobody does things just out of the good of their hearts. What&#146;s
+the business model here? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">MR. WOODS: Well, I think you&#146;ve got to go back to, you know, foundations. If governments around the word and society as a
+whole wants to reduce CO2, there needs to be an incentive to make that happen. And as you say, you know, a lot of the applications today capturing that CO2 and putting it to use with our existing industry can make money and justify those
+investments. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As you move out, there&#146;s going to need to be some incentive to do that. And that&#146;s not a new concept, frankly. You see that today,
+tax incentives you have for electric vehicles, the tax incentives for wind and solar. I think one of the big differences in those applications is there is an existing industry with an existing incentive and the government is aiding that incentive to
+facilitate and grow those new businesses. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">With respect to capturing CO2, that&#146;s a <FONT STYLE="white-space:nowrap">brand-new</FONT> industry.
+That&#146;s an industry we have to build from scratch, and there has to be incentives to drive those investments and to drive those investments to scale and so we have talked about some mechanism of a price on carbon. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">And I think the government needs a price on carbon. If they&#146;re going to evaluate and compare different regulatory options or policies to try to lower
+CO2, the government is going to need to understand what is the price they&#146;re paying for every ton of carbon they reduce. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Just to give you an
+example, if you take the Houston Ship Channel opportunity that we&#146;ve talked about and you take the cost of CO2 reduction associated with the tax incentive for electric vehicles, we can reduce carbon at anywhere from a half to a quarter of the
+cost that the current tax incentive for electric vehicles is providing. And so it&#146;s &#151; there&#146;s an opportunity there, but it&#146;s a <FONT STYLE="white-space:nowrap">brand-new</FONT> industry. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The other point I would make is our company as a whole &#151; you know, we&#146;ve been in the business of starting businesses, you know, new ventures, from
+scratch all around the world so it&#146;s something that our history lends itself to. Large projects at scale dealing with processes that reduce and concentrate CO2 is something that we&#146;re very familiar with and I think gives us an opportunity
+to significantly contribute to these objectives. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BECKY QUICK: Darren, very quickly &#151; I know you have to go, but you&#146;re a high yielder. You
+yield 5.9&nbsp;percent. You paid out about $15&nbsp;billion in dividends last year. I know that&#146;s a very important thing to you. You had to borrow to do it last year. This year does the problem take care of itself with higher earnings? How do
+you handle it? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">MR. WOODS: Well, if you look at just the first quarter, which I think is indicative of more good things to come, we generated
+$9.3&nbsp;billion of operating cash. That more than paid for the dividend, more than paid for the capital program that we had in place and allowed us to reduce our debt by over $4&nbsp;billion. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">And that&#146;s been the plan. You know, in 2020 in the pandemic, worst set of circumstances the industry has ever seen, we worked really hard to strike the
+right balance, to continue to pay a strong dividend, continue to invest in high-return projects, and we leaned heavily on the balance sheet. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As
+we&#146;re coming into the recovery, the plan is to continue to progress those high-return investments, continue to pay strong dividend and then start <FONT STYLE="white-space:nowrap">de-leveraging</FONT> and rebuilding the capacity in our balance
+sheet because we know with time we&#146;re going to see this commodity cycle come back around. We&#146;ll be prepared for it when it comes back next time. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BECKY QUICK: Darren, thanks for your time today. It&#146;s good to see you. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">MR. WOODS: Nice talking with you, Becky. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Thank you. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">*********** </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Important Additional Information Regarding Proxy Solicitation </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exxon Mobil Corporation (&#147;ExxonMobil&#148;) has filed a definitive proxy statement and form of associated BLUE proxy card with the U.S. Securities and
+Exchange Commission (the &#147;SEC&#148;) in connection with the solicitation of proxies for ExxonMobil&#146;s 2021 Annual Meeting (the &#147;Proxy Statement&#148;). ExxonMobil, its directors and certain of its executive officers will be
+participants in the solicitation of proxies from shareholders in respect of the 2021 Annual Meeting. Information regarding the names of ExxonMobil&#146;s directors and executive officers and their respective interests in ExxonMobil by security
+holdings or otherwise is set forth in the Proxy Statement. To the extent holdings of such participants in ExxonMobil&#146;s securities are not reported, or have changed since the amounts described, in the Proxy Statement, such changes have been
+reflected on Initial Statements of Beneficial Ownership on Form 3 or Statements of Change in Ownership on Form 4 filed with the SEC. Details concerning the nominees of ExxonMobil&#146;s Board of Directors for election at the 2021 Annual Meeting are
+included in the Proxy Statement. BEFORE MAKING ANY VOTING DECISION, INVESTORS AND SHAREHOLDERS OF THE COMPANY ARE URGED TO READ ALL RELEVANT DOCUMENTS FILED WITH OR FURNISHED TO THE SEC, INCLUDING THE COMPANY&#146;S DEFINITIVE PROXY STATEMENT AND
+ANY SUPPLEMENTS THERETO AND ACCOMPANYING BLUE PROXY CARD, BECAUSE THEY CONTAIN IMPORTANT INFORMATION. Investors and shareholders can obtain a copy of the Proxy Statement and other relevant documents filed by ExxonMobil free of charge from the
+SEC&#146;s website, www.sec.gov. ExxonMobil&#146;s shareholders can also obtain, without charge, a copy of the Proxy Statement and other relevant filed documents by directing a request by mail to ExxonMobil Shareholder Services at 5959 Las Colinas
+Boulevard, Irving, Texas, 75039-2298 or at shareholderrelations@exxonmobil.com or from the investor relations section of ExxonMobil&#146;s website, www.exxonmobil.com/investor. </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

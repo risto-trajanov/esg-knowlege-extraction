@@ -1,0 +1,496 @@
+<SEC-DOCUMENT>0001104659-18-071803.txt : 20181207
+<SEC-HEADER>0001104659-18-071803.hdr.sgml : 20181207
+<ACCEPTANCE-DATETIME>20181207110354
+ACCESSION NUMBER:		0001104659-18-071803
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20181207
+DATE AS OF CHANGE:		20181207
+EFFECTIVENESS DATE:		20181207
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MORGAN STANLEY ASIA-PACIFIC FUND, INC.
+		CENTRAL INDEX KEY:			0000919808
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-08388
+		FILM NUMBER:		181222517
+
+	BUSINESS ADDRESS:	
+		STREET 1:		MORGAN STANLEY ASIA-PACIFIC FUND, INC.
+		STREET 2:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		6175578742
+
+	MAIL ADDRESS:	
+		STREET 1:		MORGAN STANLEY ASIA-PACIFIC FUND, INC.
+		STREET 2:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY ASIA PACIFIC FUND INC
+		DATE OF NAME CHANGE:	20070518
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY DEAN WITTER ASIA PACIFIC FUND INC
+		DATE OF NAME CHANGE:	20000504
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY ASIA PACIFIC FUND INC
+		DATE OF NAME CHANGE:	19940505
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>a18-41181_1defa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+
+
+<html>
+<head>
+
+
+
+
+
+
+  </head>
+<body link=blue lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">UNITED STATES<br>  </font></b><b><font size="4" style="font-size:14.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">SCHEDULE 14A</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Proxy Statement Pursuant to Section 14(a) of<br> the Securities Exchange Act of 1934 (Amendment No. &nbsp;&nbsp;&nbsp;&nbsp;)</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed by the Registrant&nbsp;&nbsp;</font><font face="Wingdings">x</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed by a Party other than the Registrant</font>&nbsp;&nbsp;<font face="Wingdings">o</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box:</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Preliminary Proxy Statement</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Confidential, for   Use of the Commission Only (as permitted by Rule 14a-6(e)(2))</font></b></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Definitive Proxy Statement</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Definitive Additional Materials</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Soliciting Material under &#167;240.14a-12</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">MORGAN STANLEY   ASIA-PACIFIC FUND, INC.</font></b></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name   of Registrant as Specified In Its Charter)</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name   of Person(s) Filing Proxy Statement, if other than the Registrant)</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Payment of Filing Fee (Check the   appropriate box):</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">No fee required.</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Fee computed on table below per   Exchange Act Rules 14a-6(i)(1) and 0-11.</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(1)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title of each class of securities to   which transaction applies:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Aggregate number of securities to   which transaction applies:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(3)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Per unit price or other underlying   value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth   the amount on which the filing fee is calculated and state how it was   determined):</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(4)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Proposed maximum aggregate value of   transaction:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(5)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Total fee paid:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Fee paid previously with preliminary   materials.</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check box if any part of the fee is   offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing   for which the offsetting fee was paid previously. Identify the previous   filing by registration statement number, or the Form or Schedule and the date   of its filing.</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(1)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Amount Previously Paid:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Form, Schedule or Registration   Statement No.:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(3)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filing Party:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(4)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date Filed:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr height="0">
+<td width="36" style="border:none;"></td>
+<td width="31" style="border:none;"></td>
+<td width="2" style="border:none;"></td>
+<td width="639" style="border:none;"></td>   </tr> </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109764\18-41181-1\task9145395\41181-1-ba.htm',USER='109764',CD='Dec  6 02:45 2018' -->
+
+
+<div style="page-break-before:always;"></div>
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman"><img width="243" height="47" src="g411811bci001.gif"></font></p>    </td>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">FOR IMMEDIATE RELEASE</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">DECEMBER 6, 2018</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Morgan Stanley Asia-Pacific Fund,&nbsp;Inc. Announces Reorganization into Morgan Stanley Institutional Fund,&nbsp;Inc. &#151; Emerging Markets Portfolio</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">NEW YORK </font></b>&#151; Morgan Stanley Asia-Pacific Fund,&nbsp;Inc. (NYSE: APF) (the &#147;Fund&#148;) announced that, after considering the recommendation of the Fund&#146;s investment adviser, Morgan Stanley Investment Management Inc., the Board of Directors of the Fund determined that it would be in the best interest of stockholders of the Fund to approve an Agreement and Plan of Reorganization by and between the Fund and Morgan Stanley Institutional Fund,&nbsp;Inc., on behalf of its series Emerging Markets Portfolio (&#147;MSIF Emerging Markets&#148;), pursuant to which substantially all of the assets and liabilities of the Fund would be transferred to MSIF Emerging Markets and stockholders of the Fund would become stockholders of MSIF Emerging Markets, receiving shares of common stock of MSIF Emerging Markets equal to the value of their holdings in the Fund (the &#147;Reorganization&#148;). Upon execution of the Reorganization, shares of the Fund would cease to trade on the New York Stock Exchange; however, after the Reorganization, shares of MSIF Emerging Markets may be purchased and redeemed at the option of stockholders at net asset value on a daily basis, subject to the terms described in the registration statement for MSIF Emerging Markets.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">It is currently anticipated that, in connection with the Reorganization, Japanese stockholders of the Fund</font>, as further described below, will receive a cash payment equal to the net asset value of their holdings, rather than shares of MSIF Emerging Markets. Upon execution of the Reorganization, shares of the Fund would be delisted from the Tokyo Stock Exchange upon determination by the Tokyo Stock Exchange.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Reorganization is subject to certain conditions, including stockholder approval and customary closing conditions</font> such as the performance of certain obligations contained in the Agreement and Plan of Reorganization. The Reorganization of the Fund will be submitted for stockholder approval at a special meeting of stockholders (the &#147;Meeting&#148;) scheduled to be held on March&nbsp;8, 2019, and any adjournments or postponements thereof, to stockholders of record on January&nbsp;14, 2019. Further information about the Reorganization will be included in a proxy statement/prospectus expected to be mailed to stockholders in the first quarter of 2019.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Any solicitation of proxies by the Fund in connection with the Meeting will be made only pursuant to separate proxy materials filed with the U.S. Securities and Exchange Commission (the &#147;SEC&#148;) under applicable federal securities laws. Because the proxy statement/prospectus will contain important information, including a more detailed description of the </font>Agreement and Plan of Reorganization, stockholders are urged to read these materials carefully when they become available. The Fund and the Board of Directors may be deemed to be participants in the solicitation of proxies from stockholders in connection with the Meeting. The Fund plans to file a proxy statement/prospectus with the SEC in connection with the solicitation of proxies for the Meeting. Information regarding the names of the Fund&#146;s Directors is set forth in the Fund&#146;s December&nbsp;31, 2017 annual report to stockholders, which may be obtained free of charge at the SEC&#146;s website at&nbsp;www.sec.gov. Additional information regarding the interests of such potential participants will be</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">For more information: 800.231.2608</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109764\18-41181-1\task9145577\41181-1-bc.htm',USER='109764',CD='Dec  6 06:08 2018' -->
+
+<div style="page-break-before:always;"></div>
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">included in the proxy statement/prospectus and other relevant documents, such as the prospectus and most recent shareholder reports of MSIF Emerging Markets, to be filed with the SEC in connection with the Meeting.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Promptly after filing its definitive proxy statement/prospectus for the Meeting with the SEC, the Fund will mail the definitive proxy statement/prospectus and a proxy card to each stockholder entitled to vote at the Meeting.&nbsp;<b>The Fund urges stockholders to read the proxy statement/prospectus (including any supplements thereto) and any other relevant documents that the Fund will file with the SEC when they become available because they will contain important information.</b>&nbsp;Stockholders will be able to obtain, free of charge, copies of the proxy statement/prospectus and any other documents filed by the Fund with the SEC in connection with the Meeting at the SEC&#146;s website at&nbsp;www.sec.gov, by calling 1-800-231-2608 or by writing to the Fund at 522 Fifth Avenue, New York, New York 10036.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">To stockholders in Japan holding shares of the Fund through the Japan Securities Depositary Center,&nbsp;Incorporated (the &#147;Japanese stockholders&#148;)</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">As described above, it is proposed to submit to stockholder vote the Reorganization proposal and, subject to such approval, execute the Reorganization and dissolve the Fund.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Before the Meeting, the proxy statement/prospectus together with their abridged Japanese translation will be sent to Japanese stockholders and the Japanese stockholders may vote their shares by proxy or by proxy card, telephone or Internet. After the conclusion of the Meeting, the Fund will determine the day on which the Reorganization is to occur and will publicize it immediately after such date is determined.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Upon publication of this press release, the Tokyo Stock Exchange will designate the shares of the Fund as securities under supervision (confirmation) and, upon the conclusion of the Meeting, as securities to be delisted from the Tokyo Stock Exchange.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">It is currently anticipated that, in connection with the Reorganization, Japanese stockholders will receive cash in lieu of shares of MSIF Emerging Markets subject to confirmation of payment method or other procedure. The reasons for this treatment are as follows:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font> there may be potential adverse tax consequences to Japanese stockholders were they to receive shares of MSIF Emerging Markets in connection with the Reorganization,<br><br></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font> although stockholders of MSIF Emerging Markets may redeem their shares at net asset value due to MSIF Emerging Markets&#146; operation as an open-ended fund, it is unlikely that there is a Japanese securities company that would hold the shares of MSIF Emerging Markets on behalf of all the Japanese stockholders such that Japanese stockholders would be able to exercise their right of redemption to MSIF Emerging Markets.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Fund is a diversified, closed-end management investment company that seeks long-term capital appreciation through investments primarily in equity securities of Asian-Pacific issuers and in debt securities issued or guaranteed by Asian Pacific governments or governmental entities.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Morgan Stanley Investment Management, together with its investment advisory affiliates, has more than 658 investment professionals around the world and $471 billion in assets under management or supervision as of September&nbsp;30, 2018.&#160; Morgan Stanley Investment Management strives to provide outstanding long-term investment performance, service and a comprehensive suite of investment management solutions to a diverse client base, which includes governments, institutions, corporations and individuals worldwide.&#160; For further information about Morgan Stanley Investment Management, please visit www.morganstanley.com/im.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109764\18-41181-1\task9145577\41181-1-bc.htm',USER='109764',CD='Dec  6 06:08 2018' -->
+
+<div style="page-break-before:always;"></div>
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">About Morgan Stanley</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Morgan Stanley (NYSE: MS) is a leading global financial services firm providing investment banking, securities, wealth management and investment management services.&#160; With offices in more than 41 countries, the Firm&#146;s employees serve clients worldwide including corporations, governments, institutions and individuals.&#160; For more information about Morgan Stanley, please visit www.morganstanley.com.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;"># # #</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">This press release shall not constitute an offer to sell or the solicitation of an offer to buy nor shall there be any sale of the securities in any state in which such offer, solicitation or sale would be unlawful under the securities laws of any such state.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Investing involves risk and it is possible to lose money on any investment in the Fund.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109764\18-41181-1\task9145577\41181-1-bc.htm',USER='109764',CD='Dec  6 06:08 2018' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g411811bci001.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g411811bci001.gif
+M1TE&.#=A\P O '<  "'^&E-O9G1W87)E.B!-:6-R;W-O9G0@3V9F:6-E "P
+M    \P O (<    5%14# P,9&1D" @(;&QL>'AX&!@8-#0T8&!@! 0$$! 0)
+M"0D3$Q,'!P<(" @%!04/#P\7%Q<,# P*"@H4%!0.#@X0$! ?'Q\6%A8+"PL1
+M$1$:&AH2$A(<'!P='1TH*"@D)"0F)B8O+R\C(R,M+2T_/S\R,C(N+BXJ*BHV
+M-C8U-34K*RL@(" Q,3$\/#PX.#@W-S<G)R<E)24^/CXT-#0B(B(L+"P[.SLY
+M.3DA(2$Z.CHS,S,P,# ]/3TI*2E145%86%A)24E#0T- 0$!04%!,3$Q/3T]"
+M0D)965E5555.3DY-34U=75U<7%Q&1D965E9!04%45%134U-$1$1%145;6UM7
+M5U=?7U]'1T=+2TM:6EI(2$A24E)>7EY*2DI_?W]R<G)X>'AE965Q<7%F9F9]
+M?7U\?'QL;&QD9&1^?GYS<W-W=W=K:VMB8F)V=G9A86%@8&!P<'!J:FI[>WMN
+M;FYI:6EC8V-U=75Y>7EM;6UG9V=O;V]H:&AZ>GIT='2.CHZ2DI*/CX^9F9F*
+MBHJ$A(2+BXN1D9&%A86-C8V6EI:'AX>8F)B0D)"(B(B#@X.,C(R?GY^3DY.4
+ME)2!@8&7EY>:FIJ @(">GIZ=G9V"@H*<G)R;FYN)B8F5E96&AH:[N[NMK:V_
+MO[^RLK*IJ:FAH:&BHJ*FIJ:HJ*BLK*RKJZN]O;VGIZ>CHZ.\O+RQL;&PL+"W
+MM[>TM+2DI*2NKJZ^OKZYN;FEI:6UM;6VMK:OKZ^ZNKJXN+BJJJJSL[.@H*#7
+MU]?1T=''Q\??W]_;V]O=W=W8V-C4U-3>WM[9V=G,S,S!P<'3T]/:VMK P,#&
+MQL;6UM;#P\/5U=7.SL[-S<W)R<G%Q<7<W-S2TM+/S\_(R,C$Q,30T-#*RLK"
+MPL++R\O^_O[P\/#M[>W]_?WS\_/W]_?Q\?'GY^?V]O;T]/3Z^OK[^_OKZ^OE
+MY>7R\O+N[N[BXN+JZNK\_/SL[.SX^/CFYN;HZ.CY^?GU]?7@X.#IZ>GDY.3C
+MX^/O[^_AX>'___\(_P#_"1Q(L*#!@P@3*ES(L*'#AQ C2IQ(L:+%BQ@S:MS(
+ML:/'CR!#BAQ)LJ3)DRA3JES)LJ7+ES!CRIQ)LV9'<#C!#=2I$*=-F3G_@0L'
+M+)BX<3E][A2HE"4Y4&  "5L)+M2  %@'#!N7$%P@$%@# "'&\R?*G,7"A!
+M  "! D%$E0O*%)RQ4:1$F6-Y3@P  X*HECK0MNT@=%V%$&X[Q%A9LR;!I0N#
+MH+!EMV/.T<5)* $ (L?X^@7,TA1A FV+A#.8$YD(  H8)WL,F:0Z(PO<'B%T
+M"E4A) S:CE"VCB=GSZ!%_PV\TC0 $FP;L&.M,U4!  4< !B2K#;*5 _: O]"
+M%Q0<J.L DK1[; AYZ)5]EY<F7&((! #+UA7,228"A#(#;->==R8ID9L)YB25
+MDRH2 '# *NH0U-YG[ZD4'VG-T9?*! "80<Y^X*AS @%$G'$==P25E9100FVF
+MDX(*[F0<C"U2!^.*3(%87HP'!1#;(7/5V"(:E:6A&5.=?<8,;3FN^***-[J(
+MXS\7,I?BDU$^V>*4=4WI' KNI$" "N*PQDJ :AARXH!=@M-,*XB D8@K[^ 8
+M(CS,'!,/4O(4,\HKP\@XCS.*+,+(,^2 XTXSQLQ#&SCT-)-*((:4\HP[= FD
+M3CW'0%,/3O1$TX@CK4B3J4$4M-4*/4R",\T23#S_$@\XYB1SS!H5 * "+)VF
+M<^4XQ*C2""214).H4CG9<XPQ98+#CBN20,(*,4@U5>5!.*53S21@4-)(+)HE
+M=4\QQP!39U,"X7/,,::6Y5P)[I3A@ #Y/ I$>*-4LN:5S31AP64KQ,)J6>TD
+MT18EZ=C#Q@4 K"#+0.180H)E"P !S2P38'"(0<DXD5MA!+! 2U/@Z-,& !.T
+M08\K*5CF0!ORH$M090" 09Z."H[2PF5M15!+0<FXP7!A"KA 2J)=O@% !HJ,
+M8\L+EFD !UEE7;N?/-,\P?,&9."34SU0 !#!):>NHPIL)33UKCNM<+C(AP2'
+M $  TF"R;U+6P, 6SQ.(_P&/<04?K$P3P37\,#CML/'O90N\$+;&.]WCR@H\
+MMS6 ( K&<_($<4RB <\0Q,'D0#&@Q@$T,=-8(SBO[,RSSSME(D)L/".@R:S&
+M*9T!()N\QG@2UU0]FI4YB1-( )4#P$ 1^N#DCB0 0!!%IN"4(P<  LRA-GWD
+MZ-,!  .$R]0MGDD!C]T";CE-#+')8,@Q^=32Q/<"7!+/0/48#, 45+25 !)J
+MP 8X\M$&[20 #J\(1C0@P;ZV0$X@YN#$]R90A4$((QNC0,/W)- )I6@.>SXZ
+MP L\H0QM=,(S#OC$Z/YA">T @ .SF N76C0,4TRB"/^: 1TFP8E],"43<B,
+M%?\X48U@X,(*W^L )]2A%#8 @ (=8, #AF );3Q##!P P 7 P!6!6*U%[FBA
+MV*Z0BV+PHQ9R0)X&L, 5<$ #>0,0X(S< 0('K6)[ "C!AV+ EEK<PSAD^)<@
+M^H$^%.6D#)5)02U2!XY[U*$R(7B80/+7%@H\P %V0$9.RO&(\,P@$@JB1A$<
+MN#&!/ ,&*+O#P'#2CTFT!07[\,D'V[(!3R2E'-!30 #D@1!YN  U;0G!)KPF
+M,R$EB0A+*@L\D-"6,@0O)^0H V'*4(PF%N8":CC7/]B!A[9<P8=>')Z,E$$#
+M ""@#(S\ASRT@0$ >$ 7 F'''+38"&0!JRT(^*.[N/?_#S($YQ&88DH-!*
+M4:RCD-W!R2Y8 ( $X*(X3PH&,P&@!G;@)'#XS$,]ZF*-+ #  6O %+(F!X '
+M4FD2*T!"-16DC)V18!>R/-G<3#$C>0"C+0RX!D+ 00PD?*PM-B##*M(1(Y^
+MXYC,* @^,E&")4P#1K&( 0"HL UK B $G@B'@C"1 0!D@1H#^2*D6'&?&LA1
+M*>\0A(.J4)QU"&,!#BA"4^A1"NP) 5WO^I K&!:%60E$&1_((UD0*A1U%($P
+M>O#'8W!RB'82H:J(T]\#S"".QW@B5S# !9.D8862EK)%Z'"447$"#2*4E!0Q
+M!8 &RK"9?\P#I]#8*4YP,=#+_P2@#<=@(KHFE)PKA0,?U4H*,(R@*UM8LP&2
+MH!XIY$8#9X15G$P9!AH T  V/ H<W-C <Z!QT2H 0 )+@IC!#L )VN3U'_3X
+M@ (60!:!=.)[:+ '. @+CFRXH"VL&%B7\J$%ZJ+BHOJCP1T)XHYN L *PWB4
+M-)S@61DI:!SI@ 8O$-%.#*!6)Q],F8M>J[S88BLISJ@#="QS "ETXQX%X6V%
+MVI04?!@C%Y>HHPMR01 G,DVYS'5N..7#%&68((\P!5$R5.#.5S@O$ !XP!:,
+M(XZN3F ]!3DO.*Z@G4AX[1]*" \F?$78?[Q"!N9TQ4[OD)M L JC>P@409 1
+MA[;P ?\Q!N%L@QTLCWP$X@FILHR%!Y)A-!Q$'+!U"#C,=H.?+JT;$!6(BD'$
+M(G]  @<T*XP+8E'CI2GB(+W(\7-Y+!!O@#D'P3L(,KP[@%,(11[!0$T"FC?H
+M9V!/"S*3,B XU(<ZI6,&"J  -W1"WTCH   ZB$9"UE 9.C0/HV9P1T&8H03L
+M^:&8<C:I4.BAC2!PJ')[%DB?_QQHAB1%';6 0Z1W0#6=+/I*]U@%%I!7N4E7
+MFFF8UO2.,2044#0H>9<I-5/V0>0+W$(HZ""$\G3!)"D?(U<D6(\O/&,D@=!7
+M$-=!@382LC  X&$]&*4$/@K2#>)2@!+0[JQ)P0$/,42@+0+_*  0SC (3F@M
+MV__8MD$ W6%!;PD<W3C!QR"AS7/OI!YW6)P =& $/#""%EP @+L'8N-+&R33
+M &CNIND-CEB<'-^6T3=.PO&)CRH!)^:H @%FD+HH<R\G-,B-*.Y!!@00P!L1
+M^@=]&6$  (#@&3NM^,4C>["-$V0:HW2 &D(^YW] 0W\<8,,TF"B0:W3AM'S>
+MG)]GWFT'G^I*Q@ !:IZ #!;Y7"#N\$)P+M &;OQ1(/,PV-(%TO1X1UW'5(*N
+M0'BA712@@A2]R+WN=S\*Q>ID','(3?C&D8\''. /E\]K3BKQ+T*0@P<"0(&:
+MY7ZW6TR, \O8*1J"\XG54!( &B\(_S"VT!8\("7.(B_E/5IQGQ8HPJB-?SS,
+M95X0FC/ PTN!OVSIP# 6.$;1[E$0IP!F#R )":(4J:=TE,9TEN9Z4C=OQ+,*
+M=4<#Y^!M+$(E1!8!K( .T$,!L%!,4@8.\9!%2Q +610'%>AP=[,*# 4!N-!%
+M!9$.5^ @F, 5WQ=^!'$.=M 6>^ HZ#=GPW R%7,L2N%XD*=MDL=M-7<EWX '
+M)Z (*&8CJA @(@ ,//%Y_V ''"(&L=04";AZ_]!Z3R=OL<=IX" ,/   /> -
+MWE86X> '298&[[ #U-4/(,A/3"$%#C !0O YO_ A*I@^SH(#;=$)/M@EN5 #
+M , "N: 3-__H=P,A#Y^@'49 #4QR#.3W0-GP!4MC!B3S#\0P2O.7A)2WA#*2
+M"MK! ,P0,]0Q"%V% \_T#^<&=AY% 48&)>P0! KX;DY7$%#W@&5(=<9 ?@WP
+M!NB2)0*Q#MI   I0 ,L0/4"P0N<U$(-P=:K5#$I!7^#P"9[A Y8X(^'0!(01
+M!X[!=^ 'B0.A"ST ;); )+[P&@\T#4E7 7E ,N.@#74WBB@S>?57>74A#RJ
+M&B9PB"F"#S1P'WVP40!((3NA#_WC@<B"$[1P7V HAKY(AF)E#JX$ #SP5%"2
+M#W> !V<U$.P !-&3AA20"=*(AW_556WQ!#[$$]HH#E&@  KP"7[_Q2*S\ ,?
+MM0F,]X@&,0QWT!9.X \%00QE0$H"(0TSN !2P'A,<0VZ>(0Q1XK]:(I= AYM
+ML0;HR!27U1:W0%0+V5L^(05LH0;RM1/4T#^[R(#P-H:O-W7$\P_>\!H(, ;G
+MQQ3I, O!1#4#<0^V8!D14"\(,8TM(@/ E >5-1!=)A"5T$X'0 ;U @[C  HP
+M@!I' %:3I#\XF"*R0#D;4 ;2@!3C  Q[$!YS]@Z= %2#4"W]< ITV!8%L FI
+M-0'\2!#VAW\%(0]'D!L$X 36L$K]< @2$!L\0 QUD20_T UY^0^+D$454 E:
+M!0[HH LY\#$EX O6])87&9="40]^80%U_Z!/.J$/EQ ;&> 'YS(.\2 ( =(!
+M8  B]C #;4$ *+!"_V"8.*$'GP, NZ!/@8@B [$.=,!N&1 %2X "_7D"H "#
+M0 DBM?!CJM4#1L #GU, /&E2WQ %^.0#=U $@:4 '8 ";O$#FE65^ZB$][=3
+MYC &BR$V/  #,^!");4-<8<3K=!.?R$$6/ >^Z %N0$!.> %1: #]_$"8J(
+M(I */&&1!/&+L.<.D! ;#B #1[ (?G<-:5"?#6 "4Q %0],!G@@BYJ TRC-X
+M*YE'@-@BK)!$*R63^[(3]( '#5 Y56 -K+B9?6<CNT"( $,(Z3>@H,"3/","
+MM\ (EE,)&&:5N/_ICU?R#X-0&;1S&3SP#5")$_Y0 Y,*.T+A"B=0.5&P#8%0
+M=P#0"&[9BT]*AN8Q I:A!:LA%/%@")%F&1= !GF:(O< "FUA ;503 +A#$F@
+M!&%P,S0T!DI0".]0$+6P!TI "5!&$.NP#6P0 QP0 #IP!*<P'2GR#HV@!$J@
+M"O30%<5P"%]@ P-0 V^@#-'V6> @#\WP!B&P  J  "\ "/42#Y(P!4$ "F"W
+M"4K0!)L (NX@!4I@!?RP$-B%!SL0 *B! #+@!+3@*P>1#&R  @D0 #F@#'6A
+M#74  MJQ 2I0"-5D#I&@!$?0B#BJ!&E@"ZQA#7J@!&H@#751#JX ! ;_$  &
+M4 ?H> _3( <\T  .4 $U, >\4':/N@\,H  &<"P?QB-%A3,RDR77-4-0:U3K
+M:GFC);6^>G.79R-%M;6JP[4THK5-ZR);<K97$B47*"/JX U/] A=6Q=R*[:L
+ML3I>&[=<VQ-1,@TF&0+MR&)8@HSXJ27X";A9VQ4LLEA:ZR1HRVC':+95>W/8
+MT@][T(P65;@$TK@YX0M@Q@.XD+F@JQ&4B0P6X !-@+F9JPX NB7^4 >QP03\
+M@+JA.[L),0[[X%T;T*NT>Q"1@ 1KD K<4 _O< VSD 5L00*#(+N[N[OW  _]
+M8 ^]0#D/  ?*ZQV6X)*5(P.#P"K+V[U=D0]$7E88"P #B^F] Y$+X7L9![ $
+MV2 DYON^0@&^A0$!-)!@:VN^Y# -IO )?U '=% )W5 .D@N_Y@L.Y- +8J '
+BB+ -C%2]!/S $!S!$CS!%%S!%GS!&)S!&KS!'(P0 0$ .P$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

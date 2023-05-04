@@ -1,0 +1,1447 @@
+<SEC-DOCUMENT>0001193125-20-246872.txt : 20200916
+<SEC-HEADER>0001193125-20-246872.hdr.sgml : 20200916
+<ACCEPTANCE-DATETIME>20200916101831
+ACCESSION NUMBER:		0001193125-20-246872
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		5
+FILED AS OF DATE:		20200916
+DATE AS OF CHANGE:		20200916
+EFFECTIVENESS DATE:		20200916
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDMAN SACHS TRUST
+		CENTRAL INDEX KEY:			0000822977
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05349
+		FILM NUMBER:		201177664
+
+	BUSINESS ADDRESS:	
+		STREET 1:		71  SOUTH WACKER DRIVE
+		STREET 2:		C/O GOLDMAN SACHS & CO
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60606
+		BUSINESS PHONE:		3126554400
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GOLDMAN SACHS SHORT INTERMEDIATE GOVERNMENT FUND
+		DATE OF NAME CHANGE:	19910711
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SHORT INTERMEDIATE GOVERNMENT FUND
+		DATE OF NAME CHANGE:	19900104
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000822977
+<SERIES-ID>S000015787
+<SERIES-NAME>Goldman Sachs Commodity Strategy Fund
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000043358
+<CLASS-CONTRACT-NAME>Class A Shares
+<CLASS-CONTRACT-TICKER-SYMBOL>GSCAX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000043359
+<CLASS-CONTRACT-NAME>Class C Shares
+<CLASS-CONTRACT-TICKER-SYMBOL>GSCCX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000043360
+<CLASS-CONTRACT-NAME>Institutional Shares
+<CLASS-CONTRACT-TICKER-SYMBOL>GCCIX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000058992
+<CLASS-CONTRACT-NAME>Class R
+<CLASS-CONTRACT-TICKER-SYMBOL>GCCRX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000058993
+<CLASS-CONTRACT-NAME>Investor Shares
+<CLASS-CONTRACT-TICKER-SYMBOL>GCCTX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000161523
+<CLASS-CONTRACT-NAME>Class R6 Shares
+<CLASS-CONTRACT-TICKER-SYMBOL>GCCUX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000201770
+<CLASS-CONTRACT-NAME>Class P Shares
+<CLASS-CONTRACT-TICKER-SYMBOL>GGRPX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d56405ddefa14a.htm
+<DESCRIPTION>GOLDMAN SACHS TRUST
+<TEXT>
+<HTML><HEAD>
+<TITLE>Goldman Sachs Trust</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section 14(a) of the </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Securities Exchange Act of 1934 (Amendment No. &nbsp;&nbsp;&nbsp;&nbsp; ) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the
+Registrant&nbsp;&nbsp;&#9746;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Filed by a Party other than the
+Registrant&nbsp;&nbsp;&#9744;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Confidential, For Use of the Commission Only (as permitted by Rule 14a-6(e)(2))</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Soliciting Material Under Rule 14a-12</TD></TR></TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>GOLDMAN SACHS TRUST
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified In Its Charter) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(none) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of
+Person(s) Filing Proxy Statement, if Other Than the Registrant) </B></P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Title of each class of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Aggregate number of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing
+fee is calculated and state how it was determined):</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Proposed maximum aggregate value of transaction:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Total fee paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee paid previously with preliminary materials:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement
+number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Amount Previously Paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Form, Schedule or Registration Statement No.:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filing Party:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date Filed:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PLEASE VOTE NOW </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">WE MUST RECEIVE YOUR VOTE PRIOR TO NOVEMBER&nbsp;13, 2020 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">IMPORTANT NOTICE REGARDING YOUR INVESTMENT IN </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Goldman Sachs Commodity Strategy Fund </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Recently, we sent you proxy material regarding the Special Meeting of Shareholders that is scheduled for NOVEMBER&nbsp;13, 2020. The Fund&#146;s records
+indicate that we have not received your vote. We urge you to vote as soon as possible in order to allow the Fund to obtain a sufficient number of votes to hold the meeting as scheduled. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If you have any questions or would like to vote, please call the number listed below: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">800-574-5796</FONT></FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Your vote is important no matter the size of your fund holdings. Please vote promptly so your vote can be received prior to the NOVEMBER&nbsp;13, 2020 Special
+Meeting of Shareholders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The Fund has made it very easy for you to vote. Choose one of the following methods: </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="34%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center">
+
+
+<IMG SRC="g56405g36k25.jpg" ALT="LOGO">
+</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">
+
+
+<IMG SRC="g56405g85t21.jpg" ALT="LOGO">
+</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">
+
+
+<IMG SRC="g56405g20t60.jpg" ALT="LOGO">
+</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>VOTE ONLINE</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>VOTE BY MAIL</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>VOTE BY PHONE</B></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="35%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="31%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:11pt">
+<TD VALIGN="top"><FONT STYLE="font-size:10pt">Visit the Website noted on your proxy card and enter the control number that appears on the proxy card. Follow the <FONT STYLE="white-space:nowrap">on-screen</FONT> prompts to vote.</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="font-size:10pt">Return the executed proxy card in the postage-paid envelope provided so it is received by NOVEMBER&nbsp;13, 2020.</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Call the phone number above Monday through Friday, 9 am to 10pm, Eastern time to speak with a proxy specialist.</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" ALIGN="center"><B>OR</B></P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Call the toll free touch-tone phone number listed on your proxy card. Have
+your proxy card with control number available. Follow the touch-tone prompts to vote.</P></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>THANK YOU FOR VOTING </B></P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g56405g00f22.jpg" ALT="LOGO">
+ </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Draft &#045; Solicitation Script </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Goldman Sachs Commodity Strategy Fund </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Meeting Date: November&nbsp;13, 2020 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Toll Free Number: <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">800-574-5796</FONT></FONT> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Inbound Greeting: </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Thank you for calling the Broadridge
+Proxy Services Center for the Goldman Sachs Commodity Strategy Fund<B>.</B> My name is &lt;Agent Name&gt;. How may I assist you today? </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>General
+Outbound Greeting: </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Good day, may I please speak with Mr./Ms.&nbsp;&lt;full name as it appears on registration&gt;? </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Hello Mr./Ms.&nbsp;&lt;Shareholder&#146;s Last Name&gt;. My name is &lt;agent name&gt; and I am a proxy voting specialist calling on behalf of Goldman Sachs
+Commodity Strategy Fund to confirm you have received the proxy materials for the special meeting of shareholders scheduled for November&nbsp;13, 2020. Have you received proxy materials? </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Near Meeting Date Outbound Greeting: </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Good day, may I
+please speak with Mr./Ms.&nbsp;&lt;full name as it appears on registration&gt;? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Hello Mr./Ms.&lt;last name&gt;. My name is &lt;agent name&gt; and I am a
+proxy voting specialist calling on behalf of Goldman Sachs Commodity Strategy Fund to confirm you have received the proxy materials for the special meeting of shareholders scheduled in just a few days on November&nbsp;13, 2020. Have you received
+proxy materials? </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Adjournment Outbound Greeting: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Good day, may I please speak with Mr./Ms.&nbsp;&lt;full name as it appears on registration&gt;? </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Hi Mr.&nbsp;/Ms.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;, my name is &lt;Agent Name&gt; and I am a
+proxy voting specialist calling on behalf of your current investment with Goldman Sachs Commodity Strategy Fund. Due to the lack of shareholder participation, special Meeting of Shareholders has been adjourned to &lt;date/time&gt;. Have you received
+proxy materials? </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Voting: </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Your board has recommended
+a vote IN FAVOR of the proposals.&nbsp;Would you like to vote along with the recommendations of the board for all of your accounts? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Thank you, I am
+recording your &lt;for, against, abstain&gt; vote. For confirmation purposes, please state your full name. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g56405g00f22.jpg" ALT="LOGO">
+ </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">And according to our records, you currently reside in &lt;read street address, city, and state &gt; is that
+correct? For confirmation purposes, please state your zip code. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Thank you. You will receive a confirmation of your voting instructions within 5 days. If
+you have any questions, please contact us at this toll free number <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">800-574-5796.</FONT></FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr./Ms.&nbsp;&lt;Shareholder&#146;s Last Name&gt;, your vote is important, and your time is appreciated. Thank you and have a good &lt;day, evening,
+night&gt;. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>If Unsure of voting or does not want to vote along with the recommendation of the Board: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Would you like me to review the proposals with you? &lt;After review, ask them if they would like to vote now over the phone&gt;. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>If not received/Requesting material to be <FONT STYLE="white-space:nowrap">re-mailed:</FONT> </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I can resend the proxy materials to you, or I can review the proposals with you and record your vote immediately by phone. &lt;Pause for response&gt; </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>After review, ask them if they would like to vote now over the phone: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Your Board recommends that you vote <B>&#147;FOR&#148;</B> the proposals. Would you like to vote along with the recommendations of the Board for all your
+accounts? </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>If they don&#146;t want proposals reviewed: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Do you have an email address this can be sent to?&nbsp;&lt;If yes, enter the email address in the notes and read it back phonetically to the shareholder.&gt;
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Thank you.&nbsp;You should receive the proxy materials shortly and the materials will inform you of the methods available to cast your vote, one of which
+is to call us back at <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">800-574-5796.</FONT></FONT> </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>If Not Interested: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I am sorry for the inconvenience. Please be aware that as a shareholder, your vote is very important. Please fill out and return your proxy card at your
+earliest convenience. If you would rather not do that, you can always vote via the other methods outlined in the proxy materials. Thank you again for your time today, and have a wonderful day/evening. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Registered holder wants a new proxy card/or their control number </B><I>&lt;send complete contact information name, address, control #, &amp; shares to
+Broadridge&gt;:</I><B> </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Your control number can be found on your proxy card. I can arrange to have a new proxy card sent to you. However, I can record
+your voting instructions right now so that it will be represented at the upcoming meeting.&nbsp;Your board is recommending you vote FOR the proposals&#133; </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g56405g00f22.jpg" ALT="LOGO">
+ </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Beneficial holder wants a new VIF/or their control number: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Your control number can be found on your Vote Instruction Form. You can contact your broker/financial advisor and they can arrange to have a new voting
+instruction form sent to you.&nbsp;However, I can record your voting instructions right now so that it will be represented at the upcoming meeting.&nbsp;Your board is recommending you vote FOR the proposals&#133; </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>ANSWERING MACHINE MESSAGE: </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Hello, my name is &lt;Agent
+Name&gt; and I am a proxy voting specialist calling on behalf of Goldman Sachs Commodity Strategy Fund. You should have received proxy material electronically or in the mail concerning the special Meeting of Shareholders to be held on
+November&nbsp;13, 2020. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Your vote is very important. Please sign, date and promptly mail your proxy card in the postage-paid envelope provided. Internet
+and telephone voting are also available. To vote over the Internet please follow the instructions provided in the proxy materials. If you have any questions, would like to vote over the telephone or need new proxy materials, call toll-free at <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">800-574-5796</FONT></FONT> and a proxy voting specialist will assist you. Specialists are available Monday through Friday, 9AM to 10PM Eastern Time. Voting takes just a few moments and will
+benefit all shareholders. Thank you for your prompt attention to this matter. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>AUTOMATED ANSWERING MACHINE MESSAGE: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Hello, this is the Broadridge Proxy Services Center calling with an important message on behalf of Goldman Sachs Commodity Strategy Fund. You should have
+received proxy material electronically or in the mail concerning the special Meeting of Shareholders to be held on November&nbsp;13, 2020. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Your vote is
+very important. Please sign, date and promptly mail your proxy card in the postage-paid envelope provided. Internet and telephone voting are also available. To vote over the Internet please follow the instructions provided in the proxy materials. If
+you have any questions, would like to vote over the telephone or need new proxy materials, call toll-free at <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">800-574-5796</FONT></FONT> and a proxy voting specialist will assist you.
+Specialists are available Monday through Friday, 9AM to 10PM Eastern Time. Voting takes just a few moments and will benefit all shareholders. Thank you for your prompt attention to this matter. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>FUND RECORDED ANSWERING MACHINE MESSAGE 1: </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Hello, this
+is &lt;Fund Representative&gt; calling you with an important message concerning your investment with Goldman Sachs Commodity Strategy Fund. You should have received proxy material electronically or in the mail concerning the special Meeting of
+Shareholders to be held on November&nbsp;13, 2020. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g56405g00f22.jpg" ALT="LOGO">
+ </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Your vote is very important. Please sign, date and promptly mail your proxy card in the postage-paid envelope
+provided. Internet and telephone voting are also available. To vote over the Internet please follow the instructions provided in the proxy materials. If you have any questions, would like to vote over the telephone or need new proxy materials, call
+toll-free at <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">800-574-5796</FONT></FONT> and a proxy voting specialist will assist you. Specialists are available Monday through Friday, 9AM to 10PM Eastern Time. Voting takes just a
+few moments and will benefit all shareholders. Thank you for your prompt attention to this matter. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>FUND RECORDED ANSWERING MACHINE MESSAGE 2: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Hello, this is &lt;Fund Representative&gt; calling you with an important message concerning your investment with Goldman Sachs Commodity Strategy Fund. You
+should have received proxy material electronically or in the mail concerning the special Meeting of Shareholders to be held on November&nbsp;13, 2020. The meeting date is fast approaching and we need your help. </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Your vote is very important. Please sign, date and promptly mail your proxy card in the postage-paid envelope provided. Internet and telephone voting are also
+available. To vote over the Internet please follow the instructions provided in the proxy materials. If you have any questions, would like to vote over the telephone or need new proxy materials, call toll-free at <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">800-574-5796</FONT></FONT> and a proxy voting specialist will assist you. Specialists are available Monday through Friday, 9AM to 10PM Eastern Time. Voting takes just a few moments and will benefit all shareholders. Thank
+you for your prompt attention to this matter. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>FUND RECORDED ANSWERING MACHINE MESSAGE 3: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Hello, this is &lt;Fund Representative&gt; calling you with an urgent message concerning your investment with Goldman Sachs Commodity Strategy Fund. You have
+probably received several messages concerning this special meeting either electronically, by mail or by phone. That is because the meeting date is just a few days away on November&nbsp;13, 2020 and we need your help. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Your vote is very important. Please sign, date and promptly mail your proxy card in the postage-paid envelope provided. Internet and telephone voting are also
+available. To vote over the Internet please follow the instructions provided in the proxy materials. If you have any questions, would like to vote over the telephone or need new proxy materials, call toll-free at <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">800-574-5796</FONT></FONT> and a proxy voting specialist will assist you. Specialists are available Monday through Friday, 9AM to 10PM Eastern Time. Voting takes just a few moments and will benefit all shareholders. Thank
+you for your prompt attention to this matter. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>INBOUND - CLOSED RECORDING: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Thank you for calling the Broadridge Proxy Services Center. Our offices are now closed. Please call us back during our normal business hours which are, Monday
+through Friday, 9AM to 10PM Eastern Time. Thank you. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g56405g00f22.jpg" ALT="LOGO">
+ </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>INBOUND &#045; CALL IN QUEUE MESSAGE: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Thank you for calling the Broadridge Proxy Services Center. Our proxy specialists are currently assisting other shareholders<B>.</B> Your call is important to
+us. Please continue to hold and your call will be answered in the order in which it was received. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>END OF CAMPAIGN MESSAGE: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Thank you for calling the Broadridge Proxy Services Center. The Shareholder meeting has been held and as a result, this toll free number is no longer in
+service for proxy related calls. If you have questions about your investment, please contact your Financial Advisor or the fund company directly. Thank you and have a nice day. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g56405g00f22.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g56405g00f22.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_X1#^17AI9@  34T *@    @ ! $[  (
+M   1   (2H=I  0    !   (7)R=  $    B   0U.H<  <   @,    /@
+M   <Z@    @
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                                                 $1A;FEC82!'
+M871B=6YT;VX    %D ,  @   !0  !"JD 0  @   !0  !"^DI$  @    ,U
+M,0  DI(  @    ,U,0  ZAP !P  " P   B>     !SJ    "
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                            ,C R,#HP.3HQ-B Q,3HQ-SHT,P R,#(P
+M.C Y.C$V(#$Q.C$W.C0S    1 !A &X :0!C &$ ( !' &$ = !B '4 ;@!T
+M &\ ;@   /_A"R-H='1P.B\O;G,N861O8F4N8V]M+WAA<"\Q+C O #P_>'!A
+M8VME="!B96=I;CTG[[N_)R!I9#TG5S5-,$UP0V5H:4AZ<F53>DY48WIK8SED
+M)S\^#0H\>#IX;7!M971A('AM;&YS.G@](F%D;V)E.FYS.FUE=&$O(CX\<F1F
+M.E)$1B!X;6QN<SIR9&8](FAT=' Z+R]W=W<N=S,N;W)G+S$Y.3DO,#(O,C(M
+M<F1F+7-Y;G1A>"UN<R,B/CQR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B;W5T/2)U
+M=6ED.F9A9C5B9&0U+6)A,V0M,3%D82UA9#,Q+60S,V0W-3$X,F8Q8B(@>&UL
+M;G,Z9&,](FAT=' Z+R]P=7)L+F]R9R]D8R]E;&5M96YT<R\Q+C$O(B\^/')D
+M9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M8F$S9"TQ
+M,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SIX;7 ](FAT=' Z+R]N<RYA
+M9&]B92YC;VTO>&%P+S$N,"\B/CQX;7 Z0W)E871E1&%T93XR,#(P+3 Y+3$V
+M5#$Q.C$W.C0S+C4Q,#PO>&UP.D-R96%T941A=&4^/"]R9&8Z1&5S8W)I<'1I
+M;VX^/')D9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M
+M8F$S9"TQ,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SID8STB:'1T<#HO
+M+W!U<FPN;W)G+V1C+V5L96UE;G1S+S$N,2\B/CQD8SIC<F5A=&]R/CQR9&8Z
+M4V5Q('AM;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR
+M9&8M<WEN=&%X+6YS(R(^/')D9CIL:3Y$86YI8V$@1V%T8G5N=&]N/"]R9&8Z
+M;&D^/"]R9&8Z4V5Q/@T*"0D)/"]D8SIC<F5A=&]R/CPO<F1F.D1E<V-R:7!T
+M:6]N/CPO<F1F.E)$1CX\+W@Z>&UP;65T83X-"B @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+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
+90KZ1H%'Z5/3Z*!JR&T&G44 ,HI]% '__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g56405g20t60.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g56405g20t60.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_X1#^17AI9@  34T *@    @ ! $[  (
+M   1   (2H=I  0    !   (7)R=  $    B   0U.H<  <   @,    /@
+M   <Z@    @
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                                                 $1A;FEC82!'
+M871B=6YT;VX    %D ,  @   !0  !"JD 0  @   !0  !"^DI$  @    ,Y
+M,P  DI(  @    ,Y,P  ZAP !P  " P   B>     !SJ    "
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                            ,C R,#HP.3HQ-B Q,3HU-#HU-  R,#(P
+M.C Y.C$V(#$Q.C4T.C4T    1 !A &X :0!C &$ ( !' &$ = !B '4 ;@!T
+M &\ ;@   /_A"R-H='1P.B\O;G,N861O8F4N8V]M+WAA<"\Q+C O #P_>'!A
+M8VME="!B96=I;CTG[[N_)R!I9#TG5S5-,$UP0V5H:4AZ<F53>DY48WIK8SED
+M)S\^#0H\>#IX;7!M971A('AM;&YS.G@](F%D;V)E.FYS.FUE=&$O(CX\<F1F
+M.E)$1B!X;6QN<SIR9&8](FAT=' Z+R]W=W<N=S,N;W)G+S$Y.3DO,#(O,C(M
+M<F1F+7-Y;G1A>"UN<R,B/CQR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B;W5T/2)U
+M=6ED.F9A9C5B9&0U+6)A,V0M,3%D82UA9#,Q+60S,V0W-3$X,F8Q8B(@>&UL
+M;G,Z9&,](FAT=' Z+R]P=7)L+F]R9R]D8R]E;&5M96YT<R\Q+C$O(B\^/')D
+M9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M8F$S9"TQ
+M,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SIX;7 ](FAT=' Z+R]N<RYA
+M9&]B92YC;VTO>&%P+S$N,"\B/CQX;7 Z0W)E871E1&%T93XR,#(P+3 Y+3$V
+M5#$Q.C4T.C4T+CDS,SPO>&UP.D-R96%T941A=&4^/"]R9&8Z1&5S8W)I<'1I
+M;VX^/')D9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M
+M8F$S9"TQ,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SID8STB:'1T<#HO
+M+W!U<FPN;W)G+V1C+V5L96UE;G1S+S$N,2\B/CQD8SIC<F5A=&]R/CQR9&8Z
+M4V5Q('AM;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR
+M9&8M<WEN=&%X+6YS(R(^/')D9CIL:3Y$86YI8V$@1V%T8G5N=&]N/"]R9&8Z
+M;&D^/"]R9&8Z4V5Q/@T*"0D)/"]D8SIC<F5A=&]R/CPO<F1F.D1E<V-R:7!T
+M:6]N/CPO<F1F.E)$1CX\+W@Z>&UP;65T83X-"B @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @/#]X<&%C:V5T(&5N9#TG=R<_/O_; $, !P4%!@4$!P8%!@@'!P@*
+M$0L*"0D*%0\0#!$8%1H9&!48%QL>)R$;'24=%Q@B+B(E*"DK+"L:("\S+RHR
+M)RHK*O_; $,!!P@("@D*% L+%"H<&!PJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ
+M*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*O_  !$( $X 40,!(@ "$0$#
+M$0'_Q  ?   !!0$! 0$! 0           0(#! 4&!P@)"@O_Q "U$  " 0,#
+M @0#!04$!    7T! @, !!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S
+M8G*""0H6%Q@9&B4F)R@I*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H
+M:6IS='5V=WAY>H.$A8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZ
+MPL/$Q<;'R,G*TM/4U=;7V-G:X>+CY.7FY^CIZO'R\_3U]O?X^?K_Q  ? 0 #
+M 0$! 0$! 0$!         0(#! 4&!P@)"@O_Q "U$0 " 0($! ,$!P4$!  !
+M G<  0(#$00%(3$&$D%1!V%Q$R(R@0@40I&AL<$)(S-2\!5B<M$*%B0TX27Q
+M%Q@9&B8G*"DJ-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U=G=X
+M>7J"@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>HJ:JRL[2UMK>XN;K"P\3%QL?(
+MR<K2T]35UM?8V=KBX^3EYN?HZ>KR\_3U]O?X^?K_V@ , P$  A$#$0 _ /9_
+M%_Q$T7P3=V=MJZ73RWBL\2V\8<D+C/4CU%87_"\/#7_/CK/_ (!C_P"*K.^(
+M2J_QT^'JN RG[3D$9!X%>I?9+?\ Y]XO^^!0!Y]_PO#PU_SXZS_X!C_XJC_A
+M>'AK_GQUG_P#'_Q5>@_9+;_GWC_[X%'V2V_Y]X_^^!0&AY]_PO#PU_SXZS_X
+M!C_XJC_A>'AK_GQUG_P#'_Q5=S??8["PN+N:WC\JWC:5\1@G"C)_05Y9IWQL
+MTG6K'Q!=:7H>8]'LQ= RA09?F"XQCCK0,VO^%X>&O^?'6?\ P#'_ ,51_P +
+MP\-?\^.L_P#@&/\ XJL'PQ\?/"NJL(==L1I4I.-Y0/'^8'%>L6ATZ_M8KFS6
+M">"50R2(H*L#W!H X7_A>'AK_GQUG_P#'_Q57] ^+7A[Q'X@AT:RBOXKN92R
+MK<0A!@?\"S79?9+;_GWC_P"^!7D>M1I%^U'H8C14']D]%&/XI* /8J***!'E
+M'C__ )+M\//^WG^0KU85Y3X__P"2[?#S_MY_D*]6% "T444 97BC_D4=7_Z\
+M9O\ T U\F?#S_D3_ !U_V!!_Z,6OK_4;)=1TRZLG8HMQ"\18=@P(S^M>1Z!\
+M!CH.G:]8KK?FQ:M9"T5_*PT?SALXZ'I0,^9CP37T%^S-JUY<1ZWID]P\EM;+
+M#)!&QR(]V\''H.!7F'Q,\&:?X#UZWTFRU-K^<P;[D,@7RR>@_$9-=[^S$^/$
+M.O+_ 'K6(_DS?XT ?1PKQ_7?^3I=#_[!/_LTE>P5X_KO_)TNA_\ 8)_]FDH!
+M'L%%%% CRCQ__P EV^'G_;S_ "%>K"O*?'__ "7;X>?]O/\ (5ZL* %HHHH
+M*SM?UBV\/Z!>ZM?'$%G"TK@=6P.@]R>/QK1S7AG[2/BG[/HMCX;M9\2W<GVB
+MY16_Y9K]U2/=CG_@- '@_B;7)_$WB:_UF\XEO)C(5SG8.R_@,#\*]@_9BMW;
+M6O$%S@[$@ACSCN68_P!*\,Y-?77P3\*_\(Q\.K1IXREYJ)^U3[EPPR/D4_1<
+M?F:!['HE>0:[_P G2Z)_V"?_ &>2O7Z\?UW_ ).ET/\ [!/_ +-)0![!1110
+M(\H\?_\ )=OAY_V\_P A7JU>4^/_ /DNWP\_[>?Y"O53PN: %9@BEF( '4DU
+MXUXF^-E])XXA\-> =-AU.9)O*GFE.8W/&=A4\*O.7/'!XXJO\7?&'B+5KR'P
+M3X7TJ^MY+\O'<7$\6Q9D!P0CYP$X)+'L17E6K:EIG@K1)O#OAF47&K749@UK
+M4D.4([P0'^[V+=\8SB@#Z,TOXH^']0N]5LI[R"*YTB,/=,L@,3_+E_*8XWA2
+M-N<#G%?*GC3Q&_BWQGJ6MN"%NIB8E;JL8^5!_P!\@?C6%@=,#'TKU'X4_".Z
+M\9WL6IZ[!)#H*98[CM-V<_=7OM]3^5 RY\$_AC+XCU:+Q!K4+)I-FX>!77 N
+MG!R,?[((Y/<C%?4(&.E0V=G;V%E#:6<2PV\"".*-!@*H& !4] !7C^N_\G2Z
+M)_V"?_9I*]@KR#7?^3I=$_[!/_L\E CU^BBB@#RCX@?\EV^'G_;S_(5ZM7!?
+M$+X:W?C76])U33_$4FB7.EI(L;QVWF,2Y'(.]<8Q^M8/_"HO&G_15]3_ / 1
+MO_CU 'J&K:7:ZUI-SIU\C/;W4;12A6*DJ1@X(Y%>+:U^S1832E] UJ>T0](K
+ME/,"_0C!K9_X5%XT_P"BKZG_ . C?_'J/^%1>-/^BKZE_P" C?\ QZ@#(\,_
+MLW6-E?+<>)=3;441@1;0IY:-C^\<DD>PQ7MUO!%:V\<$$:QQ1J%1%& H'0 5
+MY1_PJ+QI_P!%7U+_ ,!&_P#CU'_"HO&G_15]3_\  1O_ (]0!ZY17D?_  J+
+MQI_T5?4__ 1O_CU'_"HO&G_15]3_ / 1O_CU 'KE>/ZX?^,I=$_[!/\ [/)4
+MG_"HO&G_ $5?4_\ P$;_ ./5;\,_"'4M'\<6OB76O&,^MSVT1B59K0JQ!SCY
+/C(V!R>,=Z /4:*** /_9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g56405g36k25.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g56405g36k25.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_X1#^17AI9@  34T *@    @ ! $[  (
+M   1   (2H=I  0    !   (7)R=  $    B   0U.H<  <   @,    /@
+M   <Z@    @
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                                                 $1A;FEC82!'
+M871B=6YT;VX    %D ,  @   !0  !"JD 0  @   !0  !"^DI$  @    ,Y
+M,   DI(  @    ,Y,   ZAP !P  " P   B>     !SJ    "
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                            ,C R,#HP.3HQ-B Q,3HU,SHU,0 R,#(P
+M.C Y.C$V(#$Q.C4S.C4Q    1 !A &X :0!C &$ ( !' &$ = !B '4 ;@!T
+M &\ ;@   /_A"R-H='1P.B\O;G,N861O8F4N8V]M+WAA<"\Q+C O #P_>'!A
+M8VME="!B96=I;CTG[[N_)R!I9#TG5S5-,$UP0V5H:4AZ<F53>DY48WIK8SED
+M)S\^#0H\>#IX;7!M971A('AM;&YS.G@](F%D;V)E.FYS.FUE=&$O(CX\<F1F
+M.E)$1B!X;6QN<SIR9&8](FAT=' Z+R]W=W<N=S,N;W)G+S$Y.3DO,#(O,C(M
+M<F1F+7-Y;G1A>"UN<R,B/CQR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B;W5T/2)U
+M=6ED.F9A9C5B9&0U+6)A,V0M,3%D82UA9#,Q+60S,V0W-3$X,F8Q8B(@>&UL
+M;G,Z9&,](FAT=' Z+R]P=7)L+F]R9R]D8R]E;&5M96YT<R\Q+C$O(B\^/')D
+M9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M8F$S9"TQ
+M,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SIX;7 ](FAT=' Z+R]N<RYA
+M9&]B92YC;VTO>&%P+S$N,"\B/CQX;7 Z0W)E871E1&%T93XR,#(P+3 Y+3$V
+M5#$Q.C4S.C4Q+C@Y-CPO>&UP.D-R96%T941A=&4^/"]R9&8Z1&5S8W)I<'1I
+M;VX^/')D9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M
+M8F$S9"TQ,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SID8STB:'1T<#HO
+M+W!U<FPN;W)G+V1C+V5L96UE;G1S+S$N,2\B/CQD8SIC<F5A=&]R/CQR9&8Z
+M4V5Q('AM;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR
+M9&8M<WEN=&%X+6YS(R(^/')D9CIL:3Y$86YI8V$@1V%T8G5N=&]N/"]R9&8Z
+M;&D^/"]R9&8Z4V5Q/@T*"0D)/"]D8SIC<F5A=&]R/CPO<F1F.D1E<V-R:7!T
+M:6]N/CPO<F1F.E)$1CX\+W@Z>&UP;65T83X-"B @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+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
+G_3GK7T3IZ;$?UXR:D2QMHP D> !@?,:F2-(\[!C/O0 ZBBB@#__9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>g56405g85t21.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g56405g85t21.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_X1#^17AI9@  34T *@    @ ! $[  (
+M   1   (2H=I  0    !   (7)R=  $    B   0U.H<  <   @,    /@
+M   <Z@    @
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                                                 $1A;FEC82!'
+M871B=6YT;VX    %D ,  @   !0  !"JD 0  @   !0  !"^DI$  @    ,R
+M.0  DI(  @    ,R.0  ZAP !P  " P   B>     !SJ    "
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                            ,C R,#HP.3HQ-B Q,3HU-#HS,@ R,#(P
+M.C Y.C$V(#$Q.C4T.C,R    1 !A &X :0!C &$ ( !' &$ = !B '4 ;@!T
+M &\ ;@   /_A"R-H='1P.B\O;G,N861O8F4N8V]M+WAA<"\Q+C O #P_>'!A
+M8VME="!B96=I;CTG[[N_)R!I9#TG5S5-,$UP0V5H:4AZ<F53>DY48WIK8SED
+M)S\^#0H\>#IX;7!M971A('AM;&YS.G@](F%D;V)E.FYS.FUE=&$O(CX\<F1F
+M.E)$1B!X;6QN<SIR9&8](FAT=' Z+R]W=W<N=S,N;W)G+S$Y.3DO,#(O,C(M
+M<F1F+7-Y;G1A>"UN<R,B/CQR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B;W5T/2)U
+M=6ED.F9A9C5B9&0U+6)A,V0M,3%D82UA9#,Q+60S,V0W-3$X,F8Q8B(@>&UL
+M;G,Z9&,](FAT=' Z+R]P=7)L+F]R9R]D8R]E;&5M96YT<R\Q+C$O(B\^/')D
+M9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M8F$S9"TQ
+M,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SIX;7 ](FAT=' Z+R]N<RYA
+M9&]B92YC;VTO>&%P+S$N,"\B/CQX;7 Z0W)E871E1&%T93XR,#(P+3 Y+3$V
+M5#$Q.C4T.C,R+C(Y,CPO>&UP.D-R96%T941A=&4^/"]R9&8Z1&5S8W)I<'1I
+M;VX^/')D9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M
+M8F$S9"TQ,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SID8STB:'1T<#HO
+M+W!U<FPN;W)G+V1C+V5L96UE;G1S+S$N,2\B/CQD8SIC<F5A=&]R/CQR9&8Z
+M4V5Q('AM;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR
+M9&8M<WEN=&%X+6YS(R(^/')D9CIL:3Y$86YI8V$@1V%T8G5N=&]N/"]R9&8Z
+M;&D^/"]R9&8Z4V5Q/@T*"0D)/"]D8SIC<F5A=&]R/CPO<F1F.D1E<V-R:7!T
+M:6]N/CPO<F1F.E)$1CX\+W@Z>&UP;65T83X-"B @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @/#]X<&%C:V5T(&5N9#TG=R<_/O_; $, !P4%!@4$!P8%!@@'!P@*
+M$0L*"0D*%0\0#!$8%1H9&!48%QL>)R$;'24=%Q@B+B(E*"DK+"L:("\S+RHR
+M)RHK*O_; $,!!P@("@D*% L+%"H<&!PJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ
+M*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*O_  !$( $@ :@,!(@ "$0$#
+M$0'_Q  ?   !!0$! 0$! 0           0(#! 4&!P@)"@O_Q "U$  " 0,#
+M @0#!04$!    7T! @, !!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S
+M8G*""0H6%Q@9&B4F)R@I*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H
+M:6IS='5V=WAY>H.$A8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZ
+MPL/$Q<;'R,G*TM/4U=;7V-G:X>+CY.7FY^CIZO'R\_3U]O?X^?K_Q  ? 0 #
+M 0$! 0$! 0$!         0(#! 4&!P@)"@O_Q "U$0 " 0($! ,$!P4$!  !
+M G<  0(#$00%(3$&$D%1!V%Q$R(R@0@40I&AL<$)(S-2\!5B<M$*%B0TX27Q
+M%Q@9&B8G*"DJ-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U=G=X
+M>7J"@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>HJ:JRL[2UMK>XN;K"P\3%QL?(
+MR<K2T]35UM?8V=KBX^3EYN?HZ>KR\_3U]O?X^?K_V@ , P$  A$#$0 _ />_
+M$?BC1O"6E?VEXBO5LK3?L$C(S9;:6P H))PI[=JX_P#X7_\ #/\ Z&8?^ -S
+M_P#&ZYG]JG/_  JW3L?]!F+_ -$35Y$GA1OAQ/I^I>(-&BUSP_J=M#.\YBR8
+M-P!Z]B,_C3$?07_"_P#X9_\ 0S#_ , ;G_XW1_PO_P"&?_0S#_P!N?\ XW7-
+MZ7X(\ ZSI\=[IFDV-Q;R %75?T]C5O\ X5GX/_Z -I_WQ3Y6)R1L_P#"_P#X
+M9?\ 0S#_ , ;G_XW1_PO_P"&7_0S#_P!N?\ XW6/_P *S\'_ /0 L_\ OBC_
+M (5GX/\ ^@!9_P#?%'*PYD;'_"__ (9_]#,/_ &Y_P#C='_"_P#X9_\ 0S#_
+M , ;G_XW6/\ \*S\'_\ 0!M/^^*/^%9^#_\ H VG_?%'*PYD;'_"_P#X9_\
+M0S#_ , ;G_XW1_PO_P"&?_0S#_P!N?\ XW6/_P *S\'_ /0!M/\ OBC_ (5G
+MX/\ ^@#:?]\4<K#F1L?\+_\ AG_T,P_\ ;G_ .-TH^/WPS/_ #,O_DC<_P#Q
+MNL1OAMX-12S:%9A5&22G KR;Q58Z/XGUX>%?AMH-K+)N7[5J,:96,$]CV XY
+MHY;#YDSZ,\.?%/P9XMU%;#P_K:7=TY(6(P2QEL*6.-ZC/ )_"NNKY"^&'A__
+M (13]J;3]"\_[1]BDN(S*!C=_HDAZ?C7U[4C/$_VJ?\ DEFG?]AF+_T1-74:
+M19VFK?#[3M/U*%+BUN-,@22)^0P,:UR_[57_ "2S3?\ L,Q?^B)JZ/PU+_Q2
+M>D8_Y\8/_1:U429;'E.J:#K_ ,&]2.J>&3-J?AN:0O=69&3"/K^/!]N:]2\-
+M^)M,\5:3'?Z3<)*K*/,C!^:)B/NGWK4D=)HVCF4/&X*LK#(8'J*\:\0>"]9^
+M'VK/XC^'98V1 :]T\MNR >0!W'/;D8J]B;WW/:*2N9\%^.M+\::7Y]DWDW4?
+MRW%K)P\;8Y^H]ZZ:@EJS"BBBF(*CN;F"SMI+B[F2&&-2SR.V H]:KZMJ]CHN
+MFR7VJ7$=O;QJ26<XS@9P/4^U>-75QXC^,VK/;66[3O"<,BDO(NUIP#^IX.!V
+M[TBDKJ[+>I^)]>^*VMR^'O!ZR6.B([+=:CS^\3IU].N .M>H^#/!VD^!]'%E
+MI,>7<YFN' WRG'?VXZ5+H>CZ?X;TJ/3=&@$%K%]U>Y]R>YK1\VE8&^QX?X<.
+M[]M//_3S<?\ I&]?4U?*WA8Y_;-4_P#3S<_^D;U]4UF:GB?[57_)+=-_[#47
+M_HF:M3P[-CPKI(_Z<H?_ $6M9?[5/_)+=-_[#47_ *)FJ70)L>&-+'_3G#_Z
+M *N)$]CH/.]Z//(Z5G^=[UP?C/Q_/#?IX:\*1"^UJ[/E?NVR("1[?Q=3[=3Z
+M55S-:G+^/XX-%^)EA)X":6/Q#.X,UM N8RS< $=,GNOX\5Z#X'^+.F^(3#I>
+MLAM-UM!Y<L,J[5D8#DJ>W3H>:N_#7X>Q>#K:2_U1UOM=NR&GN),/Y1Y^56//
+M?EN]7/&?PX\.^-RLNHP-;7BY/VJU*H[?[W!W=.]2KENQU D0C(8'Z&N>\7>.
+M]%\&62SZI/ODDSY5O#\SR'TQV^IP*X;_ (4==19CL_'6J0VW01!&X'X2#^5;
+M7ACX->'= U--2O99]9O$[W@!CSZ["#D_4FJU%H>5:_XENO%_BS2[GQT+K3?#
+MEPYDLXHTRNW=MY/X$%NV>.*^@;"&VL=/@M]/C2.UC0+$L8^4+[4_Q-X<TKQ;
+MH,FDZK IA9<1.JC=">S(>QKR'3M>U;X4ZRGAWQ6&N-&D8_8M053@+G^0R,K_
+M  ^XI:H/B1['YOO1YO!YJ@EVDT:R1.KHXW*RG((/0@TOGU6Y)Y-X1.?VR(S_
+M -/%S_Z1R5]65\H^#&W?MA1'N;BX_P#21Z^KJQ-SQ/\ :J_Y);IO_8:B_P#1
+M$U5="EQX<TT#_GSA_P#0!5K]JG_DEFF_]AF+_P!$35Y?J?C.X;2--\/>%%^V
+M:E<V<<;20M_J#L'0_P![WSQ51=B9*YM^,_'=Q#=IX=\*)]LUFZS&6BP?(/\
+M\5^@KJ/A[X"M/!MF]Q<R?:]6NL-/<NN=AQRJGTR3D]35/P)X,L_!]B[NXN=2
+MN,--<,HRO'*J>N/7U-=9]H]S5)&=^QJ^?1Y_O65]H]Z/M'O5"-7[11]H^E97
+MVCWH^T4"LC5^T5E>(M%TWQ1HTVFZO LL4@.UL?-$W9E/8BC[11]H]Z ]#R32
+M]:U3X8:W_P (_P")S-/H<CE;&^V\*,]?ISR.<=J]22Y26)9(G5T==RLIR"/6
+MH=;TNP\0Z5+I^J0)-#(I )4%HVQPZD]&'8UY3IU[J/PMUL:+K)>ZT.Y<?9[T
+MY C)ZX'/XK^-+8OXB[X'.[]KZ _]-[C_ -))*^L:^2?AW/%=?M86<]M(DL4D
+MMP5=&W!A]DDZ$5];5FS4\]^-'@#5/B-X-M-)T2XLX+B#4$NF:[=E4J(Y%P"J
+ML<Y<=O6O(]"_9\^)/AJ9YM'U?PU%+(,-([2.P'H"83C\***0&Y_PJ[XSYS_P
+MDWAS_P ?_P#C%'_"K_C1_P!#/X<_\?\ _C%%%.[%9!_PJ_XT?]#/X<_\?_\
+MC%'_  J_XT?]#/X<_P#'_P#XQ111=A9"_P#"K_C1_P!#/X<_\?\ _C%'_"L/
+MC3_T,_AS_P ?_P#C%%%%V%D'_"L/C3_T,_AS_P ?_P#C%'_"K_C1_P!#/X<_
+M\?\ _C%%%%V%D)_PJ_XT?]#/X<_\?_\ C%4=7^"GQ7U[3S9:MKGAFX@SN ;?
+ME3Z@^1D'W%%%%QEKX7? 'Q3X)^)&E^(-5U#2)K2S\[S$MII6D.^%T& T8'5A
+)WZ5]#444@/_9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

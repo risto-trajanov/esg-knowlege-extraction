@@ -1,0 +1,658 @@
+<SEC-DOCUMENT>0001193125-18-160888.txt : 20180511
+<SEC-HEADER>0001193125-18-160888.hdr.sgml : 20180511
+<ACCEPTANCE-DATETIME>20180511162355
+ACCESSION NUMBER:		0001193125-18-160888
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20180511
+DATE AS OF CHANGE:		20180511
+EFFECTIVENESS DATE:		20180511
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Goldman Sachs BDC, Inc.
+		CENTRAL INDEX KEY:			0001572694
+		IRS NUMBER:				462176593
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00998
+		FILM NUMBER:		18827207
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		STREET 2:		ATT: PRIVATE CREDIT GROUP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		1-212-902-0328
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		STREET 2:		ATT: PRIVATE CREDIT GROUP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Goldman Sachs Liberty Harbor Capital, LLC
+		DATE OF NAME CHANGE:	20130321
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d569259ddefa14a.htm
+<DESCRIPTION>GOLDMAN SACHS BDC, INC.
+<TEXT>
+<HTML><HEAD>
+<TITLE>Goldman Sachs BDC, Inc.</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) of the </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Securities Exchange Act of 1934 </B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the
+Registrant&nbsp;&nbsp;&#9746;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filed by a Party other than the
+Registrant&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:22pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Confidential, for Use of the Commission Only (as permitted by <FONT STYLE="white-space:nowrap">Rule&nbsp;14a-6(e)(2))</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Soliciting Material Pursuant to <FONT STYLE="white-space:nowrap">&#167;&nbsp;240.14a-12</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>Goldman Sachs BDC, Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified in its Charter) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules <FONT STYLE="white-space:nowrap">14a-6(i)(1)</FONT> and <FONT STYLE="white-space:nowrap">0-11.</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Title of each class of securities to which transactions applies:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Aggregate number of securities to which transaction applies:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Per unit price or other underlying value of transaction computed pursuant to Exchange Act <FONT STYLE="white-space:nowrap">Rule&nbsp;0-11&nbsp;(Set</FONT> forth the amount on which the filing fee is calculated and state how it was
+determined):</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Proposed maximum aggregate value of transaction:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Total fee paid:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee paid previously with preliminary materials.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act <FONT STYLE="white-space:nowrap">Rule&nbsp;0-11(a)(2)&nbsp;and</FONT> identity the filing for which the offsetting fee was paid previously. Identify
+the previous filing by registration statement number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Amount Previously Paid:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Form, Schedule or Registration Statement No.:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Filing Party:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Date Filed:</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:30pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:4.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:4.00pt solid #999999">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:5%; font-size:12pt; font-family:Times New Roman">On May&nbsp;3, 2018, Goldman Sachs BDC, Inc. (the &#147;Company&#148;) filed a preliminary proxy
+statement containing a unanimous recommendation by its board of directors (the &#147;Board&#148;) to approve a proposal (the &#147;Proposal&#148;) that would permit the Company to reduce the asset coverage requirements applicable to the Company
+under the Investment Company Act of 1940, as amended, from 200% to 150%, which would allow the Company to double the amount of leverage that the Company is permitted to incur. Below is a series of frequently asked questions regarding the Proposal.
+</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="28%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="34%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:11pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman; font-size:10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" BGCOLOR="#749ac7">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP BGCOLOR="#749ac7"> <P STYLE="font-size:48pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:1pt">&nbsp;&nbsp;
+
+
+<IMG SRC="g569259dsp003.jpg" ALT="LOGO">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="right"><B>Frequently Asked Questions</B></P> <P STYLE="font-size:8pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:16pt; font-family:ARIAL" ALIGN="right"><FONT COLOR="#404040">Goldman&nbsp;Sachs&nbsp;BDC,&nbsp;Inc.</FONT></P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:11pt; font-family:ARIAL" ALIGN="right"><FONT COLOR="#404040">May 2018</FONT></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" BGCOLOR="#749ac7">&nbsp;</TD>
+<TD VALIGN="top" BGCOLOR="#749ac7"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:6pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" BGCOLOR="#749ac7">&nbsp;</TD>
+<TD VALIGN="top" BGCOLOR="#749ac7"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt" BGCOLOR="#000000">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#000000" STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="right"><FONT COLOR="#ffffff">2018&nbsp;Annual&nbsp;Stockholder&nbsp;Meeting&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P>
+<P STYLE="font-size:3pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" BGCOLOR="#749ac7">&nbsp;</TD>
+<TD VALIGN="top" BGCOLOR="#749ac7"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:6pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" BGCOLOR="#749ac7">&nbsp;</TD>
+<TD VALIGN="top" BGCOLOR="#749ac7"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Goldman Sachs BDC, Inc. (the &#147;Company&#148;) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>We are pleased to provide answers to frequently asked questions regarding the proposals requiring a stockholder vote at the Company&#146;s annual meeting
+scheduled for June&nbsp;15, 2018 (the &#147;Meeting&#148;). </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The Meeting is being held for stockholders to vote on three proposals: </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>1)</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>to elect one Class&nbsp;I director of the Company, who will serve until the 2021 annual meeting of stockholders or until her successor is duly elected and qualified; </B></TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>2)</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>to ratify the selection of PricewaterhouseCoopers LLP as the Company&#146;s independent registered public accounting firm for the fiscal year ending December&nbsp;31, 2018; and </B></TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><B>3)</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>to approve the application of the reduced asset coverage requirement in Section&nbsp;61(a)(2) of the Investment Company Act of 1940, as amended, to the Company, which would allow the Company to double the amount of
+leverage that the Company is permitted to incur by reducing the asset coverage requirement applicable to the Company from 200% to 150%. </B></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">If Proposal 3 is approved by stockholders, the base management fee payable to Goldman Sachs Asset Management, L.P. (&#147;GSAM&#148;) by the
+Company will be reduced from 1.5% of gross assets to 1.0% of gross assets beginning immediately following receipt of stockholder approval.<SUP STYLE="font-size:85%; vertical-align:top">1</SUP> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman"><SUP STYLE="font-size:85%; vertical-align:top">1 </SUP>Pursuant to the Company&#146;s Investment Management Agreement, the management fee is calculated on the
+average value of the Company&#146;s gross assets (including assets purchased with borrowed money, but excluding cash and cash equivalents) at the end of the two most recently completed calendar quarters. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>How does the Board of Directors of the Company (the &#147;Board&#148;) recommend that I vote? </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board, including each of the independent directors, unanimously recommended that you vote &#147;FOR&#148; all three proposals that are being considered at
+the Meeting. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><FONT COLOR="#4f81bd"><B>PROPOSAL 1 &#150; ELECTION OF DIRECTOR </B></FONT></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Who is the director nominee that has been proposed for election to the Board? </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Susan B. McGee has been nominated for election as a Class&nbsp;I director to serve until the 2021 annual meeting of stockholders. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">To date, Ms.&nbsp;McGee has worked for 26 years at U.S. Global Investors, Inc., an investment management firm, where she held several senior management
+positions, including President, General Counsel and Chief Compliance Officer. She has also been involved in the governance of the U.S. Global Investors Funds, serving as Vice President. She plans to retire from U.S. Global Investors, Inc. and the
+U.S. Global Investors Funds on or about June&nbsp;1, 2018. In addition, Ms.&nbsp;McGee serves on the Board of Governors of the Investment Company Institute and as Chairperson of the Investment Company Institute Small Funds Committee. She is also a
+member of the Board of Directors of the San Antonio Sports Foundation, a <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">not-for-profit</FONT></FONT> organization. Based on the foregoing, Ms.&nbsp;McGee is experienced with
+financial and investment matters. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><FONT COLOR="#4f81bd"><B>PROPOSAL 2 &#150; RATIFICATION OF SELECTION OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+</B></FONT></P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Does the Company have experience with PricewaterhouseCoopers LLP (PwC)? </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Yes, PwC has served as the Company&#146;s independent registered public accounting firm since the Company&#146;s inception. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><FONT COLOR="#4f81bd"><B>PROPOSAL 3 &#150; APPROVAL OF APPLICATION OF REDUCED ASSET COVERAGE REQUIREMENT TO THE
+COMPANY </B></FONT></P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Background </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On March&nbsp;23,
+2018, Congress passed the Small Business Credit Availability Act (the &#147;SBCA Act&#148;) as part of its omnibus spending bill. The SBCA Act, among other things, reduces the asset coverage requirement applicable to BDCs under the Investment
+Company Act of 1940, as amended (the &#147;1940 Act&#148;), from 200% to 150% (a maximum 2:1 debt to equity ratio), so long as the BDC meets certain disclosure and approval requirements. In order for a publicly traded BDC to avail itself of the
+increase in leverage, a BDC must either (1)&nbsp;receive stockholder approval at a special or annual meeting at which a quorum is present or (2)&nbsp;receive approval from a &#147;required majority&#148; (as defined in the 1940 Act) of such
+BDC&#146;s board of directors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Following a thorough review of the SBCA Act, the Company and its Board have determined that the best course of action is
+to seek stockholder approval to reduce the Company&#146;s asset coverage requirement at the annual stockholder meeting to be held on June&nbsp;15, 2018. Accordingly, the Company: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">&#149; has filed a proxy statement containing a unanimous recommendation by the Board to approve a proposal that would permit the Company to
+reduce its asset coverage requirement from 200% to 150%; and </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:6%; font-size:10pt; font-family:Times New Roman">&#149; if the proposal is approved, the base management fee payable to GSAM
+by the Company will be reduced from 1.5% of gross assets to 1.0% of gross assets beginning immediately upon receipt of stockholder approval. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Why is
+the Company seeking approval for the reduced asset coverage? </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A reduction in the asset coverage requirement will provide the Company with additional
+flexibility in pursuing attractive investment opportunities. In particular: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top">the Company will have greater capacity to invest in lower risk, lower yielding loans; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top">the Company will have greater ability to pursue attractive investment opportunities even when market conditions are not favorable to raising additional equity capital; </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top">a larger capital base will allow the Company to be a more meaningful participant in private debt markets and to make larger loans, resulting in greater deal flow with larger middle-market companies; and
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top">an increase in total assets will expand the capital available for <FONT STYLE="white-space:nowrap">&#147;non-qualifying</FONT> assets&#148;, which provides more flexibility in pursuing the Company&#146;s investment
+strategy. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The reduced asset coverage requirement will also provide the Company with additional flexibility to make required regulated
+investment company distributions without violating the 1940 Act. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>What is the recommendation and rationale from the Board on this proposal? </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On May&nbsp;1, 2018, the Board unanimously recommended that stockholders vote in favor of the application of the reduced asset coverage requirement to the
+Company and concluded that Proposal 3 is in the best interests of the Company and stockholders. In doing so, the Board considered and evaluated various factors, including the following: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top">the additional flexibility to manage capital to take advantage of attractive investment opportunities; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top">the potential impact (both positive and negative) on net investment income, return to stockholders and net asset value; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top">the additional flexibility to make required regulated investment company distributions without violating the 1940 Act; and </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top">the impact on advisory fees payable by the Company to GSAM and the related conflicts of interest. </TD></TR></TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>If
+approved, how will this change impact the Company&#146;s investment strategy? </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If approved, the Company&#146;s investment strategy which focuses on
+direct originations to U.S. middle market companies will not change. A reduced asset coverage requirement will allow the Company to pursue increased returns on stockholders&#146; equity while also allowing the Company to invest in lower risk, lower
+yielding loans. Based on the Company&#146;s existing maximum permitted <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">debt-to-equity</FONT></FONT> ratio, these lower risk, lower yielding loans are currently dilutive to the
+Company&#146;s targeted stockholder returns. The Company believes greater flexibility in asset selection is strategically important for it as a permanent capital vehicle, which will invariably be investing capital through different credit cycles.
+</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Will this change result in a shift in the Company&#146;s asset mix? </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company&#146;s approach to implementing additional leverage will continue to be rooted in thoughtful risk management analysis that considers the magnifying
+effect that leverage has on asset returns. The Company does not intend to simply add additional leverage across the board to its existing asset mix. Instead, the Company expects to consider increasing leverage on certain lower risk assets, while
+leverage levels on other assets may be left unchanged, or even reduced. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company&#146;s approach to investing is to seek the best risk-adjusted returns
+in a borrower&#146;s capital structure, based on a fundamental, <FONT STYLE="white-space:nowrap">bottom-up</FONT> review of the borrower, its business model and its prospects. While this approach will remain unchanged, the Company expects that over
+time, its asset mix will shift toward a higher percentage of first lien senior secured loans that may have lower yields, but which the Company believes also have lower risk. If the Company is successful in originating these assets, the Company would
+expect leverage levels to increase in tandem, though the Company would also expect to maintain an appropriate cushion relating to the 2:1 statutory debt to equity limit, consistent with its longstanding risk management policies. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In addition, as the Company looks over the horizon and considers other market environments that could come to pass in the future, the Company does not intend
+to be dogmatic and only pursue lower yielding, lower risk first lien loans. The Company believes that there will be times and issuer specific deals when junior loans with higher yields may offer better risk-adjusted returns. In those environments
+and situations, the Company would expect its leverage profile to decrease commensurately and reflect the higher asset risk the Company may be assuming. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>What, if any, has been the Company&#146;s experience investing in certain lower risk assets? </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">An example of how the Company has pursued this strategy in the past is through the selection of assets and leverage levels in the Company&#146;s investment in
+the Senior Credit Fund, LLC (the &#147;SCF&#148;), which is the Company&#146;s largest single-name investment (as of March&nbsp;31, 2018). The SCF is comprised almost exclusively of lower yielding, lower risk first lien senior secured loans. The SCF
+is expected to maintain a <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">debt-to-equity</FONT></FONT> ratio of approximately 2:1 and has historically averaged lower leverage levels. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Since inception and through March&nbsp;31, 2018, the Company&#146;s investment in the SCF has generated an internal rate of return (IRR) of approximately 13%.
+The SCF has had no net realized capital losses and no <FONT STYLE="white-space:nowrap">non-accrual</FONT> investments. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>How is the Company positioned
+to potentially benefit from this change? </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company believes that it is uniquely positioned to benefit from the change in the application of the
+reduced asset coverage requirement. We believe the Company is uniquely positioned in the following ways: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top"><I>Risk Management</I>: An increase in debt to equity ratios places greater importance on careful risk management. The Company believes that it benefits from Goldman Sachs&#146; extensive risk management capabilities,
+which have been developed and honed over many investment cycles. The Company&#146;s portfolio is regularly reviewed and stressed under various scenarios by senior risk management personnel within Goldman Sachs. This risk monitoring is designed to
+minimize the risk of capital loss and maintain an investment portfolio that is expected to perform in a broad range of economic conditions. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top"><I>Financing of Portfolio</I>: The availability and terms of financing becomes a much more critical driver of stockholder returns as debt to equity ratios increase. As one of the world&#146;s largest asset management
+firms, GSAM is a significant counterparty to many providers of capital. This scale, combined with the institutional infrastructure to support it, gives capital providers an incentive to do business with GSAM and confidence that their capital will be
+well guarded. Accordingly, we believe that we are able to obtain favorable terms from financing providers, including attractive interest rates, advance rates, durations and covenants. We believe that we will continue to benefit from GSAM&#146;s
+scale and infrastructure through attractive financing terms as we seek additional sources of capital in the future. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top"><I>Demonstrated Successful Track Record of Predominately First Lien, Senior Secured Loans</I>: The Company has a track record of implementing an investment strategy utilizing higher levels of leverage on lower risk,
+lower yielding assets and producing strong stockholder returns as evidenced by the Company&#146;s investment in the SCF. </TD></TR></TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Why is GSAM
+reducing its management fee if Proposal 3 is approved? </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board and GSAM are in strong agreement that stockholders should benefit from the economies
+of scale that an increase in the Company&#146;s leverage ratio would provide. In addition, the Board and GSAM considered that borrowing costs may increase as additional leverage is incurred, while asset yields may decline as the Company pursues
+lower risk, first lien assets. In an effort to support the increased returns on equity that are the objective of the proposed increase in leverage, both the Board and GSAM believe a reduction in the base management fee rate is appropriate. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board and GSAM believe that GSAM is both well aligned and incentivized to continue pursing strong returns on stockholders&#146; equity and accordingly,
+GSAM&#146;s incentive fee structure will not be altered. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>When would the reduction of GSAM&#146;s base management fee go into effect? </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The reduction in the base management fee payable to GSAM from 1.5% on gross assets to 1.0% on gross assets would go into effect beginning immediately upon
+receipt of stockholder approval for the reduced asset coverage requirement. </P> <P STYLE="margin-top:30pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><FONT COLOR="#4f81bd"><B>ADDITIONAL INFORMATION </B></FONT></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Where can I find more information about the proposals? </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Additional information about the Company and the proposals will be available in the Company&#146;s annual proxy statement (the &#147;Proxy&#148;) for the
+Company&#146;s 2018 Annual Meeting of Stockholders filed on Schedule 14A with the United States Securities and Exchange Commission (the &#147;SEC&#148;). The Proxy will be available upon request to the Company or by visiting the SEC&#146;s website
+at <FONT STYLE="font-family:Times New Roman" COLOR="#0000ff"><U>www.sec.gov</U></FONT><FONT STYLE="font-family:Times New Roman">. </FONT></P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>How do I
+vote? </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If you do not plan to be present in person at the Meeting, you can vote by signing, dating and returning the enclosed proxy card that will be
+mailed to stockholders as of the proxy date promptly or by using the Internet or telephone voting options as described on your proxy card. If you have any questions regarding the proxy materials, please contact the Company at (800) <FONT
+STYLE="white-space:nowrap">621-2550.</FONT> Your prompt response will help reduce proxy costs&#151;which are paid by the Company and indirectly by its stockholders&#151;and will also mean that you can avoid receiving
+<FONT STYLE="white-space:nowrap">follow-up</FONT> phone calls and mailings. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>ABOUT GOLDMAN SACHS BDC, INC. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Goldman Sachs BDC, Inc. is a specialty finance company that has elected to be regulated as a business development company under the Investment Company Act of
+1940. GS BDC was formed by The Goldman Sachs Group, Inc. (&#147;Goldman Sachs&#148;) to invest primarily in middle-market companies in the United States, and is externally managed by Goldman Sachs Asset Management, L.P., an <FONT
+STYLE="white-space:nowrap">SEC-registered</FONT> investment adviser and a wholly-owned subsidiary of Goldman Sachs. GS BDC seeks to generate current income and, to a lesser extent, capital appreciation primarily through direct originations of
+secured debt, including first lien, first <FONT STYLE="white-space:nowrap">lien/last-out</FONT> unitranche and second lien debt, and unsecured debt, including mezzanine debt, as well as through select equity investments. For more information, visit <FONT
+STYLE="font-family:Times New Roman" COLOR="#0000ff"><U>www.goldmansachsbdc.com</U></FONT><FONT STYLE="font-family:Times New Roman">. Information on the website is not incorporated by reference into these materials and is provided merely for
+convenience. </FONT></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>PROXY STATEMENT </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In connection
+with the proposal to reduce the Company&#146;s asset coverage limit, the Company has filed a preliminary proxy statement with the SEC. The Company will file with the SEC a definitive version of the proxy statement that will be sent or provided to
+stockholders when available. The information contained in the preliminary proxy statement is not complete and may be changed. The Company&#146;s stockholders and other interested persons are advised to read the preliminary proxy statement and, when
+available, the definitive proxy statement in connection with the Company&#146;s solicitation of proxies for the meeting because they will contain important information about the proposal and the identity of the participants in this solicitation and
+a description of their direct or indirect interests. Stockholders are able to obtain copies of the preliminary proxy statement and, once available, will also be able to obtain copies of the definitive proxy statement, without charge, at the
+SEC&#146;s website at www.sec.gov., or by contacting the Company at (800) <FONT STYLE="white-space:nowrap">621-2550.</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>FORWARD-LOOKING STATEMENTS
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Th<FONT STYLE="font-family:Times New Roman" COLOR="#ff4338"><STRIKE></STRIKE></FONT><FONT STYLE="font-family:Times New Roman">ese materials may
+contain forward-looking statements that involve substantial risks and uncertainties. You can identify these statements by the use of forward-looking terminology such as &#147;may,&#148; &#147;will,&#148; &#147;should,&#148; &#147;expect,&#148;
+&#147;anticipate,&#148; &#147;project,&#148; &#147;target,&#148; &#147;estimate,&#148; &#147;intend,&#148; &#147;continue,&#148; or &#147;believe&#148; or the negatives thereof or other variations thereon or comparable terminology. You should read
+statements that contain these words carefully because they discuss our plans, strategies, prospects and expectations concerning our business, operating results, financial condition and other similar matters. These statements represent the
+Company&#146;s belief regarding future events that, by their nature, are uncertain and outside of the Company&#146;s control. Any forward-looking statement made by us in
+</FONT><FONT STYLE="font-family:Times New Roman" COLOR="#ff4338"><STRIKE></STRIKE></FONT><FONT STYLE="font-family:Times New Roman">these materials speaks only as of the date on which we make it. Factors or events that could cause our actual results
+to differ, possibly materially from our expectations, include, but are not limited to, the risks, uncertainties and other factors we identify in the sections entitled &#147;Risk Factors&#148; and &#147;Cautionary Statement Regarding Forward-Looking
+Statements&#148; in filings we make with the Securities and Exchange Commission, and it is not possible for us to predict or identify all of them. We undertake no obligation to update or revise publicly any forward-looking statements, whether as a
+result of new information, future events or otherwise, except as required by law. </FONT></P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Goldman Sachs BDC, Inc. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Investor Contact: Katherine Schneider, <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">212-902-3122</FONT></FONT> </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Media Contact: Andrew Williams, <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">212-902-5400</FONT></FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Source: Goldman Sachs BDC, Inc. </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g569259dsp003.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g569259dsp003.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( #X H@,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /0=#TO16\.2ZEJJ*J0EB\K2,H51]#7;6K3A.T6<M&G&4;M%
+MFRLO#-[<V<,>FW2"\A:>"1]ZJZ#'/WN#R#@X-8_6*O<U]C#L+JUMX-T;2+C5
+M+D!K2W*K(T4SR%22 . ?4BCZQ5[A[&'8;K,'@W0;9)]04('9%"K([/\ ,< [
+M0<X]Z/K%7N'L8=BZ=$\)K-Y#-;K-NV>6;HAMWIC=UH^L5>X>QAV'#0O"AM?M
+M0: V^=OF_:CMSZ9W8H^L5>X>QAV$DT/PG"B/*T"(Z[U+71 9?4?-R*/K%7N'
+ML8=C/\1:'I%GH7VRPA&2R[9%D9@0?QP:UHU9SG9LRJPC&-TCC*[CD"@84 %
+M!0 4 % !0 4 % !0 4 % %_Q/;75W\%M3CM%9V64.ZKU*!U)_+&?PKS<3_$.
+MW#_ 'B#7-6EE&@Z2\4L4_AXW4'EI^]1L8PK#U4>E<YN<AXL2XDT2>2TR;%/#
+MUA'/L^Z)?-3 /^T!NH N>)5=%\3QW_\ Q]OJUFT ;J8L':1[;<B@ UZ)6U7Q
+M&2@)_P"$DM!G';#T 6[2>*#4=5MGCV(WB:Y:.<L52 B)CG (!)&0 >/KTH S
+MO#Z^9:>! XW :?J?WAG&#)B@#K_#C,WP2TC<22"1SZ"1L5T8?^(C"O\  95>
+MB<04P%960X8%3[C%)-/5 TUN)3 * "@04#"@ H * "@ H * .TTN*\G^'U_#
+MIUPMO>R+(L$K' 5R,#GMSWKS<3_$.W#_  '*>&=9M[+4(--U/0TTCQ3IMC*L
+M3R86*[4)DEG],KDGD=>:YS<:WQ/U2Q%]%-;VMQ)]B@GB*H0GFR.JGTW)\V1Z
+MXZG.: +FL7WBJ'QAX>MKZX2U:2XO%C\EBRS0J@*,Z@@$]>#0 VT^(VI2>'="
+MU34HEL[.^BF6>^B@,B1S+(43<.<*<9/Z4 >GV)6XL+>9FCE+HKEX^58D9R/:
+M@"R(U&.!QTXH Y[QF OAYP!C]XO\ZZ,/_$1A7^ \WKT3B-3PY:?;->M8R,JC
+M>8WT'-95I<L&725YV9N^([8ZB-,NYP;822&&0NN-@W<'GVS6%%\O,EJ;5%>S
+M94N/#EC%J%K;M//"LKE2T@!5@!P58<<\<>]7&O-Q;L2Z4>9)B#PU;R:Q%:!K
+MB-?+:21749&,=#T.<T>WDH78>QCS6+-CH-C#K=BLBO)%/&S"*3!*,!T;':HE
+M6FX,<814CEKGRQ=2B'<(]YV[NN,UUQO;4PEOH150@H * "@ H * .\\.Z='J
+MO@V>QF>2..9V4O$V&7IR#V->;B?XAVX?X"W?>"]-U5S)JDEQ>S?9GM5DE904
+M1QAB-H R1WKG-S-7X8:$5E6X>ZN/,M([3+N!M1""A& ,$%1S0!IW/@^SO=7T
+M_5+RZNI[RP#B)V90"&7!R  * *]EX"T[3]&72+>ZO%L?(>!XF=&$BL[,<Y7K
+MECR,=: .DL[2&PLH+2VC\N"!%CC0?PJ!@#\A0!/0!SGC7_D7W_ZZ+_.NC#_Q
+M$85_@/-Z]$XBYIVHW&FO,]L@,DD93=@DJ#W%14@I)7+A)QO8GCUV_P#L?V9\
+M7"B02 R@N01VZ]/_ *]3[*'-?8:G-QL22>(KAQ"HMK9(HG+^5LRI)&.03[]J
+M2HQ74IU;L7_A);T7-O*B11I A18P"5VGJ.N>PI*A%+43JR;NB)==GBO[>Z@@
+M@A^SJ51$3Y<'KGN::HQ:Y6+VCO=&?-*)9GD"*FXYVKT%:Q5E8AN[&50@H *
+MV"@ H#8* /2/!/\ R+X_ZZM_2O-Q/\0[</\  ='7.;A0 4 % !0 4 <YXU_Y
+M%]_^NB_SKHP_\1&%?X#S>O1.(ZGP9,MNVH3-]U(U)^F:Y,3KRG10ZG0:79KI
+MMW>(RC==3NR?[@&?YFN><N=+R-HQ4;WZG+V?AV*\TK[0))A*8W?.S"*5[<\G
+MZBNIUW%V,%2NKDD7ANTDM8S]IF$\EH;D#:-HQCC]:3K2OMU!4E;<;;^&X;C2
+MOM"R3B3R#-N* )D?P\\GZU4J[4K J6EQK>'[6.RW-<2FY%F;HJ -N.PI>VES
+M62#V22)I/"B1Z<TGFR^>MOY^X@>63UV^N:7M_>V&Z.@O_"-6*PDM<W <6@NC
+MA5(QW%'MIWVZV%[*/5C3X9@-ZRI+.]N+99P%4;SDX ]*'7DE9[W!4E<:_AJW
+M@GU 37$OE6T2RJ44;B#G@^_%'MFTK(:I*[+4&A:;:7>HQ3F298[7S4) RH(Y
+M/UI2JS:BUW&J<4W<Y$XSQTKL.8](\$_\B^/^NK?TKS<3_$.W#_ ='7.;A0 4
+M % !0 4 <YXU_P"1??\ ZZ+_ #KHP_\ $1A7^ \WKT3B+MAJ3V%O>0K&&%S'
+MY9)/W?>HG3YVFRXSY;HU/^$MN3=VUPUNA\B(QA=QYSC)_2LOJZU1;K.Z(H/$
+MC0VD,)LT=XHFA63>1\K>U.5!-MW!5>EA(O$DL:Q#[,A\NU-M][J..?TINAY]
+M1*JQR>)F6!$-DAD6W^S&3>>5^E2J'5OJ'M=+6-#^T[;^PV:2>W>4V1@7;D2
+M]E(]/>L_9RY]M+FG.N4S)_$'GV?EO8Q-<>2(?.8DX4=\>OO6JH)2O<CVK<;6
+M%;Q+,VX?9EYM/LOWNWK3]CY];B=33Y ?$3/(/.M%>$VRV[Q[R-P!R#GUI>Q7
+M<?M;,C;7W/V\):11I=QB/:G 0#/Y]::HV2$ZI*?$LC7TUP]HC)- ('CWD9'K
+MFE[#2UP]IJ89ZG P/2MS(](\$\>'Q_UU;^E>=B?XAVT/@.CKG-PH * "@ H
+M* .<\:?\B^__ %T7^==&&^,PK_">;UZ)Q!3 * "@ H * "@ H * "@ H * "
+M@#K?#GB6STG2A;7$4S/O+90 C!^I%<5:DYS;1TTZBA&S-?\ X3C3?^>%U_WR
+MO_Q58_5Y&GMX]@_X3C3?^>%U_P!\K_\ %4_J\@]O'L'_  G&F_\ /"Z_[Y7_
+M .*H^KR#V\>P?\)QIO\ SPNO^^5_^*H^KR#V\>P?\)QIO_/"Z_[Y7_XJCZO(
+M/;Q[!_PG&F_\\+K_ +Y7_P"*H^KR#V\>QD^(O$]GJFE-;013JY8'+J ./H:T
+EH4G&>I%2JI1T.1KN.4* "@ H * "@ H * "@ H * "@ H __V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

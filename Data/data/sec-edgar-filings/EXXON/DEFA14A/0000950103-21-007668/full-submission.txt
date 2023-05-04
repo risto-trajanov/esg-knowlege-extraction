@@ -1,0 +1,644 @@
+<SEC-DOCUMENT>0000950103-21-007668.txt : 20210524
+<SEC-HEADER>0000950103-21-007668.hdr.sgml : 20210524
+<ACCEPTANCE-DATETIME>20210524080343
+ACCESSION NUMBER:		0000950103-21-007668
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20210524
+DATE AS OF CHANGE:		20210524
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		21951252
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9729406000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>dp151549_defa14a.htm
+<DESCRIPTION>FORM DEFA14A
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 18pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 18pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 12pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C. 20549 </B></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 18pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><B>SCHEDULE 14A </B></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><B>Proxy Statement Pursuant to Section 14(a)</B></P>
+
+<P STYLE="font: 12pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><B>of the Securities Exchange Act of 1934 </B></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">Filed by the Registrant &#9746;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">Filed by a Party other than the Registrant &#9744;&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">Check the appropriate box:</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; width: 100%; border-collapse: collapse">
+  <TR>
+    <TD STYLE="width: 51%">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom; width: 1%">&nbsp;</TD>
+    <TD STYLE="width: 48%">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">
+    <P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&#9744;</P>
+    <P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: -11pt 0pt 0pt 0.25in">Preliminary Proxy Statement</P>
+    <P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+    <P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"></P>
+    <P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&#9744;</P>
+    <P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: -11pt 0pt 0pt 0.25in">Definitive Proxy Statement&nbsp;</P></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; padding-left: 0pt; font-size: 12pt; text-indent: 0pt"><P STYLE="text-align: left; margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">&#9744; <B></B></FONT></P>
+                                                                                <P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: -11pt 0pt 0pt 0.25in"><FONT STYLE="font: 10pt Arial, Helvetica, Sans-Serif"><B>Confidential, for Use of the Commission Only(as permitted by Rule 14a-6(e)(2))</B></FONT></P></TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; padding-left: 0pt; font-size: 12pt; text-indent: 0pt">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 12pt"><P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">&#9746;</FONT></P>
+                                                     <P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: -11pt 0pt 0pt 0.25in"><FONT STYLE="font: 10pt Arial, Helvetica, Sans-Serif">Definitive Additional Materials</FONT></P></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 12pt"><P STYLE="margin-top: 0; margin-bottom: 0"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">&#9744;</FONT></P>
+                                                     <P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: -11pt 0pt 0pt 0.25in"><FONT STYLE="font: 10pt Arial, Helvetica, Sans-Serif">Soliciting Material Pursuant to &sect;240.14a-12</FONT></P></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  <TR>
+    <TD STYLE="vertical-align: top; font-size: 12pt">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 12pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><FONT STYLE="font-size: 24pt"><B>E</B></FONT><B><FONT STYLE="font-size: 20pt">XXON
+</FONT><FONT STYLE="font-size: 24pt">M</FONT><FONT STYLE="font-size: 20pt">OBIL</FONT> <FONT STYLE="font-size: 24pt">C</FONT><FONT STYLE="font-size: 20pt">ORPORATION</FONT></B></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><B>(Name of Registrant as Specified In Its Charter)
+</B></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><B>(Name of Person(s) Filing Proxy Statement, if
+other than the Registrant) </B></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">Payment of Filing Fee (Check the appropriate box):</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">&#9746;</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">No
+fee required.</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">&#9744;</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Fee
+computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">(1)</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Title
+of each class of securities to which transaction applies:</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">(2)</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Aggregate
+number of securities to which transaction applies:</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">(3)</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Per
+unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing
+fee is calculated and state how it was determined):</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">(4)</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Proposed
+maximum aggregate value of transaction:</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">(5)</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Total
+fee paid:</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">&#9744;</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Fee
+paid previously with preliminary materials.</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">&#9744;</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Check
+box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee
+was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">(1)</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Amount
+Previously Paid:</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">(2)</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Form,
+Schedule or Registration Statement No.:</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">(3)</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Filing
+Party:</FONT></TD>
+</TR></TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">(4)</FONT></TD><TD><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Date
+Filed:</FONT></TD>
+</TR></TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: 10pt Arial, Helvetica, Sans-Serif">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt; font: 10pt Arial, Helvetica, Sans-Serif">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"></P>
+
+<P STYLE="text-align: right; font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"><IMG SRC="logo.jpg" ALT="">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="text-align: right; font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">May 23, 2021</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">Dear fellow shareholders,</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">During this proxy season, we have had the opportunity
+to meet with a variety of ExxonMobil shareholders to hear their viewpoints on key issues of importance. We have engaged on topics related
+to capital allocation, climate, and financial performance and on the Board&rsquo;s expertise, judgment, and independence. We have greatly
+valued this interaction.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">Throughout this process, we have been encouraged
+by the open dialogue, as we have worked to address the issues raised. In advance of our Annual Shareholders Meeting, we felt it was an
+opportune time to address all shareholders publicly, describe our commitments and ensure the Board&rsquo;s positions are clear.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">To meet the energy needs of a growing global economy,
+the world&rsquo;s consumption of oil and natural gas is expected to increase by 15%, from 145 million barrels per day oil equivalent (MBDOE)
+in 2011 to an estimated 165 MBDOE this year, despite the unprecedented impacts of the pandemic. The benefits of this growth are clear.
+As energy consumption per capita grows, quality of life increases and social inequality declines. However, as growing markets continue
+to consume more energy, the potential impact on our climate is magnified. To reduce this risk, lower carbon solutions are critical. While
+ExxonMobil represents less than 3% of global production, we can play an important role in helping develop solutions to assist the transition
+to a lower-carbon future.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">In this regard, we have worked to reduce emissions
+in our own operations including exceeding emission reduction goals set in 2018 and setting new reduction plans for 2025, which are projected
+to be consistent with the goals of the Paris Agreement. In addition, we announced plans for industry-leading greenhouse gas performance
+across our businesses by 2030. We are also advancing opportunities for further investments in key areas such as carbon capture and storage
+and hydrogen - areas aligned with our core capabilities and where we have a competitive advantage. These technologies are important for
+the most hard-to-decarbonize industries, which must be addressed to achieve society&rsquo;s emission reduction goals and reduce the risks
+of climate change. We believe success in developing these technologies will be critical to both advancing society&rsquo;s ambitions for
+a lower-carbon future and in delivering long-term shareholder value.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center"><B>Exxon Mobil Corporation</B> 5959 Las Colinas
+Boulevard Irving, Texas 75039</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: 10pt Arial, Helvetica, Sans-Serif">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></P><P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"></P><P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">May 23, 2021</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">With respect to our management of climate risk,
+we released our first Energy &amp; Carbon Summary (ECS) prior to our 2017 annual shareholder meeting, which described our approach in
+detail. Through shareholder feedback, we have evolved this document every year, including publishing Scope 3 emission data in 2021. Today
+it represents a broad reporting of how we both manage climate risk and advance solutions. We have heard from shareholders that increased
+transparency in this area is important. We look forward to continuing to engage with our shareholders on this topic and are committed
+to responding to their feedback.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">A few years ago, we also accelerated our efforts
+to high grade our assets, investing in high return, low cost-of-supply projects that perform well in low-price environments. And we began
+work to streamline our organization to improve decision making and significantly reduce annual operating costs. The strategy we initiated
+in 2017 and executed in 2018-2019 will grow earnings and cash flow capacity establishing a strong foundation for balancing investments
+in advantaged projects, maintaining a strong balance sheet, and providing for a strong dividend. When the COVID-19 pandemic swept the
+globe, these actions allowed us to quickly adjust to the unprecedented conditions while protecting value. And today as the world begins
+to recover, the benefits of our strategy are being recognized by the market. In fact, our total shareholder return of more than 60% over
+the last 6 months has dramatically exceeded peers and the broader S&amp;P 500.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">We have also substantially evolved the composition
+of the Board, with six new directors added since 2017 and four in the past 18 months alone. Our Board has been fully engaged, questioning
+assumptions, advising management, and actively debating a range of challenges and opportunities. We are committed to this governance approach
+and value a strong and independent Board &ndash; one with the right skills, experience and perspectives. In the years ahead, we will continue
+our refreshment process. Over the next twelve months, we will work with the Board to secure two new directors, one with energy industry
+experience and one with climate experience.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">We will also continue to improve our shareholder
+engagement practices. Shareholders will have seen, and should continue to expect, additional disclosures regarding strategy, investment
+priorities, the energy transition, and corporate governance. We will ensure that senior members of management with the right skills, experience,
+and perspectives engage with our shareholders. Moreover, we are committed to having our Board, in particular our Lead Director, engage
+more routinely with our shareholders year-round.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">While there is still more to do, we are proud of
+the significant progress we have made to date. With our flexible plans, reduced costs, balanced capital allocation priorities and a strategy
+that delivers advantaged projects, including in our new Low Carbon Solutions business, we are positioned for success.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 3; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: 10pt Arial, Helvetica, Sans-Serif">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></P><P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"></P><P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">May 23, 2021</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">For nearly 140 years, ExxonMobil has been resilient
+and responsive to changes in global priorities. Our company supplied the essential fuels for national defense, developed specialty fuels
+for the jet and space age, helped secure American energy security, developed new technologies to reduce emissions, and engineered chemicals
+and plastics to support every aspect of modern life including healthcare, agriculture, transportation and more.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">Today it is this Board&rsquo;s priority to continue
+to harness our culture of science and innovation to grow shareholder value and contribute meaningfully to our collective ambitions for
+a lower-carbon future.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">As Lead Director and Chairman, this is our commitment.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">Best regards,</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Arial, Helvetica, Sans-Serif; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; text-align: justify"><IMG SRC="kfrazier.jpg" ALT=""></TD>
+    <TD STYLE="width: 50%; text-align: justify"><IMG SRC="dwoods.jpg" ALT=""></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify">&nbsp;</TD>
+    <TD STYLE="text-align: justify">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Ken Frazier</FONT></TD>
+    <TD STYLE="text-align: justify"><FONT STYLE="font-family: Arial, Helvetica, Sans-Serif; font-size: 10pt">Darren Woods </FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: 10pt Arial, Helvetica, Sans-Serif">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0"><B>Important Additional Information Regarding Proxy Solicitation </B></P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">Exxon Mobil Corporation (&ldquo;ExxonMobil&rdquo;) has filed a definitive
+proxy statement and form of associated BLUE proxy card with the U.S. Securities and Exchange Commission (the &ldquo;SEC&rdquo;) in connection
+with the solicitation of proxies for ExxonMobil&rsquo;s 2021 Annual Meeting (the &ldquo;Proxy Statement&rdquo;). ExxonMobil, its directors
+and certain of its executive officers will be participants in the solicitation of proxies from shareholders in respect of the 2021 Annual
+Meeting. Information regarding the names of ExxonMobil&rsquo;s directors and executive officers and their respective interests in ExxonMobil
+by security holdings or otherwise is set forth in the Proxy Statement. To the extent holdings of such participants in ExxonMobil&rsquo;s
+securities are not reported, or have changed since the amounts described, in the Proxy Statement, such changes have been reflected on
+Initial Statements of Beneficial Ownership on Form 3 or Statements of Change in Ownership on Form 4 filed with the SEC. Details concerning
+the nominees of ExxonMobil&rsquo;s Board of Directors for election at the 2021 Annual Meeting are included in the Proxy Statement. BEFORE
+MAKING ANY VOTING DECISION, INVESTORS AND SHAREHOLDERS OF THE COMPANY ARE URGED TO READ ALL RELEVANT DOCUMENTS FILED WITH OR FURNISHED
+TO THE SEC, INCLUDING THE COMPANY&rsquo;S DEFINITIVE PROXY STATEMENT AND ANY SUPPLEMENTS THERETO AND ACCOMPANYING BLUE PROXY CARD, BECAUSE
+THEY CONTAIN IMPORTANT INFORMATION. Investors and shareholders can obtain a copy of the Proxy Statement and other relevant documents filed
+by ExxonMobil free of charge from the SEC&rsquo;s website, www.sec.gov. ExxonMobil&rsquo;s shareholders can also obtain, without charge,
+a copy of the Proxy Statement and other relevant filed documents by directing a request by mail to ExxonMobil Shareholder Services at
+5959 Las Colinas Boulevard, Irving, Texas, 75039-2298 or at <U>shareholderrelations@exxonmobil.com</U> or from the investor relations
+section of ExxonMobil&rsquo;s website, <U>www.exxonmobil.com/investor</U>.</P>
+
+<P STYLE="font: 10pt Arial, Helvetica, Sans-Serif; margin: 0pt 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 5; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin-top: 0pt; text-align: center; margin-bottom: 0pt; font: 10pt Arial, Helvetica, Sans-Serif">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>logo.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 logo.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  ? '\# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>kfrazier.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 kfrazier.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  \ -P# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+M#7\\>(A_N+U<_D/>L"+3[%O%5G_93^;<V$S3:KJS$ 8VD>1D<'.0=HX4+ZT
+M:5OX*MM2E2YUJTA6-3NCL(V+*OH9&)RY]NGUKJX+:"UC$=O#'%&.BQJ% _ 5
+M2MM?TB\U#[!;:E:S76TN(HY Q('4\5I4 %%%'7I0 45F7?B'2;+4X--GOX5O
+MIR!';@[G.>^!T'N:TZ "BBB@ HHHH SM?TI=;T"^TQI3$+F%H_, SM)Z''>N
+M8T'1=8U6S-WJU]!$MW\TWV$,LDR] A9N40#^%??GFNXI  HP  /04 16UK;6
+M%JEO;11P01C"H@P%%<EI6CV'BR^F\2ZI:1W,;L8=.249"0*<;L="78%N>VVM
+MGQ=/-;>#M9GM\^:EE*5(Z@[3S5W1X8+?1+"&VV^0EO&L>WIM"C% &'I]M!HO
+MBI=,,,;6\\+SZ>[(,P8(\R)3V7D,![D=JTSX8T-HTC;2K5D2Y-V T8/[X]7Y
+MZGGK5"^(O_'NE00\G38);B=AT7S!L1?J?F/_  &NEH I2:1ILMO=6\EC;M#=
+ML7N$,8(E8XY8=SP.M4;_ ,(Z%J5@]E-IL*02%-X@7RBP0@J"5P<# XK;HH A
+MM;6"RM8[:UA2&")=J1H,!15==(M5UI]68.]VT0A4NV1&F<D*.V3@GUP*O44
+M%8$_A:(7,UQI>H7FER3OOE6V93&['JQ1@0"?48K?HH S].TV33;&6);VXN[B
+M0ES/=-N)8C X& !P.!BI[!;Q+&%;^6*6["_O7A0JA/L"3BK-% &'-HEW!J-Q
+M>:3J M?M1#3PR1>8C.!C>!D$-@ 'L<"EC\-Q33+/JUU-J<JG*K-@1*?:,<?G
+MFMNB@#EO%UKJDEJHLVN)K=BL2V-K^Z,K$XS)+U6,#KMP<4:9X,MX+*--39+Q
+MT&4ME7R[6(^BQC@_5LD]:ZFB@#SE=&\5Z18WVJV]AIUQKLG[N+RCE43=PJ [
+M0B <GJ2>M5;CP3XQU.6UNKKQ#.N"3/:F[>,/D<<Q@!0#V';O7H]]?VVG6QGN
+MI0B9"CC)9CT  Y)/H*Y"?5-<\4WLFG:0[:;:(VVYNUPSQCNH/3S/89V]SGB@
+M#'UI;_6]2&@2ZU<SI$ +Z/35,:J/^>(.2S.1U+, H]R*[2TTZ_:TBMBRZ;91
+M($CM[=MT@4# !<]/P_.K^EZ59:/9+:V4(CC7DGJSGNS'J2>Y-7: .:B\#:5:
+MW5Q<V4U_:2W+;YFANF!D;U).35@^%[<]=1U4_P#;XU;M% &./#=KU^U:A_X%
+MO_C0OAZ)#F/4-23V%TQ_G6Q10!2MK"2VFW_;[F9,8V2D$?GC-7:** "BBB@!
+MKHLD;(ZAD8$,I&00>U<W:^&]3TJ/[)I.O-#IZY$4$]NLS0K_ '48D' [ YQ7
+M344 9^D:/;Z1!*L;R33SOYL]Q,<R2OTR3],  < =*T*** "BBB@ HHHH ***
+M* "BBB@ HHHH *.@HHH \\M);CQQJ1N+662*R0LCW:\&)<X\J'_;(^^_\.=H
+MKN[*QMM-LXK2SA2&WB&U$08 %31QI$@2-%11V48%.H **** "BBB@ HHHH *
+&*** /__9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>dwoods.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 dwoods.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" !! +0# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#W^J]U?6EB
+MBO=W,,"L<*97"Y/H,U8K"\/1)?12:W.HDN+MV\MF&?+A#$(J^@P 3ZDGVH V
+M+>Y@NX1-;31S1-T>-@RG\14M8>HVHTJ=M9LDV@$&]B0<2Q]WQ_?4<YZD CTK
+M;5@ZAE(*D9!'0B@!:*** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ H
+MHHH **** "L/P?E?"UE"WW[<-;O_ +R,5/ZBMRL/20;'Q!J^GGB.5EOH/HXV
+MN!]'7/\ P,4 ;A (P>AK)T5_L\EUI+<?9&'DY[PMROY<K^ K6K&U(BRU[3+W
+M&%G9K*4_[P+(3_P)<?\  Z -FBBB@ HHHH ***9+*D$+RRL%C12S,>@ Y)H
+M?14%E>VVHV<5W9S)-;RKN21#D,*FR,XR,^E "T56OKB:ULWFM[5[J4$!848
+MMD@=3P,9S^%%A?0ZC9174!.R0=&&"I'!!]P<@T 6:**SM0UJTTZ1('+S74@S
+M';0+OD;WQV'N<#WH T:*QE;Q!>?-LL].C/17S/)^."%!]AN^M)-=:GI"?:+Y
+MH;NQ7_6R11E)(A_>VY(91WQ@@>M &U12*RNBNC!E89!!X(I: "BBB@ HHHH
+M*YC7[Z.TU5+R)7,^EQ+-< #[]M*65L>NTIN_"NGKF-9DDM-5U.YMHHWN1I)=
+M!(N0^QF)4^QW?K0!TRLKHKJ0589!'<5C^*U_XIF\F R]LJW28_O1L''ZK6=X
+M5U."*VM+$2EK2YA$^F2L?O1$9\HG^\F<?[N/0UM:Z%/A_40WW?LTF?\ ODT
+M7U8,H93D$9!I:R=%U*TGTN.-+A'EM;>/[0BG)C)0'!]#BK$>L6$UO93QW*-%
+M>D"W8=)"03Q^ - %ZBBB@#%T>:Z;6-;@GN3*D5PGE1D?ZM60' /I_P#7K2BN
+M+6_CF2*1)D1VAE Y 8<%366"++QF5/":C:97WDB//YJX_P"^35;PX8[?Q%XG
+ML%D#.+Q+K;_=$D2_U5J )K-5T?Q)+8H MIJ*FX@4<!)5P)%'U&&^H;UI95:+
+MQW;/O(2;3Y$*]F974_H"?SH\6 PZ=;:BG$EC=12@C^Z6",/^^6-.\0'[+<:7
+MJO\ #;7(CE/I'+\A_P#'BA_"@"GX1U&[N]0\1VEY,TK6FHLJ;OX490P4>P!_
+M6K6F+_9WB;4M/SB&Z47T ]"3ME _X%M/_ ZHP7=OIOQ&O;0KY:ZC;12>9T4S
+M+N&WZE1D>NTUH:XWV?6-!NE^]]J:W;W1XVR/^^E0_A0!N5RFA7MEHR-:ZNZV
+MNK,Q-Q<7'RBY;^^KG@KZ#^'IBM.W\4:+<033?VA;PQQ2O$6FE5,E3@D9/3-0
+MW/B;0)"UNTZW; @>5%"TV3C(Z CH0<^] &W%-%.@>*1)$/1D8$55U>ZBLM'O
+M+F<CRXX6)![\=/QZ5B66D>&M9:9X]'$$T+!7W1&%P2,CICL:SET'^V-3>/3]
+M5U*'3+*3EGG\]99U(("B3=\J$<^IZ=* .JT2"2VT*P@F7;)' BLO]TX''X=*
+MM7%Q!:0M-<3)%$O5Y&"@?B:Y :QXC>[>TT>2QUH1Y62XDB,"1,.Q<$ASGLH&
+M.Y%6]#L;;4IY+C5?.NM7MF"S170&V D9'EH,J%(Z,,D]S0!H+KDM\<:1827*
+M_P#/Q,?)A_ D$M_P$&K%O9W[2B6^U#<0<B&WC\N,?4G+'\\'TK1HH **** "
+MN6\57*Z?=)>/RKV%U!CU;:' _'9BNIJM>Z?::C$D5Y;QSHCK(JR+D!@<@T <
+MDFEV^E0Q:3?NRZ;=,DEI<AMK6MSU(#?PY;++VR6'?%3Z[JE]8:%<Z=J4)EN;
+MI3:VES"N5G=QA05'*MW/;@\UU=Q;PW4#P7$,<T+C:\<BAE8>A!JA9^'M*L+L
+M75O:*)U!".[LY0>B[B=H^F* .(TB6YT;4]<5-,O9K=X_(DDCB+-YX+E>.I4J
+MR_,,@8%7(O!FJ1PZ7!:7<=M:69%Y"C EH;C804P.#&2Q..W/M7?44 <Y'8>(
+M[V9[JXU-=.< (EM JS18'5CN .2>F", =ZNV.BRVUV+NYU:_O)L?=DD"Q ^R
+M* /SS6M10!G:SILFH6\36TJPWEM*)K>5ER X!!!'H02I]C6+'H.JP7$NMHUL
+M-8DF+RPHQ\J6+:J^46(SG" AL<'/8FNKHH YJ^DU'7H4TW^R[BSC:5&N9IF3
+M:$5@Q"8)W$XQVK>O+2&^LIK2X3=#,AC=?4$8-3T4 <[9>&6DMKN/6[A;]YUC
+MC#JI0A8_NMG.0^>21WZ5-;Z!.+^UN+W59[V.S+-;1R(H(8J5W.P^\0"0.G4]
+M36Y10!S6B>$(-(U*[NG:"=9558P8 &4!F;YF[GYL9XX K0T70X]%DU Q2;DN
+MKEIU3: (P0/E'MG/X8':M6B@#D=/AU:[AN;$6\]@9[B62\O'P&(+$!8N3SL"
+MC=V^M2BT&L2OI-FQM=!L3Y,WDDJUPX',8;J%'\1')/&>M=36/+X6T6::622R
+M#>:Y=XS(_ELQZDIG;S]* (FUK3K!1IND6_VN:(;%M;)1MC]F;[J?B<^U6-'T
+M^XMWN;Z^9#?WC*91']R-5&%13W R>>Y)K0M[:"T@6"VACAB085(U"J![ 5+0
+M 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !
+..1110 4444 %%%% '_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

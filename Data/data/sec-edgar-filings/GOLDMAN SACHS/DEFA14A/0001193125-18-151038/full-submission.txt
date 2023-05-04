@@ -1,0 +1,478 @@
+<SEC-DOCUMENT>0001193125-18-151038.txt : 20180503
+<SEC-HEADER>0001193125-18-151038.hdr.sgml : 20180503
+<ACCEPTANCE-DATETIME>20180503172403
+ACCESSION NUMBER:		0001193125-18-151038
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20180503
+DATE AS OF CHANGE:		20180503
+EFFECTIVENESS DATE:		20180503
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Goldman Sachs BDC, Inc.
+		CENTRAL INDEX KEY:			0001572694
+		IRS NUMBER:				462176593
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00998
+		FILM NUMBER:		18805040
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		STREET 2:		ATT: PRIVATE CREDIT GROUP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		1-212-902-0328
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		STREET 2:		ATT: PRIVATE CREDIT GROUP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Goldman Sachs Liberty Harbor Capital, LLC
+		DATE OF NAME CHANGE:	20130321
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d579915ddefa14a.htm
+<DESCRIPTION>GOLDMAN SACHS BDC, INC.
+<TEXT>
+<HTML><HEAD>
+<TITLE>Goldman Sachs BDC, Inc.</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P> <P STYLE="margin-top:8pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">8-K</FONT> </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant
+to Section&nbsp;13 or 15(d) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): May&nbsp;3, 2018 </B></P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>GOLDMAN SACHS BDC, INC. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in charter) </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">814-00998</FONT></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">46-2176593</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or Other Jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of Incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>200 West Street, New York, New York</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>10282</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of Principal Executive Offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Registrant&#146;s telephone number, including area code:
+<FONT STYLE="white-space:nowrap">(212)&nbsp;902-0300</FONT> </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form <FONT STYLE="white-space:nowrap">8-K</FONT> filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions: </P> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9746;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule <FONT STYLE="white-space:nowrap">14a-12</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.14a-12)</FONT> </TD></TR></TABLE>
+<P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">14d-2(b)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.14d-2(b))</FONT> </TD></TR></TABLE> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">13e-4(c)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.13e-4(c))</FONT> </TD></TR></TABLE> <P STYLE="margin-top:10pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 or Rule 12b&#150; 2 of the Securities Exchange Act of 1934. </P> <P STYLE="margin-top:10pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Emerging growth
+company&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section&nbsp;13(a) of the Exchange Act.&nbsp;&nbsp;&#9744; </P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;8.01 &#150; Other Events. </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">On May&nbsp;3, 2018, the Goldman Sachs BDC, Inc. (the &#147;Company&#148;) issued a press release announcing that it has filed
+a preliminary proxy statement containing a unanimous recommendation by its board of directors to approve a proposal that would permit the Company to reduce the asset coverage requirements applicable to the Company under the Investment Company Act of
+1940, as amended, from 200% to 150%. If the proposal is approved, the Company&#146;s investment advisor, Goldman Sachs Asset Management, L.P. (&#147;GSAM&#148;), and the Company will reduce the base management fee payable to GSAM from 1.5% of
+average gross assets to 1.0% of average gross assets beginning immediately upon receipt of stockholder approval. The text of the press release is included as Exhibit 99.1 to this Form <FONT STYLE="white-space:nowrap">8-K.</FONT> </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;9.01 &#150; Financial Statements and Exhibits. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(d) Exhibits: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="10%"></TD>
+<TD WIDTH="87%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:51.70pt; display:inline; font-size:8pt; font-family:Times New Roman; ">Exhibit&nbsp;Number</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman">Description</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Press Release of Goldman Sachs BDC, Inc., dated May&nbsp;3, 2018</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">GOLDMAN SACHS BDC, INC.</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Registrant)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="19"></TD>
+<TD HEIGHT="19" COLSPAN="2"></TD>
+<TD HEIGHT="19" COLSPAN="2"></TD>
+<TD HEIGHT="19" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: May&nbsp;3, 2018</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Jonathan Lamm</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Name: Jonathan Lamm</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Title: &nbsp;&nbsp;Chief Financial Officer and Treasurer</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>EXHIBIT 99.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g579915g0927152902966.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Goldman Sachs BDC, Inc. Announces It Will Seek Stockholder Approval to Reduce Its Asset Coverage Requirement to 150% and
+GSAM to Reduce Base Management Fee from 1.5% to 1.0%, If Approved </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">NEW YORK&#151; (BUSINESS WIRE) &#151; May&nbsp;3, 2018 &#151;
+Goldman Sachs BDC, Inc. (&#147;GS BDC&#148; or the &#147;Company&#148;) (NYSE: GSBD), along with its Board of Directors (the &#147;Board&#148;) and its investment advisor, Goldman Sachs Asset Management, L.P. (&#147;GSAM&#148;), has conducted a
+review of the Small Business Credit Availability Act (&#147;SBCA Act&#148;), which was passed into law on March&nbsp;23, 2018. Among other things, the SBCA Act permits GS BDC to reduce its asset coverage requirement, subject to receipt of approval
+from either the Board or its stockholders. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Following a thorough review of the SBCA Act, the Company and its Board have determined that the
+best course of action is to seek stockholder approval to reduce the Company&#146;s asset coverage requirement at the annual stockholder meeting to be held on June&nbsp;15, 2018. Accordingly, the Company: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">has filed a proxy statement containing a unanimous recommendation by the Board to approve a proposal that
+would permit the Company to reduce its asset coverage requirement from 200% to 150%; and </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">if the proposal is approved, the base management fee payable to GSAM by the Company will be reduced from 1.5%
+of gross assets to 1.0% of gross assets beginning immediately upon receipt of stockholder approval<SUP STYLE="font-size:85%; vertical-align:top">1</SUP>. </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">&#147;Based on careful consideration and analysis, we believe that our stockholders would benefit from the additional flexibility resulting
+from the reduction of our asset coverage requirement&#148;, said Brendan McGovern, President and Chief Executive Officer of GS BDC. &#147;In particular, a reduction in our asset coverage requirement would allow us to expand the breadth of our
+lending activities into lower risk, lower yield assets. We believe this added investment flexibility, when combined with the proposed fee reduction, has the potential to increase long-term stockholder returns.&#148; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Jon Yoder, GS BDC&#146;s Chief Operating Officer, remarked &#147;We and our Board appreciate the opportunity to bring this important proposal
+to our stockholders. Cultivating a long-term alignment of interest with our stockholders has consistently been a key component of our strategy &#150; and we believe this proposal furthers that alignment of interests. Additionally, we believe this
+proposal contributes positively to our ongoing access to capital, which in turn helps drive investment opportunities and returns for our stockholders.&#148; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="justify"><SUP STYLE="font-size:85%; vertical-align:top">1</SUP> Pursuant to the Company&#146;s Investment Management Agreement, the management fee is
+calculated on the average value of the Company&#146;s gross assets (including assets purchased with borrowed money, but excluding cash and cash equivalents) at the end of the two most recently completed calendar quarters. </P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><B>ABOUT GOLDMAN SACHS BDC, INC. </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Goldman Sachs BDC, Inc. is a specialty finance company that has elected to be regulated as a business development company under the Investment
+Company Act of 1940. GS BDC was formed by The Goldman Sachs Group, Inc. (&#147;Goldman Sachs&#148;) to invest primarily in middle-market companies in the United States, and is externally managed by Goldman Sachs Asset Management, L.P., an <FONT
+STYLE="white-space:nowrap">SEC-registered</FONT> investment adviser and a wholly-owned subsidiary of Goldman Sachs. GS BDC seeks to generate current income and, to a lesser extent, capital appreciation primarily through direct originations of
+secured debt, including first lien, first <FONT STYLE="white-space:nowrap">lien/last-out</FONT> unitranche and second lien debt, and unsecured debt, including mezzanine debt, as well as through select equity investments. For more information, visit <FONT
+STYLE="font-family:Times New Roman" COLOR="#0000ff"><U>www.goldmansachsbdc.com</U></FONT><FONT STYLE="font-family:Times New Roman">. Information on the website is not incorporated by reference into this press release and is provided merely for
+convenience. </FONT></P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><B>FORWARD-LOOKING STATEMENTS </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">This press release may contain forward-looking statements that involve substantial risks and uncertainties. You can identify these statements
+by the use of forward-looking terminology such as &#147;may,&#148; &#147;will,&#148; &#147;should,&#148; &#147;expect,&#148; &#147;anticipate,&#148; &#147;project,&#148; &#147;target,&#148; &#147;estimate,&#148; &#147;intend,&#148;
+&#147;continue,&#148; or &#147;believe&#148; or the negatives thereof or other variations thereon or comparable terminology. You should read statements that contain these words carefully because they discuss our plans, strategies, prospects and
+expectations concerning our business, operating results, financial condition and other similar matters. These statements represent the Company&#146;s belief regarding future events that, by their nature, are uncertain and outside of the
+Company&#146;s control. We believe that it is important to communicate our future expectations to our investors. There are likely to be events in the future, however, that we are not able to predict accurately or control. Any forward-looking
+statement made by us in this press release speaks only as of the date on which we make it. Factors or events that could cause our actual results to differ, possibly materially from our expectations, include, but are not limited to, the risks,
+uncertainties and other factors we identify in the sections entitled &#147;Risk Factors&#148; and &#147;Cautionary Statement Regarding Forward-Looking Statements&#148; in filings we make with the Securities and Exchange Commission, and it is not
+possible for us to predict or identify all of them. We undertake no obligation to update or revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. </P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify"><B>Important Information For Investors and Stockholders </B></P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">In connection with the proposal to reduce the Company&#146;s asset coverage limit, the Company has filed a preliminary proxy statement with
+the SEC. The Company will also file with the SEC a definitive version of the proxy statement that will be sent or provided to stockholders when available. The information contained in the preliminary proxy statement is not complete and may be
+changed. The Company&#146;s stockholders and other interested persons are advised to read the preliminary proxy statement and, when available, the definitive proxy statement in connection with the Board&#146;s solicitation of proxies for the meeting
+because they will contain important information about the proposal. Stockholders are able to obtain copies of the preliminary proxy statement and, once available, will also be able to obtain copies of the definitive proxy statement, without charge,
+at the SEC&#146;s website at www.sec.gov or by contacting the Company at the contact information below. </P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Goldman Sachs BDC, Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Investor Contact: Katherine Schneider, <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">212-902-3122</FONT></FONT> </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Media Contact: Andrew Williams, <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">212-902-5400</FONT></FONT> </P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Source: Goldman Sachs BDC, Inc. </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g579915g0927152902966.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g579915g0927152902966.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" !$ H(# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P"_I6D2ZI]H
+MD#B.WMHS+-(1G:!V [GBAM.2:"U:QEDN)9Y&C\DQX92,>YSG/Z5N^%YHV\-:
+M_9C'GM 9%7NP .<?3^M:^CV^GZ:^@WLEO';3W4<JLV2!NP,=3QG^M>O.JXR?
+M]=+GEQI*27]=3DK+P]=7.J6MG*1$MQNV2C#J<9SR#[4MEX<N[W43;J0L(N#
+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
+MFYC*7-"]^NQTWQ'^[I/^X_\ [+5RQ4?\*KGX',;G_P >JG\1ON:3_P!<W_\
+M9:NV/_)+)O\ KD__ *%7,OX,/7]3?_E[/T,OX;?\ABZ_ZX?U%>FUYE\-O^0Q
+M=?\ 7#^HKTVL,7_%9MA?X9AZUI>CZ_&(;B:(3CB.1'7>I]/?Z5YMKOAN^\/3
+M*[G? 6_=SIQS[^AJ"]CFT3Q,YD3]Y;W(E4'^(!MP_.N@\3>,[76=&^QV]M(K
+MNP9S)C"X]*ZJ<*E-I1=XLYJDX5$W+1HW/!FOOJVF7-KJ#[WMU^:1C]Y"#U^E
+M<\GB&RM=6_XI[08S*,K&[%F9O7"@U8\&Z7<OH.M7"HP^T6[0P_[1VGI^)%8_
+MA#5;71M;,][E8S&R;@I)4_3\*%3CS3<=?(?/+E@GIYE'7KJ\O-7EGO[;[/<L
+M!NCVE<<<<'FNF^(SL9],3/RB%B/J<?X5SOB6_75-=N+R-&6&3'E[A@E0,9_2
+MNK^(=D\EEIU]&I:-%*.1VS@C^M6W:=.^F_Y$+6,[:FWX:LHKSP+;VK_*D\3J
+MQ YY)&:?H?A"UT&^:Z@N9Y&9"A5\8Y(/;Z5S&F^,+6Q\&FQ#2+?(C)&%'').
+M&S[9JQX"N-5U#49Y[FZN);6*/;\[D@L2,?IFN:=.HE-WLK_>=$)P;BK79S>A
+MC/C2US_S]_U-:GQ& &OP''6W&?S-9FA_\CI:_P#7W_4UJ?$?_D/0?]>X_P#0
+MC72_X\?0YU_!?J7=4\/W6K>$M'N;-?,E@MP&B'5@<=/>L;3_ !&]A9_V/J]A
+M]ILD;F)LJZ<YK9U'6M5T7PUH<EBX2&2W"N2@;YL#'6J6J>(M-UCPLJWJ[]87
+M@,(\8YZY'&,=JB',U:2NK_-%RY4[IV=OO.V\-C17LFN=&B6..0@2*,Y!'8@G
+MWK4N_P#CSG_ZYM_*N'^&EO.L=]<,"('VJN>C,,Y_+/ZUW%W_ ,><_P#US;^5
+M<5:/+5:O<ZZ4N:FG:QXGH]@NJ:Q;V32&-9GVE@,D5T7B#P/_ &/ICWUO>&98
+MB-ZLF#@G&17.Z/?KI>L6]ZT9D6%]Q4'&:Z+Q!XY_MC2WL8+,PK(1O9GSP#G
+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
+M0 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%%
+M!1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %
+6%%% !1110 4444 %%%% !1110!__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

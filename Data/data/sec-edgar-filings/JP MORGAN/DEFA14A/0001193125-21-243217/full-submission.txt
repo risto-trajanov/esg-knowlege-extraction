@@ -1,0 +1,697 @@
+<SEC-DOCUMENT>0001193125-21-243217.txt : 20210811
+<SEC-HEADER>0001193125-21-243217.hdr.sgml : 20210811
+<ACCEPTANCE-DATETIME>20210811144316
+ACCESSION NUMBER:		0001193125-21-243217
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20210811
+DATE AS OF CHANGE:		20210811
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JP MORGAN MUTUAL FUND INVESTMENT TRUST
+		CENTRAL INDEX KEY:			0000803747
+		IRS NUMBER:				311574186
+		STATE OF INCORPORATION:			MA
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05526
+		FILM NUMBER:		211163078
+
+	BUSINESS ADDRESS:	
+		STREET 1:		277 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10172
+		BUSINESS PHONE:		800-480-4111
+
+	MAIL ADDRESS:	
+		STREET 1:		277 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10172
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MUTUAL FUND INVESTMENT TRUST
+		DATE OF NAME CHANGE:	19980828
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AVESTA TRUST
+		DATE OF NAME CHANGE:	19940504
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RETIREMENT INVESTMENT TRUST
+		DATE OF NAME CHANGE:	19920703
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000803747
+<SERIES-ID>S000004474
+<SERIES-NAME>JPMorgan Growth Advantage Fund
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000012318
+<CLASS-CONTRACT-NAME>Class A
+<CLASS-CONTRACT-TICKER-SYMBOL>VHIAX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033247
+<CLASS-CONTRACT-NAME>Class I
+<CLASS-CONTRACT-TICKER-SYMBOL>JGASX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000034442
+<CLASS-CONTRACT-NAME>Class C
+<CLASS-CONTRACT-TICKER-SYMBOL>JGACX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000073572
+<CLASS-CONTRACT-NAME>Class R5
+<CLASS-CONTRACT-TICKER-SYMBOL>JGVRX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000133820
+<CLASS-CONTRACT-NAME>Class R6
+<CLASS-CONTRACT-TICKER-SYMBOL>JGVVX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000187975
+<CLASS-CONTRACT-NAME>Class R3
+<CLASS-CONTRACT-TICKER-SYMBOL>JGTTX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000187976
+<CLASS-CONTRACT-NAME>Class R4
+<CLASS-CONTRACT-TICKER-SYMBOL>JGTUX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000190884
+<CLASS-CONTRACT-NAME>Class R2
+<CLASS-CONTRACT-TICKER-SYMBOL>JGRJX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d216601ddefa14a.htm
+<DESCRIPTION>MUTUAL FUND INVESTMENT TRUST
+<TEXT>
+<HTML><HEAD>
+<TITLE>Mutual Fund Investment Trust</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Arial Narrow" ALIGN="center"><B>UNITED STATES </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Arial Narrow" ALIGN="center"><B>SECURITIES AND
+EXCHANGE COMMISSION </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>Washington, D.C. 20549 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:13.5pt; font-family:Arial Narrow" ALIGN="center"><B>SCHEDULE 14A INFORMATION </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>Proxy Statement Pursuant to Section 14(a) of the </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>Securities Exchange Act of 1934 </B></P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Filed by the
+Registrant&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9746;</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Filed by a Party other than the Registrant&nbsp;&nbsp;<FONT
+STYLE="font-family:Times New Roman">&#9744;</FONT></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Check the appropriate box: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">Preliminary Proxy Statement</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; "><B>Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))</B></FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">Definitive Proxy Statement</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">Definitive Additional Materials</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="font-family:Times New Roman">&#9746;</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">Soliciting Material Pursuant to Rule 14a-12</FONT></TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:13.5pt; font-family:Arial Narrow" ALIGN="center"><B>JPMorgan Institutional Trust </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:13.5pt; font-family:Arial Narrow" ALIGN="center"><B>JPMorgan Insurance Trust </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:13.5pt; font-family:Arial Narrow" ALIGN="center"><B>JPMorgan Trust I </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:13.5pt; font-family:Arial Narrow" ALIGN="center"><B>JPMorgan
+Trust II </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:13.5pt; font-family:Arial Narrow" ALIGN="center"><B>JPMorgan Trust IV </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:13.5pt; font-family:Arial Narrow" ALIGN="center"><B>J.P. Morgan Exchange-Traded Fund Trust </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:13.5pt; font-family:Arial Narrow" ALIGN="center"><B>J.P. Morgan Fleming Mutual Fund Group, Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:13.5pt; font-family:Arial Narrow" ALIGN="center"><B>J.P. Morgan Mutual Fund Investment Trust </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:13.5pt; font-family:Arial Narrow" ALIGN="center"><B>Undiscovered Managers Funds </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>(Name of Registrant as Specified In Its
+Charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Payment of Filing Fee (Check the appropriate box): </P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman">&#9746;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Title of each class of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Aggregate number of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-before:always; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing
+fee is calculated and state how it was determined):</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Proposed maximum aggregate value of transaction:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Total fee paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee paid with preliminary materials.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement
+number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Amount Previously Paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Form, Schedule or Registration Statement No.:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Filing Party:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Date Filed:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="33%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Arial Narrow">JPMorgan Chase &amp; Co.</P></TD>
+<TD VALIGN="bottom" ROWSPAN="5">&nbsp;</TD>
+<TD ROWSPAN="5" NOWRAP VALIGN="top">&nbsp;</TD>
+<TD ROWSPAN="5" NOWRAP VALIGN="top" ALIGN="right">
+
+
+<IMG SRC="g207094g68u90.jpg" ALT="LOGO">
+</TD>
+<TD ROWSPAN="5" NOWRAP VALIGN="top">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Arial Narrow">383 Madison Avenue, New York, NY
+10017-2070</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Arial Narrow">NYSE symbol: JPM</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Arial Narrow">www.jpmorganchase.com</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Arial Narrow">News release: <FONT
+STYLE="font-family:Arial Narrow; font-size:8pt" COLOR="#ff4338"><B>For 9:15am ET Release</B></FONT></P></TD></TR></TABLE> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Arial Narrow" ALIGN="center"><B>J.P. Morgan Asset Management Proposes Conversion of Select Mutual Funds to ETFs </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><I>Combining Mutual Fund and ETF Boards also proposed </I></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><I>Moves would expand firm&#146;s fast-growing active ETF complex to 17 active strategies </I></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B>NEW YORK,</B><B></B><B>&nbsp;August 11, 2021:</B> J.P. Morgan Asset Management has announced plans to convert select U.S. mutual fund vehicles to ETFs in
+2022.&nbsp;The conversions, which are subject to fund board approval, are intended to expand J.P. Morgan&#146;s ability to deliver more of its industry-leading investment capabilities in the ETF vehicle, a structure that it believes is well-suited
+for the four mutual funds currently in scope and will be beneficial to their investors. The combined assets of the funds proposed for conversion are approximately $10&nbsp;billion (as of 6/30/2021). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">J.P. Morgan Asset Management also announced that, in light of continued convergence of mutual funds and ETFs, the boards of the J.P. Morgan mutual funds and ETFs
+are asking shareholders to elect a common board of 16 to govern the entire J.P. Morgan Fund complex. If approved by shareholders, this change also would take effect in early 2022. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">&#147;As one of the fastest growing asset management firms, we are positioning ourselves to deliver our best investment capabilities more rapidly through a
+broader range of vehicles including mutual funds and ETFs. We also believe the combination of the mutual fund and ETF boards will allow shareholders to benefit from the boards&#146; substantial combined experience and better position us to deliver
+the highest <FONT STYLE="white-space:nowrap">value-add</FONT> capabilities in a rapidly evolving industry,&#148; <B>said</B> <B>George Gatch, Chief Executive Officer, J.P. Morgan Asset Management</B>. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">If the boards approve these conversions, which they expect to consider early next year, the following mutual funds would be converted to substantially similar
+ETFs in an active transparent ETF structure: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Arial Narrow">&#149; JPMorgan International Research Enhanced Equity Fund (OEIAX:&nbsp;AUM $5.0BN*) </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Arial Narrow">&#149; JPMorgan Market Expansion Enhanced Index Fund (OMEAX: AUM $1.1BN*) </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Arial Narrow">&#149; JPMorgan Realty Income Fund (URTAX: AUM $2.2BN*) </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Arial Narrow">&#149; JPMorgan Inflation Managed Bond Fund (JIMAX: AUM $1.4BN*) </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Arial Narrow">*<I> AUM as of 6/30/2021</I> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">By converting these
+mutual funds to ETFs, J.P. Morgan would provide clients with active investment options in spaces that traditionally have seen mostly passive ETF solutions.</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">J.P. Morgan Asset Management is announcing the proposed conversion plans well in advance to provide shareholders and distributors with ample notice of the
+planned conversions and to allow them time to engage with J.P. Morgan on the implications of this important effort. It is anticipated that if the conversions are approved by the boards of the funds, they would not require shareholder approval prior
+to implementation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">&#147;As a leading active manager, it is important to us that we continue to deliver our investment capabilities in the vehicle that
+meets our clients&#146; desired outcomes,&#148; <B>said </B><B>Bryon Lake, Head of Americas ETFs</B>.&nbsp;&#147;The intraday liquidity, transparency and potential tax benefits that come with ETFs carry significant value to many investors, and these
+particular strategies are well suited for the ETF structure.&#148; </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" ALIGN="center">
+
+<TR>
+
+<TD WIDTH="12%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Media&nbsp;Contacts:</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>Kristen Chambers 212-622-4111 <FONT COLOR="#0082ca"><U>kristen.chambers@jpmchase.com</U></FONT></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>Victoria Zarella 571-233-0939 <FONT COLOR="#0082ca"><U>victoria.n.zarella@jpmchase.com</U></FONT></TD></TR></TABLE>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="33%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Arial Narrow">JPMorgan Chase &amp; Co.</P></TD>
+<TD VALIGN="bottom" ROWSPAN="5">&nbsp;</TD>
+<TD ROWSPAN="5" NOWRAP VALIGN="top">&nbsp;</TD>
+<TD ROWSPAN="5" NOWRAP VALIGN="top" ALIGN="right">
+
+
+<IMG SRC="g207094g68u90.jpg" ALT="LOGO">
+</TD>
+<TD ROWSPAN="5" NOWRAP VALIGN="top">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Arial Narrow">383 Madison Avenue, New York, NY
+10017-2070</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Arial Narrow">NYSE symbol: JPM</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Arial Narrow">www.jpmorganchase.com</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Arial Narrow">News release: <FONT
+STYLE="font-family:Arial Narrow; font-size:8pt" COLOR="#ff4338"><B>For 9:15am ET Release</B></FONT></P></TD></TR></TABLE> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">&#147;J.P. Morgan is known for its deep investment expertise across asset classes and we want our product
+offering to be equally diverse&#151;reflecting our broad capabilities across ETFs, mutual funds, separately managed accounts and other structures<B>,&#148; said Jed Laskowitz, Global Head of Asset Management Solutions</B>.&nbsp;&#147;We believe that
+select, thoughtful conversions have the opportunity to positively impact the shareholders&#146; experience, and that is always our goal.&#148;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">J.P. Morgan
+Asset Management&#146;s U.S. ETF suite has 36 products with more than $64&nbsp;billion in assets under management. J.P. Morgan Asset Management ranks as a top ten ETF issuer with respect to AUM and net flows across the active fund and ETF industry
+for 2021<SUP STYLE="font-size:85%; vertical-align:top">[1]</SUP>. J.P. Morgan manages 129 mutual funds, with $899&nbsp;billion in AUM (as of 6/30/21). Our portfolio managers have delivered outstanding performance throughout market cycles, with 79%
+of our mutual fund AUM ranked in the top two quartiles over the <FONT STYLE="white-space:nowrap">10-year</FONT> period (as of 6/30/2021).&nbsp;As a leading active manager in the industry, we are committed to providing access to our investment
+capabilities through a range of vehicles including ETFs, mutual funds, commingled funds, SMAs and liquid alternatives. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B><U>About J.P. Morgan Asset
+Management </U></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">J.P. Morgan Asset Management, with assets under management of $2.6 trillion (as of 6/30/2021), is a global leader in investment
+management. J.P. Morgan Asset Management&#146;s clients include institutions, retail investors and high net worth individuals in every major market throughout the world. J.P. Morgan Asset Management offers global investment management in equities,
+fixed income, real estate, hedge funds, private equity and liquidity. For more information: <FONT STYLE="font-family:Arial Narrow; font-size:10pt" COLOR="#0082ca"><U>www.jpmorganassetmanagement.com</U></FONT><FONT STYLE="font-family:Arial Narrow">.
+</FONT></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">JPMorgan Chase&nbsp;&amp; Co. (NYSE: JPM) is a leading global financial services firm with assets of $3.7 trillion and operations worldwide. The Firm
+is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, and asset management. A component of the Dow Jones Industrial Average, JPMorgan Chase&nbsp;&amp; Co.
+serves millions of customers in the United States and many of the world&#146;s most prominent corporate, institutional and government clients under its J.P. Morgan and Chase brands. Information about JPMorgan Chase&nbsp;&amp; Co. is available at <FONT
+STYLE="font-family:Arial Narrow; font-size:10pt" COLOR="#0082ca"><U>www.jpmorganchase.com</U></FONT><FONT STYLE="font-family:Arial Narrow">.&nbsp;J.P. Morgan Asset Management is the marketing name for the asset management businesses of JPMorgan
+Chase&nbsp;&amp; Co. and its affiliates worldwide. </FONT></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">J.P. Morgan ETFs are distributed by JPMorgan Distribution Services, Inc., which is an affiliate of
+JPMorgan Chase&nbsp;&amp; Co. Affiliates of JPMorgan Chase&nbsp;&amp; Co. receive fees for providing various services to the funds. JPMorgan Distribution Services, Inc. is a member of FINRA. More information is available at <FONT
+STYLE="font-family:Arial Narrow; font-size:10pt" COLOR="#0082ca"><U>https://am.jpmorgan.com/us/en/asset-management/gim/adv/products/etfs</U></FONT><FONT STYLE="font-family:Arial Narrow">. </FONT></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B><I>Investors should carefully consider the investment objectives and risks as well as charges and expenses of the funds before investing. The summary and full
+prospectuses contain this and other information about the funds and should be read carefully before investing. To obtain a prospectus call
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-800-480-4111.</FONT></FONT></FONT> </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B><I>Information regarding the proposed election of a common board, including the participants in the solicitation of proxies and a description of their direct
+or indirect interests, by security holdings or otherwise, will be contained in the proxy materials to be filed with the Securities and Exchange Commission (&#147;SEC&#148;). Shareholders should read the proxy statement when it is available because
+it contains important information. The proxy statement will be mailed to shareholders of record, and shareholders will also be able to access the proxy statement, and any other relevant documents, on the SEC&#146;s website at <U>www.sec.gov</U> once
+filed. The proxy statement also will be available at <U>www.proxyvote.com</U> and a paper copy can be obtained at no charge by calling 1-800-690-6903. </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B><I>In connection with the proposed conversions discussed herein, an information statement/prospectus that will be included in a registration statement on Form
+N-14 will be filed with the SEC. After the registration statement is filed with the SEC, it may be amended or withdrawn and the information statement/prospectus will not be distributed to shareholders unless and until the registration statement is
+declared effective by the SEC. Investors are urged to read the materials and any other relevant documents when they become available because they will contain important information about the conversions. After they are filed, free copies of the
+materials will be available on the SEC&#146;s website at <U>www.sec.gov</U>. These materials also will be available at <U>www.jpmorganfunds.com</U> and a paper copy can be obtained at no charge by calling <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-800-480-4111.</FONT></FONT></FONT> </I></B></P> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">[1]</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left">Data according to ETFdb.com as of August&nbsp;10, 2021. </P></TD></TR></TABLE>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" ALIGN="center">
+
+<TR>
+
+<TD WIDTH="12%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Media&nbsp;Contacts:</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>Kristen Chambers 212-622-4111 <FONT COLOR="#0082ca"><U>kristen.chambers@jpmchase.com</U></FONT></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>Victoria Zarella 571-233-0939 <FONT COLOR="#0082ca"><U>victoria.n.zarella@jpmchase.com</U></FONT></TD></TR></TABLE>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="33%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Arial Narrow">JPMorgan Chase &amp; Co.</P></TD>
+<TD VALIGN="bottom" ROWSPAN="5">&nbsp;</TD>
+<TD ROWSPAN="5" NOWRAP VALIGN="top">&nbsp;</TD>
+<TD ROWSPAN="5" NOWRAP VALIGN="top" ALIGN="right">
+
+
+<IMG SRC="g207094g68u90.jpg" ALT="LOGO">
+</TD>
+<TD ROWSPAN="5" NOWRAP VALIGN="top">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Arial Narrow">383 Madison Avenue, New York, NY
+10017-2070</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Arial Narrow">NYSE symbol: JPM</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Arial Narrow">www.jpmorganchase.com</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Arial Narrow">News release: <FONT
+STYLE="font-family:Arial Narrow; font-size:8pt" COLOR="#ff4338"><B>For 9:15am ET Release</B></FONT></P></TD></TR></TABLE> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B><I>This communication is for informational purposes only and is not a solicitation of a proxy from any fund
+shareholder and does not constitute an offer of any securities for sale. No offer of securities will be made except pursuant to a prospectus meeting the requirements of Section&nbsp;10 of the Securities Act of 1933. </I></B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">NOT FDIC INSURED | NO BANK GUARANTEE | MAY LOSE VALUE </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">SOURCE J.P.
+Morgan Asset Management </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">### </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" ALIGN="center">
+
+<TR>
+
+<TD WIDTH="12%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Media&nbsp;Contacts:</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>Kristen Chambers 212-622-4111 <FONT COLOR="#0082ca"><U>kristen.chambers@jpmchase.com</U></FONT></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>Victoria Zarella 571-233-0939 <FONT COLOR="#0082ca"><U>victoria.n.zarella@jpmchase.com</U></FONT></TD></TR></TABLE>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B>Client/consultant email: </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B>[Email for CA/ICAs to send 1:1 to advisors/clients/consultants on as needed basis] </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B>Subject line: Proposed mutual fund conversions to ETFs </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Dear
+[insert name here]: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">J.P. Morgan Asset Management&#146;s mutual fund and ETF board of directors recently agreed to consider the conversion of several mutual
+funds into ETFs. Pending board approval, we plan to convert the following funds into actively managed, transparent ETFs &#150; while maintaining a substantially similar investment strategy &#150; in the first half of 2022. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="76%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="75%"></TD>
+
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Arial Narrow; "><B>Fund name</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><FONT STYLE="font-family:Arial Narrow; "><B>Ticker&nbsp;(I&nbsp;shares)</B></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><FONT STYLE="font-family:Arial Narrow; "><B>AUM*</B></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">JPMorgan International Research Enhanced Equity Fund</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">OIEAX</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">$</FONT></TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Arial Narrow; ">5.0BN</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">&nbsp;</FONT></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">JPMorgan Market Expansion Enhanced Index Fund</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">PGMIX</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">$</FONT></TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Arial Narrow; ">1.1BN</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">JPMorgan Realty Income Fund</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">URTDX</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">$</FONT></TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Arial Narrow; ">2.2BN</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">&nbsp;</FONT></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">JPMorgan Inflation Managed Bond Fund</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">JRBSX</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">$</FONT></TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right"><FONT STYLE="font-family:Arial Narrow; ">1.4BN</FONT></TD>
+<TD NOWRAP VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">&nbsp;</FONT></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left">Assets under management as of 6/30/21. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Converting these funds to ETFs can provide investors with active investment options in markets traditionally available to ETF investors mostly through passive
+solutions. In addition, shareholders may potentially benefit from more <FONT STYLE="white-space:nowrap">tax-efficient</FONT> management of capital gains as well as reduced costs. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">While the conversions are subject to Board approval, we are communicating our proposed plans in advance so that, if approved and implemented, you have ample time
+to consider and discuss with us the potential implications of this important effort. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Additionally, I&#146;d like to share that, pending shareholder
+approval, we will be unifying our mutual fund and ETF boards. We believe combining the boards&#146; expertise makes sense and will serve our shareholders well. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">If approved and implemented, these fund conversions and the combination of our mutual fund and ETF boards will further strengthen our position as a leader in
+delivering smart investment products driven by market dynamics and designed to meet the needs of our diverse client base. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">I look forward to discussing these
+exciting initiatives with you at your convenience. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Thank you for your continued partnership and support of J.P. Morgan Funds. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Best, </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">[insert CA/ICA name/signature here] </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B><I>Investors should carefully consider the investment objectives and risks as well as charges and expenses of the funds before investing. The summary and full
+prospectuses contain this and other information about the funds and should be read carefully before investing. To obtain a prospectus: Call
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-800-480-4111.</FONT></FONT></FONT> </I></B></P>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B><I>Information regarding the proposed election of a common board, including the participants in the solicitation
+of proxies and a description of their direct or indirect interests, by security holdings or otherwise, will be contained in the proxy materials to be filed with the Securities and Exchange Commission (&#147;SEC&#148;). Shareholders should read the
+proxy statement when it is available because it contains important information. The proxy statement will be mailed to shareholders of record, and shareholders will also be able to access the proxy statement, and any other relevant documents, on the
+SEC&#146;s website at <U>www.sec.gov</U> once filed. The proxy statement also will be available at <U>www.proxyvote.com</U> and a paper copy can be obtained at no charge by calling <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">1-800-690-6903.</FONT></FONT></FONT> </I></B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B><I>In connection with the proposed conversions discussed herein, an information
+statement/prospectus that will be included in a registration statement on Form <FONT STYLE="white-space:nowrap">N-14</FONT> will be filed with the SEC. After the registration statement is filed with the SEC, it may be amended or withdrawn and the
+information statement/prospectus will not be distributed to shareholders unless and until the registration statement is declared effective by the SEC. Investors are urged to read the materials and any other relevant documents when they become
+available because they will contain important information about the conversions. After they are filed, free copies of the materials will be available on the SEC&#146;s website at <U>www.sec.gov</U>. These materials also will be available at
+<U>www.jpmorganfunds.com</U> and a paper copy can be obtained at no charge by calling <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-800-480-4111.</FONT></FONT></FONT> </I></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B><I>This communication is for informational purposes only and is not a solicitation of a proxy from any fund shareholder and does not constitute an offer of
+any securities for sale. No offer of securities will be made except pursuant to a prospectus meeting the requirements of Section&nbsp;10 of the Securities Act of 1933. </I></B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:8pt; font-family:Arial Narrow"><B>FOR INSTITUTIONAL USE ONLY | NOT FOR PUBLIC DISTRIBUTION </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">J.P.
+Morgan Funds are offered by J.P. Morgan Institutional Investment Inc. and distributed by JPMorgan Distribution Services, Inc., which are affiliates of JPMorgan Chase&nbsp;&amp; Co. Affiliates of JPMorgan Chase&nbsp;&amp; Co. receive fees for
+providing various services to the funds. J.P. Morgan Institutional Investments Inc. and JPMorgan Distribution Services, Inc. are members of FINRA. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">J.P.
+Morgan Asset Management is the brand name for the asset management business of JPMorgan Chase&nbsp;&amp; Co and its affiliates worldwide. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">If you are a person
+with a disability and need additional support in viewing the material, please call us at <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-800-343-1113</FONT></FONT></FONT> for assistance. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">If you do not wish to receive future communication, please contact your J.P. Morgan Asset Management representative. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">&copy; 2021 JPMorgan Chase&nbsp;&amp; Co. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">J.P. Morgan Asset
+Management, 277 Park Avenue, New York, NY, 10172 </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g207094g68u90.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g207094g68u90.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+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
+M49YQ0 @T73%DDD&GVX>2 6SGRQ\T0Z(?]GVH K67A70--D62RT>T@=59 R1
+M':W49]#@4 6H](TZ(6@CL8%%FACMP(Q^Z4C!"^@( % %"'P=X<MI!+;:+9V\
+MJOYB210JK(W/*D=#R>E '/VGPZDC73K>YU*UEM+":.9&CL%CN)"ARN^7<<\C
+MD@ GGUH Z7_A%M _M;^U?['L_M^_S//\D;MW][/K[]: )WT+29(/(?3;9HO/
+M^T[#&,>;G._'][/.: ))=)TZ?[9YMC!)]M4+<[HP?. & &]<#UH IVOA/P_9
+M6=Q9VVC6<5O<;?.C6$8DVG*Y]<'I0!?DTZRENFNI+6)YVA,#2,@),9.2A/IG
+=M0 W3=*L-'M!::;9Q6EN"6\N)0JY]<4 6Z /_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1181 @@
+<SEC-DOCUMENT>0001104659-21-063089.txt : 20210507
+<SEC-HEADER>0001104659-21-063089.hdr.sgml : 20210507
+<ACCEPTANCE-DATETIME>20210507161349
+ACCESSION NUMBER:		0001104659-21-063089
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20210623
+FILED AS OF DATE:		20210507
+DATE AS OF CHANGE:		20210507
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MORGAN STANLEY INSTITUTIONAL FUND INC
+		CENTRAL INDEX KEY:			0000836487
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05624
+		FILM NUMBER:		21902806
+
+	BUSINESS ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		800-548-7786
+
+	MAIL ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY DEAN WITTER INSTITUTIONAL FUND INC
+		DATE OF NAME CHANGE:	19990329
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY INSTITUTIONAL FUND INC
+		DATE OF NAME CHANGE:	19920703
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000836487
+<SERIES-ID>S000037507
+<SERIES-NAME>Frontier Markets Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000115785
+<CLASS-CONTRACT-NAME>Class I
+<CLASS-CONTRACT-TICKER-SYMBOL>MFMIX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000115786
+<CLASS-CONTRACT-NAME>Class A
+<CLASS-CONTRACT-TICKER-SYMBOL>MFMPX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000115788
+<CLASS-CONTRACT-NAME>Class L
+<CLASS-CONTRACT-TICKER-SYMBOL>MFMLX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000152578
+<CLASS-CONTRACT-NAME>Class IS
+<CLASS-CONTRACT-TICKER-SYMBOL>MSRFX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000155910
+<CLASS-CONTRACT-NAME>Class C
+<CLASS-CONTRACT-TICKER-SYMBOL>MSFEX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>a21-13789_1def14a.htm
+<DESCRIPTION>DEF 14A
+<TEXT>
+
+
+<html>
+<head>
+
+
+
+
+
+
+  </head>
+<body link=blue lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">UNITED STATES<br>  </font></b><b><font size="4" style="font-size:14.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">SCHEDULE 14A</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(Rule 14a-101)</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">INFORMATION REQUIRED IN PROXY STATEMENT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SCHEDULE 14A INFORMATION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Proxy Statement Pursuant to Section 14(a) of<br> the Securities Exchange Act of 1934 (Amendment No. &nbsp;&nbsp;&nbsp;&nbsp;)</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed by the Registrant&nbsp;&nbsp;</font><font face="Wingdings">x</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed by a Party other than the   Registrant</font>&nbsp;&nbsp;<font face="Wingdings">o</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box:</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Preliminary Proxy Statement</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Confidential, for   Use of the Commission Only (as permitted by Rule 14a-6(e)(2))</font></b></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Definitive Proxy Statement</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Definitive Additional Materials</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Soliciting Material under &#167;240.14a-12</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">MORGAN STANLEY   INSTITUTIONAL FUND, INC.</font></b></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name   of Registrant as Specified In Its Charter)</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name   of Person(s) Filing Proxy Statement, if other than the Registrant)</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Payment of Filing Fee (Check the   appropriate box):</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">No fee required.</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Fee computed on table below per   Exchange Act Rules 14a-6(i)(1) and 0-11.</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(1)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title of each class of securities to   which transaction applies:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Aggregate number of securities to   which transaction applies:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(3)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Per unit price or other underlying   value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth   the amount on which the filing fee is calculated and state how it was   determined):</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(4)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Proposed maximum aggregate value of   transaction:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(5)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Total fee paid:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Fee paid previously with preliminary   materials.</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check box if any part of the fee is   offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for   which the offsetting fee was paid previously. Identify the previous filing by   registration statement number, or the Form or Schedule and the date of its   filing.</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(1)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Amount Previously Paid:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Form, Schedule or Registration   Statement No.:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(3)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filing Party:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(4)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date Filed:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr height="0">
+<td width="36" style="border:none;"></td>
+<td width="31" style="border:none;"></td>
+<td width="2" style="border:none;"></td>
+<td width="639" style="border:none;"></td>   </tr> </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108224\21-13789-1\task10441450\13789-1-ba.htm',USER='108224',CD='May  7 00:05 2021' -->
+
+
+<div style="page-break-before:always;"></div>
+<!-- Document name: 21-13789-2.aa-->
+<div style="margin:8pt 0pt 8pt 0pt;">
+<p style="margin:0pt 0pt 6pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:16pt;"><b>MORGAN STANLEY INSTITUTIONAL FUND, INC.</b></font></p>
+<p style="margin:2pt 0pt 6pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>on behalf of its<BR>Frontier Markets Portfolio<BR>c/o Morgan Stanley Investment Management Inc.<BR>522 Fifth Avenue<BR>New York, NY 10036</b></font></p>
+<p style="margin:6pt 0pt 12pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>NOTICE OF SPECIAL MEETING OF STOCKHOLDERS</b></font></p>
+<p style="margin:6pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>To Our Stockholders:</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Notice is hereby given of a Special Meeting of Stockholders (the "Meeting") of the Frontier Markets Portfolio (the "Portfolio"), a portfolio of Morgan Stanley Institutional Fund, Inc. (the "Fund"), an open-end investment company incorporated pursuant to the laws of the State of Maryland, to be held on Wednesday, June 23, 2021, at 8:30 a.m., New York time, and any adjournments or postponements thereof.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The Meeting will be held by audio teleconference only.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The Meeting is being held for the following purposes:</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">1.&nbsp;&nbsp;To approve changing the Frontier Markets Portfolio's fundamental investment policy regarding industry concentration.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">2.&nbsp;&nbsp;To consider and act upon any other business as may properly come before the Meeting and any adjournments or postponements thereof.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Only holders of record of shares of the Portfolio as of the close of business on April 30, 2021, the record date for the Meeting, are entitled to notice of, and to vote at, the Meeting and any adjournments or postponements thereof.</font></p>
+<p style="margin:6pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Attending the Meeting by Teleconference as a Stockholder of Record</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">To participate in the Meeting, stockholders must send an email to Shareholdermeetings@computershare.com by 8:30 a.m., Eastern Time, on June 21, 2021 in order to receive a toll-free phone number, participant code and instructions on how a stockholder may submit a vote during the Meeting. The phone number that will be provided will only be active for the date and time of the Meeting. If you have any questions prior to the Meeting, please call the Portfolio's proxy solicitor, Computershare Fund Services ("Computershare") at 866-669-4912.</font></p>
+<p style="margin:6pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Registering to Attend the Meeting by Teleconference as a Beneficial Owner</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">If you hold your shares through an intermediary, such as a bank or broker, you must register in advance to attend the Meeting. To register you must submit proof of your proxy power (legal proxy) reflecting your Portfolio holdings along with your name and email address to Computershare. You may forward an email from your intermediary or attach an image of your legal proxy to Shareholdermeetings@computershare.com. Requests for registration for the Meeting must be received no later than 8:30 a.m., Eastern Time, on June 21, 2021. You will receive a confirmation email from Computershare of your registration that will include information on how to participate in the Meeting and a control number that will allow you to vote during the Meeting.</font></p>
+<p style="margin:6pt 0pt 0pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Mary E. Mullin<BR></font><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><i>Secretary</i></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Dated: May 7, 2021</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>You can help avoid the necessity and expense of sending follow-up letters to ensure a quorum by promptly returning the enclosed Proxy Card(s) or voting telephonically or on the Internet. If you are unable to be present, please fill in, sign and return the enclosed Proxy Card(s) in order that the necessary quorum may be represented at the Meeting. The enclosed envelope requires no postage if mailed in the United States. Certain stockholders will be able to vote telephonically by touchtone telephone or electronically on the Internet by following instructions contained on their Proxy Card(s) or on the enclosed Voting Information Card(s).</b></font></p>
+</div>
+<hr size="3" width="100%" noshade color="gray" align="center">
+<!-- SEQ.=1,FOLIO='',FILE='21-13789-2.aa.qxp',USER='',CD='May 06 16:21 2021' -->
+<br clear="all" style="page-break-before:always;">
+<div style="margin:8pt 0pt 8pt 0pt;">
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS FOR THE SPECIAL MEETING OF STOCKHOLDERS TO BE HELD ON JUNE 23, 2021: https://www.proxydirect.com/mor-32091</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>The Proxy Statement for the Special Meeting of Stockholders is available on the Internet at the website address located on the enclosed Proxy Card(s).</b></font></p>
+</div>
+<hr size="3" width="100%" noshade color="gray" align="center">
+<!-- SEQ.=2,FOLIO='',FILE='21-13789-2.aa.qxp',USER='',CD='May 06 16:21 2021' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="page-break-before:always;"></div>
+<!-- Document name: 21-13789-2.ba-->
+<div style="margin:8pt 0pt 8pt 0pt;">
+<p style="margin:0pt 0pt 6pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:16pt;"><b>MORGAN STANLEY INSTITUTIONAL FUND, INC.</b></font></p>
+<p style="margin:2pt 0pt 6pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>on behalf of its<BR>Frontier Markets Portfolio<BR>c/o Morgan Stanley Investment Management Inc.<BR>522 Fifth Avenue<BR>New York, NY 10036</b></font></p>
+<p style="margin:6pt 0pt 12pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>PROXY STATEMENT</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>SPECIAL MEETING OF STOCKHOLDERS<BR>TO BE HELD<BR>June 23, 2021</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">This Proxy Statement is furnished by the Board of Directors (the "Board," the directors of which are referred to as the "Directors") of Morgan Stanley Institutional Fund, Inc. (the "Fund") in connection with the solicitation of proxies (separately referred to as a "Proxy" and collectively referred to as "Proxies") by the Board for use at the Special Meeting of Stockholders (the "Meeting") of Frontier Markets Portfolio (the "Portfolio") to be held on Wednesday, June 23, 2021. The Meeting will be held by audio teleconference only. It is expected that the Notice of Special Meeting of Stockholders, Proxy Statement and Proxy Card(s) will first be mailed to holders of shares of common stock of the Portfolio (each a "Stockholder" and collectively the "Stockholders") on or about May 14, 2021. The purposes of the Meeting, the matters to be acted upon and the commencement time of the Meeting are set forth in the accompanying Notice of Special Meeting of Stockholders.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">If the accompanying Proxy for the Portfolio is properly executed and returned in time, or is submitted by telephone or Internet, to be voted at the Meeting, the proxies named therein will vote the shares of common stock with respect to the Portfolio (the "Shares") represented by it in accordance with the instructions marked thereon. Properly executed but unmarked Proxy Cards submitted by Stockholders will be voted FOR the Proposal. A Proxy may be revoked at any time prior to its exercise by any of the following: written notice of revocation to the Secretary of the Fund, execution and delivery of a later dated Proxy to the Secretary of the Fund (whether by mail or, as discussed below, by touchtone telephone or the Internet) (if returned and received in time to be voted), or attendance and voting at the Meeting. Attendance at the Meeting will not in and of itself revoke a Proxy; you must vote in person at the Meeting.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The Board has fixed the close of business on April 30, 2021, as the record date (the "Record Date") for the determination of Stockholders entitled to notice of, and to vote at, the Meeting and at any adjournments or postponements thereof. Each full Share will be entitled to one vote at the Meeting and each fraction of a Share will be entitled to the fraction of a vote equal to the proportion of a full Share represented by the fractional Share.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">As of the Record Date, the Portfolio had the following shares outstanding and entitled to vote.</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td colspan="3" width="62" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt; border:none; border-bottom:solid windowtext 1pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Share Class</font></p></td>
+<td colspan="1">&nbsp;</td>
+<td colspan="3" width="94" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt; border:none; border-bottom:solid windowtext 1pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Outstanding Shares</font></p></td>
+<td colspan="1">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3" width="62" bgcolor="#cceeff" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">A</font></p></td>
+<td colspan="1" bgcolor="#cceeff">&nbsp;</td>
+<td colspan="3" width="94" bgcolor="#cceeff" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">418,518.231</font></p></td>
+<td colspan="1" bgcolor="#cceeff">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3" width="62" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">C</font></p></td>
+<td colspan="1">&nbsp;</td>
+<td colspan="3" width="94" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">42,803.791</font></p></td>
+<td colspan="1">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3" width="62" bgcolor="#cceeff" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">I</font></p></td>
+<td colspan="1" bgcolor="#cceeff">&nbsp;</td>
+<td colspan="3" width="94" bgcolor="#cceeff" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">2,706,884.245</font></p></td>
+<td colspan="1" bgcolor="#cceeff">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3" width="62" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">IS</font></p></td>
+<td colspan="1">&nbsp;</td>
+<td colspan="3" width="94" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">15,585.631</font></p></td>
+<td colspan="1">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3" width="62" bgcolor="#cceeff" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">L</font></p></td>
+<td colspan="1" bgcolor="#cceeff">&nbsp;</td>
+<td colspan="3" width="94" bgcolor="#cceeff" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">19,548.148</font></p></td>
+<td colspan="1" bgcolor="#cceeff">&nbsp;</td>
+</tr>
+</table>
+
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Only one Proxy Statement will be delivered to multiple Stockholders sharing an address, unless the Fund has received contrary instructions. The Fund will furnish, upon written or oral request, a separate copy of the Proxy Statement to a Stockholder at a shared address to which a single Proxy Statement was delivered. Requests for a separate Proxy Statement, and notifications to the Fund that a Stockholder wishes to receive separate copies in the future, should be made in writing to the Fund, c/o Morgan Stanley Client Relations, Attn: Morgan Stanley Institutional Fund, Inc., Harborside Financial Center, Plaza II, 3rd Floor, Jersey City, New Jersey 07311, or by </font></p>
+</div>
+<div style="margin:8pt 0pt 8pt 0pt;">
+</div>
+<p align="center"><font size="2" face="Times New Roman PS, Times New Roman, Times"><br>3</font></p>
+<hr size="3" width="100%" noshade color="gray" align="center">
+<!-- SEQ.=3,FOLIO='3',FILE='21-13789-2.ba.qxp',USER='',CD='May 07 08:08 2021' -->
+<br clear="all" style="page-break-before:always;">
+<div style="margin:8pt 0pt 8pt 0pt;">
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">calling toll-free (800) 548-7786. Multiple Stockholders who are sharing an address and currently receiving multiple copies of periodic reports and proxy statements may request to receive only one copy of such reports and proxy statements by calling toll-free (800) 548-7786.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The cost of soliciting Proxies for the Meeting, including printing and mailing expenses, is expected to be approximately $166,000, which will be borne by the Portfolio. The solicitation of Proxies will be by mail, which may be supplemented by solicitation by mail, telephone or otherwise through officers of the Fund or officers and regular employees of Morgan Stanley Investment Management Inc. (the "Adviser"), without special compensation therefor. In addition, the Fund, on behalf of the Portfolio, may employ Computershare Fund Services ("Computershare") to make telephone calls to Stockholders to remind them to vote. The Fund, on behalf of the Portfolio, may also employ Computershare as proxy solicitor. The transfer agent services are currently provided by Morgan Stanley Services Company Inc.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Stockholders may be able to vote their Shares by touchtone telephone or by Internet by following the instructions on the Proxy Card(s) accompanying this Proxy Statement. The Internet procedures are designed to authenticate a Stockholder's identity to allow Stockholders to vote their Shares and confirm that their instructions have been properly recorded. To vote by Internet or by touchtone telephone, Stockholders can access the website or call the toll-free number listed on the Proxy Card(s). To vote by touchtone telephone or by Internet, Stockholders will need the number that appears on the Proxy Card(s) or Voting Information Card(s) in the shaded box.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">In certain instances, Computershare may call Stockholders to ask if they would be willing to have their votes recorded by telephone. The telephone voting procedure is designed to authenticate Stockholders' identities, to allow Stockholders to authorize the voting of their Shares in accordance with their instructions and to confirm that their instructions have been recorded properly. No recommendation will be made as to how a Stockholder should vote on the Proposal other than to refer to the recommendation of the Board. The Fund has been advised by counsel that these procedures are consistent with the requirements of applicable law. Stockholders voting by telephone in this manner will be asked for identifying information and will be given an opportunity to authorize proxies to vote their Shares in accordance with their instructions. To ensure that the Stockholders' instructions have been recorded correctly, they will receive a confirmation of their instructions in the mail. A special toll-free number set forth in the confirmation will be available in case the information contained in the confirmation is incorrect. Although a Stockholder's vote may be taken by telephone, each Stockholder will receive a copy of this Proxy Statement and may vote by mail using the enclosed Proxy Card(s) or by Internet or touchtone telephone as set forth above. The last proxy vote received in time to be voted, whether by Internet, mailed Proxy Card(s) or touchtone telephone, will be the vote that is counted and will revoke all previous votes by the Stockholder. In the event that Computershare is retained as proxy solicitor, Computershare will be paid for telephone solicitation expenses incurred for reminder calls, outbound telephone voting, confirmation of telephone votes, inbound telephone contact, obtaining Stockholders' telephone numbers and providing additional materials upon Stockholder request, at an estimated cost of $13,500 for the Portfolio.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>The Fund will furnish, without charge, a copy of the Portfolio's most recent annual report or semi-annual report, to any Stockholder requesting such report(s). Requests for the Portfolio's annual report should be made in writing to the Fund at Morgan Stanley Services Company Inc., P.O. Box 219886, Kansas City, MO 64121-9885, or by calling toll-free (800) 548-7786. You may also view the Portfolio's annual report on the Adviser's Internet website at www.morganstanley.com/im.</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The Adviser also serves as the Fund's administrator. State Street Bank and Trust Company serves as sub-administrator to the Fund. The business address of State Street Bank and Trust Company is One Lincoln Street, Boston, MA 02111-2101.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>The Board unanimously recommends that you cast your vote "FOR" the Proposal set forth in this Proxy Statement.</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Your vote is important. Please return your Proxy Card(s) promptly no matter how many Shares you own.</b></font></p>
+</div>
+<div style="margin:8pt 0pt 8pt 0pt;">
+</div>
+<p align="center"><font size="2" face="Times New Roman PS, Times New Roman, Times"><br>4</font></p>
+<hr size="3" width="100%" noshade color="gray" align="center">
+<!-- SEQ.=4,FOLIO='4',FILE='21-13789-2.ba.qxp',USER='',CD='May 07 08:08 2021' -->
+<br clear="all" style="page-break-before:always;">
+<div style="margin:8pt 0pt 8pt 0pt;">
+<p style="margin:0pt 0pt 6pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>THE PROPOSAL: TO APPROVE CHANGING THE FRONTIER MARKETS PORTFOLIO'S <BR>FUNDAMENTAL INVESTMENT POLICY REGARDING INDUSTRY CONCENTRATION</b></font></p>
+<p style="margin:6pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Introduction</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Based on the recommendation of the Adviser, the Board, which is comprised solely of Directors who are not "interested persons" of the Company (as defined in the 1940 Act), has unanimously approved a change to the Portfolio's fundamental investment policy regarding industry concentration that would eliminate the requirement that the Portfolio invest more than 25% of its total assets in the banking industry (i.e., "concentrate" in the banking industry), subject to Stockholder approval. This proposed revision would require the Portfolio to invest less than 25% of its total assets in the banking industry or, as is currently the case, any other industry. The Adviser believes, and the Board concurs, that it would be in the best interests of Stockholders to make the proposed change in order to provide the Portfolio with greater investment flexibility.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Presently, the Portfolio's fundamental investment policy regarding concentration states that the Portfolio will not:</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><i>acquire any securities of companies within one industry if, as a result of such acquisition, more than 25% of the value of the Portfolio's total assets would be invested in securities of companies within such industry; provided, however, that there shall be no limitation on the purchase of obligations issued or guaranteed by the U.S. Government, its agencies or instrumentalities, except that the Portfolio will invest more than 25% of its total assets in the banking industry </i></font><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">(the "Current Policy").</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">If approved, the Proposal would amend the fundamental investment policy regarding concentration to state that the Portfolio will not:</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><i>acquire any securities of companies within one industry if, as a result of such acquisition, more than 25% of the value of the Portfolio's total assets would be invested in securities of companies within such industry; provided, however, that there shall be no limitation on the purchase of obligations issued or guaranteed by the U.S. Government, its agencies or instrumentalities </i></font><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">(the "New Policy").</font></p>
+<p style="margin:6pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Discussion of Proposal</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The Investment Company Act of 1940, as amended (the "1940 Act"), requires a registered investment company, such as the Portfolio, to have "fundamental" policies governing certain of its investment practices. An investment policy is "fundamental" if it cannot be changed or deviated from without the approval of a "majority of the outstanding voting securities" (as defined in the 1940 Act) of the fund. One such required fundamental policy relates to a fund's concentration of investments in a particular industry or group of related industries. The 1940 Act does not define what constitutes "concentration" in an industry. However, the Securities and Exchange Commission (the "SEC") has taken the position that investment of more than 25% of a fund's total assets in one or more issuers conducting their principal business activities in the same industry, subject to certain exclusions, constitutes concentration.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The Adviser recommended that the Board approve the elimination of the Portfolio's fundamental investment policy to "concentrate" in the banking industry. This recommendation was based primarily on the Adviser's observations of changes in the Portfolio's investment universe and the prospect of improved portfolio management flexibility through the allocation of Portfolio assets among investment opportunities without the requirement to invest more than 25% of the Fund's total assets in the banking industry. Since the Portfolio's inception in 2008, the Portfolio has operated pursuant to the Current Policy. However, in recent years, the Adviser has observed that the percentage of the Portfolio's investment universe that is comprised of the financial sector (which largely consists of the banking industry) has decreased. For example, in November 2020, the financial sector represented approximately 54% of the Portfolio's benchmark, the MSCI Frontier Markets Net Index. By January 2021, the financial sector represented approximately 33% of the Portfolio's benchmark. Accordingly, the Adviser believes it is in the best interests of the Portfolio to reduce the minimum amount of its investments in the banking industry by eliminating the policy to "concentrate" (i.e., invest more than 25% of the Portfolio's total assets) in the banking industry. </font></p>
+</div>
+<div style="margin:8pt 0pt 8pt 0pt;">
+</div>
+<p align="center"><font size="2" face="Times New Roman PS, Times New Roman, Times"><br>5</font></p>
+<hr size="3" width="100%" noshade color="gray" align="center">
+<!-- SEQ.=5,FOLIO='5',FILE='21-13789-2.ba.qxp',USER='',CD='May 07 08:08 2021' -->
+<br clear="all" style="page-break-before:always;">
+<div style="margin:8pt 0pt 8pt 0pt;">
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Although the banking industry would remain within the Portfolio's investment universe, the maximum allocation (as compared to the minimum allocation) would effectively be 25% of the Portfolio's total assets. Further, the Adviser also believes the Proposal is in the best interests of the Portfolio because, if approved, the Adviser would have the ability to invest assets allocated to issuers traditionally considered to be within the banking industry to new entrants to the financial sector and banking industry, such as financial technology firms, that otherwise may not be considered to be within the banking industry.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Accordingly, the Adviser recommended to the Board that the New Policy be adopted to replace the Current Policy. Although the Adviser believes the Proposal is in the best interest of the Stockholders, there can be no assurance as to any particular performance, risk or other benefit that might result from the implementation of the New Policy.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">If the Proposal is approved by Stockholders, the Portfolio's strategies, risks and investment policy will be modified accordingly. The Proposal will have no effect on the Portfolio's fees, and the Adviser anticipates that portfolio turnover associated with reducing the Portfolio's investments in the banking industry in accordance with the New Policy would be minimal.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The Proposal is one component of a broader repositioning of the Portfolio that includes changing the Portfolio's name, investment strategies and primary benchmark. Please refer to the supplement to the Portfolio's prospectus dated April 30, 2021, for more information.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">If the Proposal is approved, the New Policy will take effect on or about June 30, 2021. If Stockholders do not approve the New Policy, the Current Policy will remain in effect.</font></p>
+<p style="margin:6pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Board Considerations</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">At its meeting on April 21-22, 2021, the Board considered the Adviser's recommendation. Upon evaluation of all facts it considered relevant, including but not limited to changes in the Portfolio's investment universe, the prospect of improved portfolio management flexibility and the basis for the Adviser's recommendation discussed above, the Board found that the New Policy and this Proposal are in the best interests of Stockholders and approved the New Policy and the submission of this Proposal to Stockholders of the Portfolio for their approval.</font></p>
+<p style="margin:6pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Vote Required</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Approval of the Proposal requires the affirmative vote of the holders of a majority of the outstanding voting Shares of the Portfolio entitled to vote thereon. Under the 1940 Act, this means the affirmative vote of the lesser of (a) 67% or more of the voting Shares present at the meeting or represented by proxy if the holders of more than 50% of the outstanding voting Shares are present or represented by proxy or (b) more than 50% of the outstanding voting Shares of the Portfolio. Abstentions are not considered votes "FOR" the Proposal at the Meeting. As a result, abstentions have the same effect as a vote against the Proposal because approval of the Proposal requires the affirmative vote of a percentage of the voting securities present or represented by proxy or a percentage of the outstanding voting securities. Stockholders do not have appraisal rights with respect to the Proposal.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Shares of each class of the Portfolio will vote together on the Proposal.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>The Board unanimously recommends that you vote "FOR" the Proposal.</b></font></p>
+</div>
+<div style="margin:8pt 0pt 8pt 0pt;">
+</div>
+<p align="center"><font size="2" face="Times New Roman PS, Times New Roman, Times"><br>6</font></p>
+<hr size="3" width="100%" noshade color="gray" align="center">
+<!-- SEQ.=6,FOLIO='6',FILE='21-13789-2.ba.qxp',USER='',CD='May 07 08:08 2021' -->
+<br clear="all" style="page-break-before:always;">
+<div style="margin:8pt 0pt 8pt 0pt;">
+<p style="margin:0pt 0pt 6pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">As of the Record Date, the following persons were known to own of record or beneficially 5% or more of the outstanding shares of any class of the Portfolio:</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td colspan="3" width="159" align="left" valign="bottom" style="padding:0pt .7pt 0pt 0pt; border:none; border-bottom:solid windowtext 1pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Stockholder</b></font></p></td>
+<td colspan="1">&nbsp;</td>
+<td colspan="3" width="100" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt; border:none; border-bottom:solid windowtext 1pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Percentage of<BR>Outstanding Shares</b></font></p></td>
+<td colspan="1">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="7" width="259" bgcolor="#cceeff" align="left" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Class I</b></font></p></td>
+<td colspan="1" bgcolor="#cceeff">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3" width="159" align="left" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">National Financial Services LLC<BR>449 Washington Blvd.<BR>Jersey City, NJ 07310</font></p></td>
+<td colspan="1">&nbsp;</td>
+<td colspan="3" width="100" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">21.91%</font></p></td>
+<td colspan="1">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3" width="159" bgcolor="#cceeff" align="left" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Morgan Stanley & Co.<BR>Harborside Financial Center<BR>201 Plaza II, 3rd Floor<BR>Jersey City, NJ 07311</font></p></td>
+<td colspan="1" bgcolor="#cceeff">&nbsp;</td>
+<td colspan="3" width="100" bgcolor="#cceeff" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">20.50%</font></p></td>
+<td colspan="1" bgcolor="#cceeff">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3" width="159" align="left" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Wells Fargo Clearing Services LLC<BR>2801 Market Street<BR>Saint Louis, MO 63103</font></p></td>
+<td colspan="1">&nbsp;</td>
+<td colspan="3" width="100" align="center" valign="bottom" style="padding:0pt .7pt 0pt 0pt;">
+<p style="margin:0pt 0pt 0pt 0pt"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">11.16%</font></p></td>
+<td colspan="1">&nbsp;</td>
+</tr>
+</table>
+
+<p style="margin:6pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The stockholders set forth in the foregoing table are the stockholders of record and may be deemed to be the beneficial owners of certain of the shares listed for certain purposes under the securities laws. However, these entities generally do not have an economic interest in these shares and would ordinarily disclaim any beneficial ownership therein. The Fund has no knowledge whether all or any portion of the shares owned of record are also owned beneficially.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">As of the Record Date, the aggregate number of Shares of the Portfolio owned by the Fund's officers and Directors as a group was less than 1% of each class of the Portfolio's outstanding Shares.</font></p>
+<p style="margin:6pt 0pt 6pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>ADDITIONAL INFORMATION</b></font></p>
+<p style="margin:6pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>General</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The holders of one-third of the Shares of the Portfolio issued and outstanding and entitled to vote, present in person or represented by proxy, will constitute a quorum at the Meeting. If a Proxy Card is properly executed and returned accompanied by instructions to withhold authority (an abstention), the shares represented thereby will be counted as shares present and entitled to vote for purposes of determining whether a quorum is present.</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">If, however, such quorum is not present or represented at the Meeting, the chairman of the Meeting, an officer of the Fund or the Stockholders present or represented by proxy and entitled to vote thereat have the power to adjourn the Meeting from time to time, in accordance with the Fund's by-laws, without notice other than announcement at the Meeting, until a quorum shall be present or represented. The chairman of the Meeting, an officer of the Fund or the Stockholders present in person or represented by proxy at the Meeting and entitled to vote thereat also have the power to adjourn the Meeting from time to time, in accordance with the Fund's by-laws, without notice other than announcement at the Meeting, if the vote required to approve or reject any proposal described in the original notice of the Meeting is not obtained (with proxies being voted for or against adjournment consistent with the votes for and against the proposal for which the required vote has not been obtained).</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Abstentions will not be voted either for or against any such adjournment and will have the effect of a vote against the Proposal.</font></p>
+<p style="margin:6pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Principal Underwriter and Administrator</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Morgan Stanley Distribution, Inc., whose principal address is 522 Fifth Avenue, New York, NY 10036, is the principal underwriter for the Fund. Morgan Stanley Investment Management Inc., whose principal address is 522 Fifth Avenue, New York, NY 10036, serves as the Fund's administrator.</font></p>
+</div>
+<div style="margin:8pt 0pt 8pt 0pt;">
+</div>
+<p align="center"><font size="2" face="Times New Roman PS, Times New Roman, Times"><br>7</font></p>
+<hr size="3" width="100%" noshade color="gray" align="center">
+<!-- SEQ.=7,FOLIO='7',FILE='21-13789-2.ba.qxp',USER='',CD='May 07 08:08 2021' -->
+<br clear="all" style="page-break-before:always;">
+<div style="margin:8pt 0pt 8pt 0pt;">
+<p style="margin:0pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Submission of Stockholder Proposals</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The Fund is not required and does not intend to hold regular stockholder meetings unless stockholder action is required in accordance with the 1940 Act or other applicable law or the Fund's charter documents. Stockholders who would like to submit proposals for consideration at future stockholder meetings of the Fund should send written proposals to Mary E. Mullin, Secretary, 1633 Broadway, 29th Floor, New York, NY 10019. To be considered for presentation at a stockholders' meeting, rules promulgated by the SEC require that, among other things, a stockholder's proposal must be received at the offices of the Fund within a reasonable time before a solicitation is made. Timely submission of a proposal does not necessarily mean that such proposal will be included.</font></p>
+<p style="margin:6pt 0pt 6pt 0pt;" align="center"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>OTHER MATTERS</b></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">The Board knows of no business, other than that set forth in the Notice of Special Meeting of Stockholders, to be presented for consideration at the Meeting. However, the Proxy Statement confers discretionary authority upon the persons named therein to vote as they determine on other business, not currently contemplated, which may come before the Meeting.</font></p>
+<p style="margin:6pt 0pt 0pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Mary E. Mullin<BR></font><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><i>Secretary</i></font></p>
+<p style="margin:0pt 0pt 6pt 0pt;" align="left"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;">Dated: May 7, 2021</font></p>
+<p style="margin:0pt 0pt 6pt 0pt;"><font face="Times New Roman PS Std, Times New Roman PS, Times New Roman, Times" style="font-size:10pt;"><b>Stockholders who do not expect to be present at the Meeting for the Fund and who wish to have their Shares voted are requested to vote their Shares over the Internet, by telephone or by dating and signing the enclosed Proxy Card(s) and returning it in the enclosed envelope. No postage is required if mailed in the United States.</b></font></p>
+</div>
+<div style="margin:8pt 0pt 8pt 0pt;">
+</div>
+<p align="center"><font size="2" face="Times New Roman PS, Times New Roman, Times"><br>8</font></p>
+<hr size="3" width="100%" noshade color="gray" align="center">
+<!-- SEQ.=8,FOLIO='8',FILE='21-13789-2.ba.qxp',USER='',CD='May 07 08:08 2021' -->
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="page-break-before:always;"></div>
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Arial" style="font-size:14.0pt;font-weight:bold;">EVERY STOCKHOLDER&#146;S VOTE IS IMPORTANT</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="59%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="4" face="Arial" style="font-size:14.0pt;font-weight:bold;">EASY VOTING OPTIONS:</font></b></p>    </td>   </tr>
+<tr>
+<td width="59%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>
+<td width="40%" colspan="5" valign="top" style="padding:0in 0in 0in 0in;width:40.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="59%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" style="padding:0in 0in 0in 0in;width:10.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"><img width="69" height="69" src="g137891cci001.gif"></font></p>    </td>
+<td width="30%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:30.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">VOTE ON THE INTERNET</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">Log on to:</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">www.proxy-direct.com</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">or scan the QR code</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">Follow the on-screen instructions</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><i><font size="1" face="Arial" style="font-size:9.0pt;font-style:italic;font-weight:bold;">available   24 hours</font></i></b></p>    </td>   </tr>
+<tr>
+<td width="59%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" style="padding:0in 0in 0in 0in;width:10.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="30%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:30.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="59%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" style="padding:0in 0in 0in 0in;width:10.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"><img width="69" height="90" src="g137891cci002.gif"></font></p>    </td>
+<td width="30%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:30.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">VOTE BY PHONE</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">Call 1-800-337-3503</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">Follow the recorded instructions</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><i><font size="1" face="Arial" style="font-size:9.0pt;font-style:italic;font-weight:bold;">available 24 hours</font></i></b></p>    </td>   </tr>
+<tr>
+<td width="59%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" style="padding:0in 0in 0in 0in;width:10.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="30%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:30.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="59%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" style="padding:0in 0in 0in 0in;width:10.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"><img width="73" height="49" src="g137891cci003.jpg"></font></p>    </td>
+<td width="30%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:30.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">VOTE BY MAIL</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">Vote, sign and date this Proxy Card and return   in the postage-paid envelope</font></b></p>    </td>   </tr>
+<tr>
+<td width="59%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" style="padding:0in 0in 0in 0in;width:10.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="30%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:30.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="59%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" style="padding:0in 0in 0in 0in;width:10.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial"><img width="69" height="90" src="g137891cci002.gif"></font></p>    </td>
+<td width="30%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:30.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:8.5pt;font-weight:bold;">VOTE AT THE TELEPHONIC MEETING</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">on June&nbsp;23, 2021</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">at </font></b><b><font size="1" color="black" face="Arial" style="color:black;font-size:8.5pt;font-weight:bold;">8:30 a.m.</font></b><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">&nbsp;New York Time.</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:8.5pt;font-weight:bold;">Please refer to the Proxy Statement for</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:8.5pt;font-weight:bold;">instructions on how to participate in the</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:8.5pt;font-weight:bold;">Telephonic Meeting.</font></b></p>    </td>   </tr>
+<tr>
+<td width="59%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:59.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" style="padding:0in 0in 0in 0in;width:10.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="30%" colspan="4" valign="top" style="padding:0in 0in 0in 0in;width:30.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:8.5pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="52%" valign="top" style="padding:0in 0in 0in 0in;width:52.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="6%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:6.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:10.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="6%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:6.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="15%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:15.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="52%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:52.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>
+<td width="6%" valign="top" bgcolor="#D8D8D8" style="background:#D8D8D8;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:6.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>
+<td width="10%" bgcolor="#D8D8D8" style="background:#D8D8D8;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:10.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>
+<td width="6%" valign="top" bgcolor="#D8D8D8" style="background:#D8D8D8;border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:6.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:5.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>
+<td width="15%" valign="top" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:15.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>
+<td width="2%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:2.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">Please detach at perforation before mailing.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="20%" valign="top" style="padding:0in 0in 0in 0in;width:20.02%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">PROXY</font></b></p>    </td>
+<td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">MORGAN STANLEY INSTITUTIONAL FUND,&nbsp;INC.</font></b></p>    </td>
+<td width="20%" valign="top" style="padding:0in 0in 0in 0in;width:20.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="20%" valign="top" style="padding:0in 0in 0in 0in;width:20.02%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">FRONTIER MARKETS PORTFOLIO</font></b></p>    </td>
+<td width="20%" valign="top" style="padding:0in 0in 0in 0in;width:20.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="20%" valign="top" style="padding:0in 0in 0in 0in;width:20.02%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">SPECIAL MEETING OF STOCKHOLDERS</font></b></p>    </td>
+<td width="20%" valign="top" style="padding:0in 0in 0in 0in;width:20.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="20%" valign="top" style="padding:0in 0in 0in 0in;width:20.02%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="60%" valign="top" style="padding:0in 0in 0in 0in;width:60.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">TO BE HELD ON JUNE 23, 2021</font></b></p>    </td>
+<td width="20%" valign="top" style="padding:0in 0in 0in 0in;width:20.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">This proxy is solicited on behalf of the Board of Directors of Morgan Stanley Institutional Fund,&nbsp;Inc. &#151; Frontier Markets Portfolio (the &#147;Portfolio&#148;).</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><font size="1" face="Arial" style="font-size:9.0pt;">The undersigned hereby constitutes and appoints John H. Gernon, Mary E. Mullin, Michael J. Key and Francesca Mead, and each of them, as proxies for the undersigned, with full power of substitution and resubstitution, and hereby authorizes said proxies, and each of them, to represent and vote, as designated on the reverse side, all common shares of the Portfolio held of record by the undersigned on April&nbsp;30, 2021, at the Special Meeting of Stockholders to be held by audio teleconference on June&nbsp;23, 2021, at 8:30 a.m., New York time, and at any adjournments or postponements thereof. The undersigned hereby revokes any and all proxies with respect to such shares heretofore given by the undersigned.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:5.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-align:justify;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">This proxy card, when properly executed, will be voted in the manner directed herein by the undersigned stockholder, and, in the discretion of such proxies, upon any and all other matters as may properly come before the meeting or any adjournments or postponements thereof.&#160; If no direction is made, this proxy will be voted &#147;FOR&#148; the Proposal.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="99%" style="border-collapse:collapse;">
+<tr>
+<td width="57%" valign="top" style="padding:0in 0in 0in 0in;width:57.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="43%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:43.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">VOTE VIA THE INTERNET: www.proxy-direct.com</font></b></p>    </td>   </tr>
+<tr>
+<td width="57%" valign="top" style="padding:0in 0in 0in 0in;width:57.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="43%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:43.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:9.0pt;font-weight:bold;">VOTE VIA   THE TELEPHONE</font></b><font size="1" face="Arial" style="font-size:9.0pt;">: <b>1-800-337-3503</b></font></p>    </td>   </tr>
+<tr>
+<td width="57%" valign="top" style="padding:0in 0in 0in 0in;width:57.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="20%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:20.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="16%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:16.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="57%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:57.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="4" face="Arial" style="font-size:15.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="20%" valign="top" bgcolor="#D8D8D8" style="background:#D8D8D8;border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:20.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:5.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>
+<td width="16%" valign="top" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:16.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="4" face="Arial" style="font-size:15.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">MOR_32091_050621</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="17%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:17.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">xxxxxxxxxxxxxx</font></p>    </td>
+<td width="8%" valign="top" style="border:solid windowtext 1.0pt;border-left:none;padding:0in 0in 0in 0in;width:8.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">code</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>
+<td width="74%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:74.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108224\21-13789-1\task10442318\13789-1-cc.htm',USER='108224',CD='May  7 04:19 2021' -->
+
+<div style="page-break-before:always;"></div>
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Arial" style="font-size:14.0pt;font-weight:bold;">EVERY STOCKHOLDER&#146;S VOTE IS IMPORTANT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Arial" style="font-size:12.0pt;font-weight:bold;">Important Notice Regarding the Availability of Proxy Materials for the</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Arial" style="font-size:12.0pt;font-weight:bold;">Special Meeting of Stockholders to be held via audio teleconference only on June&nbsp;23, 2021.</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Arial" style="font-size:12.0pt;font-weight:bold;">The Proxy Statement for this meeting is available at:&#160; https://www.proxy-direct.com/mor-32091</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">Please detach at perforation before mailing.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="65%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:65.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="3%" valign="top" style="border-bottom:none;border-left:none;border-right:solid windowtext 1.0pt;border-top:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="31%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:31.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="65%" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:65.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">TO   VOTE MARK BLOCKS BELOW IN BLUE OR BLACK INK AS SHOWN IN THIS EXAMPLE:</font></b></p>    </td>
+<td width="3%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Arial" style="font-size:11.0pt;font-weight:bold;">X</font></b></p>    </td>
+<td width="31%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:31.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="65%" valign="top" style="border:none;border-right:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:65.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="3%" valign="top" style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:solid windowtext 1.0pt;border-top:none;padding:0in 0in 0in 0in;width:3.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Arial" style="font-size:2.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="31%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:31.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:2.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:5.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="3%" valign="top" bgcolor="#FFFF00" style="background:black;padding:0in 0in 0in 0in;width:3.34%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="11%" style="padding:0in 0in 0in 0in;width:11.66%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:10.0pt;font-weight:bold;">&nbsp;Proposal</font></b></p>    </td>
+<td width="85%" style="padding:0in 0in 0in 0in;width:85.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">THE BOARD   UNANIMOUSLY RECOMMENDS THAT YOU CAST YOUR VOTE &#147;FOR&#148; THE PROPOSAL AS   DESCRIBED IN THE PROXY STATEMENT.</font></b></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:9.0pt;">1.</font></p>    </td>
+<td width="75%" valign="top" style="padding:0in 0in 0in 0in;width:75.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:9.0pt;">To approve   changing the Frontier Markets Portfolio&#146;s fundamental investment policy   regarding industry concentration.</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.16%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.18%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.66%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="75%" valign="top" style="padding:0in 0in 0in 0in;width:75.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.16%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.18%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.66%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:9.0pt;">2.</font></p>    </td>
+<td width="75%" valign="top" style="padding:0in 0in 0in 0in;width:75.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:9.0pt;">To consider and   act upon any other business as may properly come before the Meeting and any   adjournments or postponements thereof.</font></p>    </td>
+<td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.16%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in 0in 0in 0in;width:4.18%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="6%" valign="top" style="padding:0in 0in 0in 0in;width:6.66%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Arial" style="font-size:1.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="3%" valign="top" bgcolor="#FFFF00" style="background:black;padding:0in 0in 0in 0in;width:3.34%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="96%" style="padding:0in 0in 0in 0in;width:96.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="3%" valign="top" bgcolor="#FFFF00" style="background:black;padding:0in 0in 0in 0in;width:3.34%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="96%" style="padding:0in 0in 0in 0in;width:96.66%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Arial" style="font-size:9.5pt;font-weight:bold;">&nbsp;Authorized Signatures &#151; This section must be   completed for your vote to be counted. &#151; Sign and Date Below</font></b></p>    </td>   </tr>
+<tr>
+<td width="3%" valign="top" bgcolor="#FFFF00" style="background:black;padding:0in 0in 0in 0in;width:3.34%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="96%" style="padding:0in 0in 0in 0in;width:96.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="1" face="Arial" style="font-size:5.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt 23.05pt;text-indent:-23.05pt;"><b><font size="1" face="Arial" style="font-size:8.0pt;font-weight:bold;">Note</font></b><font size="1" face="Arial" style="font-size:8.0pt;">: Please sign exactly as your name(s)&nbsp;appear(s)&nbsp;on this Proxy Card, and date it.&#160; When shares are held jointly, each stockholder should sign.&#160; When signing as attorney, executor, guardian, administrator, trustee, officer of corporation or other entity or in another representative capacity, please give the full title under the signature</font><font size="1" face="Arial" style="font-size:7.0pt;">.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="30%" valign="top" style="border:none;border-bottom:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:30.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">Date (mm/dd/yyyy) &#150; Please print date below</font></b></p>    </td>
+<td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="33%" valign="top" style="border:none;border-bottom:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:33.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">Signature 1 &#150; Please keep signature within the box</font></b></p>    </td>
+<td width="2%" valign="top" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="33%" valign="top" style="border:none;border-bottom:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:33.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:7.0pt;font-weight:bold;">Signature 2 &#150; Please keep signature within the box</font></b></p>    </td>   </tr>
+<tr>
+<td width="30%" valign="top" style="border-bottom:none;border-left:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;border-top:none;padding:0in 0in 0in 0in;width:30.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" valign="top" style="border:none;border-right:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="33%" valign="top" style="border:none;border-right:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:33.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" valign="top" style="border:none;border-right:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="33%" valign="top" style="border:none;border-right:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:33.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="30%" valign="top" style="border-bottom:none;border-left:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;border-top:none;padding:0in 0in 0in 0in;width:30.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="4" face="Arial" style="font-size:15.0pt;font-weight:bold;">/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/</font></b></p>    </td>
+<td width="2%" valign="top" style="border:none;border-right:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="4" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="33%" valign="top" style="border:none;border-right:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:33.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="4" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" valign="top" style="border:none;border-right:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="4" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="33%" valign="top" style="border:none;border-right:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:33.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="4" face="Arial" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="30%" valign="top" style="border:solid windowtext 2.25pt;border-top:none;padding:0in 0in 0in 0in;width:30.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" valign="top" style="border:none;border-right:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="33%" valign="top" style="border-bottom:solid windowtext 2.25pt;border-left:none;border-right:solid windowtext 2.25pt;border-top:none;padding:0in 0in 0in 0in;width:33.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="2%" valign="top" style="border:none;border-right:solid windowtext 2.25pt;padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="33%" valign="top" style="border-bottom:solid windowtext 2.25pt;border-left:none;border-right:solid windowtext 2.25pt;border-top:none;padding:0in 0in 0in 0in;width:33.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Arial" style="font-size:3.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:9.0pt;">&nbsp;</font></p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%" style="border:none;border-collapse:collapse;">
+<tr>
+<td width="100%" valign="top" style="border:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:9.0pt;">Scanner bar code</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="1" face="Arial" style="font-size:3.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="4" face="Arial" style="font-size:14.0pt;">xxxxxxxxxxxxxx&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; MOR 32091&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; xxxxxxxx</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Arial" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108224\21-13789-1\task10442318\13789-1-cc.htm',USER='108224',CD='May  7 04:19 2021' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g137891cci001.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g137891cci001.gif
+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
+MF ,IT, $*!)  '@'2)"@/OD(A$ A!_A#4WW7762<H 2TQ0]* J"7WW'@I2>
+M ?WI>IYVYQC0P:(-/-<<I<HU6)0$?7$P ;I]!6<!=P%TT9>/6L1T97<"M:MK
+M 1QH"9IHHN%YC@)F#93;IPB JC "6D3K '.N@>I  1-T(:A%''#0' <$N&H
+M2P10+&Z*QR7@;8Z_*7R /@J$.-!<% 70I$9C>982!!,0D("$-X)&$0?\>$!
+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
+:+!SP)'9D>_JVHAP9$4JZI$S:I$ZZI $! #L!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g137891cci002.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g137891cci002.gif
+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
+HJ6-'H&C$SH!)CR>Y81EA<D(Z K)T-^1*401X2#BJ9#.-C"1* @( .P$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g137891cci003.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g137891cci003.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  H'!PD'!@H)" D+"PH,#QD0#PX.
+M#QX6%Q(9)" F)2,@(R(H+3DP*"HV*R(C,D0R-CL]0$! )C!&2T4^2CD_0#W_
+MVP!# 0L+"P\-#QT0$!T]*2,I/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3T]
+M/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3W_P  1"  Q $D# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#1\7?$S7]&
+M\97FCZ99Z>\$#1*))XW.-Z*WS$.!U;TJ['KOQ,EC62/2-#9&Y#+O((_[^5+I
+M=G!?_%OQ;;W<*30O;P!D<9!_=QU::UU3P',9;(2:AH!.7MSS+;>ZGNOM0!2_
+MMGXG_P#0%T3\I/\ XNC^V?B?_P! 71/RD_\ BZ[K3-4M-8LDNK&998G'4=1[
+M$=C5R@#SG^V?B?\ ] 71/RD_^+H_MGXG_P#0%T3\I/\ XNO1J* /./[9^*'_
+M $!=$_*3_P"+J.X\0_$FT@>>YTK08HD&69O, '_C]=UK6NV.@61N;Z7:.BH.
+M6<^@'<US-OI&H^-+A;WQ"KVNE [H-.4\N.QD/]* ,[X=_$+6?%7B&?3]6M;.
+M%$M6G1H(W4MAD'5F/'S'M7I%<+80QV_QDN8H46.--'PJJ, #?%7=4 <'H'_)
+M8_%/_7"#_P!%QUW9 (((R#7":!_R6/Q3_P!<(/\ T7'7>4 <CJ?ABZTF^?5_
+M"S"*9OFN+(_ZJX^@[-[BM3P_XFM=>C9%!@O8N)[:3AXS_A[U#XB\60:-(EE:
+MQF\U6;_56L?+?5O05@IX#U&^FDUN^U)X=??!B:$XCA Z)CN/6@#OJP/$'BJ+
+M2)$LK2(WFJ3?ZJVCZ_5O05A?\)!XKO/^),FE&WU,<2WI'[D)V=?<^E,/@K4/
+M#<XUC0;N2[U$K_I:7#;OM/<X)Z'TH U=%\*3/?#6/$DJWFI'E(_^65N/1%_K
+M755B>'?%-GXAB=8PT%Y#Q/:R\/&?<5MT <1:_P#):;O_ +!!_P#0XJ[>N(M?
+M^2TW?_8(/_H<5=O0!P6@''QC\5?]<(/_ $7'5W5?%-UJM^^C^%%$]PO$]X?]
+M5;CZ]"WL*X3QG!XBM/B'K,VFZ7JDUC>B%)9+6V=O,41ID!@,=1BMC2_&>I:+
+M9):6'@'6(HE["VDR3ZD[: .V\.^%;30%>7)N+^?F>ZDY=S]>P]JW:\X_X65K
+MW_0CZU_X#2?_ !-'_"RM>_Z$?6O_  &D_P#B: /1J6O./^%E:]_T(^M?^ TG
+M_P 31_PLK7O^A'UK_P !I/\ XF@#I/$7A*/5IEO["8V6K1#]W<IQGV;U%5]#
+M\6R_;QHWB.(66J#A&/$=Q[H>G/I6'_PLK7O^A'UK_P !I/\ XFLW7/%6H>(;
+M(V]]X"UEAU1Q;R!D/J#MH Z*U_Y+3=_]@@_^AQ5V]>3?#*'Q!/XUN+W7+&_A
+K1-/:".6ZMWC+?/'@$D8)P/TKUF@ HHHH **** "BBB@ HHHH **** /_V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

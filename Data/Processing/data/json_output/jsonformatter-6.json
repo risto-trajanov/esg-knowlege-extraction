@@ -1,0 +1,115 @@
+{
+  "docid": "30113942",
+  "title": "Chevron and Ecuadorian Judgment",
+  "uri": "Q7835174",
+  "text": "Chevron asserts that “several international courts have determined the Ecuadorian Judgment to be fraudulent.” In reality, no court since the Ecuadorian Judgment was rendered has reviewed the facts of the case de novo. In fact, evidence regarding destruction of the Amazon has been entirely absent from every subsequent case – including Judge Kaplan’s RICO declarations. Neither the arbitration held in the Netherlands under a bilateral investment treaty, nor any court since has ruled on Chevron’s assertion that the Ecuadorian Judgment resulted from fraud.\nTherefore, enforcement of the Ecuadorian Judgment remains a serious and ongoing financial risk.\nCEO/board chair Michael Wirth’s statements regarding the Ecuador Judgment were challenged in a House Oversight Committee where a Member observed that Wirth told shareholders “[there] was no scientific evidence of contamination.” In subsequent questioning Wirth was asked: “[if there was] no scientific evidence... why did Texaco spend $40 million to...remediate?” He has not yet responded, and has also demurred on the question of how much Chevron has spent on litigation and PR regarding the Ecuador matter.\nAlberto Guerra was the principal witness in the Chevron RICO trial. He later recanted essential portions of his testimony and admitted receiving payment from Chevron, and that Chevron’s law firm – Gibson Dunn & Crutcher – had coached him before testifying in 50+ meetings. Mr. Wirth has so far not responded to the House Oversight Committee whether he approved the use of Company funds to pay Guerra – including more than $432,000 in monthly payments and $48,000 in exchange for evidence.",
+  "entities": [
+    {
+      "uri": "Q7835174",
+      "boundaries": [
+        0,
+        7
+      ],
+      "surfaceform": "Chevron",
+      "annotator": "Asset"
+    },
+    {
+      "uri": "Q5449034",
+      "boundaries": [
+        61,
+        79
+      ],
+      "surfaceform": "Ecuadorian Judgment",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q926830",
+      "boundaries": [
+        522,
+        536
+      ],
+      "surfaceform": "Michael Wirth",
+      "annotator": "Person"
+    },
+    {
+      "uri": "Q171647",
+      "boundaries": [
+        787,
+        799
+      ],
+      "surfaceform": "Alberto Guerra",
+      "annotator": "Person"
+    },
+    {
+      "uri": "Q152653",
+      "boundaries": [
+        834,
+        851
+      ],
+      "surfaceform": "Gibson Dunn & Crutcher",
+      "annotator": "Governance"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q926830",
+        "boundaries": [
+          522,
+          536
+        ],
+        "surfaceform": "Michael Wirth",
+        "annotator": "Person"
+      },
+      "predicate": {
+        "uri": "P769",
+        "boundaries": null,
+        "surfaceform": "asked about",
+        "annotator": "Governance-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835174",
+        "boundaries": [
+          0,
+          7
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Asset"
+      },
+      "sentence_id": 2,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Governance-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q171647",
+        "boundaries": [
+          787,
+          799
+        ],
+        "surfaceform": "Alberto Guerra",
+        "annotator": "Person"
+      },
+      "predicate": {
+        "uri": "P2021",
+        "boundaries": null,
+        "surfaceform": "testified",
+        "annotator": "Governance-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835174",
+        "boundaries": [
+          0,
+          7
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Asset"
+      },
+      "sentence_id": 4,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Governance-Triple-aligner"
+    }
+  ]
+}

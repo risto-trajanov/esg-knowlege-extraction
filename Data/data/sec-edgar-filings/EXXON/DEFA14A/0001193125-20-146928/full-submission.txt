@@ -1,0 +1,295 @@
+<SEC-DOCUMENT>0001193125-20-146928.txt : 20200520
+<SEC-HEADER>0001193125-20-146928.hdr.sgml : 20200520
+<ACCEPTANCE-DATETIME>20200520105933
+ACCESSION NUMBER:		0001193125-20-146928
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20200520
+DATE AS OF CHANGE:		20200520
+EFFECTIVENESS DATE:		20200520
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		20896088
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9729406000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d934705ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:7.5in" align="left">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="5"><B>UNITED STATES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:ARIAL" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P>
+<P STYLE="margin-top:16px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="5"><B>SCHEDULE 14A </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="3"><B>Proxy
+Statement Pursuant to Section 14(a) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="3"><B>of the Securities Exchange Act of 1934 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="3"><B>(Amendment No. &nbsp;&nbsp;&nbsp;&nbsp; ) </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:ARIAL" SIZE="2">Filed by the Registrant&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman" SIZE="2">&#9746;</FONT> </FONT></P>
+<P STYLE="margin-top:4px;margin-bottom:0px"><FONT STYLE="font-family:ARIAL" SIZE="2">Filed by a Party other than the Registrant&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT> </FONT></P>
+<P STYLE="margin-top:4px;margin-bottom:0px"><FONT STYLE="font-family:ARIAL" SIZE="2">Check the appropriate box: </FONT></P> <P STYLE="font-size:4px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid">
+<TD VALIGN="top"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;Preliminary Proxy Statement</FONT></TD>
+<TD VALIGN="bottom" ROWSPAN="2"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ROWSPAN="2">
+<P STYLE="margin-left:2.00em; text-indent:-2.00em"><FONT STYLE="font-family:ARIAL" SIZE="2"><B></B><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT><FONT STYLE="font-family:ARIAL" SIZE="2"><B></B></FONT><B>&nbsp;&nbsp;&nbsp;&nbsp;
+Confidential,&nbsp;for&nbsp;Use&nbsp;of&nbsp;the&nbsp;Commission&nbsp;Only(as&nbsp;permitted&nbsp;by&nbsp;Rule&nbsp;14a-6(e)(2))</B></FONT></P></TD></TR>
+<TR STYLE="page-break-inside:avoid">
+<TD VALIGN="top"> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;Definitive Proxy Statement</FONT></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid">
+<TD VALIGN="top"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9746;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;Definitive Additional Materials</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid">
+<TD VALIGN="top"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;Soliciting Material Pursuant to &#167;240.14a-12</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="6"><B>E<SMALL>XXON</SMALL> M<SMALL>OBIL</SMALL> C<SMALL>ORPORATION</SMALL> </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="2"><B>(Name of Registrant as Specified In Its Charter) </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="1"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT STYLE="font-family:ARIAL" SIZE="2">Payment of Filing Fee (Check the appropriate box): </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9746;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">No fee required. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11. </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(1)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Title of each class of securities to which transaction applies: </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="font-size:2px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:2px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:9%;border-bottom:0.5pt solid #000000; width:91%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(2)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Aggregate number of securities to which transaction applies: </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="font-size:2px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:2px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:9%;border-bottom:0.5pt solid #000000; width:91%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(3)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is
+calculated and state how it was determined): </FONT></P></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="font-size:2px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:2px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:9%;border-bottom:0.5pt solid #000000; width:91%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(4)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Proposed maximum aggregate value of transaction: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="font-size:2px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:2px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:9%;border-bottom:0.5pt solid #000000; width:91%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(5)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Total fee paid: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="font-size:2px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:2px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:9%;border-bottom:0.5pt solid #000000; width:91%">&nbsp;</P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Fee paid previously with preliminary materials. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid
+previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(1)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Amount Previously Paid: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="font-size:2px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:2px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:9%;border-bottom:0.5pt solid #000000; width:91%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(2)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Form, Schedule or Registration Statement No.: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="font-size:2px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:2px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:9%;border-bottom:0.5pt solid #000000; width:91%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(3)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Filing Party: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="font-size:2px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:2px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:9%;border-bottom:0.5pt solid #000000; width:91%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(4)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Date Filed: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="font-size:2px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:2px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:9%;border-bottom:0.5pt solid #000000; width:91%">&nbsp;</P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; line-height:44.0pt; font-size:34pt; font-family:ARIAL"><B>Addressing Shareholder Engagement and Climate Change in Advance of our Annual Meeting </B></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="80%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:16pt">
+
+
+<TR>
+
+<TD WIDTH="51%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="51"></TD>
+<TD HEIGHT="51" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; line-height:0.0pt; font-size:16pt; font-family:ARIAL"><FONT COLOR="#ff4338"><B>P<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>E<FONT
+STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>R<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>S<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>P<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;
+</FONT>E<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>C<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>T<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>I<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;
+&nbsp;</FONT>V<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>E<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>S<FONT STYLE="font-size:17pt" COLOR="#ff4338">&nbsp;&nbsp;&nbsp;&nbsp;</FONT>B<FONT
+STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>L<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>O<FONT STYLE="font-size:7pt" COLOR="#ff4338">&nbsp;&nbsp;</FONT>G</B></FONT></P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt;border-bottom:3.85pt solid #ff4338">&nbsp;</P> <P STYLE="font-size:14pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL"><B>By Stephen Littleton</B> &#150; May&nbsp;20, 2020 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">Companies around the world are working to adapt to the risks and challenges posed by <FONT STYLE="white-space:nowrap">COVID-19</FONT> and many, like
+ExxonMobil, are also stepping up to support medical professionals, first responders and those on the front lines in the fight against the pandemic. As we work to tackle the new challenges before us, ExxonMobil remains committed to continuing its
+business operations and engagement efforts on important issues such as managing climate risk. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">I want to take this opportunity to address two
+important issues &#150; climate change and shareholder engagement &#150; in advance of ExxonMobil&#146;s annual shareholders meeting later this month, which will be held virtually for safety reasons. To help shareholders during a busy proxy season,
+we wanted to share relevant facts, data, and publicly available resources highlighting how our company views and addresses these issues. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">This
+is especially important in light of recurring statements and SEC filings made by the Church of England and New York State Common Retirement Fund that misrepresent our positions and actions on both of these important matters. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">1 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:14pt; font-family:ARIAL"><B>Managing Climate Risk and Developing Solutions </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">Society faces a dual challenge of increasing supplies of energy to meet the demand of a growing world population while also addressing the risks of
+climate change. Our company plays an important role in addressing both aspects of that challenge. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">Our <B><I>Energy&nbsp;&amp; Carbon
+Summary</I></B>, which is available on our website, is a good resource for shareholders to understand how our company approaches risks related to climate change. The report analyzes potential impacts to the company&#146;s business under 2&deg;C
+scenarios in which demand for our products may be influenced by policy, technology, and consumer choices consistent with the Paris Agreement. Also included<I> </I>is information about how we mitigate those potential impacts and ensure our physical
+assets, including our petrochemical investments, are able to withstand risks from storms and other events. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">The
+<I></I><B><I>Energy</I></B><I></I><B><I>&nbsp;&amp; Carbon Summary</I></B><I></I> highlights our research and technology program that supports lower-emission solutions in transportation, power generation, and industrial applications &#150; sectors
+which today account for more than 80&nbsp;percent of global carbon emissions. The program includes work on advanced biofuels, lower-emission manufacturing and carbon capture, and is carried out at our corporate laboratories, in collaboration with
+leading universities and the U.S. National Laboratories, and in partnership with innovative <FONT STYLE="white-space:nowrap">start-ups.</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">The report also highlights how we are working to reduce emissions in our operations through efficiency gains and new technologies. This includes our
+efforts to achieve a <FONT STYLE="white-space:nowrap">15-percent</FONT> reduction in methane emissions and a <FONT STYLE="white-space:nowrap">25-percent</FONT> reduction in flaring by the end of this year versus 2016 levels. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">2 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">Our risk-management approach recognizes the central role that policy will play in mitigating
+climate risks, and the <I></I><B><I>Energy</I></B><I></I><B><I>&nbsp;&amp; Carbon Summary</I></B><I></I> outlines the company&#146;s engagements on climate-related policy, including our support for carbon-pricing and for policies that bolster the
+development and deployment of needed technology. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">Addressing climate change risks extends beyond company management, as ExxonMobil Directors
+also provide rigorous oversight to key risks associated with our business. In response to feedback received from shareholders on this topic, this year we expanded the <I></I><B><I>Energy&nbsp;&amp; Carbon Summary</I></B><I></I> to include enhanced
+disclosure of the Board&#146;s oversight framework and process, including the roles of our Board committees, as they apply to climate-related risk. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:14pt; font-family:ARIAL"><B>Expanding
+Shareholder Engagement </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">We&#146;ve been significantly expanding shareholder engagement for the past five years, and in 2019 we held more
+than 85 engagements with investors, pension funds and other organizations on environmental, social and governance issues. This includes more than two dozen engagements with signatories of Climate Action 100+, including with the Church of England and
+the New York State Common Retirement Fund. Individuals at all levels of our organization were included in these substantive and productive engagements, including subject-matter experts and independent Directors. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">In direct response to feedback gained through these engagements and shareholder input, the Board strengthened the authorities of our independent
+Lead Director, resulting in a greatly expanded oversight role. This change, as detailed in the proxy, enhances the Board&#146;s already thorough oversight of management and our CEO on issues important to the business, including the risk of climate
+change. Other examples of the Board&#146;s responsiveness to shareholders include adding a new provision for shareholders to call special meetings, and enhanced disclosures on issues of importance, including risks related to climate change and
+oversight of lobbying and political contributions. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">3 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL">We recognize not all shareholders will agree on the best way to manage risks, and we respect those
+with different perspectives and welcome their engagement. At the same time, we believe the statements made by the Church of England and New York State Common Retirement Fund are misleading. We encourage all shareholders to carefully consider the
+issues using the publicly available information, facts, and supporting data available in our proxy statement, in our <B><I>Energy&nbsp;&amp; Carbon Summary</I></B>, and on our website to better understand how the company is managing these complex
+challenges before us and how we engage with our shareholders. </P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; line-height:26.0pt; font-size:14pt; font-family:ARIAL"><B><I>Stephen Littleton is Vice President of Investor Relations and Corporate Secretary. </I></B></P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">4 </P>
+
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

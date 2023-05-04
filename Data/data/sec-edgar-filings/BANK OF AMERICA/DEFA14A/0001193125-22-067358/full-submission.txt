@@ -1,0 +1,550 @@
+<SEC-DOCUMENT>0001193125-22-067358.txt : 20220307
+<SEC-HEADER>0001193125-22-067358.hdr.sgml : 20220307
+<ACCEPTANCE-DATETIME>20220307111159
+ACCESSION NUMBER:		0001193125-22-067358
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20220307
+DATE AS OF CHANGE:		20220307
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANK OF AMERICA CORP /DE/
+		CENTRAL INDEX KEY:			0000070858
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				560906609
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06523
+		FILM NUMBER:		22716831
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BANK OF AMERICA CORPORATE CENTER
+		STREET 2:		100 N TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+		BUSINESS PHONE:		7043868486
+
+	MAIL ADDRESS:	
+		STREET 1:		BANK OF AMERICA CORPORATE CENTER
+		STREET 2:		100 N TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BANKAMERICA CORP/DE/
+		DATE OF NAME CHANGE:	19981022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATIONSBANK CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NCNB CORP
+		DATE OF NAME CHANGE:	19920107
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d24615ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9.5pt; font-family:arial" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9.5pt; font-family:arial" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9.5pt; font-family:arial" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:16pt; font-family:ARIAL" ALIGN="center"><B>SCHEDULE 14A
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9.5pt; font-family:arial" ALIGN="center"><B>(Rule 14a-101) </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9.5pt; font-family:arial" ALIGN="center"><B>INFORMATION
+REQUIRED IN PROXY STATEMENT </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:9.5pt; font-family:arial" ALIGN="center"><B>SCHEDULE 14A INFORMATION </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:9.5pt; font-family:arial" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) of the Securities </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9.5pt; font-family:arial" ALIGN="center"><B>Exchange Act of 1934 (Amendment No.&nbsp;&nbsp;&nbsp;) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL">Filed by the Registrant&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9746;</FONT> </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL">Filed by a Party other than the Registrant&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9744;</FONT> </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL">Check the appropriate box: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="2%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="97%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><B>Confidential, for Use of the Commission Only&nbsp;(as permitted by Rule 14a-6(e)(2))</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman">&#9746;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Soliciting Material Pursuant to &#167; 240.14a-12</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>Bank of America Corporation </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center">(Name of Registrant as Specified in its Charter)
+</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center">(Name of Person(s) Filing Proxy Statement, if Other Than the Registrant) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL">PAYMENT OF FILING FEE (Check the appropriate box): </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9746;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">No fee required. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. </P></TD></TR></TABLE>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">1)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">Title of each class of securities to which transaction applies: </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-size:1px; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+</TABLE></DIV> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">2)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">Aggregate number of securities to which transaction applies: </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-size:1px; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+</TABLE></DIV>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">3)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the
+amount on which the filing fee is calculated and state how it was determined): </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-size:1px; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+</TABLE></DIV>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">4)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">Proposed maximum aggregate value of transaction: </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-size:1px; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL">5) Total fee paid: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">Fee paid previously with preliminary materials. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which
+the offsetting fee was previously paid. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">1)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">Amount Previously Paid: </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-size:1px; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+</TABLE></DIV> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">2)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">Form, Schedule or Registration Statement No.: </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-size:1px; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+</TABLE></DIV> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">3)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">Filing Party: </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-size:1px; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+</TABLE></DIV> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">4)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:9.5pt; font-family:ARIAL; " ALIGN="left">Date Filed: </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:9.5pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="font-size:1px; font-family:ARIAL; font-size:9.5pt">
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD></TR>
+</TABLE></DIV>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Bank of America </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Board of Directors on Responsible Growth Video </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Brian
+Moynihan </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Chair of the Board&nbsp;&amp; CEO, Bank of America </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">When we started thinking about Responsible Growth a few years ago, it was not a new thing but it was a way of simplifying the company&#146;s expression of what
+we had to do. We had to grow, no excuses. We had to do it in a customer-focused basis. We had to stay within the risk and we had to be sustainable. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Arnold W. Donald </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>President&nbsp;&amp; CEO, Carnival
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Responsible Growth, to me, is exactly what we need to be doing at Bank of America, and, and what it is, is growing in a way that is good for the
+client. It&#146;s obviously also good for Bank of America and it&#146;s good for the communities we&#146;re in. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Michael D. White </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Chairman, President&nbsp;&amp; CEO, DIRECTV </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Lead Director, Kimberly-Clark Corporation </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We know we have
+to grow, as Brian says, &#147;No excuses,&#148; but it&#146;s easy to buy growth that isn&#146;t good growth, and not all dollars of growth are good dollars. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Sharon L. Allen </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Chair, Audit Committee </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Chair, Deloitte </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">One of the things that I really
+appreciate about our organization and&#151;is that it isn&#146;t growth at any cost. We really focus on doing the right thing. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>R. David Yost </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former CEO, AmerisourceBergen </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Establishing a strategy
+that will allow us to succeed both in the short term and, and the long term. You know, it&#146;s very easy to grow quickly in the short term by doing things that are maybe not the right things to do for the long term. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Thomas D. Woods </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Vice Chairman&nbsp;&amp;
+Senior Executive VP, Canadian Imperial Bank of Commerce (CIBC) </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Many companies have an overwhelming focus on the growth aspect, but stakeholders today
+are increasingly focused on companies&#146; values and integrity and character and the way they deal with all their stakeholders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Monica C. Lozano
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Chair, Compensation&nbsp;and Human Capital Committee </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>CEO, College Futures Foundation </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Chair, U.S.
+Hispanic Media Inc. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">And now the question is how do you continue to drive growth? That&#146;s the central question in front of us, and you drive growth
+by having a deeper and deeper relationship with your customer. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Maria T. Zuber </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Vice President for Research and </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Professor of
+Geophysics, MIT </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Every one of the senior management team feels like they are <FONT STYLE="white-space:nowrap">co-owners</FONT> in this idea of
+Responsible Growth and they have absolutely bought into the idea that if we do the right thing for our customers, the bank does well, the customers do well, the shareholders do well. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Susan S. Bies </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Member, Federal Reserve Board
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">When you put the customer first, it forces you to think of the long term because anybody can make a loan. It&#146;s easy to say &#147;yes.&#148;
+It&#146;s much more appropriate that you understand your customer&#146;s needs and the potential solutions that may work in their particular case because if we <FONT STYLE="white-space:nowrap">mis-sell</FONT> products, we hurt our customer, and
+we&#146;re not really going to help them. And long term, there&#146;s consequences then both for the customer and for the bank. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Frank P. Bramble, Sr.
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Chair, Enterprise Risk Committee </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former
+Executive Vice Chair, MBNA Corporation </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Integral to Responsible Growth is yeah, we&#146;re going to grow but we&#146;re going to grow within our risk
+tolerance, within our risk framework. We&#146;re not going to do anything crazy to the customer and we&#146;re not going to do anything crazy for the customer. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Clayton S. Rose </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>President, Bowdoin College </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">It&#146;s not about getting up every day and thinking about the maximization of shareholder returns. It&#146;s getting up every day and thinking about how we
+serve our customers in a way that fits within the structure of our business. And, if we do that, our shareholders are going to benefit enormously. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>R.
+David Yost </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">When you think about the opportunity the bank has to start with someone who is very young, and grow with them throughout their life as
+their needs increase and then even down to their children, and their children&#146;s children. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Lionel L. Nowell III </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Lead Independent Director, Bank of America </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former
+Senior VP&nbsp;&amp; Treasurer, PepsiCo, Inc. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We provide and help people in America lead quality lives. For the individuals that start with us, you
+know, with the savings account, we want to be there for every aspect of their life. As they transition through college, to marriage, to buying their first car, to buying their first home, I mean, we want to be a part of that family. And, I, I call
+it being part of their family and, you know, I always tell people, &#147;Man, you know, with Bank of America, you sure feel like you can live the American dream and we can be a part of that.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Arnold W. Donald </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">One of every two households in America
+is a client of Bank of America. We have two hundred plus thousand employees. That&#146;s a lot of human spirit walking around, and valuing that human spirit, I think, is a core value at Bank of America. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Denise L. Ramos </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former CEO and President, ITT Inc. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Despite the success
+that&#146;s here, it&#146;s a very humble culture. It&#146;s people that care about other people, they care about doing the right thing. You don&#146;t always see that in companies. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Monica C. Lozano </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">You can&#146;t be committed to
+communities without being reflective of the communities that we serve and every day it&#146;s more and more diverse and we need to have people not just at the entry level because that&#146;s easy. It really is how do you help people build a career
+here, driving sort of the, the, the values and the performance of the company. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Thomas J. May </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Chair, Corporate Governance, ESG, and Sustainability Committee </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Chair, President&nbsp;&amp; CEO, Eversource Energy </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our citizens are worried about the future and what it&#146;s going to look like. We&#146;re worried about our planet. We&#146;re worried about the way people
+are treated. And so addressing these things in a systematic fashion and bringing the power of 200,000 people, it&#146;s a pretty impressive and, and, and special thing to see. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Clayton S. Rose </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Because of the size and scope and scale
+and integrated nature of what we do within the economy, we have some very interesting perspectives about how to think about those problems. And we&#146;re engaged in helping other organizations think about solutions because of those perspectives
+that we bring. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Pierre J. P. de Weck </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former
+Chairman&nbsp;&amp; Global Head of Private Wealth Management, Deutsche Bank </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In today&#146;s society, you can only thrive as an, as an institution like
+ours if you are also contributing to your client base, your employees and society as a large. Bank of America pursues this not as an <FONT STYLE="white-space:nowrap">add-on</FONT> or because it&#146;s nice, but because of conviction. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Sharon L. Allen </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We fulfill our commitment because we
+believe in it. It&#146;s because our Board and our leadership believes in it. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Linda P. Hudson </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former President&nbsp;&amp; CEO, BAE </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Executive
+Officer, The Cardea Group LLC </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our reach is so vast. We touch such a large portion of the population that we have a true responsibility to put forth
+the best of the ideals and expectations of, of what America aspires to be. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Brian Moynihan </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">You can&#146;t just say, &#147;Here&#146;s our values.&#148; You can&#146;t just say, &#147;Here&#146;s Responsible Growth.&#148; The question is what do you
+do to live by them? It really means intellectually how you get up in the morning and think about what your job is. You&#146;re coming here to help the customers and everything behind that. It comes to the way we design the activities we do for the
+different types of customers. It comes from the business we choose to be in and not be in. And all that is governed by the view of how we think the company should operate from the Board on down. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Bank of America </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Life/Better Connected </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Bank of America Board of
+Directors Videos </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Arnold W. Donald </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>President&nbsp;&amp; CEO, Carnival </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Responsible Growth is
+growing in a way that is good for the client. It&#146;s obviously also good for Bank of America, and it&#146;s good for the communities we&#146;re in. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">What I think makes a good board is a board that is supportive of management, but not afraid to challenge management. We have a responsibility and the
+responsibility is governance, to maximize return to shareholders over the life of the firm, and to do that, we have to grow responsibly. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">But the
+independence is important because it allows us to always challenge and to bring in an unbiased perspective to ensure that the shareholders&#146; interest and the community interest are being served. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Management team and Brian, they do a great job of being concise, but comprehensive, and helping us follow what are the most critical aspects of the operations
+and to tune in on the things that are most important to deliver for the shareholders, for the employees, and, and, for the communities we operate. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">One of
+every two households in America is a client of Bank of America. We have two hundred plus thousand employees. That&#146;s a lot of human spirit walking around, and valuing that human spirit I think is a core value of Bank of America. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Brian Moynihan </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Chair of the Board&nbsp;&amp; CEO,
+Bank of America </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As we think out to the future, we&#146;re going to be driving Responsible Growth. We&#146;re going to be living our purpose. That
+won&#146;t change. The Board&#146;s core role is to govern the company and represent the shareholders. They have to think of the strategic position of the company, what we&#146;re doing in strategies, ensure that we&#146;re invested in the long term
+at all times. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">You can&#146;t just say, &#147;Here&#146;s our values.&#148; You can&#146;t just say, &#147;Here&#146;s Responsible Growth.&#148; The
+question is what do you do to live by it. It really means, intellectually, how you get up in the morning, think about what your job is. You&#146;re coming here to help the customers, and everything behind that. It comes to the way we design the
+activities we do for the different types of customers. It comes from the business we choose to be in and not be in. And all that is governed by the view of how we think the company should operate from the Board on down. And we&#146;re good people,
+and we want good customers, and we want to do the right thing, and we want to help them do it. That&#146;s the moral compass of the company. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Clayton
+Rose </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>President, Bowdoin College&nbsp;&nbsp;&nbsp;&nbsp; </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Responsible Growth means that we are focused on the long term and not on the short term, and providing customers with opportunities. It&#146;s not about what
+it&#146;s doing for the bank; it&#146;s what it&#146;s doing for and helping our customers. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The larger social issues that exist in our world: Climate
+change and economic inequality to name two. I think there are at least two ways that an organization like the Bank of America has an opportunity and I would argue an obligation to be engaged. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The first way is to make sure that the financial system and the economic system are furthered by the work
+that we do, not hindered or harmed by the work that we do. But the second is also to bring the resources and the thoughtfulness of the organization to bear directly on those problems by providing funds and encouraging new ways of thinking about
+solutions to those problems. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">One of the things that I think we are uniquely suited among a handful of institutions is because of the size and scope and
+scale and integrated nature of what we do within the economy, we have some very interesting perspectives about how to think about those problems, and we&#146;re engaged in helping other organizations think about solutions because of these
+perspectives that we bring. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>R. David Yost </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former
+CEO, AmerisourceBergen </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Responsible Growth strategy means to me, being responsible to the shareholders, being responsible to the community, being
+responsible to all the constituencies, which includes our associates, both in the short term and the long term. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The primary function of the Board is to
+hold the senior management and the leadership accountable. And we clearly do that at Bank of America. It&#146;s to oversee the&#151;the strategy, to make sure we&#146;re, you know, we&#146;re headed in the right direction. And not only for the short
+term but also for the long term. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As a member of the Board, that&#146;s one of my key responsibilities, to be responsive to the shareholders, and to hold
+management accountable. And I think this Board has done excellent job of that. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">When you think about the opportunity the bank has to start with someone
+who is very young, and grow with them throughout their life as their needs increase and&#151;and change. And then even down to their children, and their children&#146;s children. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">And really it&#146;s a&#151;it&#146;s a wonderful, you know, opportunity. It&#146;s one of the things that makes Bank of America so exciting for, for the long
+term. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Denise L. Ramos </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former CEO and President,
+ITT Inc. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I started out in oil and gas, a very engineering, industrial kind of a company. I spent twenty years there. I then went to do something very,
+very different, and it had to do with understanding what matters to consumers. I recognized it was important to combine those two concepts. It&#146;s not just what you make, it&#146;s how you make it, and how you&#146;re impacting the people. So
+this concept of being an industrial company, but with a human touch with it was really important to me, and that&#146;s really what I advocated in the company. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">My passion has always been finance. The Bank of America opportunity came up to me, and the key thing that I looked at was &#150; Is this a company I believe
+in? Is this a company that has a good Board, that I like the CEO, and that I like the culture in the company? And Bank of America fits all of that criteria for me. Despite the success that&#146;s here, it&#146;s a very humble culture; it&#146;s
+people that care about other people, they care about doing the right thing. You don&#146;t always see that in companies. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">It&#146;s really important for
+Bank of America that we understand that what we do impacts a lot of people&#146;s lives. It&#146;s not only the bank and the shareholders; it&#146;s the customers, it&#146;s the communities, it&#146;s the employees. It&#146;s very complex, but what
+underlies all of that is a value structure, making sure that you&#146;re doing it in a way that can benefit society. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Frank P. Bramble, Sr. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Chair, Enterprise Risk Committee </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Executive Vice
+Chair, MBNA Corporation </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Responsible Growth is who we are. It&#146;s our competitive differentiator. It says the customer first, so it&#146;s all about
+developing further penetration with our existing customer base with products they need. And Responsible Growth is completely aligned with our shareholders&#146; needs. In the last two years it&#146;s showing, because in our eight lines of business,
+we have generated positive operating leverage in every one of those businesses. We are providing return to our shareholders with this strategy. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We
+represent the shareholders. We are independent members of that Board. Our job is oversight. The management team&#146;s job is execution of the strategy. Our job is to approve the strategy and to oversee the implementation of that strategy. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The role of a lead independent director is to absolutely make sure that all our governance practices are aligned in the interest of the shareholders. And he
+then needs to build a positive and constructive relationship with the CEO and the senior management team, and he needs to be candid and direct with the CEO in all his interactions. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">There&#146;s no doubt about it, if we execute our Responsible Growth strategy, we will win in the marketplace, and we will sustain ourselves and be a truly
+great company over a very long period of time. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Linda P. Hudson </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former President&nbsp;&amp; CEO, BAE </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Executive
+Officer, The Cardea Group LLC </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">When we talk about Responsible Growth, what we&#146;re really looking at is doing growth where everybody wins. We are
+focused on the customer, particularly broadening the relationships and deepening the relationships. And doing it in a way that is sustainable for the business. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As independent, outside directors who are responsible to the shareholders to represent them, and they can be assured that the right things are being done. I
+have found that this Board works extremely well with the management team, while holding them accountable to the parameters that need to be met for good corporate stewardship. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I spent my corporate career running a very complex global defense company. And that experience helped me appreciate both the difficulties and the
+opportunities that come with the multitude of lines of businesses, each with their own little twist and turn, but how together, they create a powerful corporation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Lionel L. Nowell III </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Lead Independent Director, Bank
+of America </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Senior VP and Treasurer, PepsiCo, Inc. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Responsible Growth to me means that we&#146;re conducting business in a way that positively impacts the communities where Bank of America operates. But at the
+same time allows us to service our customers and our clients in a way that&#146;s sustainable, but also in a way that allows our employees, our shareholders, and quite frankly all our stakeholders that we have to benefit and&#151;and really be proud
+of the company that they&#146;re associated with. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board&#146;s role, I mean, it&#146;s corporate governance. I mean, that&#146;s paramount to having a
+good company. Our Board is comprised of a vast array of diversity. Not just in terms of ethnic, but also in terms of thought. And I think our customers and consumers expect that. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Having been at PepsiCo, which is a, like Bank of America, is a global organization, brought a lot of those learnings and how you interact with consumers and
+how you do things the right way to Bank of America. And I think it&#146;s been mutually beneficial. I always tell people, &#147;Man, you know, with Bank of America, you sure feel like you can live the American dream and we can be a part of
+that.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Maria Zuber </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Vice President for
+Research and Professor of Geophysics, MIT </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Responsible Growth means to me that if we do the right thing for our customers, the bank does well, the
+customers do well, the shareholders do well. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I hope that we&#146;re able to grow the value of the bank. I hope there are people who are able to afford to
+buy houses and that are able to lead successful lives because they&#146;ve been associated with the bank. This is really my hope and dream. That this can be done in a sustainable and a responsible manner in a way that&#146;s good for society. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Bank of America is a big bank and if you&#146;re doing well for the clients, you&#146;re doing well for an awful lot of people and you&#146;re doing well for
+the entire country. It&#146;s all about how can you accomplish the most good. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Michael D. White </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Chairman, President&nbsp;&amp; CEO, DIRECTV </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Lead Director, Kimberly-Clark Corporation </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Bank of America
+is driving for Responsible Growth. We know we have to grow and growth is vitally important for any investor. What the shareholders should know is that we as a Board are very actively engaged in overseeing management to make sure that we have a
+passion to grow, but at the same time to do it the right way. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The board of directors is the eyes, ears, and voice of the individual shareholder, looking
+out for their best interest over the long term. And ensuring that the company is building for the long term. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In a world that&#146;s changing so fast,
+values are fundamental to culture. Brian goes out of his way to spend time talking about values. It&#146;s all about ensuring that we&#146;re running the bank holistically for the shareholders for the long haul. That you&#146;re building talent and
+capability. That you&#146;re being a good corporate citizen in the community. And that we&#146;re incredibly customer-focused. That&#146;s what will make that growth sustainable. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Monica C. Lozano </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Chair, Compensation and Human Capital Committee </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>CEO,
+College Futures Foundation </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Chair, US Hispanic Media Inc. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We understand that we need to grow, but we need to do it in a way that&#146;s consistent with the needs of our customers, with our employees, and the
+communities that we serve. Bank of America has really led the way in establishing this as a model for driving growth. We have that unique ability to touch the lives of so many millions of people, not just in the U.S., but worldwide. We can be in the
+private sector and deliver against social imperatives that the entire world is dealing with. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">And what Bank of America has proven is that you can do good
+for society and also do good for your shareholders. And those two things coexist in a way that very few companies can deliver against. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">It&#146;s about
+being the best and about doing it in a way that does demonstrate that kind of Responsible Growth that has, you know, really been the hallmark of the Brian Moynihan era at Bank of America. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Pierre J. P. de Weck </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Chairman&nbsp;&amp;
+Global Head of Private Wealth Management, Deutsche Bank </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">You know I&#146;ve been in banking for <FONT STYLE="white-space:nowrap">thirty-six</FONT>
+years with three institutions: Citibank, UBS, and Deutsche Bank. And frankly, I witnessed over this long career that if you don&#146;t follow a Responsible Growth strategy in banking, sooner or later you will put the institution at risk, put the
+reputation at risk. There is no alternative than to be responsible and to have a Responsible Growth strategy. I think the market is recognizing that and our shareholder[s] benefit from that Responsible Growth. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We&#146;re extremely fortunate to have, you know, a Chairman and CEO who has what I call a very strong ethical compass. The Board recognizes that, and the
+Board supports Brian in the strong role he plays to create sustainable growth for the corporation and shareholder value for our shareholders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Sharon
+L. Allen </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Chair, Audit Committee </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Chair,
+Deloitte </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If we continue to focus on our clients, our customers, and providing all of our many services and products to them in a responsible way, we
+will have an opportunity to develop a long term relationship that really is productive for them and for us. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">It&#146;s important for a board to always
+remember that our role is oversight, assuring that we are fulfilling our responsibilities to our shareholders and our other constituents. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A lead
+independent director can assure that we are always independent in the board room, that we have a place to go, if we feel it&#146;s necessary, to really provide input to the whole of the governance process. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Responsible Growth is good commitment and a good strategy in good times and bad. I think it&#146;ll carry us through those ups and downs coming through in the
+years ahead. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Susan S. Bies </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Member, Federal Reserve Board </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Responsible Growth
+to me is the message we want to deliver to all of our associates, and to our clients. So when you put the customer first, it forces you to think of the long term. Because anybody can make a loan. It&#146;s easy to say &#147;yes.&#148; It&#146;s much
+more appropriate that you understand your customer&#146;s needs and the potential solutions that may work in their particular case. Because if we <FONT STYLE="white-space:nowrap">mis-sell</FONT> products, we hurt our customer, and we&#146;re not
+really going to help them. And long term there&#146;s consequences then both for the customer and for the bank. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If you look at our Board of Directors, it
+is our role to provide oversight of the way we govern the organization. Our people clearly understand their roles and responsibilities; is there an effective check and balance that we all follow the expectations set out for our role and that
+we&#146;re doing it effectively? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Brian really led the organization into the solution to the problems we were facing in 2008. Building the core values and
+the ways we treat each other and the ways we treat clients, because in the long run we all believe it&#146;s going to give us a more vibrant organization, and we can grow with the communities that we&#146;re serving. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Thomas J. May </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Chair, Corporate Governance, ESG, and
+Sustainability Committee </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Chair, President&nbsp;&amp; CEO, Eversource Energy </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">We&#146;ve been executing on a strategy that is based upon Responsible Growth, and more importantly a customer focus rather than a product focus. And I think
+it&#146;s particularly exciting when Wall Street accepts that maybe this differentiates us from everyone else. And maybe as a result, we&#146;re starting to see, creeping into our stock price, a premium for our focus on Responsible Growth. And
+that&#146;s pretty exciting to me. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A good board has a real commitment to the company strategy. We recognize the seriousness of our role. We need to be
+independent. We need to understand where they&#146;re going. We have to challenge, but we want to do it in a way that continues to build upon a successful strategy going down the road. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Our citizens are worried about the future and what it&#146;s going to look like. We&#146;re worried about our planet. We&#146;re worried about, the way people
+are treated. So addressing these things in a systematic fashion and bringing the power of <FONT STYLE="white-space:nowrap">two-hundred</FONT> thousand people is a pretty impressive and special thing to see. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Thomas D. Woods </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Former Vice Chairman&nbsp;&amp;
+Senior Executive VP, Canadian Imperial Bank of Commerce (CIBC) </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Responsible Growth is the foundation of our strategy. Stakeholders today are
+increasingly focused on companies&#146; values, and our employees, teammates, customers, the broader community, they expect us to interact with them responsibly and that has an effect on our brand. So, from a number of perspectives, it&#146;s
+absolutely fundamental to our corporate strategy. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Board, as a representative of the shareholders, considers the performance of the company in the
+context of the strategic plan that management advances. The breadth of experience that the Board has, does bring a helpful perspective. And at times management considers that and changes course. We have a tremendous brand. Brian is a very
+hard-working, transparent, knowledgeable individual, and you can just see that emanate right through the whole organization. </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,109 @@
+{
+  "docid": "30115004",
+  "title": "Board report summary to shareholders",
+  "uri": "Custom9",
+  "text": "The Board should summarize its findings to shareholders by January 31, 2022, and the report should be completed at reasonable cost and omitting proprietary information.",
+  "entities": [
+    {
+      "uri": "January 31, 2022T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime",
+      "boundaries": [
+        45,
+        61
+      ],
+      "surfaceform": "January 31, 2022",
+      "annotator": "Date_Linker"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Custom10",
+        "boundaries": [
+          4,
+          28
+        ],
+        "surfaceform": "Board report summary",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P180",
+        "boundaries": null,
+        "surfaceform": "summarize",
+        "annotator": "NoObject-Triple-aligner"
+      },
+      "object": {
+        "uri": "Custom11",
+        "boundaries": [
+          37,
+          49
+        ],
+        "surfaceform": "findings",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoObject-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Custom10",
+        "boundaries": [
+          4,
+          28
+        ],
+        "surfaceform": "Board report summary",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P31",
+        "boundaries": null,
+        "surfaceform": "should be",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom12",
+        "boundaries": [
+          64,
+          83
+        ],
+        "surfaceform": "completed at reasonable cost",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    },
+    {
+      "subject": {
+        "uri": "Custom10",
+        "boundaries": [
+          4,
+          28
+        ],
+        "surfaceform": "Board report summary",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P31",
+        "boundaries": null,
+        "surfaceform": "should be",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom13",
+        "boundaries": [
+          88,
+          109
+        ],
+        "surfaceform": "omitting proprietary information",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    }
+  ]
+}

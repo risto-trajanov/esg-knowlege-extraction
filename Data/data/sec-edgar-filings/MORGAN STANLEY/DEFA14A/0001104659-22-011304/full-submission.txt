@@ -1,0 +1,749 @@
+<SEC-DOCUMENT>0001104659-22-011304.txt : 20220203
+<SEC-HEADER>0001104659-22-011304.hdr.sgml : 20220203
+<ACCEPTANCE-DATETIME>20220203140836
+ACCESSION NUMBER:		0001104659-22-011304
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20220203
+DATE AS OF CHANGE:		20220203
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MORGAN STANLEY INSTITUTIONAL LIQUIDITY FUNDS
+		CENTRAL INDEX KEY:			0001227155
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-21339
+		FILM NUMBER:		22587691
+
+	BUSINESS ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		800-548-7786
+
+	MAIL ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0001227155
+<SERIES-ID>S000004148
+<SERIES-NAME>Government Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011654
+<CLASS-CONTRACT-NAME>Administrative Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MGOXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011656
+<CLASS-CONTRACT-NAME>Institutional Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MVRXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011657
+<CLASS-CONTRACT-NAME>Investor Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MVVXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011658
+<CLASS-CONTRACT-NAME>Participant Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MPCXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011659
+<CLASS-CONTRACT-NAME>Institutional Select Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MGSXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000017907
+<CLASS-CONTRACT-NAME>Cash Management Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MSGXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000167931
+<CLASS-CONTRACT-NAME>Select Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MSDXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000227505
+<CLASS-CONTRACT-NAME>CastleOak Share Class
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001227155
+<SERIES-ID>S000004149
+<SERIES-NAME>Government Securities Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011660
+<CLASS-CONTRACT-NAME>Administrative Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MGAXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011661
+<CLASS-CONTRACT-NAME>Advisory Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MVAXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011662
+<CLASS-CONTRACT-NAME>Institutional Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MUIXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011663
+<CLASS-CONTRACT-NAME>Investor Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MVIXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011664
+<CLASS-CONTRACT-NAME>Participant Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MGIPXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011665
+<CLASS-CONTRACT-NAME>Institutional Select Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MSVXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000017908
+<CLASS-CONTRACT-NAME>Cash Management Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MCHXX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001227155
+<SERIES-ID>S000004150
+<SERIES-NAME>ESG Money Market Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011666
+<CLASS-CONTRACT-NAME>Administrative Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MANXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011667
+<CLASS-CONTRACT-NAME>Advisory Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MVSXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011668
+<CLASS-CONTRACT-NAME>Institutional Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MPUXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011669
+<CLASS-CONTRACT-NAME>Investor Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MIOXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011670
+<CLASS-CONTRACT-NAME>Participant Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MMNXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011671
+<CLASS-CONTRACT-NAME>Institutional Select Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MMRXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000017909
+<CLASS-CONTRACT-NAME>Cash Management Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MSHXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000227506
+<CLASS-CONTRACT-NAME>CastleOak Share Class
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001227155
+<SERIES-ID>S000004151
+<SERIES-NAME>Prime Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011672
+<CLASS-CONTRACT-NAME>Administrative Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MPMXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011673
+<CLASS-CONTRACT-NAME>Advisory Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MAVXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011674
+<CLASS-CONTRACT-NAME>Institutional Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MPFXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011676
+<CLASS-CONTRACT-NAME>Investor Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MPVXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011677
+<CLASS-CONTRACT-NAME>Institutional Select Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MPEXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000017910
+<CLASS-CONTRACT-NAME>Cash Management Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MSPXX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001227155
+<SERIES-ID>S000004152
+<SERIES-NAME>Tax Exempt Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011678
+<CLASS-CONTRACT-NAME>Administrative Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MXAXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011679
+<CLASS-CONTRACT-NAME>Advisory Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MADXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011680
+<CLASS-CONTRACT-NAME>Institutional Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MTXXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011681
+<CLASS-CONTRACT-NAME>Investor Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MXIXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011682
+<CLASS-CONTRACT-NAME>Participant Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MXPXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011683
+<CLASS-CONTRACT-NAME>Institutional Select Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MXSXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000017911
+<CLASS-CONTRACT-NAME>Cash Management Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MTMXX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001227155
+<SERIES-ID>S000004153
+<SERIES-NAME>Treasury Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011684
+<CLASS-CONTRACT-NAME>Administrative Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MTTXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011685
+<CLASS-CONTRACT-NAME>Advisory Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MAOXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011686
+<CLASS-CONTRACT-NAME>Institutional Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MISXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011687
+<CLASS-CONTRACT-NAME>Investor Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MTNXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011688
+<CLASS-CONTRACT-NAME>Participant Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MTCXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011689
+<CLASS-CONTRACT-NAME>Institutional Select Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MTSXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000017912
+<CLASS-CONTRACT-NAME>Cash Management Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MREXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000167932
+<CLASS-CONTRACT-NAME>Select Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MSTXX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001227155
+<SERIES-ID>S000004154
+<SERIES-NAME>Treasury Securities Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011690
+<CLASS-CONTRACT-NAME>Administrative Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MAMXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011691
+<CLASS-CONTRACT-NAME>Advisory Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MVYXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011692
+<CLASS-CONTRACT-NAME>Institutional Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MSUXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011693
+<CLASS-CONTRACT-NAME>Investor Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MNVXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011694
+<CLASS-CONTRACT-NAME>Participant Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MPRXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000011695
+<CLASS-CONTRACT-NAME>Institutional Select Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MSSXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000017913
+<CLASS-CONTRACT-NAME>Cash Management Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MHSXX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000167933
+<CLASS-CONTRACT-NAME>Select Class
+<CLASS-CONTRACT-TICKER-SYMBOL>MSEXX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>a22-5069_2defa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+
+
+<html>
+<head>
+
+
+
+
+
+
+  </head>
+<body link=blue lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">UNITED STATES<br>  </font></b><b><font size="4" style="font-size:14.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">SCHEDULE 14A INFORMATION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Proxy Statement Pursuant to Section 14(a) of<br> the Securities Exchange Act of 1934 (Amendment No. &nbsp;&nbsp;&nbsp;&nbsp;)</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed by the Registrant&nbsp;&nbsp;</font><font face="Wingdings">x</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed by a Party other than the   Registrant</font>&nbsp;&nbsp;<font face="Wingdings">o</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box:</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Preliminary Proxy Statement</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Confidential, for   Use of the Commission Only (as permitted by Rule 14a-6(e)(2))</font></b></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Definitive Proxy Statement</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Definitive Additional Materials</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Soliciting Material under &#167;240.14a-12</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="4" face="Times New Roman" style="font-size:14.0pt;font-weight:bold;">MORGAN STANLEY   INSTITUTIONAL LIQUIDITY FUNDS</font></b></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name   of Registrant as Specified In Its Charter)</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(none)</font></b></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Name   of Person(s) Filing Proxy Statement, if other than the Registrant)</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="100%" colspan="4" valign="top" style="padding:0in .7pt 0in .7pt;width:100.0%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Payment of Filing Fee (Check the   appropriate box):</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">No fee required.</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Fee computed on table below per   Exchange Act Rules 14a-6(i)(1) and 0-11.</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(1)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title of each class of securities to   which transaction applies:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Aggregate number of securities to   which transaction applies:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(3)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Per unit price or other underlying   value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth   the amount on which the filing fee is calculated and state how it was   determined):</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(4)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Proposed maximum aggregate value of   transaction:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(5)</font></p>    </td>
+<td width="90%" valign="top" style="padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Total fee paid:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:4.66%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.3%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Fee paid previously with preliminary   materials.</font></p>    </td>   </tr>
+<tr style="page-break-inside:avoid;">
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="94%" colspan="3" valign="top" style="padding:0in .7pt 0in .7pt;width:94.96%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check box if any part of the fee is   offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing   for which the offsetting fee was paid previously. Identify the previous   filing by registration statement number, or the Form or Schedule and the date   of its filing.</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(1)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Amount Previously Paid:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(2)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Form, Schedule or Registration   Statement No.:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(3)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filing Party:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(4)</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date Filed:</font></p>    </td>   </tr>
+<tr>
+<td width="5%" valign="top" style="padding:0in .7pt 0in .7pt;width:5.04%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="4%" valign="top" style="padding:0in .7pt 0in .7pt;width:4.36%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="90%" colspan="2" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:90.6%;">
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr height="0">
+<td width="36" style="border:none;"></td>
+<td width="31" style="border:none;"></td>
+<td width="2" style="border:none;"></td>
+<td width="639" style="border:none;"></td>   </tr> </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109955\22-5069-2\task11205071\5069-2-ba.htm',USER='109955',CD='Feb  3 21:56 2022' -->
+
+
+<div style="page-break-before:always;"></div>
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman"><img width="240" height="60" src="g50692bgi001.gif"></font></p>
+<p style="margin:0in 0in .0001pt;text-indent:22.3pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">PO Box 808001</font></b></p>
+<p style="margin:0in 0in .0001pt;text-indent:22.3pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Louisville, KY 40233-8001</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">IMPORTANT- Response Needed</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Regarding Your Investment in:&#160; </font></b>Morgan Stanley Institutional Liquidity Funds</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dear Valued Shareholder:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We have been trying to get in touch with you regarding a very important matter pertaining to your investment in the Morgan Stanley Institutional Liquidity Funds. </font>We recently sent you proxy materials concerning an important shareholder meeting.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This letter was sent because you held shares in the fund(s)&nbsp;on the record date and <b><i style="font-weight:bold;">we have not received your vote</i></b>.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">VOTE NOW BY CALLING</font></b></p>
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-</font></b><b>888-916-1751</b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Please contact us toll-free at the number listed above between 10:00 a.m.&nbsp;and 11:00 p.m.&nbsp;Eastern Monday through Friday and 12:00 p.m.&nbsp;to 6:00 p.m.&nbsp;Eastern Saturday. Please respond as soon as possible.&#160; At the time of the call, please use the <b>Reference Number</b> listed above.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">You will not be asked for confidential information and your call will be recorded for your protection.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Thank you in advance for your participation.&#160; We appreciate you taking the time to vote your shares.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109955\22-5069-2\task11206159\5069-2-bg.htm',USER='109955',CD='Feb  3 22:49 2022' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g50692cai001.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g50692cai001.gif
+M1TE&.#EA>  I '< ,2'_"TU33T9&24-%.2XP#0    %S4D=" *[.'.D (?\+
+M1T%-34%.3U<Q+C $7EL#   A_PM-4T]&1DE#13DN,!@    ,;7-/4$U33T9&
+M24-%.2XP^*SQKY0 (?\+35-/1D9)0T4Y+C 5    "7!(67,   [$   .Q &5
+M*PX; "'Y! $  /< +     !X "D AP    D)"3 P,&1D9*.CH^'AX?____W]
+M_?[^_F5E94U-3<'!P0(" LW-S04%!0\/#PT-#08&!F]O;^;FYF=G9TM+2P,#
+M \[.SE555=[>WMK:VMG9V=;6UKFYN7=W=RLK*R,C([^_OTQ,3&9F9O;V]I24
+ME,# P&)B8L+"PA@8&"$A(>#@X&AH:+:VMF%A80<'!\G)R6MK:^[N[I&1D8.#
+M@Y*2DKBXN.GIZ?KZ^L_/SZ*BHHF)B86%A:&AH?S\_/'Q\;N[NXZ.CH&!@8>'
+MAZ^OK^?GY]#0T*6EI=/3T_O[^]W=W>7EY=34U-?7U]C8V-O;VRDI*8V-C2(B
+M(AX>'OGY^3DY.3\_/YF9F20D)!T='9>7E\?'QTE)24]/3]'1T3@X.'5U=4A(
+M2!$1$0$! 1D9&8N+BU!04#HZ.O+R\B<G)VYN;A 0$*"@H%)24F-C8UU=77]_
+M?YZ>GJ>GIPH*"GAX>)65E8^/CQ,3$S8V-CP\/"PL+"\O+SL[.TY.3L3$Q&!@
+M8!<7%ZRLK(B(B(:&AO7U]4%!0</#PUA86'U]?3T]/>3DY.WM[;V]O>OKZ]+2
+MTC<W-Q04%-S<W"XN+EQ<7&IJ:JVMK<S,S"TM+3$Q,?3T]" @(/#P\"HJ*EE9
+M65145/CX^%=75SX^/D)"0C4U-;>WM^_O[Q\?'XR,C*:FINKJZJBHJ!L;&S0T
+M-,O+RP0$! X.#IV=G>CHZ!86%IJ:FI:6EG%Q<7Y^?D9&1@L+"VUM;5I:6E%1
+M47!P<).3DXJ*BD5%13(R,B4E)41$1"8F)A(2$G)R<M_?WWIZ>D='1YB8F.+B
+MXJNKJ_?W]T-#0Q45%4! 0+6UM=75U1P<'*ZNKKZ^ONSL[+&QL5-34_/S\WQ\
+M?(*"@IN;FY^?GY"0D'-S<X2$A'9V=E]?7ZJJJFEI:1H:&G1T=+*RLIR<G%M;
+M6VQL;%Y>7H" @*FIJ;R\O%965KJZNL7%Q<;&QLC(R,K*RK"PL"@H*+2TM
+M  $" P$" P$" P$" P$" P$" P$" P$" PC_  $('#A0RH@K,@PH7,BPH<.'
+M$",J' % F,2+&#,JM"304L.!8@"$#$G00T*-*%%2M)BRI48@'3\"P"!#B4V;
+MECQ($2@&B,N?#U<"'?J0(P"/# 6.B'AE(%(#)Z$NC$IUJE6%51U2Q,#PI%>L
+M8*6*_3HV+%F%,(_*Y!K1TD@E$*-V?2CWJEVA1/.BC9D4P%*):=F*;5@W+&&Z
+M6BL>-CQ8;E;#C@VG?:I0H&#&$_G:S5@8\4*\$CN']EQ4(-R^?Q<K5!(R-6%Q
+M@CP( G)ZL%E+5V)?H?Q9,58@L06)JUL7M^S==)58BJJ\N24E30&(<Z[$\MR'
+MP@!(.2N()$B3FPV(_V-%4" KGPSQ7O'.4Q!$(-G+"^-M@/Q22_'+Z^>I-*,@
+MS5#%)\P5N9$W4V<4:><!@2.0=$5Z,QF0X$%7Z"30@V%%)\6"@B38TV [><":
+M>:R4:*) 4@AC(@;603:841@JQ*(8XC0D3G\-_0> >PPI$1]Z$L[D 0"L4"8#
+M>6+(E=8(<BEA8&WU > !BS0Y9!24!N 8'E9:WJB60]&AEY!1/!*V$RLGL;@3
+M2PVE!:0,.[DVU4Z7[43G>P!F&6%&=RI$G@<19<=FD*Q$Y&9F(D444IDW)@F1
+MET\9Z&AI7RZD9591D<<61V)@R5!3D\IPH417#(=HC1#]N5!V93HD0T@Q[O^T
+MHZ%YMH@1>2S]-ZBK J&75FUG-431I'9E]Y>HE0:U9Y0 >+J04;QIV5A7?;(H
+MIT/D8?B?%"E15&AXQNY%[$--?6O F=>=--E:F!G69W928"#,O/36VYI"0YIK
+M5UV@8>>70E[6*_"\2)YD'V"U_GM=0]5)Z>=^$ ,:))N17=6O8=E)'!W$Y4T:
+MXE51K0N6K:J))Q"JV6&@G"4LM^SR<YGM>E&_=85K *A O/SRR@8K#!&T,KE&
+M7&:=*I1Q2ODN7%;,$MD,JF@0Q5FRR)8NJ_2YOAD@:$K;%B;:Q7+9_&M*![<K
+M\DF7/BI0F4-RB]+8MD$$6F%'&] PJAI]K!K5E5G_G>Y.Q!X:D7)3A22QBS*8
+M.G'3/O?95J8^/\2WGD(3%E^,4(4DV%FL]K9=1$DOKK3-!NAXVEDWHJF0U"X:
+M,#G)#>$'>^FC/J1CC U7#G#M<SM$>L/"=#9B\*M';AO08O4GP_)062).@A5Y
+M+2O>"^EXN$+6UQ5=:A</5C?VEA5'GA2UJ4JK=#*)(<7Z4JA?WK4+*2$K*\*)
+M<T5\ERTTI';U"Q*?:]UC".D0)88%V6]_8J ,ZZ8%%1252AP0Y!A/,  DS,B
+M1?H1 ^8:<@59$40*&V31H.I2MD]YD" J:\@"(;*_]XW@A3 <@6QH$Y&Z*$$<
+M4QJ!<+S6I@[)L((+$0<&_S8XF"M@@'H, 0X,K^"L*6$N6);PX0NOQQF]Z 5J
+M5LPB1AY3Q79I,6XN.0L6N_B3H8T&C)BZ&M2"]46E50R,KB+-&J_FQ;@\9#H.
+M$0=20B:(/O*&+*)Y8UGF&!XNE@QD9HDC5J2PQU6URD\'T8F8SCC&,\)Q2XE,
+M%THZ4R2'8."1!J @P&1623%:T(U>Q"(A&?C&(]%GB!A#CR#RATA,UC",<K0C
+M'6_52!F!4EX>&($P3I=*U9A2DPRT#1MKV:['8*J3#1F0[V8#A$I:4I?83(DU
+M%7E(:#+DD[X#8NO2J$@>7I*<F6Q=.G>)%6A&19H).8DPQ+DE56;SD' <HR Q
+3^0\85DC!1"=I4(D8*2/J!00 .P$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g50692bgi001.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g50692bgi001.gif
+M1TE&.#EA\  \ '< ,2'_"TU33T9&24-%.2XP#0    %S4D=" *[.'.D (?\+
+M1T%-34%.3U<Q+C $7EL#   A_PM-4T]&1DE#13DN,!<    +;7-/4$U33T9&
+M24-%.2XP0CRD]0 A_PM-4T]&1DE#13DN,!4    )<$A9<P  #L0   [$ 94K
+M#AL (?D$ 0  _P L     /  / "'____^_O[Y>7EWM[>X.#@\_/S_/S\W]_?
+M\O+R^/CXSL[.M[>WL;&QO+R\V-C8J*BH?GY^BHJ*]O;V145%(R,C)24E>7EY
+MRLK**BHJ)"0DH*"@^?GYDY.3/3T]$! 0    '!P<3DY.=G9V@H*"Y.3D!04%
+M[.SL'1T='Q\?\?'QB8F)BXN+Z>GI&!@8'AX>"0D) @("='1T]_?W:VMKQ\?'
+M3T]/$A(2[>WM!@8& 0$!NKJZ04%!&QL;" @(CX^/4%!06%A8N;FYU=75VMK:
+MEY>7+2TM;V]OR<G)5%14.3DY<G)R8&!@!P<'J:FI75U=_?W]3$Q,! 0$N+BX
+M<'!P8V-C@8&!-S<W]/3TE)24)B8FGY^?65E9X^/C(B(B/#P\<W-S:&AH"PL+
+MR,C(_O[^4U-39F9FY^?GP<'!S<W-\/#P^OKZYN;FS\_/ZNKJ[^_OTM+2R\O+
+MT]/3T-#0S,S,/S\_$Q,3B(B(0$! :6EIV=G9W-S<QL;&Z^OK,3$QK*RLQ,3$
+MUM;6*RLK# P,-34U?W]_;FYN8F)B<7%QPL+"7%Q<=75U0D)"7EY>,S,S$1$1
+M-C8V86%A#0T-V]O;1$1$"@H*%A86)R<G-#0T1D9&]?7U0T-#5555KZ^OJJJJ
+M%Q<7&AH:K:VMIJ:F2$A(.#@X7U]?9&1D6EI:9V=G1T=',C(R;&QL&1D9*"@H
+MM;6U%145;6UM45%1P\/#CHZ.F9F9965EW=W=Q<7%D)"0+"PLXN+B>GIZO[^_
+M+BXNZ.CH%!04#@X.U]?76UM;[N[NM+2T34U-KJZNOKZ^U-34L[.SEI:6>'AX
+MFYN;MK:V.CHZ:FIJ P,#LK*RIZ>GH:&AFIJ:4E)2G)R<A(2$E965?7U]N[N[
+M=W=WJZNK,# PO;V]*2DI2TM+>WM[.SL[C(R,@X.#(2$AGIZ>+R\OA86%#P\/
+M24E)(" @?'Q\HZ.CX>'AI:6EDI*2L+"PG9V=2DI*5E96HJ*BC8V-@(" F)B8
+M/CX^I*2DAH:&AX>'P,# D9&15U=7    "/\  0@<2+"@P8,($RI<R+"APX<0
+M(TJ<2+&BQ8L8,VK<R+&CQX\@0XH<2;*DR9,H4ZI<R;*ERY<P8\J<2;.FS9LX
+M<^K<R;.GSY] @PH=2K2HT:-(DRI=RK2ITZ=0H]H45JLJ0ZI6I2J<DZUK+9N=
+MM-D!6FM2E[/:MIX].TOK03N-''V8ZVA3)X39Q I#.6GN7I_"Y-+]^W;NW+%N
+M!PKK2[>+X0]I#9:9FXWO!T>$>=9R[/A#982-+L]MFU@@XTW9JLZ9U3DRP<D?
+MYJ#<=#GS3F&.-X5V7;"67-B($W>:N\G@8LH%M<V5?;(OYI^;/Y2Q\Z$10NI=
+MAG\@G9CVAZ_&Y5K_)ZC\^^S:T!V7R;;\(.WUAQ$*XSK'ML*L!.?7;ZA_/_\Y
+M_B7DG'T"V='%).#M!5LVPA (0"T .G@0A. 9Y)V$$*9&H(0"<3A1=&4($UIP
+M _GV02=SQ%?0'&5T5ITV]I712'$ S&)6&01ELTEG7:0UQXRVL1C798UH4^%
+M,A8GC#:A?=!%&4<6U&24!%7XXY!.-H)@079,(E@7J!G422.-R#:F7(Y,<E=!
+MSB'4B9>&%7EDD@C)B"-'N'U0W&23&,2>(Q"J.% V@CGB8IE2.@D ;'H.1!U=
+M@DVBW',#=2*8:'-U\=E ?6G:I"-?4BE0>9-X"$"*CQG&W(.,778IB36._U8>
+MJ(9Q)]"%!0G#J*&&=;%J>:LJ1EQ'T16G791\ L#>=CG2-4LM\Y77!6$BOCB7
+MI)\]VD@GT&;#Z+259HKB?';(!6Z'SA&7VASET6C0')%N*E\GV3!F1U=_U=*D
+M-JG5DDV3:Q9(EY.SS.&O8X 2-&!RQ!D,X:/GUC(7;P+-@AQ'Q0(0&+.*.9;6
+MLB0R)B\ C[H+0&AH!OS@7(U$:;&3A$W6A<MSJ<R8(RH#X)RH &C'<L$+E1?E
+MLK9J+)?)+TN7V<NVTD:I0*B:7/'$G%9GF\RF1I0Q +29O*QL((<+V4$H5_AI
+ML(O6[![,BLTR\LIC5^T(V@  F]"_C]75B8-V%_^43=&W*CK0RQ0K2[7<F3DM
+M:FCCQ>I9?NIYE">-%C^M7!<"A1WXXP:]'!QC=W8LN(5.\DP0O'&;QC:7%R=D
+M8ZI=V!%C>PYU6N'+.<,=.M?H=>A8GP=-"IZ)O"V;.T9;2\SYR7%K1UJUCB"$
+MZIW5QN;WL&LWLF$G=FQBUN&JGTL>[0NQZ^('DZ#=M_1VE#%)D]H[JO:*X.O<
+M^ZF'__77HZO2AKG\XMO(UNQW)U2M27/1:5QOQ",W/]6/(/Z+$HLN]9C==<H^
+MCWJ;0NK5JR.M+S\&2E6F;C>_*OT&@GX9%%W(Q$(6=F93N!M(:*2FD0%>3F#G
+M0J!<@&>0!':(<6(25$'_:!._@93G,I*:A:529[\ CHI\#YF%8'8'&[IEXU#3
+MT='J2%;"@:"*-VT2FPA%N*F-W4EYQ\/(Y+S8GJZID&,F4F"5'%/$"Q9$.X4+
+MW,SD5YU99,9C"BN=0<JC089H)V%/M-[IT&2D\8F/:3V<R^YPE3GB=.*2F,PD
+MMUZ#'NH\#6.Y$9WL1B,VQ.1)CFQLE$" >#WI((2(?T%5J7H#R*H5<7R*S!6T
+M%(*P554Q48YX&];XF+LO!O)IFG.(=N[BQH\,,&UJFDN%DLD842W+-:%QHHEX
+M.,35E2=W>;*@(%FW/"^.2"'>^144HW:084[M1#T\X4"<1IAM0B2<>4HC\D(9
+M_RY><9-H1B2E9%K'2C9=1E1VY%TN2R07WC#./A\4B(GV>) \431M"\5C.[?X
+MJ&+6;V&(JRC=TM:%RIGN(FL4G4 K^8'@Q-$V$R5,0@E".#^9"SP+,LBCP#A.
+M@O#O(-J991!5F<A@+8N&J'OD2AGJRGG>SW$T3%OAEK7#D#S3?E#4#HG:19@?
+MM:Y:J%SE953FLR(&M9Z,$J<3ZP9%%%8G0,+PF;Q^J1@TR4N*F2),1]_UT8/F
+MITFR4TR[#N(BP F0GX-C62M)) SO]&@691 ,Q;))H.B@SPY=N@QGS/8SR'+&
+MKE5;*R'ETZI)E$$;+3(,K""F#3\*[#*MA0O+))E8>/_VAK9.K8X=]@:USC3"
+M#K.0K=6"9YB37N2JRJ.85G-UQ%[!BGG_FU"K6,:BX4JT28\I57E"1]E!MC4Y
+M%(Q3,2FH3MAE W64>A3@C.E%"M9SNH8)D?2P!Q)AS()?G;,#VFJ!V9'R=Q,
+M?A90@<LA;P5X+Q',SRR\9]J A65387&MW[31R/LLV'N;T 9O)Z0- ,,H1^Z;
+MQ";L !YV<8==%08A?D_7X1$'J<,BUL9(15D:AL"RQB_YDW%KW)>PXO@\W/QQ
+M*_,HY)(8[\?\91!!ECBW(JMD#K\3\K*T!&#LZM/)Q (P8RY:X[*,<1*%Q++D
+M'M.(,+N%*\%5XHS%_)&X8E8MR6R.LYSG3.<ZV_G.>,ZSGO?,YS[[^<^ #K2@
+4!TWH0AOZT(A.M*(7S>A&SSD@ #L!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

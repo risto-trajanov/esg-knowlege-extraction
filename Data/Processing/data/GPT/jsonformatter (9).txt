@@ -1,0 +1,106 @@
+{
+  "docid": "30115004",
+  "title": "Company Climate Change Resilience Report",
+  "uri": "Custom7",
+  "text": "In March 2021, the Company published its third Climate Change Resilience Report aligned with the Task Force for Climate-related Financial Disclosures.",
+  "entities": [
+    {
+      "uri": "2021-03-01T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime",
+      "boundaries": [
+        3,
+        14
+      ],
+      "surfaceform": "March 2021",
+      "annotator": "Date_Linker"
+    },
+    {
+      "uri": "Custom8",
+      "boundaries": [
+        23,
+        30
+      ],
+      "surfaceform": "Company",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Custom9",
+      "boundaries": [
+        56,
+        88
+      ],
+      "surfaceform": "Climate Change Resilience Report",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q1392091",
+      "boundaries": [
+        102,
+        139
+      ],
+      "surfaceform": "Task Force for Climate-related Financial Disclosures",
+      "annotator": "Me"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Custom8",
+        "boundaries": [
+          23,
+          30
+        ],
+        "surfaceform": "Company",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P433",
+        "boundaries": null,
+        "surfaceform": "published",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom9",
+        "boundaries": [
+          56,
+          88
+        ],
+        "surfaceform": "Climate Change Resilience Report",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    },
+    {
+      "subject": {
+        "uri": "Custom9",
+        "boundaries": [
+          56,
+          88
+        ],
+        "surfaceform": "Climate Change Resilience Report",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P7102",
+        "boundaries": null,
+        "surfaceform": "aligned with",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q1392091",
+        "boundaries": [
+          102,
+          139
+        ],
+        "surfaceform": "Task Force for Climate-related Financial Disclosures",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    }
+  ]
+}

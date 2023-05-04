@@ -1,0 +1,142 @@
+{
+  "docid": "30115002",
+  "title": "Chevron Corporation emissions commitment",
+  "uri": "Custom1",
+  "text": "As of December 2020, Chevron Corporation had neither committed to net-zero emissions by 2050 across its value chain, nor disclosed how its financial assumptions would change from doing so.",
+  "entities": [
+    {
+      "uri": "Q83349",
+      "boundaries": [
+        24,
+        32
+      ],
+      "surfaceform": "December",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q247700",
+      "boundaries": [
+        33,
+        37
+      ],
+      "surfaceform": "2020",
+      "annotator": "Date_Linker"
+    },
+    {
+      "uri": "Q334",
+      "boundaries": [
+        44,
+        56
+      ],
+      "surfaceform": "Chevron Corporation",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Custom3",
+      "boundaries": [
+        88,
+        99
+      ],
+      "surfaceform": "2050",
+      "annotator": "Me"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q334",
+        "boundaries": [
+          44,
+          56
+        ],
+        "surfaceform": "Chevron Corporation",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P1532",
+        "boundaries": null,
+        "surfaceform": "committed to",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom3",
+        "boundaries": [
+          88,
+          99
+        ],
+        "surfaceform": "2050",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q334",
+        "boundaries": [
+          44,
+          56
+        ],
+        "surfaceform": "Chevron Corporation",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "Custom4",
+        "boundaries": [
+          58,
+          87
+        ],
+        "surfaceform": "net-zero emissions by 2050 across its value chain",
+        "annotator": "Me"
+      },
+      "object": {
+        "uri": "Q247700",
+        "boundaries": [
+          33,
+          37
+        ],
+        "surfaceform": "2020",
+        "annotator": "Date_Linker"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Me"
+    },
+    {
+      "subject": {
+        "uri": "Q334",
+        "boundaries": [
+          44,
+          56
+        ],
+        "surfaceform": "Chevron Corporation",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "Custom5",
+        "boundaries": [
+          101,
+          146
+        ],
+        "surfaceform": "disclosed how its financial assumptions would change from doing so",
+        "annotator": "Me"
+      },
+      "object": {
+        "uri": "Custom3",
+        "boundaries": [
+          88,
+          99
+        ],
+        "surfaceform": "2050",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Me"
+    }
+  ]
+}

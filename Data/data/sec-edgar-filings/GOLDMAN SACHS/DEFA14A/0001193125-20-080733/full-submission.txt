@@ -1,0 +1,1123 @@
+<SEC-DOCUMENT>0001193125-20-080733.txt : 20200320
+<SEC-HEADER>0001193125-20-080733.hdr.sgml : 20200320
+<ACCEPTANCE-DATETIME>20200320163532
+ACCESSION NUMBER:		0001193125-20-080733
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20200320
+DATE AS OF CHANGE:		20200320
+EFFECTIVENESS DATE:		20200320
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDMAN SACHS GROUP INC
+		CENTRAL INDEX KEY:			0000886982
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		IRS NUMBER:				134019460
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14965
+		FILM NUMBER:		20732396
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		212-902-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GOLDMAN SACHS GROUP INC/
+		DATE OF NAME CHANGE:	20010104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d895305ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="5"><B>UNITED STATES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:ARIAL" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P>
+<P STYLE="margin-top:4px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="5"><B>SCHEDULE 14A </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="3"><B>Proxy
+Statement Pursuant to Section&nbsp;14(a) of the Securities </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="3"><B>Exchange Act of 1934 </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:ARIAL" SIZE="2">Filed by the Registrant
+<FONT STYLE="font-family:Times New Roman" SIZE="2">&#9745;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filed by a Party other than the Registrant <FONT
+STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT> </FONT></P> <P STYLE="margin-top:3px;margin-bottom:0px"><FONT STYLE="font-family:ARIAL" SIZE="2">Check the appropriate box: </FONT></P>
+<P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Preliminary Proxy Statement </FONT></P></TD></TR></TABLE> <P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><B>Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))</B> </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Definitive Proxy Statement </FONT></P></TD></TR></TABLE> <P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9745;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Definitive Additional Materials </FONT></P></TD></TR></TABLE> <P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Soliciting Material Pursuant to Section&nbsp;240.14a-12 </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:ARIAL" SIZE="6"><B>The Goldman Sachs Group, Inc. </B></FONT></P> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #799bc8">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:ARIAL" SIZE="2"><B>(Name of Registrant as Specified in its Charter) </B></FONT></P> <P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #799bc8">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="1"><B>(Name of Person(s) Filing Proxy
+Statement, if other than the Registrant) </B></FONT></P> <P STYLE="margin-top:8px;margin-bottom:0px"><FONT STYLE="font-family:ARIAL" SIZE="2">Payment of Filing Fee (Check the appropriate box): </FONT></P>
+<P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9745;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">No fee required. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(1)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Title of each class of securities to which transaction applies: </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="2">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;margin-left:4%;border-bottom:0.5pt solid #799bc8">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(2)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Aggregate number of securities to which transaction applies: </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="2">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;margin-left:4%;border-bottom:0.5pt solid #799bc8">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(3)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule&nbsp;0-11 (set forth the amount on which the filing fee
+is calculated and state how it was determined): </FONT></P></TD></TR></TABLE> <P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="2">&nbsp;&nbsp;</FONT></P> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;margin-left:4%;border-bottom:0.5pt solid #799bc8">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(4)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Proposed maximum aggregate value of transaction: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="2">&nbsp;&nbsp;</FONT></P> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;margin-left:4%;border-bottom:0.5pt solid #799bc8">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(5)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Total fee paid: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="2">&nbsp;&nbsp;</FONT></P> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;margin-left:4%;border-bottom:0.5pt solid #799bc8">&nbsp;</P>
+<P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Fee paid previously with preliminary materials. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid
+previously. Identify the previous filing by registration statement number, or the form or schedule and the date of its filing. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:8px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(1)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Amount Previously Paid: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="2">&nbsp;&nbsp;</FONT></P> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;margin-left:4%;border-bottom:0.5pt solid #799bc8">&nbsp;</P>
+<P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(2)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Form, Schedule or Registration Statement No.: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="2">&nbsp;&nbsp;</FONT></P> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;margin-left:4%;border-bottom:0.5pt solid #799bc8">&nbsp;</P>
+<P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(3)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Filing Party: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:ARIAL" SIZE="2">&nbsp;&nbsp;</FONT></P> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;margin-left:4%;border-bottom:0.5pt solid #799bc8">&nbsp;</P>
+<P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">(4)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">Date Filed: </FONT></P></TD></TR></TABLE> <P STYLE="font-size:3px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:ARIAL" SIZE="2">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="" ALIGN="left"></P></TD></TR></TABLE> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;margin-left:4%;border-bottom:0.5pt solid #799bc8">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="49%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">SHIVA STEIN, derivatively on behalf of The Goldman Sachs Group, Inc., and individually as a Stockholder of The Goldman Sachs Group, Inc.,</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2" STYLE="BORDER-RIGHT:1px solid #000000">&nbsp;</TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Plaintiff,</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:2.00em; font-size:10pt; font-family:Times New Roman">v.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C.A. No. <FONT STYLE="white-space:nowrap">2017-0354-SG</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2" STYLE="BORDER-RIGHT:1px solid #000000">&nbsp;</TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">LLOYD C. BLANKFEIN, M. MICHELE BURNS, GARY D. COHN, MARK A. FLAHERTY, WILLIAM W. GEORGE, JAMES A. JOHNSON, ELLEN J. KULLMAN, LAKSHMI N. MITTAL, ADEBAYO O. OGUNLESI, PETER OPPENHEIMER, DEBORA L. SPAR, MARK E. TUCKER, DAVID A.
+VINIAR, MARK O. WINKELMAN and THE GOLDMAN SACHS GROUP, INC.,</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2" STYLE="BORDER-RIGHT:1px solid #000000">&nbsp;</TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" ALIGN="center">Defendants.</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>NOTICE OF PENDENCY OF THE ACTION, PROPOSED SETTLEMENT </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>OF THE ACTION, AND SETTLEMENT HEARING</U> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>TO:</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><B>ALL CURRENT STOCKHOLDERS OF THE GOLDMAN SACHS GROUP, INC. </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>PLEASE READ ALL OF THIS NOTICE CAREFULLY. YOUR RIGHTS WILL BE AFFECTED BY THE LEGAL PROCEEDINGS IN THE ACTION. THIS NOTICE RELATES TO THE
+PROPOSED SETTLEMENT OF A LAWSUIT AND CONTAINS IMPORTANT INFORMATION. IF THE COURT APPROVES THE PROPOSED SETTLEMENT, YOU WILL BE FOREVER BARRED FROM CONTESTING THE FAIRNESS OF THE SETTLEMENT OR PURSUING THE RELEASED PLAINTIFF CLAIMS (AS DEFINED IN
+PARAGRAPH 1 HEREIN) AGAINST THE RELEASED DEFENDANT PARTIES (AS DEFINED IN PARAGRAPH 1 HEREIN).</B> </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>THE ACTION IS NOT A &#147;CLASS ACTION.&#148; THUS, THERE IS NO COMMON FUND UPON WHICH
+YOU CAN MAKE A CLAIM FOR MONETARY PAYMENT. IF YOU DO NOT OBJECT TO THE TERMS AND CONDITIONS OF THE PROPOSED SETTLEMENT OR THE AMOUNT OF ATTORNEYS&#146; FEES AND EXPENSES DESCRIBED IN THIS NOTICE, YOU ARE NOT OBLIGATED TO TAKE ANY ACTION. IF YOU HOLD
+GOLDMAN SACHS GROUP, INC. COMMON STOCK FOR THE BENEFIT OF ANOTHER, PLEASE PROMPTLY TRANSMIT THIS DOCUMENT TO SUCH BENEFICIAL OWNER. </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>THE PURPOSE OF THIS NOTICE </U></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The purpose of this notice (the &#147;Notice&#148;) is to inform you of the above-captioned lawsuit, a proposed settlement of the
+above-captioned lawsuit (the &#147;Settlement&#148;)<SUP STYLE="font-size:85%; vertical-align:top">1</SUP> as between Plaintiff (defined below), on the one hand, and Defendants (defined below), on the other hand, as well as to inform you of a
+hearing to be held by the Court of Chancery of the State of Delaware (the &#147;Court&#148;). The hearing will be held in the Court of Chancery Courthouse, 34 The Circle Georgetown, Delaware 19947, on August&nbsp;18, 2020, at 11:00 a.m. (the
+&#147;Settlement Hearing&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the Settlement, (i)&nbsp;plaintiff Shiva Stein (&#147;Plaintiff&#148;), on her own behalf
+and derivatively on behalf of The Goldman Sachs Group, Inc. (&#147;GS Group&#148; or the &#147;Firm&#148;), (ii) defendants Lloyd C. Blankfein, M. Michele Burns, Gary D. Cohn, Mark A. Flaherty, William W. George, James A. Johnson, Ellen J. Kullman,
+Lakshmi N. Mittal, Adebayo O. Ogunlesi, Peter Oppenheimer, Debora L. Spar, Mark E. Tucker, David A. Viniar and Mark O. Winkelman (together, the &#147;Individual Defendants&#148;), and (iii)&nbsp;nominal defendant GS Group (together with the
+Individual Defendants, &#147;Defendants,&#148; and together with Plaintiff, the &#147;Parties&#148;) have made application, pursuant to Court of Chancery Rule 23.1, for an order approving the proposed Settlement of the derivative action captioned
+<I>Stein v. Blankfein </I>pending in the Court as C.A. No. <FONT STYLE="white-space:nowrap">2017-0354-SG</FONT> (the &#147;Action&#148;), in accordance with a Stipulation and Agreement of Compromise, Settlement, and Release entered into by the
+Parties and dated March&nbsp;3, 2020 (the &#147;Stipulation&#148;), and for the dismissal of the Action on the merits with prejudice against Defendants upon and subject to the terms and conditions set forth in the Stipulation. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">1</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Capitalized terms not otherwise defined herein have the meanings provided in Paragraph 1.
+</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">At the Settlement Hearing, the Court will be asked to: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">a.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Determine whether the Stipulation, and the terms and conditions of the Settlement set forth in the Stipulation,
+are fair, reasonable, adequate, and in the best interests of GS Group and should be approved by the Court; </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">b.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Determine whether an Order and Final Judgment should be entered dismissing the Action with prejudice as against
+Defendants, releasing the Released Claims against the respective Released Parties, and barring and enjoining prosecution of any and all Released Claims against any and all respective Released Parties; </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">c.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Hear and determine any objections to the Settlement; </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">d.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Consider the application of Plaintiff&#146;s Counsel for an award of attorneys&#146; fees and expenses; and
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">e.</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Rule on other such matters as the Court may deem appropriate. </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">This Notice describes the rights you may have under the Stipulation and what steps you may, but are not required to, take concerning the
+proposed Settlement. If the Court approves the Stipulation, Plaintiff will ask the Court to approve an Order and Final Judgment that would end the Action. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>BACKGROUND OF THE ACTION </U></B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>THE
+FOLLOWING RECITATION DOES NOT CONSTITUTE FINDINGS OF THE COURT AND SHOULD NOT BE UNDERSTOOD AS AN EXPRESSION OF ANY OPINION OF THE COURT AS TO THE MERITS OF ANY CLAIMS OR DEFENSES BY ANY OF THE PARTIES. IT IS BASED ON STATEMENTS OF THE PARTIES AND
+IS SENT FOR THE SOLE PURPOSE OF INFORMING YOU OF THE EXISTENCE OF THE ACTION AND OF THE PROPOSED SETTLEMENT OF THE ACTION SO THAT YOU MAY MAKE APPROPRIATE DECISIONS AS TO STEPS YOU MAY, OR MAY NOT, WISH TO TAKE IN RELATION TO THE ACTION. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Since its 1999 initial public offering, GS Group has periodically submitted to its stockholders for approval stock incentive plans designed
+to: (i)&nbsp;attract, retain, and </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+motivate GS Group&#146;s officers, directors, and employees, (ii)&nbsp;compensate them for their contributions to the long-term growth and profits of GS Group; and (iii)&nbsp;encourage them to
+acquire a proprietary interest in GS Group&#146;s success. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On April&nbsp;12, 2013, GS Group distributed to its stockholders a proxy
+statement for the Firm&#146;s 2013 annual meeting of stockholders (the &#147;2013 Proxy Statement&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">At the annual meeting of
+stockholders on May&nbsp;23, 2013, GS Group stockholders, among other things, approved The Goldman Sachs Amended and Restated Stock Incentive Plan (2013) (the &#147;2013 SIP&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On April&nbsp;10, 2015, GS Group distributed to its stockholders a proxy statement for the Firm&#146;s 2015 annual meeting of stockholders
+(the &#147;2015 Proxy Statement&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">At the annual meeting of stockholders on May&nbsp;21, 2015, GS Group stockholders, among other
+things, approved The Goldman Sachs Amended and Restated Stock Incentive Plan (2015) (the &#147;2015 SIP&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On March&nbsp;23, 2018,
+GS Group distributed to its stockholders a proxy statement for the Firm&#146;s 2018 annual meeting of stockholders (the &#147;2018 Proxy Statement&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">At the annual meeting of stockholders on May&nbsp;2, 2018, GS Group stockholders, among other things, approved The Goldman Sachs Amended and
+Restated Stock Incentive Plan (2018) (the &#147;2018 SIP&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In connection with its annual stockholder meeting to be held on or about
+April&nbsp;29, 2021, GS Group anticipates that its stockholders, among other things, will be asked to approve an Amended and Restated Stock Incentive Plan (the &#147;2021 SIP&#148;). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">From time to time, the board of directors of GS Group (the &#147;Board&#148;) has awarded compensation grants pursuant to the 2013 SIP, 2015
+SIP and 2018 SIP, including compensation to the members of the Board who are not employees of GS Group (the <FONT STYLE="white-space:nowrap">&#147;Non-Employee</FONT> Directors&#148;) and expects to make future awards to the <FONT
+STYLE="white-space:nowrap">Non-Employee</FONT> Directors pursuant to the 2018 SIP and 2021 SIP, if approved. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Each of the 2013 SIP, 2015
+SIP and 2018 SIP provides that &#147;[n]o member of the Board or the Committee shall have any liability to any person (including any Grantee) for any action taken or omitted to be taken or any determination made in good faith with respect to the
+Plan or any Award&#148; (the &#147;Good Faith Standard&#148;). </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In addition to disclosing full copies of the 2013 and 2015 SIPs, the 2013 Proxy Statement
+and 2015 Proxy Statement both disclosed that &#147;[t]he Committee will make all determinations in respect of the [SIP], and will have no liability for any action taken in good faith. Our Board, in its sole discretion, also may grant Awards or
+administer the [SIP].&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In addition to disclosing a full copy of the 2018 SIP, the 2018 Proxy Statement disclosed that the &#147;2018
+SIP generally will be administered by our Compensation Committee,&#148; which is &#147;granted broad discretion to make awards under the 2018 SIP&#148; and that the &#147;Committee and (to the extent exercised by the Board, the Board) will have no
+liability for any action taken or omitted to be taken in good faith, including decisions to make awards as part of our <FONT STYLE="white-space:nowrap">non-employee</FONT> director compensation program. This means that no person, including . . . [GS
+Group] shareholders, may hold the members of the Committee (or the Board) personally liable for their good faith actions or omissions taken under the 2018 SIP. Our Board, in its sole discretion, also may grant Awards or administer the 2018
+SIP.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Each of the 2015 Proxy Statement, the proxy statement GS Group distributed to its stockholders on April&nbsp;8, 2016 for the
+Firm&#146;s 2016 annual meeting of stockholders (the &#147;2016 Proxy Statement&#148;), and the proxy statement GS Group distributed to its stockholders on March&nbsp;17, 2017 for the Firm&#146;s 2017 annual meeting of stockholders (the &#147;2017
+Proxy Statement&#148;) disclosed that the Firm &#147;may decide to pay <FONT STYLE="white-space:nowrap">non-deductible</FONT> variable compensation&#148; to certain executive officers. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On May&nbsp;9, 2017, Plaintiff filed a stockholder complaint in the Action (the &#147;Complaint&#148;). Among other things, the Complaint
+alleged that: (i)&nbsp;the annual compensation paid to the <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors in January 2015, 2016 and 2017 was excessive (Count I of the Complaint); (ii) the 2013 Proxy Statement and 2015 Proxy Statement
+lacked information required by Item 10(a)(1) of Schedule 14A and regulations promulgated by the United States Department of the Treasury, and that such regulations had been specifically incorporated into the 2013 SIP and 2015 SIP, and that as a
+result, the 2013 SIP and 2015 SIP are void (Counts II and III of the Complaint); and (iii)&nbsp;the 2015, 2016 and 2017 Proxy Statements contained misleading disclosures regarding the tax deductibility of cash compensation to be paid to certain
+executive officers under GS Group&#146;s Long-Term Incentive Plan (Count IV of the Complaint). Based on these allegations, the Complaint asserted claims for breach of fiduciary duty against Defendants. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On July&nbsp;28, 2017, Defendants filed motions to dismiss (the &#147;Motions to Dismiss&#148;) and an opening brief and joinder in support
+thereof. Briefing on the Motions to Dismiss closed on November&nbsp;30, 2017. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">After receiving confirmatory discovery, including a deposition of a GS Group Managing
+Director knowledgeable about the matters alleged in the Complaint, on March&nbsp;20, 2018, the parties filed a stipulation with the Court containing the terms for the proposed settlement of the Action. The March&nbsp;20, 2018 settlement stipulation
+provided that in connection with the settlement of Plaintiff&#146;s claims, GS Group would make certain disclosures in the 2018 Proxy Statement and would commit to maintain for a period of three years certain procedures relating to the Firm&#146;s <FONT
+STYLE="white-space:nowrap">non-employee</FONT> director compensation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On May&nbsp;26, 2018, Plaintiff moved for approval of the
+settlement and $575,000 in attorney&#146;s fees, which amount GS Group agreed not to oppose as part of the proposed settlement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On
+June&nbsp;6, 2018, an objector filed an objection to the proposed settlement. The objector asserted, among other things, that Plaintiff&#146;s $1.4&nbsp;billion valuation of the additional disclosures in the 2018 Proxy Statement was &#147;wishful
+thinking,&#148; that the proposed settlement &#147;exchange[d] a release of derivative claims that would, if viable, support actual damages, in order to obtain the same relief Plaintiff routinely achieves as individual litigant,&#148; that the
+additional disclosures were not of &#147;material value&#148; and that the contemplated release was not &#147;beneficial&#148; to GS Group stockholders. The objector also argued that &#147;Plaintiff and Plaintiff&#146;s counsel ha[d] not provided
+the&#148; required &#147;adequate representation&#148; and that the &#147;lack of meaningful recovery to&#148; GS Group and &#147;the limited efforts of Plaintiff&#146;s Counsel&#148; &#147;disfavor[ed]&#148; a fee award. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On July&nbsp;16, 2018, Plaintiff filed a reply brief in further support of settlement approval and responding to the objection, and Defendants
+filed a brief responding to the objection. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On August&nbsp;6, 2018, objector filed a <FONT STYLE="white-space:nowrap">sur-reply</FONT>
+brief in further support of the objection to the proposed settlement and responding to the briefs filed by Plaintiff and Defendants on July&nbsp;16, 2018. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On August&nbsp;22, 2018, objector filed a motion for an award of attorney&#146;s fees of up to $575,000, which Plaintiff and Defendants
+opposed on September&nbsp;10, 2018. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On September&nbsp;21, 2018, the Court heard oral argument on whether to approve the proposed
+settlement, including the objection to the proposed settlement filed by the objector. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On October&nbsp;23, 2018, the Court denied approval
+of the proposed settlement. The Court stated that although the &#147;actions&#148; contemplated by the proposed </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+settlement &#147;may well have merit,&#148; &#147;Plaintiff has given up direct claims for damages and equitable relief, as well as derivative claims for damages and equitable relief belonging
+to&#148; GS Group, &#147;in return for the Defendants&#146; agreement to cause [GS Group] to take actions beneficial to corporate hygiene.&#148; &#147;Under these particular circumstances,&#148; the Court did &#147;not find the release of the
+derivative claims fair&#148; to GS Group. The Court explained, among other things, that the consideration offered in the proposed settlement &#147;largely relat[ed] to the direct disclosure claims&#148; rather than Plaintiff&#146;s allegations of
+&#147;conflicted overpayment&#148; of GS Group&#146;s <FONT STYLE="white-space:nowrap">non-employee</FONT> directors &#147;that are the heart of the derivative claim[]&#148; and that it was &#147;not reasonable to approve a settlement that
+effectively resolves direct claims . . . in return for voiding potentially-meritorious monetary causes of action belonging to&#148; GS Group. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The October&nbsp;23, 2018 decision by the Court also ordered that &#147;[t]he [p]arties should consult on an appropriate fee award to the
+[o]bjector.&#148; GS Group did not reach a negotiated agreement with the objector regarding his fees. Following briefing, on July&nbsp;1, 2019, the Court award objector $100,000 in attorney&#146;s fees. Further proceedings before the Court and the
+Delaware Supreme Court resulted in determinations that the Court&#146;s fee award was an interlocutory order that &#147;does not fall within the collateral order doctrine&#148; and thus was not subject to immediate appeal. GS Group has made the fee
+award payment to the objector in accordance with the Court&#146;s order. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On October&nbsp;24, 2018, the Court issued a letter
+&#147;clarify[ing]&#148; that the &#147;denial of Plaintiff&#146;s fee application&#148; &#147;was necessitated by rejection of the proposed settlement&#148; and that &#147;[n]othing in the October&nbsp;23, 2018 Letter Opinion and Order should be
+read as preventing the plaintiff from seeking attorneys&#146; fees at the resolution of this matter, as she considers appropriate.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Oral argument on Defendants&#146; motion to dismiss was held on February&nbsp;4, 2019. On May&nbsp;31, 2019, the Court <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">granted-in-part</FONT></FONT> and <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">denied-in-part</FONT></FONT> Defendants&#146; motion to dismiss (the &#147;Motion to
+Dismiss Decision&#148;). The Court dismissed Plaintiff&#146;s claims challenging the adequacy of the Firm&#146;s proxy disclosures (Counts II, III and IV of the Complaint) because, among other reasons, certain of those claims were &#147;barred&#148;
+by the &#147;fundamental principles of laches&#148; and the challenged disclosure about <FONT STYLE="white-space:nowrap">tax-deductibility</FONT> was &#147;not materially misleading.&#148; But the Court denied the motion as to the claim challenging
+director compensation (Count I of the Complaint), including because &#147;Plaintiff . . . met her low pleading burden&#148; by alleging &#147;some facts implying lack of entire fairness&#148; and &#147;it is the Defendants&#146; burden to rebut
+these allegations&#148; although Defendants&#146; &#147;argument may ultimately prove persuasive.&#148; </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On July&nbsp;26, 2019, Defendants answered the complaint. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Plaintiff has conducted discovery on her remaining claim challenging director compensation. Among other things, Plaintiff served document
+requests, the Individual Defendants served objections and, during Fall 2019, the Parties negotiated and agreed on search terms for the review of certain Board materials and emails. The Individual Defendants have made several multiple rounds of
+document production to Plaintiff. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In December 2019, Defendants contacted Plaintiff regarding potential settlement. Plaintiff declined to
+engage in settlement discussions until completion of the agreed-upon document discovery. In February 2020, the Parties then engaged in negotiations concerning this Settlement. During those negotiations, the Individual Defendants produced to
+Plaintiff certain additional discovery about the <FONT STYLE="white-space:nowrap">non-employee</FONT> director compensation challenged in the Complaint. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Settlement set forth in the Stipulation reflects the results of the Parties&#146; negotiations. An agreement was reached only after
+arms&#146;-length negotiations between the Parties, all of whom were represented by counsel with extensive experience and expertise in stockholder derivative litigation, who were well-informed regarding the strengths and weaknesses of their
+respective claims and defenses. Counsel for the Parties have concluded that the terms and conditions contained in the Stipulation are fair, reasonable, and adequate to GS Group, Plaintiff, and Defendants, and that it is reasonable to settle the
+Action based upon the procedures, benefits, and protections provided by the changes to GS Group&#146;s director compensation practices and GS Group&#146;s agreement to continue certain compensation practices and disclosures, as described herein.
+Prior to the completion by the Parties of the documents containing the substantive terms and conditions of the Settlement, counsel for the Parties did not discuss the amount of any application by Plaintiff&#146;s Counsel for an award of
+attorneys&#146; fees and expenses. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On March&nbsp;12, 2020, the Court entered the Scheduling Order providing for, among other things, the
+scheduling of the Settlement Hearing and the distribution of this Notice. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>THE SETTLEMENT OF THE ACTION, IF APPROVED BY THE COURT ON THE TERMS AND
+CONDITIONS SET FORTH IN THE STIPULATION, WILL INCLUDE, WITHOUT LIMITATION, A RELEASE OF ALL RELEASED PLAINTIFF CLAIMS AGAINST THE RELEASED DEFENDANT PARTIES AND OF ALL RELEASED DEFENDANT CLAIMS AGAINST THE RELEASED PLAINTIFF PARTIES, AS THOSE TERMS
+</B></P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>
+ARE DEFINED IN PARAGRAPH 1 BELOW. IF YOU ARE A CURRENT STOCKHOLDER OF GS GROUP, YOU WILL BE BOUND BY ANY JUDGMENT ENTERED IN THE ACTION WITH RESPECT TO YOUR ABILITY TO BRING RELEASED PLAINTIFF
+CLAIMS. </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>THE COURT HAS NOT FINALLY DETERMINED THE MERITS OF THE CLAIMS MADE BY PLAINTIFF AGAINST, OR THE DEFENSES OF, DEFENDANTS IN THE ACTION.
+THIS NOTICE DOES NOT IMPLY THAT THERE HAS BEEN OR WOULD BE ANY FINDING OF VIOLATION OF THE LAW OR THAT RELIEF IN ANY FORM OR RECOVERY IN ANY AMOUNT COULD BE HAD IF THE ACTION WAS NOT SETTLED. </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>DEFINITIONS </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">1.&nbsp;&nbsp;&nbsp;&nbsp;The following capitalized terms have the meanings specified below: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">a.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Business Day&#148; means any day that is not a Saturday, a Sunday or other day on which banks are required or
+authorized to be closed in New York, New York. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">b.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Defendants&#146; Counsel&#148; means counsel of record for
+the respective Defendants in the Action. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">c.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Effective Date&#148; means the first Business Day following the
+date of Final Approval of the Settlement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">d.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Final Approval&#148; of the Settlement means that the Court has
+entered an Order and Final Judgment with no material modification to the [Proposed] Order and Final Judgment attached as Exhibit C to the Stipulation (except as agreed to by the Parties)&#151;approving the Settlement, dismissing Defendants from the
+Action with prejudice on the merits and without fees, costs, or expenses to any Party (except those set forth in Paragraphs 9 and 14 of the Stipulation), providing for the releases set forth in Paragraphs <FONT STYLE="white-space:nowrap">3-5</FONT>
+of the Stipulation, and that such Order and Final Judgment is final and no longer subject to further appeal or review, whether by affirmance on or exhaustion of any possible appeal or review, lapse of time, or otherwise; <U>provided</U>,
+<U>however</U>, and notwithstanding any provision to the contrary in the Stipulation, Final Approval shall not include (and the Settlement is expressly not conditioned on) the award of attorneys&#146; fees and the reimbursement of expenses as
+provided in Paragraphs <FONT STYLE="white-space:nowrap">14-19</FONT> of the Stipulation, and any appeal related thereto. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">9 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">e.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Order and Final Judgment&#148; means the entry of an order
+by the Court in substantially the same form as, and with no material modification to, the [Proposed] Order and Final Judgment attached as Exhibit C to the Stipulation (except as <FONT STYLE="white-space:nowrap">agreed-to</FONT> by the Parties). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">f.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Person&#148; means any individual, corporation, partnership, limited liability company, association,
+affiliate, parent, subsidiary, joint stock company, estate, trust, unincorporated association, entity, government and any political subdivision thereof, or any other type of business or legal entity. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">g.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Plaintiff&#146;s Counsel&#148; means Barrack, Rodos&nbsp;&amp; Bacine and Farnan LLP, and all individual
+attorneys employed by, or affiliated with, those firms who have performed legal services on behalf of Plaintiff in this Action. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">h.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Proxy Statements&#148; means collectively the 2013 Proxy Statement, 2015 Proxy Statement, 2016 Proxy
+Statement, 2017 Proxy Statement, 2018 Proxy Statement and the proxy statement distributed by GS Group on March&nbsp;22, 2019 in connection with GS Group&#146;s 2019 annual stockholder meeting. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">i.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Released Claims&#148; means the Released Defendant Claims and the Released Plaintiff Claims. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">j.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Released Defendant Claims&#148; means any claims, complaints, liabilities, causes of action, or sanctions that
+have been or could have been asserted in the Action, or in any court, tribunal, forum, suit, action, or proceeding, by Defendants or any of their respective successors, transferees, and assigns against any of the Released Plaintiff Parties, which
+arise out of or relate in any way to the institution, prosecution, settlement, or dismissal of the Action. Released Defendant Claims shall not include the right to enforce the Stipulation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">k.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Released Defendant Parties&#148; means , whether or not each or all of the following Persons or entities were
+named, served with process, or appeared in the Action: (i)&nbsp;GS Group; (ii)&nbsp;the Individual Defendants; (iii)&nbsp;any Person that is or was related to or affiliated or associated with any or all of Defendants or in which any or all of them
+has or had a controlling interest; and (iv)&nbsp;with respect to the individuals and entities set forth or described in (i)-(iii), each of their respective past or present family members, spouses, heirs, trusts, trustees, executors, estates,
+foundations, administrators, beneficiaries, distributees, agents, employees, fiduciaries, partners, control persons, partnerships, general or limited partners, joint ventures, member firms, limited liability companies, corporations, parents,
+subsidiaries, divisions, affiliates, associated entities, shareholders, stockholders, </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">10 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+principals, officers, managers, directors, managing directors, members, managing members, managing agents, predecessors,
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">predecessors-in-interest,</FONT></FONT> successors, <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">successors-in-interest,</FONT></FONT> transferees, assigns,
+financial or investment advisors, advisors, consultants, investment bankers, entities providing any fairness opinion, underwriters, brokers, dealers, financing sources, lenders, commercial bankers, attorneys (including, without limitation,
+Defendants&#146; Counsel), personal or legal representatives, accountants, tax advisors, insurers, <FONT STYLE="white-space:nowrap">co-insurers,</FONT> reinsurers, and associates. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">l.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Released Parties&#148; means the Released Defendant Parties and the Released Plaintiff Parties. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">m.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Released Plaintiff Claims&#148; means </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(1) any and all manner of claims, demands, rights, liabilities, losses, obligations, duties, costs, debts, expenses, interest, penalties,
+sanctions, fees, attorneys&#146; fees, actions, potential actions, causes of action, suits, agreements, judgments, decrees, matters, issues and controversies of any kind, nature, or description whatsoever; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(2) whether known or unknown, accrued or unaccrued, matured or not matured, liquidated or not liquidated, fixed or contingent; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(3) that </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">(A) Plaintiff asserted,
+could have asserted or could hereafter assert in any capacity (including direct, derivative, class or other capacity) against any of the Released Defendant Parties based on her ownership of shares of GS Group common stock whether based on state,
+local, federal, statutory, regulatory, common, or other law or rule; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">(B) GS Group could have asserted or could hereafter assert against
+any of the Released Defendant Parties directly under federal, state, local, statutory, regulatory, common, or other law or rule relating to fiduciary or disclosure duties (including, without limitation, any claims under federal or state securities
+laws or federal or state disclosure law and claims asserting waste of corporate assets, unjust enrichment, mismanagement, abuse of control, fraud, negligence, negligent misrepresentation, or breach of contract); or </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">(C) any other GS Group stockholder could have asserted or could hereafter assert against any of the Released Defendant Parties
+</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">11 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">
+derivatively on behalf of GS Group under federal, state, local, statutory, regulatory, common, or other law or rule relating to fiduciary or disclosure duties (including, without limitation, any
+claims under federal or state securities laws or federal or state disclosure law and claims asserting waste of corporate assets, unjust enrichment, mismanagement, abuse of control, fraud, negligence, negligent misrepresentation, or breach of
+contract); </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(4) in any court, tribunal, forum, suit, action, or proceeding; and </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(5) which now or hereafter, are based upon, arise out of, relate in any way to, or involve, directly or indirectly, or previously were based
+upon, arose out of, resulted from, were related to or involved, directly or indirectly in whole or in part: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">(A) the Action; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">(B) the subject matter of the Action; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">(C) the amount of GS Group&#146;s <FONT STYLE="white-space:nowrap">non-employee</FONT> director compensation paid or awarded in respect of
+director service from 2014 through 2019; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">(D) the amount of GS Group&#146;s <FONT STYLE="white-space:nowrap">non-employee</FONT> director
+compensation paid or awarded or to be paid or awarded in respect of director service during 2020 as set forth in Paragraph 2(a) of the Stipulation, excluding a claim alleging that a <FONT STYLE="white-space:nowrap">non-employee</FONT>
+director&#146;s service during 2020 served no corporate purpose whatsoever; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">(E) the amount of GS Group&#146;s <FONT
+STYLE="white-space:nowrap">non-employee</FONT> director compensation to be paid or awarded pursuant to the 2021 SIP as set forth in Paragraphs 2(b)-(d) of the Stipulation, excluding a claim that a <FONT STYLE="white-space:nowrap">non-employee</FONT>
+director&#146;s service during the period when compensation was paid pursuant to the 2021 SIP served no corporate purpose whatsoever; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">(F)
+the approval by GS Group stockholders of the 2013, 2015 and 2018 SIPs; or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">(G) the disclosures in all GS Group proxy statements prior to
+the date of the Stipulation regarding (i)&nbsp;GS Group <FONT STYLE="white-space:nowrap">non-employee</FONT> director compensation paid or awarded in respect of director service from 2014 through the date of the Stipulation, (ii)&nbsp;the 2013, 2015
+and 2018 SIPs, or (iii)&nbsp;the <FONT STYLE="white-space:nowrap">tax-deductibility</FONT> of awards under GS Group&#146;s Long-Term Incentive Plan. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">12 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Released Plaintiff Claims shall not include (x)&nbsp;the right to enforce the Stipulation; or (y)&nbsp;any
+claims currently asserted in the Verified Amended Shareholder Derivative Complaint, dated July&nbsp;12, 2019 (ECF No.&nbsp;35), in <I>Fulton County Employees&#146; Retirement System v. Blankfein</I>, No. <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">1:19-cv-1562</FONT></FONT> (VSB) (S.D.N.Y.). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">n.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Released Plaintiff Parties&#148;
+means Plaintiff, on behalf of herself, her legal representatives, heirs, executors, administrators, estates, predecessors, <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">predecessors-in-interest,</FONT></FONT> successors, <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">successors-in-interest,</FONT></FONT> affiliates, transferees, and assigns, and any Person acting for or on behalf of, or claiming under, any of them, and each of them, together with their
+respective officers, directors, managers, general partners, employees, representatives, and agents, and Plaintiff&#146;s Counsel. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">o.&nbsp;&nbsp;&nbsp;&nbsp;&#147;Releasing Persons&#148; means Releasing Plaintiff Persons (as defined below), Defendants and GS Group
+stockholders to the extent they are acting or purporting to act derivatively on behalf of GS Group. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">p.&nbsp;&nbsp;&nbsp;&nbsp;&#147;SIPs&#148; means collectively the 2013 SIP, 2015 SIP and 2018 SIP. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>REASONS FOR THE SETTLEMENT </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">2.&nbsp;&nbsp;&nbsp;&nbsp;Plaintiff asserts that she has brought her claims in good faith and continues to believe that her claims have legal
+merit, and the entry by Plaintiff into the Stipulation is not an admission as to the lack of any merit of any claims asserted in the Action. In negotiating and evaluating the terms and conditions of the Stipulation, Plaintiff&#146;s Counsel
+considered: (i)&nbsp;the strengths and weaknesses of Plaintiff&#146;s claims; (ii)&nbsp;the Court&#146;s rulings in the Action, including the Motion to Dismiss Decision; (iii)&nbsp;the discovery produced by Defendants; (iv)&nbsp;the legal and
+factual defenses of Defendants; (v)&nbsp;the time and expense that would be incurred by further litigation; (vi)&nbsp;the uncertainties inherent in, and attendant risks of, litigation; and (vii)&nbsp;the desirability of permitting the Settlement to
+be consummated as provided by the terms and conditions of the Stipulation. Plaintiff believes that the terms and conditions contained in the Stipulation are fair, reasonable, adequate, and in the best interests of GS Group and that it is reasonable
+to pursue the settlement of the Action before the Court based upon the terms and conditions outlined therein and the benefits and protections offered thereby, and has documented her agreement in the Stipulation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">3.&nbsp;&nbsp;&nbsp;&nbsp;The entry by Defendants into the Stipulation is not an admission as to the merit of any claims asserted in the
+Action. Defendants maintain that all awards </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">13 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+to the <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors have been made in good faith and that Defendants are protected from liability by the Good Faith Standard in the SIPs.
+Defendants further maintain that they have denied, and continue to deny, all allegations of wrongdoing, fault, liability, or damage to GS Group, Plaintiff, or GS Group stockholders, deny that they engaged in any wrongdoing, deny that they committed
+any violation of law or aiding and abetting any violation of law, deny that the compensation received by the <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors was excessive or otherwise improper, deny that any of the Proxy Statements
+were misleading or deficient in any way, deny that any of the SIPs are void, deny that they acted improperly in any way, believe that they acted properly at all times, believe the Action has no merit, and maintain that they have committed no breach
+of duty whatsoever in connection with the compensation received by the <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors, the Proxy Statements, and the SIPs, but wish to enter into the Settlement solely because they consider it
+desirable that the Action be settled to, among other things, (i)&nbsp;eliminate the burden, inconvenience, expense, risk, and distraction to Defendants of further litigation, and (ii)&nbsp;finally put to rest and terminate all the claims that were
+or could have been asserted in the Action against the Released Defendant Parties. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>GS GROUP ACTIONS RELATED TO THE SETTLEMENT
+</U></B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">4.&nbsp;&nbsp;&nbsp;&nbsp;GS Group has agreed to take the actions set forth below: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">a.&nbsp;&nbsp;&nbsp;&nbsp;<B><U>GS Group&#146;s 2020 <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director Compensation
+Amounts</U></B>: In respect of <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director service for 2020, the Board shall adopt the following total annual compensation amounts for GS Group&#146;s
+<FONT STYLE="white-space:nowrap">Non-Employee</FONT> directors: GS Group <FONT STYLE="white-space:nowrap">Non-Employee</FONT> directors (a)&nbsp;who do not serve as Committee chairs shall receive $450,000; and (b)&nbsp;who serve as Committee chairs
+shall receive $475,000. These amounts may be paid in cash or equity, such as RSUs. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">b.&nbsp;&nbsp;&nbsp;&nbsp;<B><U>GS Group&#146;s
+2021&#150;2023 <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director Compensation Amounts</U></B>: In respect of <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director service for 2021 through 2023, the Board shall adopt the following
+total annual compensation amounts for GS Group&#146;s <FONT STYLE="white-space:nowrap">non-employee</FONT> directors: GS Group <FONT STYLE="white-space:nowrap">non-employee</FONT> directors (a)&nbsp;who do not serve as chairs of a committee of the
+Board (&#147;Committee&#148;) shall receive a fixed compensation amount, which is to be no more than $450,000; and (b)&nbsp;who serve as Committee chairs shall receive a fixed compensation amount, which is to be no more than $475,000. These amounts
+may be paid in cash or equity, such as RSUs. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">c.&nbsp;&nbsp;&nbsp;&nbsp;<B><U>GS Group&#146;s 2021 SIP</U></B>: The current 2018 SIP
+terminates on the date of the Firm&#146;s 2022 annual meeting of stockholders, unless sooner terminated by </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">14 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+the Board. GS Group currently anticipates seeking stockholder approval of the 2021 SIP at the Firm&#146;s 2021 annual meeting of stockholders. GS Group agrees that the 2021 SIP will set a
+specified total annual compensation amount for GS Group <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors: For <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors (a)&nbsp;who do not serve as Committee chairs, that amount
+will be a fixed compensation amount of no more than $450,000 and (b)&nbsp;who serve as Committee chairs, that amount will be a fixed compensation amount of no more than $475,000. These amounts may be paid in cash or equity, such as RSUs. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">d.&nbsp;&nbsp;&nbsp;&nbsp;Compensation for <FONT STYLE="white-space:nowrap">Non-Employee</FONT> director service for January&nbsp;1, 2024
+through the date of the Firm&#146;s 2024 annual meeting of stockholders (the &#147;2024 Annual Meeting&#148;) will be set at the annual levels set forth in the 2021 SIP, prorated for the number of days from January&nbsp;1, 2024 through the 2024
+Annual Meeting. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">e.&nbsp;&nbsp;&nbsp;&nbsp;GS Group anticipates that the 2021 SIP will terminate on the date of the Firm&#146;s 2025
+annual stockholder meeting, unless sooner terminated by the Board. Consistent with its past practice, GS Group currently anticipates that stockholder approval of an amended and restated stock incentive plan (the &#147;2024 SIP&#148;) will be sought
+at the 2024 Annual Meeting. Nothing herein shall require GS Group to seek, or prevent GS Group from seeking, stockholder approval of the 2024 SIP at the Firm&#146;s 2024 Annual Meeting. The 2024 SIP will be implemented upon its approval at the 2024
+Annual Meeting. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">f.&nbsp;&nbsp;&nbsp;&nbsp;The table attached to this Notice as Exhibit 1 illustrates the estimated changes in <FONT
+STYLE="white-space:nowrap">Non-Employee</FONT> Director compensation for the period covered by the Settlement. As reflected in the table, the total estimated reduction in <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director compensation
+anticipated for that period is $5,381,721, subject to the assumptions set forth in the table. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">g.&nbsp;&nbsp;&nbsp;&nbsp;<U><B>GS
+Group&#146;s <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director Compensation Practices</B></U>: For a period commencing on the date the Court enters the Order and Final Judgment through the determination of
+<FONT STYLE="white-space:nowrap">non-employee</FONT> director compensation in respect of 2023 board service and GS Group&#146;s proxy statement filed in connection with the Firm&#146;s 2024 Annual Meeting (the &#147;2024 Proxy Statement&#148;), GS
+Group will continue the following <FONT STYLE="white-space:nowrap">non-employee</FONT> director compensation practices, and provide disclosure of these practices in its annual proxy statements: (i)&nbsp;annual review of <FONT
+STYLE="white-space:nowrap">non-employee</FONT> director compensation by the GS Group Corporate Governance and Nominating Committee (the &#147;Governance Committee&#148;) of the Board, which is currently comprised of all of the Board&#146;s
+independent directors; (ii)&nbsp;annual engagement by the Governance Committee of an independent compensation consultant to conduct a review of GS Group&#146;s <FONT STYLE="white-space:nowrap">non-employee</FONT> director compensation </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">15 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+program; (iii)&nbsp;an annual recommendation by the Governance Committee to the Board with respect to the <FONT STYLE="white-space:nowrap">non-employee</FONT> director compensation program; and
+(iv)&nbsp;annual disclosure in GS Group&#146;s proxy statement of its <FONT STYLE="white-space:nowrap">non-employee</FONT> director compensation process and program. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">h.&nbsp;&nbsp;&nbsp;&nbsp;<U><B>GS Group&#146;s Proxy Statement Disclosures</B></U>: For a period commencing on the date the Court enters the
+Order and Final Judgment through the Firm&#146;s 2024 Proxy Statement, GS Group will continue to include in any proxy statement soliciting stockholder approval of a stock incentive plan, disclosures identifying each class of persons who will be
+eligible to participate in that stock incentive plan and indicating the approximate number of persons in each of the following classes: (i)&nbsp;directors, (ii) officers, (iii)&nbsp;employees, and (iv)&nbsp;consultants and other service providers.
+</P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>THE ORDER AND FINAL JUDGMENT </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">5.&nbsp;&nbsp;&nbsp;&nbsp;If the Court determines that the Settlement, as provided for in the Stipulation, is fair, reasonable, adequate, and
+in the best interests of GS Group, the Court will enter an Order and Final Judgment, which will, among other things: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">a.&nbsp;&nbsp;&nbsp;&nbsp;Determine that the form and manner of this Notice meets the requirements of Court of Chancery Rule 23.1, due
+process, and applicable law, is the best notice practicable under the circumstances, and constitutes due and sufficient notice to all Persons entitled thereto; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">b.&nbsp;&nbsp;&nbsp;&nbsp;Determine that the terms and conditions of the Settlement, as set forth in the Stipulation, are fair, reasonable,
+adequate, and in the best interests of GS Group; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">c.&nbsp;&nbsp;&nbsp;&nbsp;Dismiss the Action with prejudice as against Defendants
+without the award of any fees, costs, or expenses or the grant of further relief except for the payments contemplated by the Stipulation; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">d.&nbsp;&nbsp;&nbsp;&nbsp;Fully, finally, and forever release the Released Claims against the respective Released Parties, as more fully
+described in the Section below entitled &#147;Releases&#148;; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">e.&nbsp;&nbsp;&nbsp;&nbsp;Forever bar and enjoin Plaintiff, GS Group, and
+GS Group stockholders from commencing, instituting, prosecuting, or continuing to prosecute any of the Released Plaintiff Claims against any of the Released Defendant Parties, and forever bar and enjoin Defendants from commencing, instituting,
+prosecuting, or continuing to prosecute any of the Released Defendant Claims against any of the Released Plaintiff Parties; and </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">16 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">f.&nbsp;&nbsp;&nbsp;&nbsp;Award Plaintiff&#146;s Counsel such attorneys&#146; fees and
+expenses as the Court deems fair and reasonable, with any such fees and expenses to be paid by GS Group. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>RELEASES </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">6.&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the Stipulation, and in consideration of the benefits provided by the Settlement, the Order and Final
+Judgment is proposed to, among other things, provide for the full and complete dismissal of the Action with prejudice on the merits as to Defendants without fees, costs, or expenses (except as provided in the Stipulation) and provide for the
+following releases: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">a.&nbsp;&nbsp;&nbsp;&nbsp;As of the Effective Date, (i)&nbsp;Plaintiff, on behalf of herself, her legal
+representatives, heirs, executors, administrators, estates, predecessors, <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">predecessors-in-interest,</FONT></FONT> successors, <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">successors-in-interest,</FONT></FONT> affiliates, transferees, and assigns, and any Person acting for or on behalf of, or claiming under, any of them, and each of them, together with their respective officers, directors,
+managers, general partners, employees, representatives, and agents (collectively, &#147;Releasing Plaintiff Persons&#148;), and (ii)&nbsp;GS Group and GS Group stockholders to the extent they are acting or purporting to act derivatively on behalf of
+GS Group, shall thereupon be deemed to have fully, finally, and forever, released, settled, and discharged the Released Defendant Parties from and with respect to every one of the Released Plaintiff Claims on the terms and conditions set forth in
+the Stipulation, and shall thereupon be forever barred and enjoined from commencing, instituting, prosecuting, or continuing to prosecute any Released Plaintiff Claims against any of the Released Defendant Parties. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">b.&nbsp;&nbsp;&nbsp;&nbsp;As of the Effective Date, Defendants shall thereupon be deemed to have fully, finally, and forever, released,
+settled, and discharged the Released Plaintiff Parties from and with respect to every one of the Released Defendant Claims, and shall thereupon be forever barred and enjoined from commencing, instituting, or prosecuting any of the Released Defendant
+Claims against any of the Released Plaintiff Parties. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman">c.&nbsp;&nbsp;&nbsp;&nbsp;As of the Effective Date, the Parties shall be deemed
+bound by the Stipulation and the Order and Final Judgment. The Order and Final Judgment, including, without limitation, the release of all Released Claims against all Released Parties, shall have <I>res judicata</I>, collateral estoppel, and all
+other lawful preclusive effects in all pending and future lawsuits, arbitrations, or other suits, actions, or proceedings involving any of the Released Plaintiff Parties or the Released Defendant Parties. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">17 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>APPLICATION FOR ATTORNEYS&#146; FEES AND EXPENSES </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">7.&nbsp;&nbsp;&nbsp;&nbsp;Plaintiff&#146;s Counsel intends to petition the Court for an award of attorneys&#146; fees and expenses of
+$1,500,000 in connection with the benefits described in Paragraph 4 herein and the benefits that Plaintiff contends have accrued to GS Group as a result of the stipulation of settlement that was filed by the Parties on March&nbsp;20, 2018, but which
+the Court ultimately rejected, which amount shall be wholly inclusive of all fees, expenses, cost disbursements, and expert and consulting fees in the Action (the &#147;Fee and Expense Amount&#148;). Plaintiff represents that the Fee and Expense
+Amount has a multiplier of 1.26 of the lodestar plus expenses of Plaintiff&#146;s Counsel. Defendants have not agreed to the Fee and Expense Amount and intend to oppose any request by Plaintiff&#146;s Counsel for the Fee and Expense Amount.
+Defendants reserve all rights to oppose, consent to, or take no position on the Fee and Expense Amount if Plaintiff&#146;s Counsel applies to the Court for a lower amount. Any Fee and Expense Amount approved by the Court shall be wired to an account
+identified by Barrack, Rodos&nbsp;&amp; Bacine within ten (10)&nbsp;Business Days after the later of (i)&nbsp;Final Approval; or (ii)&nbsp;GS Group&#146;s receipt from Plaintiff&#146;s Counsel of wiring instructions for the Fee and Expense Amount,
+Barrack, Rodos&nbsp;&amp; Bacine&#146;s Form <FONT STYLE="white-space:nowrap">W-9</FONT> and any other information reasonably required by GS Group to process payment of the Fee and Expense Amount. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">8.&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the Stipulation, resolution of the Fee and Expense Amount is not a precondition to the Settlement or to
+the dismissal with prejudice of Defendants from the Action. The Court may consider and rule upon the fairness, reasonableness, and adequacy of the Settlement independently of any award of attorneys&#146; fees and expenses. Any disapproval or
+modification of the application for an award of attorneys&#146; fees or reimbursement of expenses by the Court or on appeal shall not affect or delay the enforceability of the Stipulation, provide any of the Parties with the right to terminate the
+Settlement, impose any obligation on any of Defendants, or subject them in any way to an increase in the amount paid by them or on their behalf in connection with the Settlement, or affect or delay the binding effect or finality of the Order and
+Final Judgment and the release of the Released Claims. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">18 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>EFFECT OF DISAPPROVAL, CANCELLATION, OR TERMINATION </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">9.&nbsp;&nbsp;&nbsp;&nbsp;The Stipulation provides that in the event that the proposed Settlement (or any amendment thereof by the Parties) is
+rendered null and void as to all Parties for any reason, (a)&nbsp;all of the Parties shall be deemed to have reverted to their respective litigation statuses immediately prior to the execution of the Stipulation, and they shall proceed in all
+respects as if the Stipulation had not been executed and any related orders had not been entered, (b)&nbsp;all of their respective claims and defenses as to any issue in the Action shall be preserved without prejudice in any way, and (c)&nbsp;the
+statements made in connection with the negotiation of the Stipulation shall not be deemed to prejudice in any way the positions of any of the Parties with respect to the Action, or to constitute an admission of fact of wrongdoing by any Party, shall
+not be used or entitle any Party to recover any fees, costs, or expenses incurred in connection with the Action, and neither the existence of the Stipulation nor its contents nor any statements made in connection with its negotiation or any
+settlement communications shall be admissible in evidence or shall be referred to for any purpose in the Action, or in any other suit, action, or proceeding. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>THE SETTLEMENT HEARING </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">10.&nbsp;&nbsp;&nbsp;&nbsp;The Court has scheduled a Settlement Hearing which will be held on August&nbsp;18, 2020, at 11:00 a.m., in the
+Court of Chancery Courthouse, 34 The Circle, Georgetown, Delaware 19947 as described previously in this Notice. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">11.&nbsp;&nbsp;&nbsp;&nbsp;The Court may adjourn the Settlement Hearing or any adjournment thereof, including, without limitation, the
+consideration of the application for attorneys&#146; fees and expenses, without further notice of any kind other than oral announcement at the Settlement Hearing or any adjournment thereof. The Court also may approve the Settlement at or after the
+Settlement Hearing according to the terms and conditions of the Stipulation, as it may be modified by the Parties, with or without further notice. Further, the Court may render its judgment, and order the payment of attorneys&#146; fees and
+expenses, all without further notice. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>RIGHT TO APPEAR AND OBJECT AT SETTLEMENT HEARING </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">12.&nbsp;&nbsp;&nbsp;&nbsp;Any record or beneficial stockholder of GS Group who objects to the Stipulation, the Settlement, the Order and
+Final Judgment to be entered in the Action, Plaintiff&#146;s Counsel&#146;s application for attorneys&#146; fees and expenses, or who otherwise wishes to be heard, may appear in person or by his, her, or its attorney at the Settlement Hearing and
+present evidence or argument that may be proper and </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">19 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+relevant; <U>provided</U>, <U>however</U>, that, except for good cause shown or as the Court otherwise directs, no Person shall be heard and no papers, briefs, pleadings, or other documents
+submitted by any Person shall be considered by the Court unless not later than sixty (60)&nbsp;calendar days prior to the Settlement Hearing such Person files with the Register in Chancery, 34 The Circle, Georgetown, Delaware 19947 and serves upon
+counsel listed below: (a)&nbsp;a written and signed notice of intention to appear that states the name of that Person and that Person&#146;s address (or, if represented, the address of the Person&#146;s counsel); (b) documentation evidencing such
+Person&#146;s status as a current record or beneficial stockholder of GS Group; (c)&nbsp;a detailed statement of such Person&#146;s objections to any matters before the Court; (d)&nbsp;the grounds for such objections and the reasons that such Person
+desires to appear and be heard; and (e)&nbsp;all documents or writings such Person desires the Court to consider. Such filings must be served upon the following counsel by hand delivery, overnight mail, or the Court&#146;s electronic filing and
+service system: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="51%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Brian E. Farnan</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Kevin G. Abrams</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Farnan LLP</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Abrams&nbsp;&amp; Bayliss LLP</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">919 North Market Street, 12<SUP STYLE="font-size:85%; vertical-align:top">th </SUP>Floor</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">20 Montchanin Road, Suite 200</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Wilmington, DE 19801</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Wilmington, DE 19807</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><I>Counsel for Plaintiff</I></TD>
+<TD VALIGN="bottom" ROWSPAN="7">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ROWSPAN="7"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Counsel for Defendants Lloyd C.</I></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Blankfein, M. Michele Burns, Gary D.</I></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Cohn, Mark A.
+Flaherty, William W.</I></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>George, James A. Johnson, Ellen J.</I></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Kullman, Lakshmi N. Mittal, Adebayo</I></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>O. Ogunlesi, Peter
+Oppenheimer,</I></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Debora L. Spar, Mark E. Tucker,</I></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>David A. Viniar and Mark O.</I></P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><I>Winkelman</I></P></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Kevin M. Gallagher</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Richards, Layton&nbsp;&amp; Finger, P.A.</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">920 N. King Street</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Wilmington, DE 19801</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><I>Counsel for Nominal Defendant</I></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><I>The Goldman Sachs Group, Inc.</I></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">13.&nbsp;&nbsp;&nbsp;&nbsp;Unless the Court otherwise directs, no Person shall be entitled to object to the
+approval of the Settlement, any judgment entered thereon, any award of attorneys&#146; fees and expenses, or otherwise be heard, except by serving and filing a written objection and supporting papers and documents as described in Paragraph 12 above.
+Any Person who fails to object in the manner described above shall be deemed to have waived the right to object (including, without limitation, any right of appeal) and shall be forever barred from raising such objection in this or any other suit,
+action, or proceeding. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">20 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">14.&nbsp;&nbsp;&nbsp;&nbsp;Any record or beneficial stockholder of GS Group who does not
+object to the Settlement or the request by Plaintiff&#146;s Counsel for an award of attorneys&#146; fees and expenses or to any other matter stated above need not do anything. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>SCOPE OF THIS NOTICE AND FURTHER INFORMATION </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">15.&nbsp;&nbsp;&nbsp;&nbsp;The foregoing description of the Settlement Hearing, the Action, the terms and conditions of the proposed
+Settlement, and other matters described in this Notice are not comprehensive. Accordingly, GS Group stockholders and their attorneys are referred to the documents filed with the Court in the Action, including, without limitation, the Stipulation,
+which are available for inspection at the Office of the Register in Chancery in the Court of Chancery of the State of Delaware, 34 The Circle, Georgetown, Delaware 19947, during regular business hours of each business day. Inquiries or comments
+about the Settlement may be directed to the attention of Plaintiff&#146;s Counsel as follows:<B> </B> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:Times New Roman">Arnold Gershon </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:Times New Roman">Barrack, Rodos&nbsp;&amp; Bacine </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:Times New Roman">11 Times Square, 640 8<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> Avenue </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:Times New Roman">New York, New York 10036 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:13%; font-size:10pt; font-family:Times New Roman">Tel:
+(212) <FONT STYLE="white-space:nowrap">688-0782</FONT> </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PLEASE DO NOT WRITE OR CALL THE COURT. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>NOTICE TO PERSONS OR ENTITIES HOLDING </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>RECORD OWNERSHIP ON BEHALF OF OTHERS </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">16.&nbsp;&nbsp;&nbsp;&nbsp;Brokerage firms, banks, and/or other Persons who hold shares of the common stock of GS Group for the benefit of
+others are requested to promptly send this Notice to all of their respective beneficial owners. If additional copies of the Notice are needed, any requests for such copies may be made to: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:18%; font-size:10pt; font-family:Times New Roman">Morrow Sodali </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:18%; font-size:10pt; font-family:Times New Roman">Attn: David
+Checkosky </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:18%; font-size:10pt; font-family:Times New Roman">470 West Avenue </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:18%; font-size:10pt; font-family:Times New Roman">Third Floor </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:18%; font-size:10pt; font-family:Times New Roman">Stamford, CT 06902
+</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:18%; font-size:10pt; font-family:Times New Roman">Phone:
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">1-800-662-5200</FONT></FONT></FONT> </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:18%; font-size:10pt; font-family:Times New Roman"><FONT
+STYLE="white-space:nowrap">E-mail:</FONT> GS@investor.morrowsodali.com </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">21 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Dated: March&nbsp;12, 2020 </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="98%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">BY ORDER OF THE COURT</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman"><I>/s/ Susan Judge</I></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">Register in Chancery</TD></TR>
+</TABLE></DIV>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">22 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">EXHIBIT 1 </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Summary of Estimated <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director
+Compensation </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="37%"></TD>
+
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="22" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B><FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director Service Period</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD COLSPAN="2" VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>2019*</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>2020**</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>2021**</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>2022**</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>2023**</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Jan. 1, 2024 &#150;<BR>2024 Annual<BR>Meeting</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Total</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Estimated compensation per <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director <FONT
+STYLE="white-space:nowrap">(non-Chair)</FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">575,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">450,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">450,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">450,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">450,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">141,393.44</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Estimated compensation per <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director
+(Chair)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">600,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">475,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">475,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">475,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">475,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">149,248.63</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Total estimated compensation for all Non- Employee Directors</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">5,875,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">4,625,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">4,625,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">4,625,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">4,625,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,453,210</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Estimated difference from total 2019 <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director
+compensation</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">N/A</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,250,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,250,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,250,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,250,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$<B></B></TD>
+<TD VALIGN="bottom" ALIGN="right">381,721<B></B></TD>
+<TD NOWRAP VALIGN="bottom"><B>***</B>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">5,381,721</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">2019 <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director compensation amounts represent amounts
+payable assuming full-year service at 2019 compensation levels for ten <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors, five of whom are Board committee Chairs. </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">**</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director compensation amounts for future periods are
+estimates. These represent amounts that would be paid to GS Group&#146;s <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors based on assumptions, including, without limitation, that (i)&nbsp;the Court approves the proposed Settlement;
+(ii)&nbsp;GS Group&#146;s stockholders approve the anticipated 2021 SIP; (iii)&nbsp;GS Group continues to have ten <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors at all times from the present through GS Group&#146;s 2024 Annual
+Meeting; (iv)&nbsp;five <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Directors serve as Board committee Chairs during each annual period; and (v)&nbsp;GS Group&#146;s annual meeting occurs on April&nbsp;25, 2024. </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">***</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Represents difference between (i)&nbsp;estimated total of <FONT STYLE="white-space:nowrap">Non-Employee</FONT>
+Director compensation anticipated to be paid for service during January&nbsp;1, 2024 through April&nbsp;25, 2024, subject to the above assumptions, and (ii)&nbsp;the portion of total of <FONT STYLE="white-space:nowrap">Non-Employee</FONT> Director
+compensation paid for service during 2019 attributable on a <I>pro rata </I>basis to service from January&nbsp;1, 2019 through April&nbsp;25, 2019. </P></TD></TR></TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

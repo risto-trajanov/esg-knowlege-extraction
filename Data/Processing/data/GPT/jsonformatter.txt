@@ -1,0 +1,76 @@
+{
+  "docid": "30113942",
+  "title": "Shareholders Support for Emission Reduction",
+  "uri": "Q7835176",
+  "text": "The policies of energy companies—the largest greenhouse gas (GHG) emitters—are crucial to confronting the climate crisis. Therefore shareholders support oil and gas companies to substantially reduce their emissions.\n\nWe, the shareholders, understand this support to be essential in protecting all our assets in the global economy from devastating climate change.\n\nWe therefore support the Company to set emission reduction targets for all emissions: the emissions of the company’s operations and the emissions of its energy products (Scope 1, 2, and 3). Reducing Scope 3 emissions, the vast majority, is essential to limiting global heating.",
+  "entities": [
+    {
+      "uri": "Q7835176",
+      "boundaries": [
+        0,
+        57
+      ],
+      "surfaceform": "Shareholders Support for Emission Reduction",
+      "annotator": "Goal"
+    },
+    {
+      "uri": "Q11667",
+      "boundaries": [
+        24,
+        39
+      ],
+      "surfaceform": "greenhouse gas (GHG)",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q936656",
+      "boundaries": [
+        110,
+        126
+      ],
+      "surfaceform": "climate crisis",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q127663",
+      "boundaries": [
+        160,
+        166
+      ],
+      "surfaceform": "oil and gas",
+      "annotator": "Oil & Gas"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q127663",
+        "boundaries": [
+          160,
+          166
+        ],
+        "surfaceform": "oil and gas",
+        "annotator": "Oil & Gas"
+      },
+      "predicate": {
+        "uri": "P2046",
+        "boundaries": null,
+        "surfaceform": "reduce emissions",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835176",
+        "boundaries": [
+          0,
+          57
+        ],
+        "surfaceform": "Shareholders Support for Emission Reduction",
+        "annotator": "Goal"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    }
+  ]
+}

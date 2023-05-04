@@ -1,0 +1,76 @@
+{
+  "docid": "30113941",
+  "title": "Shareowners Request",
+  "uri": "Q7835173",
+  "text": "Shareowners request that the Board of Chevron Corporation take the steps necessary to amend Company bylaws and appropriate governing documents to give holders of 10% of outstanding common stock the power to call a special shareowners meeting. To the fullest extent permitted, such bylaw shall not contain exceptions or excluding conditions that apply to shareowners but not to the management or Board.\nSUPPORTING STATEMENT\nManagement’s handling of a range of issues has increased both risk and cost to shareholders, which necessitates lowering the threshold to call a special meeting.\nA recent report, Chevron’s Global Destruction,1 documents legal actions filed against Chevron and its subsidiaries around the world – providing evidence that Chevron is liable for $50+ billion in legal judgments and seizure claims globally. This report was the topic of a House Oversight Committee hearing entitled: Fueling the Climate Crisis: Exposing Big Oil’s Disinformation Campaign to Prevent Climate Action.\nPerhaps the most pressing issue is the ongoing effort by Ecuadorian communities to enforce a $9.5 billion judgment against Chevron for devastating oil pollution (the “Ecuadorian Judgment”).",
+  "entities": [
+    {
+      "uri": "Q7835173",
+      "boundaries": [
+        0,
+        18
+      ],
+      "surfaceform": "Shareowners Request",
+      "annotator": "Governance"
+    },
+    {
+      "uri": "Q319128",
+      "boundaries": [
+        37,
+        51
+      ],
+      "surfaceform": "Chevron Corporation",
+      "annotator": "Asset"
+    },
+    {
+      "uri": "Q986177",
+      "boundaries": [
+        813,
+        825
+      ],
+      "surfaceform": "Ecuadorian communities",
+      "annotator": "Social"
+    },
+    {
+      "uri": "Q5449034",
+      "boundaries": [
+        849,
+        867
+      ],
+      "surfaceform": "$9.5 billion judgment",
+      "annotator": "Environmental"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q319128",
+        "boundaries": [
+          37,
+          51
+        ],
+        "surfaceform": "Chevron Corporation",
+        "annotator": "Asset"
+      },
+      "predicate": {
+        "uri": "P1447",
+        "boundaries": null,
+        "surfaceform": "liable for",
+        "annotator": "Governance-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q5449034",
+        "boundaries": [
+          849,
+          867
+        ],
+        "surfaceform": "$9.5 billion judgment",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 3,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Governance-Triple-aligner"
+    }
+  ]
+}

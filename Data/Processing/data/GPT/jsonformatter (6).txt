@@ -1,0 +1,67 @@
+{
+  "docid": "Custom7",
+  "title": "Chevron's shareholder request on IEA Net Zero 2050 scenario",
+  "uri": "Custom8",
+  "text": "Shareholders request that Chevron’s Board of Directors issue an audited report to shareholders on whether and how a significant reduction in fossil fuel demand, envisioned in the IEA Net Zero 2050 scenario, would affect its financial position and underlying assumptions.",
+  "entities": [
+    {
+      "uri": "Q461",
+      "boundaries": [
+        20,
+        27
+      ],
+      "surfaceform": "Chevron",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Custom6",
+      "boundaries": [
+        92,
+        106
+      ],
+      "surfaceform": "Net Zero 2050",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q583241",
+      "boundaries": [
+        111,
+        114
+      ],
+      "surfaceform": "IEA",
+      "annotator": "Me"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q461",
+        "boundaries": [
+          20,
+          27
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P1687",
+        "boundaries": null,
+        "surfaceform": "issue",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom9",
+        "boundaries": [
+          55,
+          103
+        ],
+        "surfaceform": "an audited report to shareholders on whether and how a significant reduction in fossil fuel demand, envisioned in the IEA Net Zero 2050 scenario, would affect its financial position and underlying assumptions",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    }
+  ]
+}

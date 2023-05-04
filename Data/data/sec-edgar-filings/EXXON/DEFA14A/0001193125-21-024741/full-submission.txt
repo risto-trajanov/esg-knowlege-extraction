@@ -1,0 +1,546 @@
+<SEC-DOCUMENT>0001193125-21-024741.txt : 20210201
+<SEC-HEADER>0001193125-21-024741.hdr.sgml : 20210201
+<ACCEPTANCE-DATETIME>20210201171301
+ACCESSION NUMBER:		0001193125-21-024741
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20210201
+DATE AS OF CHANGE:		20210201
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		21577737
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9729406000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d212123ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the
+Registrant&nbsp;&nbsp;&#9746; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Filed by a Party other than the
+Registrant&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>Confidential, for Use of the Commission Only (as permitted by Rule <FONT STYLE="white-space:nowrap">14a-6(e)(2))</FONT></B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Soliciting Material Pursuant to <FONT STYLE="white-space:nowrap">&#167;240.14a-12</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>E<SMALL>XXON</SMALL> M<SMALL>OBIL</SMALL> C<SMALL>ORPORATION</SMALL> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified In Its Charter) </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules <FONT STYLE="white-space:nowrap">14a-6(i)(4)</FONT> and <FONT STYLE="white-space:nowrap">0-11.</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Title of each class of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Aggregate number of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11</FONT>
+(set forth the amount on which the filing fee is calculated and state how it was determined):</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Proposed maximum aggregate value of transaction:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Total fee paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Fee paid previously with preliminary materials.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11(a)(2)</FONT> and identify the filing for which the offsetting fee was paid previously. Identify the
+previous filing by registration statement number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Amount Previously Paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Form, Schedule or Registration Statement No.:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filing Party:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date Filed:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="31%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="35%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><I>News Release</I></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">
+
+
+<IMG SRC="g212123g0201223934983.jpg" ALT="LOGO">
+</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">ExxonMobil Media Relations:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><B>Exxon Mobil Corporation</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">(972) <FONT STYLE="white-space:nowrap">940-6007</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">5959 Las Colinas Boulevard</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Irving, TX 75039-2298</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">972 940 6007 Telephone</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">972 940 6143 Facsimile</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:53%; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>FOR IMMEDIATE
+RELEASE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>MONDAY, FEBRUARY&nbsp;1,
+2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ExxonMobil Low Carbon Solutions to Commercialize Emission-Reduction Technology </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">New business to commercialize and deploy technology from extensive, industry-leading R&amp;D portfolio
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Initial focus on carbon capture and storage (CCS), a technology recognized as critical to achieving Paris
+Agreement climate goals </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Advancing plans for over 20 new CCS opportunities to enable large-scale emission reductions
+</P></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">IRVING, Texas &#150; ExxonMobil said today it has created a new business to commercialize its extensive
+<FONT STYLE="white-space:nowrap">low-carbon</FONT> technology portfolio. The new business, ExxonMobil Low Carbon Solutions, will initially focus on carbon capture and storage, one of the critical technologies required to achieve net zero emissions
+and the climate goals outlined in the Paris Agreement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ExxonMobil Low Carbon Solutions is advancing plans for more than 20 new carbon capture and storage
+opportunities around the world to enable large-scale emission reductions. ExxonMobil plans to invest $3&nbsp;billion on lower emission energy solutions through 2025. The business will be led by Joe Blommaert, who has more than 30 years of experience
+in the industry with leadership roles in technology advancement, product marketing, and operations. The board of directors has elected him as a vice president of Exxon Mobil Corporation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">CCS is the process of capturing CO2 that would otherwise be released into the atmosphere from industrial activity, and injecting it into deep geologic
+formations for safe, secure and permanent storage. The United Nations Intergovernmental Panel on Climate Change and the International Energy Agency agree that CCS is one of the most important <FONT STYLE="white-space:nowrap">low-carbon</FONT>
+technologies required to achieve societal climate goals at the lowest cost. CCS is also one of the only technologies that could enable some industry sectors to decarbonize, including the refining, chemicals, cement and steel sectors. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ExxonMobil has more than 30 years of experience in CCS technology and was the first company to capture more than 120&nbsp;million tonnes of CO2, which is
+equivalent to the emissions of more than 25&nbsp;million cars for one year. The company has an equity share in about <FONT STYLE="white-space:nowrap">one-fifth</FONT> of global CO2 capture capacity and has captured approximately 40&nbsp;percent of
+all the captured anthropogenic CO2 in the world. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ExxonMobil Low Carbon Solutions will also leverage ExxonMobil&#146;s significant experience in the
+production of hydrogen which, when coupled with CCS, is likely to play a critical role in a lower-carbon energy system. Other technology focus areas in ExxonMobil&#146;s low carbon portfolio will be added in the future as they mature to
+commercialization. </P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;With our demonstrated leadership in carbon capture and emissions reduction technologies, ExxonMobil is
+committed to meeting the demand for affordable energy while reducing emissions and managing the risks of climate change,&#148; said Darren Woods, chairman and chief executive officer. &#147;We are focused on proprietary projects and commercial
+partnerships that will have a demonstrably positive impact on our own emissions as well as those from the industrial, power generation and commercial transportation sectors, which together account for 80&nbsp;percent of global CO2 emissions. We have
+the expertise that can help bring technologies to market and make a meaningful difference.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The business will seek to develop partnerships and
+collaborations on a wide range of technologies, and be responsible for marketing of emission-reduction credits created through the business&#146;s sequestration projects. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">New CCS projects and partnerships under evaluation include: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"><B>U.S. Gulf Coast</B> &#150; ExxonMobil is assessing multiple CCS projects along the U.S. Gulf Coast that have
+the potential to collect millions of tonnes of CO2 from industrial sources for storage in onshore and offshore geologic formations. Included in these projects is a CCS hub concept in Southeast Texas. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"><B>Wyoming, USA</B> &#150; ExxonMobil has progressed permitting for the expansion of its La Barge CCS facilities,
+which could enable an additional one million tonnes of CO2 per year to be captured. Existing facilities currently capture approximately 7&nbsp;million tonnes per year, which is the largest amount of CO2 captured by any industrial facility in the
+world. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"><B>Netherlands</B> &#150; ExxonMobil has executed a joint development agreement to advance its interest in the
+Port of Rotterdam CO2 Transportation Hub and Offshore Storage project, known as Porthos. The Porthos project aims to collect CO2 emissions from industrial sources and transport them by pipeline to depleted North Sea offshore gas fields. Porthos and
+its potential customers have applied for EU and national support mechanisms. ExxonMobil also participates in the <FONT STYLE="white-space:nowrap">H-Vision</FONT> study into large-scale production of <FONT STYLE="white-space:nowrap">low-carbon</FONT>
+hydrogen in Rotterdam. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"><B>Belgium</B> &#150; ExxonMobil is participating in the multi-stakeholder CCS project at the Port of Antwerp,
+Europe&#146;s largest integrated energy and chemicals cluster. The project, which would collect CO2 emissions from industrial sources for storage, recently applied for support from the European Union. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"><B>Scotland</B> &#150; Through its joint venture in the SEGAL system in Northeast Scotland, ExxonMobil is
+progressing discussions to support the Acorn project, which will collect CO2 from the St. Fergus gas processing complex for transport and storage in offshore gas reservoirs. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"><B>Singapore</B> &#150; ExxonMobil is planning a CCS hub concept to capture, transport and permanently store CO2
+generated by industrial activity in the Asia-Pacific region. The project concept is based on a plan to capture CO2 emissions from Singapore manufacturing facilities for storage in the region. </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"><B>Qatar</B> &#150; ExxonMobil is a partner in several existing joint ventures with Qatar Petroleum that operate
+a CCS project with an annual capacity of 2.1&nbsp;million tonnes at Ras Laffan. ExxonMobil is evaluating opportunities to add additional capture capacity in the region. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The new projects will complement ExxonMobil&#146;s current carbon capture capacity in the United States, Australia and Qatar, which totals about
+9&nbsp;million tonnes per year, the equivalent of planting 150&nbsp;million trees every year. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ExxonMobil is collaborating with multiple partners across
+industry, academia and government to advance carbon capture technologies to reduce costs and enhance scalability. This includes the company&#146;s work with <U>FuelCell Energy</U> to advance carbonate fuel cell technology to more efficiently capture
+CO2 from industrial facilities, and <U>Global Thermostat</U>, a collaboration to advance efforts to capture CO2 directly from the air.</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">CCS opportunities can become more commercially attractive through government policy, including the United
+States tax credit 45Q, which ExxonMobil supports, and other supportive policies in the European Union, Canada and Singapore. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Since 2000, ExxonMobil has
+spent more than $10&nbsp;billion to develop and deploy higher-efficiency and lower-emission energy solutions across its operations. The company works with about 80 universities in the United States, Europe and Asia to explore next-generation energy
+technologies. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"># # # </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Cautionary
+Statement </U></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Statements of future events, investment opportunities or conditions in this release are forward-looking statements. Actual future results,
+including project plans and timing, future reductions in emissions and emissions intensity, carbon capture results and the impact of operational and technology efforts could vary depending on the ability to execute operational objectives on a timely
+and successful basis; national, regional and local policies; changes in laws and regulations including laws and regulations regarding greenhouse gas emissions and carbon costs; trade patterns and the development and enforcement of local, national
+and regional mandates; unforeseen technical or operational difficulties; the outcome of research efforts and future technology developments, including the ability to scale projects and technologies on a commercially competitive basis; changes in
+supply and demand and other market factors affecting future prices of oil, gas, and petrochemical products; changes in the relative energy mix across activities and geographies; the actions of competitors; changes in regional and global economic
+growth rates and consumer preferences; the pace of regional and global recovery from the <FONT STYLE="white-space:nowrap">COVID-19</FONT> pandemic and actions taken by governments and consumers resulting from the pandemic; changes in population
+growth, economic development or migration patterns; and other factors discussed in this release and in Item 1A. &#147;Risk Factors&#148; in ExxonMobil&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> for 2019 and subsequent
+Quarterly Reports on Forms <FONT STYLE="white-space:nowrap">10-Q,</FONT> as well as under the heading &#147;Factors Affecting Future Results&#148; on the Investors page of ExxonMobil&#146;s website at www.exxonmobil.com. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Important Additional Information Regarding Proxy Solicitation </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exxon Mobil Corporation (&#147;ExxonMobil&#148;) intends to file a proxy statement and associated BLUE proxy card with the U.S. Securities and Exchange
+Commission (the &#147;SEC&#148;) in connection with the solicitation of proxies for ExxonMobil&#146;s 2021 Annual Meeting (the &#147;Proxy Statement&#148;). ExxonMobil, its directors and certain of its executive officers will be participants in the
+solicitation of proxies from shareholders in respect of the 2021 Annual Meeting. Information regarding the names of ExxonMobil&#146;s directors and executive officers and their respective interests in ExxonMobil by security holdings or otherwise is
+set forth in ExxonMobil&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> for the fiscal year ended December&nbsp;31, 2019, filed with the SEC on February&nbsp;26, 2020, ExxonMobil&#146;s proxy statement for the 2020 Annual
+Meeting of Shareholders, filed with the SEC on April&nbsp;9, 2020 and ExxonMobil&#146;s Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed with the SEC on December&nbsp;1, 2020. To the extent holdings of such participants in ExxonMobil&#146;s
+securities are not reported, or have changed since the amounts described, in the 2020 proxy statement, such changes have been reflected on Initial Statements of Beneficial Ownership on Form 3 or Statements of Change in Ownership on Form 4 filed with
+the SEC. Details concerning the nominees of ExxonMobil&#146;s Board of Directors for election at the 2021 Annual Meeting will be included </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+in the Proxy Statement. BEFORE MAKING ANY VOTING DECISION, INVESTORS AND SHAREHOLDERS OF THE COMPANY ARE URGED TO READ ALL RELEVANT DOCUMENTS FILED WITH OR FURNISHED TO THE SEC, INCLUDING THE
+COMPANY&#146;S DEFINITIVE PROXY STATEMENT AND ANY SUPPLEMENTS THERETO AND ACCOMPANYING BLUE PROXY CARD WHEN THEY BECOME AVAILABLE, BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION. Investors and shareholders will be able to obtain a copy of the
+definitive Proxy Statement and other relevant documents filed by ExxonMobil free of charge from the SEC&#146;s website, <U>www.sec.gov</U>. ExxonMobil&#146;s shareholders will also be able to obtain, without charge, a copy of the definitive Proxy
+Statement and other relevant filed documents by directing a request by mail to ExxonMobil Shareholder Services at 5959 Las Colinas Boulevard, Irving, Texas, 75039-2298 or at <U>shareholderrelations@exxonmobil.com</U> or from the investor relations
+section of ExxonMobil&#146;s website, <U>www.exxonmobil.com/investor</U>. </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g212123g0201223934983.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g212123g0201223934983.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  L /\# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#W/4]2MM(T
+M^:^O'*6\0!<@9(YQT_&N;_X69X8_Y^Y?^_+59^(7_(BZI_N+_P"A"O-/ 7A?
+M3_$LE\+]Y5$ 0IL?;USG^585*DE-1B>Y@,#A:F$GB<0W[KMI\O\ ,]$3XE>&
+M7=46[ERS!1^Y;J:ZT'-<*GPN\/)(CB6YRK!@/-[@YK6\1>,+?PQ-$EY9W+1R
+M#Y)8P"I/I]:N,I)7F<M>AAZLXPP/,V^_Z'2TQG5,;F"Y]3BN>T;QKI&M6-S<
+MQS& 6P+2I-P57U]Q7EVJ:EJ7C_Q6D%EO2'.R%,D"./N[>_?\A2G522MK<K"Y
+M55K5)1J^XH[M]#W)65AE6!'L<T^N3N=1TCX>Z#:VLAD?)PJ@Y>0_Q,:GTGQG
+M8:IIESJ1CEM;*W.#-/@!CZ#UJN=7L]SE>$JN/M(1;A>R=MSI:*\]G^+6E1S%
+M8;*YEC!^_D+^E=-X?\5Z7XCC8V4I$J#+PR<,/\10JD9.R95;+\51A[2I!I&Y
+M17+>(_'.G^&M02SNH9Y)'C$@,8&,9(_I67?_ !6TBUF$=O;SW. -S+A0/\:'
+M4@MV.EEV*JI2A!M/8[VN<U;QOH>BZB]C>W$B7" %E6(D8(R.:L>'?%.G^);9
+MY;-V$D9Q)$XPR_\ UJ\E^(Z[_'UTG3<D(_-:BK4Y8\T3KRW+E7Q4J&(NK)OS
+MZ'KFA^)]*\1&8:=,TAAQO#(5(STZ_2I=;\0:=X>MXY]1E:..1]B;5+$G&>@K
+MROX:3OIOC:?3Y#CS8WB8?[2'(_D:N_%JZ-QK&F:;&<E$+E?]IS@?RJ56?L^;
+MJ=$LHIK,5ADWR-7OUM;_ #.VTWQWH.K:A#8VEQ(T\I(13$0#@9ZUTE>!^"(S
+M#X_L(F^]',Z'Z@,*]KUC6[#0K(W5_.(X^BCJS'T [U5*HY1;D<^:Y?##5XTJ
+M%WS*YI4E>>?\+<TSSMOV"Y\O^_D9_*NRT;7+#7K,75A,)$Z,IX93Z$5<:D9.
+MR9Q5\!B</'FJP:1GWOC;0]/U<Z9<7$BW2NJ%1&2,MC'/XBNA%>$^,76+XDW$
+MCG:B7$+,?0 *37:W'Q:TJ*X*06=S-&#CS.%S^%9QK*[YCTL1DT_9TI8:+ES*
+M[_ ]"KG=6\;:'HNH-8WUQ(DZ*&*K&6&#TY%6=!\2Z=XCM6FL9263_61/PR?4
+M5P/CAO"P\53C5(K]KORX]QA;"XQQ5SG:-XG)@L&IXATJ\9:+9;GH&L^(]-T"
+MV@N-0E9(YVVH50MDXSVJ?2-8L]<L%O;!V>!F*@E2IR#@\&N$^+./["TC;]WS
+MCCZ;*V/A=_R),/\ UWE_]"J54?M.4NI@:<<OCBE?F<K>74[.BBBMCR@HHHH
+M**** .8^(7_(BZI_N+_Z&*\@\.>'M5UYKA=+E"&$*9,R%<YSBO7_ (A?\B+J
+MG^XO_H8KRCPCXO;PH]VRV@N/M 4?>QMQG_&N.O;VBOL?79+[;^SJGL%>7-I?
+MY&_IW@'Q1;ZG:3RW(,<<R.X\\G@$$UZCJNEVFL6$ME>Q"2&0<YZCW'H:\ZC^
+M+KR31I_9 &]PN?-Z9.*TOB+XQ_LNU.DV,F+V=?WK@_ZI#_4UI&5.,6TSBQ.'
+MS"OB:<:D5&72UOF].QY7JUK'IFK7EE;77GPQN8Q(IX<>A_SVKT;X>WV@Z-X7
+MO-2>8?;(\FYW?> _A5?8_P ZJ^"O =O>://J.M(52XC(A4G!1?[Y]_2O/+R.
+M*"]N(;>?SH%D*I)T#@'@XKG5Z=IVW/?J>RS&,L(IN\;7??N=+%'J7Q%\7%G+
+M)$?O'M!%Z?7^M:/Q,E337T[P_9KY=E;0>;L'\3$D GUZ'\ZZWX8OI/\ PCNR
+MQ(^V YNPWW]W^'I6?\4O#<]]'!K%I&9&@0QSHHR=G4'\.?SK1P?LW);L\V&-
+MA_:4*$URPA=)>??_ ")] ^&NCOH5O+J$;S74\0=F#D!<C.!]*X2:&;P7X^6*
+MWF+"WG3!_OQMC@_@:U=%^)][I6D)8SVBW+0ILBD+X.!T!^E4O#VF:CXU\7?V
+MA<J3")A-<2XPH Z*/R J9.#24-SHHT\71E6J8V7[MI[O?T+GQ9/_ !5,!_Z=
+M%_\ 0FKJ-/\ AWHLWA2%I8B;R6W$AGW<AB,\>U<O\6O^1H@_Z]!_Z$U>KZ7_
+M ,BY9_\ 7HG_ * *TA%.I*YP8O$5:.7X;V<FK]CQ[X9321>-X(E8[98I4<>N
+M!G^8I/B)_P E!N/I#_(4SX;G_BOK3_=F_P#033_B+_R4&X^D'\A6/_+KYGKM
+M?\*S?_3O]2SK?_%/?%6&[ VQO/%/_P !<8;^M33YU_XR*F-\<5R![;8AD_J/
+MUJ[\6K'9)I6I*/O(8&/T^8?UJ'X36C76O:AJ4N6:*(+N/=G.3^@J[/GY/.YR
+MJI'Z@L9]I0</QL8WA/\ Y*9#_P!?DW_LU2>/KVXUGQS)8;L)!(EM"IZ G&3^
+M9_2H_"7_ "4R#_K[F_\ 9JU?B7X=NK+6SKEJC&"?:SN@_P!7(.,_C@5-FZ;]
+M3=SIQS&GS:-T]/6YU2_"_0?[-$#+(;C;@W&\YW>N*X7P/<W.A^/DT_S,I+*]
+MK,!T;&<'\Q6BOQ:U :9Y)LHC>;=OG[N,^N/6F_#?P_=ZAKXUVZ5Q! S.KL/]
+M;(V>GTR35MQE./(<D88JAA:[Q\KIK2[OKY&1XW@:Y^(5[;H0&EFCC!/8E5']
+M:]"3X7Z"-.$#+*UQMP;C?SN]<5YUX\9D\>Z@T9(=9(RI'4':N*W%^+.HKIWD
+M-91&\"[?.+8&?7'K2BX*4N<VQ%''5<-A_JCM9*^MNB,7PK/<>'_'\%J'R?M)
+MM)L='!./YX-3?$S_ )'FY_ZY1?RJQ\/M"NM9\2IJUPKFWMI#,\K#[\G4 ?B<
+MU6^)G_(\W/\ URB_E4V?LOF=$9PEFB2=Y*&OK='4_%?_ ) &C?\ 7;_V2MKX
+M7?\ (DP_]=Y?_0JQ?BO_ ,B_HW_7;_V2MKX7?\B3#_UWE_\ 0JVC_&?H>'6_
+MY$L/\?\ F=G11172?.A1110 4444 0W-M!>6[07$2RQ/]Y'&0:S_ /A&=#_Z
+M!5I_W[%:M%)Q3W+C5G!6BVC+'AK1%8$:5:@@Y!\L4^?0-(N9WGGTZWDE<Y9W
+M0$DUHT&ERKL5[>K>_,_O/+_B3XL9%;P_INX8&+IT!X'9!_6I_"?P[M7\.RR:
+MQ"?M5XGR#O O48_VN_Z5Z*8HR<F-"?7:*<#Q4>RO+FEJ=_\ :<J>&6'H+EUN
+MW?5L\#O+36/ 'B171B&4YBEQ\DZ>A_J.U>Q>&?$EGXFTT7%N0LJ_+-">J-_A
+M[U)XDT>RUO1I[:]CW*J%T=>&1@.H->9Z!I@T75[>[LKNY20L$92R[74GD$8Y
+M%9*]*5ELSTJDZ>:87VDU:I#KT9Z9<>%-!NIO.FTJV:0G).S&?RK3M[6"TA6&
+MVA2*->B(N!4HHKI22V/G95:DERRDVO4HWFCZ;J$HEO+&">0+M#2("<>E7$C2
+M.)8D4*BC:%'0#TIU%%D2YR:2;T10MM$TNSN!<6UA!%,,X=$ (SUHN=$TN\N#
+M<7-A!+,<9=T!/'2K]%'*BO:U+\W,[^I6N]/M+^)8KNVCGC4Y"R+D TEEIUGI
+MZNMG:Q0*YRPC7&35JBBRO<GGER\M]"A%H>EV]T+J&P@2<,6$BH <GJ<U=>-)
+M$*.BNC#!5AD&G44))!*<I.[=S%_X1'P^9_/_ +)MO,SG.SC\NE;"1I'&L<:*
+MB*,!5& *=10DEL.=6I/XY-^I0FT32[BZ-U-86\DY(8R,@)R.G-5KCPKH5W<&
+M>?2K9Y2<EMF,_E6Q11RKL4J]6.TG]Y'!!#;1+%!$D<:CA4& *J76B:7>SF>Z
+ML+>:8@ NZ DXJ_119,A3E%W3U*MWIME?QI'=VL4Z1G*B1<@4^TL[:Q@$%K D
+@,0)(1!@9-3T460<\N7EOH+1244R1:*2B@!:*2B@#_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

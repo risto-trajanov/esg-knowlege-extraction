@@ -1,0 +1,626 @@
+<SEC-DOCUMENT>0001193125-21-125846.txt : 20210422
+<SEC-HEADER>0001193125-21-125846.hdr.sgml : 20210422
+<ACCEPTANCE-DATETIME>20210422100028
+ACCESSION NUMBER:		0001193125-21-125846
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20210422
+DATE AS OF CHANGE:		20210422
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		21843582
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9729406000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d117163ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the
+Registrant&nbsp;&nbsp;&#9746; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Filed by a Party other than the
+Registrant&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>Confidential, for Use of the Commission Only (as permitted by Rule <FONT STYLE="white-space:nowrap">14a-6(e)(2))</FONT></B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Soliciting Material Pursuant to <FONT STYLE="white-space:nowrap">&#167;240.14a-12</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>E<SMALL>XXON</SMALL> M<SMALL>OBIL</SMALL> C<SMALL>ORPORATION</SMALL> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified In Its Charter) </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules <FONT STYLE="white-space:nowrap">14a-6(i)(4)</FONT> and <FONT STYLE="white-space:nowrap">0-11.</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Title of each class of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Aggregate number of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11</FONT>
+(set forth the amount on which the filing fee is calculated and state how it was determined):</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Proposed maximum aggregate value of transaction:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Total fee paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Fee paid previously with preliminary materials.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11(a)(2)</FONT> and identify the filing for which the offsetting fee was paid previously. Identify the
+previous filing by registration statement number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Amount Previously Paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Form, Schedule or Registration Statement No.:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filing Party:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date Filed:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g117163g0422083328622.jpg" ALT="LOGO">
+ </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="35%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="31%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<IMG SRC="g117163g0422083328248.jpg" ALT="LOGO">
+</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">
+
+
+<IMG SRC="g117163g0422083328427.jpg" ALT="LOGO">
+</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="9%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">CONTACT:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">ExxonMobil Media Relations</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">972-940-6007</FONT></FONT></P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Global Clean Energy Media Relations</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">424-318-3518</FONT></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:55%; text-indent:-2%; font-size:10pt; font-family:Times New Roman">FOR IMMEDIATE RELEASE </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:55%; text-indent:-2%; font-size:10pt; font-family:Times New Roman">THURSDAY, APRIL&nbsp;22, 2021 </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ExxonMobil Expands Renewable Fuels Agreement with Global Clean Energy Holdings </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Five-year agreement to purchase renewable diesel from Bakersfield biorefinery increases up to 5&nbsp;million
+barrels per year </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Renewable fuel using Global Clean Energy&#146;s patented camelina crop can significantly reduce greenhouse gas
+emissions </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Biorefinery startup on schedule for early 2022 </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">IRVING, Texas &#150; ExxonMobil and Global Clean Energy have expanded their five-year agreement to increase ExxonMobil&#146;s purchase of renewable diesel up
+to 5&nbsp;million barrels per year. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ExxonMobil will be the exclusive buyer of renewable diesel from Global Clean Energy&#146;s biorefinery in
+Bakersfield, California, which is on schedule to begin production in early 2022. The renewable diesel leverages Global Clean Energy&#146;s patented camelina crop, which can significantly reduce life-cycle greenhouse gas emissions. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;Our expanded agreement with Global Clean Energy reinforces ExxonMobil&#146;s longstanding efforts to support society&#146;s ambitions for lower-emission
+fuels,&#148; said Ian Carr, president of ExxonMobil Fuels and Lubricants Company. &#147;Through our growing relationship, we remain focused on bringing renewable fuels to market that make meaningful contributions to help consumers reduce their
+emissions.&#148; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Based on analysis of California Air Resources Board data, renewable diesel from various
+<FONT STYLE="white-space:nowrap">non-petroleum</FONT> feedstocks can provide life-cycle greenhouse gas emissions reductions of approximately 40&nbsp;percent to 80&nbsp;percent compared to petroleum-based diesel. When cultivated as a cover crop on
+rotational dryland, camelina can help meet the growing global demand for lower-carbon <FONT STYLE="white-space:nowrap">non-petroleum</FONT> feedstocks. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;Our work at the Bakersfield biorefinery is a perfect example of what can be accomplished when an industry leader like ExxonMobil supports a growing
+renewables company like Global Clean Energy with long-term contracts,&#148; said Richard Palmer CEO of Global Clean Energy Holdings. &#147;By working together across traditional agricultural, energy and supply chain lines, we are showing how ag and
+energy, big and small, can collaborate to bring lower-carbon fuels to market.&#148; </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Bakersfield biorefinery will process up to 15,000 barrels per day of renewable feedstocks, including
+Global Clean Energy&#146;s proprietary camelina. The balance of renewable diesel will be produced using various <FONT STYLE="white-space:nowrap">non-petroleum</FONT> feedstocks, including used cooking oil, soybean oil, distillers&#146; corn oil and
+other renewable sources. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The original agreement signed in August 2020 committed ExxonMobil to purchase 2.5&nbsp;million barrels of renewable diesel per
+year. Following production startup, ExxonMobil plans to distribute the renewable diesel within California and potentially other U.S. and international markets. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"># # # </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>About ExxonMobil </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">ExxonMobil, one of the largest publicly traded international energy companies, uses technology and innovation to help meet the world&#146;s growing energy
+needs. ExxonMobil holds an industry-leading inventory of resources, is one of the largest refiners and marketers of petroleum products, and its chemical company is one of the largest in the world. To learn more, visit <U>exxonmobil.com</U> and the
+<U>Energy Factor</U>. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Follow us on <U>Twitter</U> and <U>LinkedIn</U>.<U> </U> </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>About Global Clean Energy </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Global Clean Energy Holdings
+(OTCQB:GCEH) is a leading developer of sustainable, <FONT STYLE="white-space:nowrap">non-food</FONT> energy crops for use in biofuels. GCEH&#146;s wholly owned subsidiary, Sustainable Oils, is the world&#146;s leading developer of camelina, a
+fast-growing, low input, dryland farmed rotation crop. As it is cultivated exclusively on unirrigated fallow land, camelina does not displace food or create indirect land use change. It also allows farmers to improve total farm economics through
+better overall asset utilization. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Through a financing partnership with Orion Energy Partners, GCM Grosvenor and Voya Investment Management, Global Clean
+Energy expanded into downstream production with the acquisition of the Bakersfield facility. Once production commences in early 2022, the Bakersfield biorefinery will be the only integrated <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">farm-to-tank</FONT></FONT> renewable diesel producer of its kind, processing both camelina&#151;a proprietary <FONT STYLE="white-space:nowrap">non-food,</FONT> <FONT STYLE="white-space:nowrap">ultra-low</FONT> carbon
+intensity and purpose-grown feedstock&#151;as well as traditional biofuel feedstocks such as plant oils and waste products. To learn more, visit <U>gceholdings.com</U>. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Follow us on <U>Twitter</U> and <U>LinkedIn</U> </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Cautionary
+Statement </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Statements of future events, plans or product offerings in this release are forward-looking statements. Actual future results, including
+product offerings, refinery <FONT STYLE="white-space:nowrap">start-up</FONT> dates, delivery timing. available capacity, and the impact and results of new technologies on product efficiency and life-cycle emission reductions could vary depending on
+the outcome of general business conditions; further research and testing; the development and competitiveness of alternative technologies; the ability to scale pilot projects on a cost-effective basis; political and regulatory mandates, incentives
+and other developments; and other factors discussed in this release and under the heading &#147;Factors Affecting Future Results&#148; on the Investors page of ExxonMobil&#146;s website at&nbsp;<U>exxonmobil.com</U>. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Important Additional Information Regarding Proxy Solicitation </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exxon Mobil Corporation (&#147;ExxonMobil&#148;) has filed a definitive proxy statement and form of associated BLUE proxy card with the U.S. Securities and
+Exchange Commission (the &#147;SEC&#148;) in connection with the solicitation of proxies for ExxonMobil&#146;s 2021 Annual Meeting (the &#147;Proxy Statement&#148;). ExxonMobil, its directors and certain of its executive officers will be
+participants in the solicitation of proxies from shareholders in respect of the 2021 Annual Meeting. Information regarding the names of ExxonMobil&#146;s directors and executive officers and their respective interests in ExxonMobil by security
+holdings or otherwise is set forth in the Proxy Statement. To the extent holdings of such participants in ExxonMobil&#146;s securities are not reported, or have changed since the amounts described, in the Proxy Statement, such changes have been
+reflected on Initial Statements of Beneficial Ownership on Form 3 or Statements of Change in Ownership on Form 4 filed with the SEC. Details concerning the nominees of ExxonMobil&#146;s Board of Directors for election at the 2021 Annual Meeting are
+included in the Proxy Statement. BEFORE MAKING ANY VOTING DECISION, INVESTORS AND SHAREHOLDERS OF THE COMPANY ARE URGED TO READ ALL RELEVANT DOCUMENTS FILED WITH OR FURNISHED TO THE SEC, INCLUDING THE COMPANY&#146;S DEFINITIVE PROXY STATEMENT AND
+ANY SUPPLEMENTS THERETO AND ACCOMPANYING BLUE PROXY CARD, BECAUSE THEY CONTAIN IMPORTANT INFORMATION. Investors and shareholders can obtain a copy of the Proxy Statement and other relevant documents filed by ExxonMobil free of charge from the
+SEC&#146;s website, <U>www.sec.gov</U>. ExxonMobil&#146;s shareholders can also obtain, without charge, a copy of the Proxy Statement and other relevant filed documents by directing a request by mail to ExxonMobil Shareholder Services at 5959 Las
+Colinas Boulevard, Irving, Texas, 75039-2298 or at <U>shareholderrelations@exxonmobil.com</U> or from the investor relations section of ExxonMobil&#146;s website, <U>www.exxonmobil.com/investor</U>. </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g117163g0422083328248.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g117163g0422083328248.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  ] )@# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+1-?UH*--)I_UJ%%%%9FA__]D!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g117163g0422083328427.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g117163g0422083328427.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  G ,H# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+M(O\ D7T_G^;-_P %3VUMXOT^:[=$@5GWM)]T?(W7\:]G_M[PS_S^6/Z5P_\
+MPJ&;_H)Q_P#?!H_X5%-_T%$_[X-;4U5@K<IY.85,MQM15)5VK*VB?^1Z7;WM
+ME+8_:K>>(VJ@GS%/R@#K7C7BC6[OQOXBAT_3T9K9'V0)_>/=C_GI7=/X,OQX
+M1M] @U)(XU9VF?:<N"Q('TYJ7PQX1LO!T%U?75PDDNTYF(P(T'6M)J<[1>BZ
+MGGX*KA,%SUHRYYW:BK/[_G_6YYG>66K^ /$$<BO@CYHY%^Y*O<?_ %JL:'IU
+MYX^\5RW%[)^[!\R=@?NKV4?RIVM:G?>/_%,5K9HWD!BD"'^%>['\LU5N+?6/
+MA_XB5E8@@Y1Q]R9*YM$_[MSZ5.<J2C)QCB''^OZ[GKWB72_.\&7VGV4>P+!^
+M[1!_=P<#\J\S^&FO66BZK=0W[B);E%59&Z @G@_7/Z5ZCX;\1V?B335N;<A9
+M5XEA)Y0_X>]<SXC^&5KJET]WITRVLKG+1D?(3ZC'2NF<6VJD#YO XBG2A5P.
+M-O%2>_9_TD1_$;Q-IDGAR73;>XCGN)V3A#G8 0V3^6/QK.\"6DL/@+Q#<NI$
+M<\,@3/?;&V3^OZ4[3?A(RW"MJ5^C1 Y*0@Y;\3TKT*72H1H$VE6BK!$UNT*8
+M'"Y4C/ZTHPG*7/)6+KXO"8;#+"8>7->2;?W?Y(\K^$W_ "-%U_UZ-_Z$M;GQ
+M>_Y!NF_]=7_D*T_"/@63PSJLMXUXLP>$Q[0N.I!S^E7_ !CX5?Q3;6L*7*P>
+M2[,21G.0*2IR]BXVU*K8_#RS:.(4O<777LS%\(_\DIN_^N-S_(US7PJB6?7=
+M0B<922R=6'L645Z'H_AI]+\(S:(;A7:1)5$@' W@C^M9WA#P-)X8U.:[:\68
+M20F/:%QCY@<_I3]G*\--A/'T/9XI*6LW>/GJ>3K=SZ%+K&G<YF5K9_;#@D_H
+M1^-=7;6'V7X,WUP1AKJ=7_ 2*H_D?SK=U[X9G5]<NM0BODB6=]^PJ>#CG]<U
+MT%_X7%UX*3P]%.$VQQIYI'4J02<>Y'ZU$:,E>_9V.S%9OAIQI.$M7*+EOT_K
+M\#C?A;"USH^OP*<-*BH#[E7%<YX)U2'PYXNWZB#$A5X)"P_U9SU/XC%>G^#?
+M"3^%8[Q7N5G^T%",+C&,_P"-5?%/P]L]?N&O+>3[+=M]\XRKGU/O3]E-0BUN
+MC'^T\++%5Z=1_NZEM5Y*P[Q?XLTB'PU>0Q7<4\US"T<:(<YW#&?H*YCX16<I
+MO]0O2"(EB$0/8DD'],?K2VGPCN?/7[9J,7D@\^4"2?SKTK2M*M-&T^.RLH]D
+M2?FQ]3[U48SG-2DK6.;$8C!X7!RPV&ESN>[['AV@:M#HGCA;VY7,*S.KG'*@
+MY&?PS7K.K^,]$M-'FG2]BG9XR(XT.2Y(X%<N?A-YU])-/J0\MV9B$3GG./UQ
+M5+_A45[]HP=2@\G/7!W8^F*B"JP321W8NIE>,JQJ5*MG%+OK^!E?#"TEN/&,
+M<Z*?+MXW=S]5*C]35/7_ /DH]S_U_#_T*O8O#OANR\-6!M[0%G<YDE;[SG_"
+MN7U#X<2WOB275A?HH>?SMFT\<YQ0Z,E!)=Q4LXP\\;4JS=H\O*O/6YE_&'_7
+M:1_NR_S2O,:]W\9^#G\5/9LETL'V<.#D9SNQ_A7+?\*AF_Z"<?\ WP:FM2G*
+M;:1OE.:X2A@X4ZD[-7Z/NSU6BBBNX^)"L;Q'H/\ PD-BMF][+;P9RZQ@?/Z9
+M]A112:35F:4JLZ4U.#LT5O#'@^P\,"9K=FFFEX,KCD+Z"KVNZ%9>(=->SO$Z
+M\I(!\T;>HHHI*$4N6VAI+%5IUO;RD^;N>*,=4\ ^*&1)%\V(\X.5E0^H]Z]J
+M\/Z[;>(M)CO[8,H)VNC#E&'4>_UHHKFHMQJ."V/ILXIQKY?3Q<U[^FOJC5HH
+GHKK/D0HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** /__9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g117163g0422083328622.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g117163g0422083328622.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  P 0P# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#W^BBB@ HH
+MHH **** "BL#5=>FT;5;*&Z$+6EP6W2J"IC P,GDC&6'-;] !169]KO#K9L
+MUN46$3,^QLC+$ 8S['GVZ5IT %%%% !1110 4444 %%8?B;4K_1].DO[5[8H
+MFT&*6)B22<9W!AZ],4ZXEUZULGNMUA.8TWM"L+H2 ,D!MYY_"@#:HJGI6HQZ
+MMI=O?1*565<[3V(."/S!JY0 45C>)+Z^TW3/M%B83(76-4DC)+%CC@Y&/R-;
+M"@A%#'+ <GUH 6BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH ****
+M ,>ZLH]6U"_M;E UN+9(@?\ :8L3^(PAJ#PS?3&.?2+ULWM@WEDY_P!8G\+?
+ME_3UJUHK+.^HW2G(FO' ^B )_P"RY_&J/B2WELY[?7[1<S6?$Z X\R$]1[XZ
+M_P#ZJ -"PQ+K&J3XY1X[<'/94#?SD-.%\;RZNX('\J.V(22? /SXR0,\<#&2
+M?6FZ YGTL71S_I,LDPR,':S';_X[BL?PQ)8#3)Y;QXTN6NY&N(I)<[9"V!\N
+M<9Z8XYH MZ;=:Q>Z2CH\!D:9PEQ+&<-$,X?:,<GVXQS[59M+ZY32KF_O+B"6
+M%$9XWAC*AE4=>2<Y[>WUI/$5S-'X6OI[9'#^4<?PD G!/M@9-9OB&ZC/@N:/
+M3F#Q+ @)BY"ID#''M^F>E %R>^U9?":ZC&+=;L0?:)%=2%"XW$ >N/6I8-8-
+MW<65F,07-Q9BZ?<,[ <#:,]\D_E4MP;?5+$65K,DD,J@2,AR!'QD9'0D<#ZY
+M[5%>6>CZQ=/;721M-9E<8DVNF0".A!Q0!;LH+Z"YF6YO&NH"JF-GC56!YR/E
+M !Z#MWJ]6%H%I<VEYJ*B>633BZ_9?-D+GI\V">V>!]*W: .<\6 SG2;%>?/O
+MD++ZJN2:>^IR:Z;W2K-'M98SY5P\_#(ISR@&<Y['(]:AOF6Z\>Z9 &_X]+>2
+M9O<M\N/Y&E\1VTNGW4/B*R7,MN-MR@_Y:0]_Q'^>E &O_HFA:-W2UM8OJ<#^
+MIK.U2]U**SM+B"01W4TJ*EF5!W9Z@GD\#))'3%5_$M[;:AX;M9XV$MA/<Q"9
+MPV-L>[G/X@#VK:AFL1,%MW269@,E&WMM/0D\G'7K0!G:\JW6K:)8D$YN3<''
+M81J3S^)%:-_?BS-O$J>9/<R>7$F<>Y)]@,FLDW43^.90\H)MK,(D0&6+.V21
+M^&/SI-3,)\::<MV?+B6VD,+F3;F0D C@C^'^= %H7-\GB6*T6X%Q T+/.NP#
+MR?[N"!GD]B>QIYN;C48;N2WNC9V\$C1K*J*Q?;]X_-P!G(Z=LYYJ=[RUAL+J
+M6TVLD,;N6B&5R <C(ZGBN:FNTA^&_P"X;*FV"RNO/SN<$?7+'/X]Z -.RURX
+MA\.V%[J!0W%[*L<>!A1N/RD^V!DUHFWU!+^&5;]I(&8B6%HE"@8/*D#(Y ZD
+M]:@E_LF:RM=*N!$]O-'MC5FVA@@'W?SX(JE;Z0;#Q!9C29IA9*C_ &J-IBZ
+M8&P '/.?T'Y@&L]\9=3;3[?AXXQ)-*1D("?E&/4X)_"J^B75W<3:@LTHGMX9
+MMD$^T OQ\PX !P>,CT-9NE/9?VOKTE^\<4PN<,LLN 8E4;21G!&,]?6NEAD2
+M2,&-2$Z+\N,CV]J )**** "BBB@ HHHH **** "BBB@ IDL4<\3131I)&PPR
+M.H(/U!I]% %6WTRPLY/,M;&V@D(P6BB53CTR!5EE5U*L 588(/<4M% #(HHX
+M(EBA14C0855& ![4P6ELMPUP+>(3L,&0(-Q_'K4U% "$!@00"#P0>]1QVT$,
+M'D101I#C'EJ@"X^G2I:* (X8(K>(101)%&O1$4*!^ J.6QLYYEFFM8))4^Z[
+MQ@L/H35BB@ HHHH S_["T?\ Z!5C_P" Z?X5?*JR%&4%2,$$<$4M% %:'3[*
+MWA>&"TMXHI/OHD056^H YJ6"WAMHQ'!#'%&.BQJ% _ 5)10 P11K*TJQH)&
+M#.%Y..F339[:WND"7$$4R@Y D0, ?7FI:* $V*$V;1MQC;CC%,,$)B$1B0QC
+M&$*C QTXJ2B@"&XM+:[C\NYMXID_NR(&'Y&I(XTB0)&BH@Z*HP!3J* (7M+:
+A2X6X>WB:91A9"@+ >QZU-110 4444 %%%% !1110!__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

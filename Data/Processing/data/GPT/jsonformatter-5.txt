@@ -1,0 +1,106 @@
+{
+  "docid": "30113941",
+  "title": "Board Statement on Climate Change",
+  "uri": "Q7835179",
+  "text": "Your Board shares the interest of Chevron’s investors and stakeholders in addressing climate change and the role of greenhouse gas (“GHG”) emissions as a contributor to climate change. We are also mindful that the journey to a lower carbon future will still require oil and gas, particularly in areas where there are currently no effective substitutes, such as shipping and transportation.",
+  "entities": [
+    {
+      "uri": "Q319146",
+      "boundaries": [
+        0,
+        9
+      ],
+      "surfaceform": "Your Board",
+      "annotator": "Governance"
+    },
+    {
+      "uri": "Q26009",
+      "boundaries": [
+        34,
+        41
+      ],
+      "surfaceform": "Chevron",
+      "annotator": "Asset"
+    },
+    {
+      "uri": "Q5255891",
+      "boundaries": [
+        136,
+        153
+      ],
+      "surfaceform": "greenhouse gas",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q7835179",
+      "boundaries": [
+        0,
+        60
+      ],
+      "surfaceform": "Board Statement on Climate Change",
+      "annotator": "Governance"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q319146",
+        "boundaries": [
+          0,
+          9
+        ],
+        "surfaceform": "Your Board",
+        "annotator": "Governance"
+      },
+      "predicate": {
+        "uri": "P31",
+        "boundaries": null,
+        "surfaceform": "shares interest",
+        "annotator": "Social-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q26009",
+        "boundaries": [
+          34,
+          41
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Asset"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Social-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q319146",
+        "boundaries": [
+          0,
+          9
+        ],
+        "surfaceform": "Your Board",
+        "annotator": "Governance"
+      },
+      "predicate": {
+        "uri": "P9103",
+        "boundaries": null,
+        "surfaceform": "addresses climate change",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q5255891",
+        "boundaries": [
+          136,
+          153
+        ],
+        "surfaceform": "greenhouse gas",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    }
+  ]
+}

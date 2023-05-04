@@ -1,0 +1,660 @@
+<SEC-DOCUMENT>0001564590-20-043320.txt : 20200914
+<SEC-HEADER>0001564590-20-043320.hdr.sgml : 20200914
+<ACCEPTANCE-DATETIME>20200914060126
+ACCESSION NUMBER:		0001564590-20-043320
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20200914
+DATE AS OF CHANGE:		20200914
+EFFECTIVENESS DATE:		20200914
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tesla, Inc.
+		CENTRAL INDEX KEY:			0001318605
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				912197729
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34756
+		FILM NUMBER:		201172190
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+		BUSINESS PHONE:		650-681-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TESLA MOTORS INC
+		DATE OF NAME CHANGE:	20050222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>tsla-defa14a_20200922.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+tsla-defa14a_20200922.htm
+</title>
+</head>
+<!-- NG Converter v5.0.2.50 -->
+<body>
+
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:1pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">UNITED STATES</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SECURITIES AND EXCHANGE COMMISSION</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">WASHINGTON, D.C. 20549</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SCHEDULE 14A INFORMATION</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Proxy Statement Pursuant to Section 14(a)</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">of the Securities Exchange Act of 1934</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:12pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Amendment No.&#160;&#160;&#160;&#160;)</p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Filed by the Registrant&#160;<font style="font-family:Segoe UI Symbol;">&#9746;</font></p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Filed by a Party other than the Registrant&#160;<font style="font-family:Segoe UI Symbol;">&#9744;</font></p>
+<p style="margin-bottom:0pt;margin-top:3pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Check the appropriate box:</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:4pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:468pt;;">
+<tr>
+<td style="width:19.65pt;"></td>
+<td style="width:448.35pt;"></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Preliminary Proxy Statement</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Confidential, for Use of the Commission Only (as permitted by Rule&#160;14a-6&#160;(e)&#160;(2))</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Definitive Proxy Statement</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9746;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Definitive Additional Materials</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top" >
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Soliciting Material Pursuant to Section&#160;240.14a-11&#160;(c)&#160;or Section&#160;240.14a-12</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:4pt;text-indent:0%;font-weight:bold;font-size:22pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">TESLA, INC.</p>
+<p style="text-align:center;margin-bottom:0pt;border-top:Solid 0.75pt #000000;padding-top:1pt;margin-top:0pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-family:Times New Roman;font-size:4pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:7.5pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Name of Registrant as Specified in its Charter)</p>
+<p style="text-align:center;margin-bottom:0pt;border-bottom:Solid 0.75pt #000000;padding-bottom:1pt;margin-top:0pt;margin-left:38.46%;margin-right:38.46%;text-indent:0%;font-family:Times New Roman;font-weight:bold;;font-size:4pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:4pt;text-indent:0%;font-weight:bold;font-size:7.5pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Name of Person(s) Filing Proxy Statement, if other than the Registrant)</p>
+<p style="margin-bottom:4pt;margin-top:3pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Payment of Filing Fee (Check the appropriate box):</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9746;</p></td>
+<td colspan="2" valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">No fee required.</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td colspan="2" valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Fee computed on table below per Exchange Act Rules 14a-6&#160;(i)&#160;(1) and 0-11.</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td colspan="2" valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(1)</p></td>
+<td valign="top"  style="width:92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Title of each class of securities to which transaction applies:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(2)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Aggregate number of securities to which transaction applies:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(3)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule&#160;0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(4)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Proposed maximum aggregate value of transaction:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(5)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Total fee paid:</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:9.84%;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">$</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:96%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top"  style="width:96%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Fee paid previously with preliminary materials.</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top"  style="width:96%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Check box if any part of the fee is offset as provided by Exchange Act Rule&#160;0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:6pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(1)</p></td>
+<td valign="top"  style="width:92%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Amount previously paid:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(2)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Form, Schedule or Registration Statement No.:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(3)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Filing Party:</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:4%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+<td valign="top"  style="width:92%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:6pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="middle"  style="width:4%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="width:4%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(4)</p></td>
+<td valign="top"  style="width:92%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Date Filed:</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:6pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:6pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU2"></a><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Commencing on&#160;September 1</font><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">2</font><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">, 2020, Tesla, Inc. </font><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">sent</font><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"> the&#160;following e-mail</font><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">s</font><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"> to certain stockholders:</font></p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:12pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><br /><font style="font-weight:bold;">Subject: </font>You're&#160;Invited&#8212;Annual Meeting and Battery Day Event </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Congratulations&#8212;your eligibility to attend Tesla&#8217;s 2020 Annual Meeting of Stockholders and Battery Day is confirmed.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:7.69%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Date: Tuesday, September 22, 2020</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Check-In: 12:00pm PT</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Event:&#160;1:30pm PT (Annual Meeting), Battery Day to follow immediately</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Location:&#160;901 Page Avenue, Fremont, CA 94538</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">You must complete registration prior to arrival in order to receive your ticket. No tickets will be issued on the day of the event.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:7.69%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">[REGISTER]</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Your eligibility for admission is non-transferable and government-issued&#160;IDs will be checked upon arrival. This confirmation is for the addressed recipient only; no additional guests of the recipient will be permitted into the event.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:7.69%;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Please review the 2020 Annual Meeting &amp; Battery Day Drawing Terms (https://www.tesla.com/2020-meeting-terms). All determinations by Tesla are final.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">We look forward to seeing you. </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Attachment:</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;;font-family:Calibri;font-size:11pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><img src="grtg3q20j1fn000001.jpg" title="" alt="" style="width:427px;height:427px;"></p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU3"></a><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Subject:</font><font style="font-weight:normal;"> &#160;</font><font style="font-weight:normal;">Update&#8212;Tesla 2020 Annual Meeting and Battery Day Drawing</font></p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Hi [First Name] [Last Name],</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The time to submit qualified documents to attend the Annual Meeting and Battery Day in-person has expired. Unfortunately, we are unable to confirm your attendance to the event because we did not receive a response from you in time, could not verify your identification or declined your request to transfer your spot to another individual&#8212;as outlined in the 2020 Annual Meeting and Battery Day Drawing Terms (https://www.tesla.com/2020-meeting-terms). </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">You can attend this event virtually by tuning in to the livestream on September 22, 2020. </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"> [LIVESTREAM] </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Thank you for your continued support in accelerating the word&#8217;s transition to sustainable energy.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>grtg3q20j1fn000001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 grtg3q20j1fn000001.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" &L :P# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#V>BBBJ **
+M*0LJ]2!]: %HIGF)_>%'F)_>% #Z*9YB?WA1YB?WA0 ^BF>8G]X4>8G]X4 /
+MHIGF)_>%'F)_>% #Z*9YB?WA1YB?WA0 ^BF>8G]X4>8G]X4 /HIGF)_>%'F)
+M_>% #Z*9YB?WA1YB?WA0 ^BF>8G]X4>8G]X4 /HIGF)_>%'F)_>% #Z*9YB?
+MWA1YB?WA0 ^BF>8G]X4>8G]X4 /HIGF)_>%'F)_>% #Z*9YB?WA1YB?WA0 ^
+MBF>8G]X4>8G]X4 /HIGF)_>%'F)_>% #Z*9YB?WA1YB?WA0 ^BF>8G]X4>8G
+M]X4 /HIGF)_>%'FI_?% #Z*0,&Z$'Z4M !1110 4444 %%%% !1110 4444
+M%%%-<D(2.O:@"6&%KAR%.U%^\W]!5K99V@ ;;N/][EC2N1960"C+#@>[&L*Z
+MO&BE*I\S_P 3MU)I ;GVRU]#_P!^S1]LM?0_]^S7-?;KC_GI^E'VZX_YZ?I1
+M8#I?MEKZ'_OV:/MEKZ'_ +]FN:^W7'_/3]*/MUQ_ST_2BP'2_;+7T/\ W[-'
+MVRU]#_W[-<U]NN/^>GZ4?;KC_GI^E%@.E^V6OH?^_9H^V6OH?^_9KFOMUQ_S
+MT_2C[=<?\]/THL!TOVRU]#_W[-'VRU]#_P!^S7-?;KC_ )Z?I1]NN/\ GI^E
+M%@.E^V6OH?\ OV:/MEKZ'_OV:YK[=<?\]/TH^W7'_/3]*+ =+]LM?0_]^S2?
+M;;7T/_?!KF_MUQ_ST_2N0\3^*=9T[51!:W?EQF(-C8#SS18#U/[;:^A_[X-'
+MVVU]#_WP:\3_ .$W\0_\_P"/^_2T?\)OXA_Y_P ?]^EHL![9]MM?0_\ ?!H^
+MVVOH?^^#7B?_  F_B'_G_'_?I:/^$W\0_P#/^/\ OTM%@/;/MMKZ'_O@T?;;
+M7T/_ 'P:\3_X3?Q#_P _X_[]+1_PF_B'_G_'_?I:+ >V?;;7T/\ WP:/MMKZ
+M'_O@UXG_ ,)OXA_Y_P ?]^EH_P"$W\0_\_X_[]+18#VS[;:^A_[X-'VVU]#_
+M -\&O$_^$W\0_P#/^/\ OTM'_";^(?\ G_'_ 'Z6BP'MGVVU]#_WP:/MMKZ'
+M_O@UXG_PF_B'_G_'_?I:/^$W\0_\_P"/^_2T6 ]L^VVOH?\ O@T?;;7T/_?!
+MKQ/_ (3?Q#_S_C_OTM'_  F_B'_G_'_?I:+ >V?;;7T/_?!H^VVOH?\ O@UX
+MG_PF_B'_ )_Q_P!^EH_X3?Q#_P _X_[]+18#VS[;:^A_[X-'VRU]#_WP:\3_
+M .$W\0_\_P"/^_2UJ>'O%FM7VM16]S>;XF5B5\L#H*+ >L_;+7T/_?LT?;+7
+MT/\ W[-<U]NN/^>GZ4?;KC_GI^E%@.E^V6OH?^_9H^V6OH?^_9KFOMUQ_P ]
+M/TH^W7'_ #T_2BP'2_;+7T/_ '[-)]LM?0_]^S7-_;KC_GI^E'VZX_YZ?I18
+M#I=MG=C"[=P].&%5)H7MW"L=R-]UO?T-9UK=M-(%?Y9/X'7CFMU#]MLBKC#$
+M8/L1WH HT4U"2H)Z]_K3J8!1110 4444 %%%% !1110 4UOX?]X?SIU(>J_[
+MP_G0!=U#_5Q?[_\ 0UR\_P#Q\2?[QKJ-0^[%_O\ ]#7+S_Z^3_>-) 1T444P
+M"BBB@ HHHH **** "BBB@ HHHH *X#QI_P AU?\ KBO]:[^N \:?\AU?^N*_
+MUH YVBBBD 4444 %%%% !1110 4444 %%%% !1110 4444 %;?A+_D8X/]QO
+MY5B5M^$O^1C@_P!QOY4 >C4444P"BBB@ HHHH EMO^/F/_>%=18?ZN3_ 'S7
+M+V__ !\Q_P"\*ZC3_P#5R?[YI,"B.K_[[?SI:0=7_P!]OYTM, HHHH ****
+M"BBB@ HHHH *3^)/]\?SI:!_K(_]\?SH MZATA_W_P"E<O-_KI/]XUU&H?\
+M+'_>/\JY>7_7/_O&D@&4444P"BBB@ HHHH **** "BBB@ HHHH *X#QI_P A
+MU?\ KBO]:[^N \:?\AU?^N*_UH YVBBBD 4444 %%%% !1110 4444 %%%%
+M!1110 4444 %;?A+_D8X/]QOY5B5M^$O^1C@_P!QOY4 >C4444P"BBB@ HHH
+MH EM_P#CYC_WA74:?_JY/]\UR]M_Q\Q_[U=1I_\ JY/]^DP*(ZO_ +[?SI:0
+M=7_WV_G2TP"BBB@ HHHH **** "BBB@ H'^MB_ZZ+_.BE7_70_\ 71: +.H=
+M8?\ >/\ *N8E_P!:_P#O&NGU#K#]3_*N7D_UK?[QI(!M%%%, HHHH **** "
+MBBB@ HHHH **** "N \:?\AU?^N*_P!:[^N \:?\AU?^N*_UH YVBBBD 444
+M4 %%%% !1110 4444 %%%% !1110 4444 %;?A+_ )&.#_<;^58E;?A+_D8X
+M/]QOY4 >C4444P"BBB@ HHHH EMO^/F/_>KJ-/\ ]7)_OUR]M_Q\Q_[U=1I_
+M^KD_WZ3 HCJ_^^W\Z6D'5_\ ?;^=+3 **** "BBB@ HHHH **** "E3_ %T/
+M_704E*O^NA_ZZ"@"SJ'WX/J?Y5R\G^L;_>-=/J'WX/\ @5<P_P#K&^II(!M%
+M%%, HHHH **** "BBB@ HHHH **** "N \:?\AU?^N*_UKOZX#QI_P AU?\
+MKBO]: .=HHHI %6]/N[>SG:2ZL(KV,J1Y<C%<'UR*J4=J .I\2/I-EY=K::'
+M!%)/:QS";S6)0L,\"N=L@AOH!+Y7EEQN\XD)C_:QSBEN[VXOI$DN9-[)&L2G
+M&,*O05'!-);SQS1-MDC8,IQG!H [6ZM-&2TF9+?PZK!#M*7DC$''8=S7#KC<
+MN>F1FMN7Q?K4T3QM<0A7!4[;= <'WQ6'_GF@#T.33?#TERL=C!H,J.%$9EO)
+M [$CN![UPM_;M:ZE<V[JBO%*R,J?=!!Z#VK5B\8ZW"B+%-;HJ !0+:/C'X5C
+M7%Q)=7,MQ,VZ65R[MC&2: -'5[2WMM-T66) DES:M)*<_>;=C/Y5DULVOBK6
+M+*SAM(9XO)A7;&KP(V!UZD5FWEW/?W<ES<,&ED.6(4 ?D.* .LTC3+,:):W%
+M]9Z,?/#&.2ZNGC=@#CH.*Q?$UD+'5%18+6&.2%9(UM79T*G.#D\G-9L]Y/<V
+MUM;3/NBME*Q+@?*"<FENKVXO3$;A]YAB6%.,81>@H KT444 %;?A+_D8X/\
+M<;^58E;7A,@>(H"2 -K<DX[4 >CT4WS(_P#GK'_WV*/,C_YZQ_\ ?8I@.HIO
+MF1_\]8_^^Q2AE895@WT.: %HHHH EM?^/J/_ 'JZC3_]7)_OUS%K_P ?4?\
+MO5T^G_ZN3_?I,"B.K_[[?SI:0=7_ -]OYTM, HHHH **** "BBB@ HHHH *5
+M?]=#_P!=%I*$_P!?#_UT% %G4/\ 60?\"_I7,/\ ?;ZFNGU#_60?1OZ5R[??
+M;ZTD E%%%, HHHH **** "BBB@ HHHH **** "N \:?\AU?^N*_UKOZX#QI_
+MR'5_ZXK_ %H YVBBBD 4444 6+2QN;^4QVL1D8#<<8&![DU+%I&H3),\=I(1
+M"2LG&"".2,=R/:I=&U"&PGE^U(TEO*@5XPH.[!!&<^XK1_X22":[6\N+>47$
+M%S)<0+$PVDMV;Z>HH Q9+"ZBDMXY(65KD!H0<?."<#]:?>Z5?:>5%S;LNXD*
+M00P)'4<9YJ0:@GG:6^QO]#(+X_B^?=Q6E%XDB_M!I&M?(M@[R1I;<'>W\39Z
+M\<4 <]@GD*3CK@4F" "00#TR.M=A%K^G,EQ/O-NNZ8K:JO\ K=ZD#=QC()K*
+MUK6K?4K&W@@MVB:,@D-@JF% POL>M &6UG<+9QW;0L+>5RB/CAF'45#@GHI/
+MT%="?$=NMFMI#9%$@2,P2[\L'0YR1TY);./6K$/BFSBNIF6Q>.#:HA"$;EP2
+M6!]0Q/- '*T5+<-"\N^$,-V6=2!@,2>![5%0 4444 %%%% !SZG\Z.?4_G11
+M0 <^I_.N\\$?\@>?_KN?Y"N#KO/!'_('G_Z[G^0H Z6BBBF!-:_\?4?^]73Z
+M?_JY/]^N8M?^/J/_ 'JZ?3_]7)_OTF!1'5_]]OYTM(.K_P"^W\Z6F 4444 %
+M%%% !1110 4444 %+'_Q\0_[XI*6+_CZA_WOZ&@"?4/];#]#7,-]X_6NFO\
+M_7Q?[IKF3U/UI(!****8!1110 4444 %%%% !1110 4444 %<!XT_P"0ZO\
+MUQ7^M=_7 >-/^0ZO_7%?ZT <[1112 **** "BBB@ HHHH **** "BBB@ HHH
+MH **** "BBB@ K43PWJ\D:NMDY5AD'(Y%99Z5ZU9?\>%M_UR7^5 'G?_  C.
+ML_\ /B_YBNO\*V-SI^FRQ7<1B=I2P!/; K<HI@%%%% $UK_Q]1_[U=/I_P#J
+MY/\ ?KF+7_CZC_WJZ?3_ /5R?[])@41U?_?;^=+2#J_^^W\Z6F 4444 %%%%
+M !1110 4444 %.A_X^X?]X_R--I\'_'Y!]3_ .@F@"2__P"/F/\ W#7,'K73
+M7_\ Q\K_ -<S_.N9[TD 4444P"BBB@ HHHH **** "BBB@ HHHH *X#QI_R'
+M5_ZXK_6N_K@/&G_(=7_KBO\ 6@#G:***0!1110 4444 %%%% !1110 4444
+M%%%% !1110 4444 !Z5ZU9?\>%M_UR7^5>2GI7K5E_QX6W_7)?Y4P)Z**RO$
+MA(\.WA!P=G]: -3*_P!Y?SHRO]Y?SKR'>_\ ?;\Z-[_WV_.D![):D?:H^1][
+MUKJ-/_U<G^_7A'AEG;Q/IH!9B9QQGK7O-DCI&^]2I+$@&@#/'5_]]OYTM-W
+M,PZDNV .O6G^7,1D028_"F E%(2R_>1U^JT@D0]&'YT .HI-R_WA^=&Y?4?G
+M0 M%)N7^\/SHW+_>'YT +12;E_O#\Z-R_P!X?G0 M/@_X_8?J?Y&F4^W_P"/
+MV'ZG^1H ??\ _'RO_7,US-=-J'_'P/\ KF:YFD@"BBBF 4444 %%%% !1110
+M 4444 %%%% !7 >-/^0ZO_7%?ZUW]<!XT_Y#J_\ 7%?ZT <[1112 **** "B
+MBB@ HHHH **** "BBB@ HHHH **** "BBB@ /2O46OX=-T6WN9]_EA$7Y!DY
+M(KRX]*]$U?CPO$^W<41'5?4@9'\J+V5RH0<Y**W9(?$EL!DV>H8 S_Q[FL77
+M?%-K?:9):6D<I:7AF<8 %8S7CQZ:NMIKE^]\\AC,;="V,D'G[N*H7:+'=2*H
+MP,YQZ9[5$*G,>AC\MEA$I<UT[K:VJ_K<AHHHJSS37\+,4\4Z8P&2)QQ7NBW[
+M!P)(@%)QD-G%>%>&?^1GTW_KNM>U_P#+:/\ ZZ#^= &J(HUD,@10YZG'-/HJ
+M*>98(][9/. !W-("6F-%&_WHU/U%4#?7!Z)&/;)-'VVY_NQ?K18#C;CQAJ$-
+M])%_8<'V5+Z2#[7C*E%1B!C^_N7D=,5-%XS;=Y9T9;EWF6-?*94"A@FW.[U9
+M_P !74&9R,&"W(SNQM[^OUI!(P.1;VPYS]V@#G/^$\T[RUD.DN%,6YE+)N#[
+M2V .I7@C=TS5K1/$Z:SK%O9C2H[>.6"21S)(NY75@-H ^\,$'BMC/S!OLMKN
+M"[0=G.WT^E*)&5U=;>V#+G:P7D9ZXH Y,>,Y+4M+<VEC=QN\Z+;V@Q+$8Y"B
+M[\DCYN.>*[N*")XD9[9$<J"RX!VGTK.7:C2,EI:*TARY$8!8]>?6I_MMS_=B
+M_6@"&GV__'[%^/\ *F5);?\ '[%_P+^54 NH_P"O'_7,US5=+J/^O_[9&N:I
+M( HHHI@%%%% !1110 4444 %%%% !1110 5DZEX=LM5NA<7!E#A0OR-@8%:U
+M% '/?\(9I7]ZX_[[H_X0S2O6X_[^5T-% '/?\(9I7K<?]_*/^$,TG_IX_P"_
+ME=#10!S_ /PAND^EQ_W\H_X0W2?2?_OY7044 <GJ_A?3;+2;FYA$WF1KE=SY
+M'6N*KU75K62]TFYMHMOF2+A=QP.M<7_PAFJ^MO\ ]]T@.>HKH?\ A#-5_O6_
+M_?='_"&:K_>M_P#ON@#GU4LP502Q. !WJ[_8VI_\^%Q_WP:V+?P?JD5U#(Q@
+MVHX8X?L#7>$G/4T >5_V-J?_ #XW'_?!H_L;4_\ GQN/^^#7JF3ZT9/K3 \K
+M_L;4_P#GQN/^^#1_8VI_\^-Q_P!\&O5,GUHR?6@#RO\ L;4_^?&X_P"^#1_8
+MVI_\^-Q_WP:]4R?6C)]: /*SHVIX_P"/"X_[X-=KK>Z/PY; @JRO""/3D5OY
+M/K6+XG_Y X_Z[Q_^A4 51X#AA\33S&0'2XT:XBBW<^9C[N/0=:X)F+.S,<DD
+MDFO>[C_CTF_ZY-_Z":\#[GZU$8*.QU8G&5L2XNJ[V5OZ\^X44451RFMX9_Y&
+M?3?^NZU[5(2 6'53N'X&O%?#/_(SZ;_UW6O:R,DB@#7!# $=",BJ6H_\L?\
+M>/\ *IK%BUI'DY*C;^50ZC_RQ_WC_*D!5HHHJ@"BBB@ HHHH **** "I+;_C
+M]C^C?RJ.I+7_ (_8_HW]* %U'_7?]LC7-5TU[_Q]C_<_K5;RH_\ GFOY4@,*
+MBMWRH_\ GFOY4>5'_P \U_*F!A45N^5'_P \U_*CRH_^>:_E0!A45N^5'_SS
+M7\J/*C_YYK^5 &%16[Y4?_/-?RH\J/\ YYK^5 &%16[Y4?\ SS7\J/*C_P">
+M:_E0!A45N^5'_P \U_*CRH_^>:_E0!A45N^5'_SS7\J/*C_YYK^5 &%16[Y4
+M?_/-?RH\J/\ YYK^5 &%16[Y4?\ SS7\J/*C_P">:_E0!A45N^5'_P \U_*C
+MRH_^>:_E0!A45N^5'_SS7\J/*C_YYK^5 &%16[Y4?_/-?RH\J/\ YYK^5 &%
+M16[Y4?\ SS7\J/*C_P">:_E0!A45N^5'_P \U_*CRH_^>:_E0!A45N^5'_SS
+M7\J/*C_YYK^5 &%16[Y4?_/-?RH\J/\ YYK^5 &%6+XI95T7<Q  GC))_P!Z
+MNW\J/_GFOY4V2UMYDV2P1.O]UE!% &5/XGT%K:51JUJ28V &_OBO%]RY/(Z^
+MM>[?V3IO_0/M?^_2TO\ 96F_] ^U_P"_0H \(W#U'YT;AZC\Z]W_ +*TW_H'
+MVO\ WZ%']E:;_P! ^U_[]"D!X]X88?\ "3Z;R/\ 7K7MIZ_C51--L(I%DCLK
+M='4Y#+& 15JF!%?:M_8GAZXO_(,WE,?D!QW[FG0ZB-6TJQOA!) )LL$D&".*
+MQ?&%];V7@Z?[0LQ620@-%&&VXYY)("].">]:FFB5?#NE>:[.YC!W--YI(QQE
+ML#)I=0+-%%%, HHHH **** "BBB@ J6U_P"/U/\ =;^E15+:?\?B_P"ZW]*0
+M"WO_ !]C_<_K4-37I NLGH$_K57SX?\ GJOYT 245'Y\/_/5?SH\^'_GJOYT
+MP)**C\^'_GJOYU)0 444A(4$DX ZF@!:*C\^'_GJOYT>?#_SU7\Z )**C\^'
+M_GJOYT>?#_SU7\Z )**8)HF.%D4D]@:?0 4444 %%%1F>('!D4$=1F@"2BH_
+M/A_YZK^='GP_\]5_.@"2BH_/A_YZK^='GP_\]5_.@"2BHQ/$3@2*2>V:DH *
+M*** "BBB@"O>3-!$&3&<XYJE_:,_HGY59U'_ (]U_P!ZLN@"W_:,_HGY4?VC
+M/Z)^55** -V)B\*,>I&33ZRTU!TC5 BD 8I?[2D_N+0 ^XO98IV10N!ZBHO[
+M1G]$_*J\LAEE9R ">PIE &C:W<DT^Q@N,9X%7ZPX96ADWKC.,<U8_M&;^ZGY
+M4 :;G",1V&:HVEW)-/L<+C&>!4)U"9E((3!&.E)I_P#Q]?\  30!K4444 5M
+M4OYM,\,75U!:"[="<Q%2P(SSD#)(^E&G3?:-!TV;[!]@#@L+;;MV#GMV]<52
+M\4E%\%W;.6PL@.P!COPWW?EY_*HO"MN(?#-HZ7<MQ#-(9(_-!!0;0"O))Z@G
+M\:74#;HHHI@%%%% !1110 4444 %2VG_ !^+_N-_2HJEL_\ C]'^X?YBDP&Z
+MC_K9/^N5<Y71ZC_K9/\ KE_C7.4 %%%%, K?3[B_2L"M]/N+]* %J*Y_X]I?
+M]TU+45S_ ,>TO^Z: ,2BBB@ HHHH GL_^/N/ZULUC67_ !]Q_6MF@ HHHH *
+MQ+C_ (^9/]XUMUB7'_'S)_O&@"*BBB@ HHHH DM_^/B/_>K<K#M_^/B/_>K<
+MH **** "BBB@"GJ/_'NO^]675[49<R+'V R:HT %%%% !1110 4444 %%%%
+M!5K3_P#C[_X":JU:T_\ X^_^ F@#6HHHH Q_$6FZWJ>EV\>C2HK).S2J\QC#
+M>F3M.1GJ.];"QR1:;8QS6T-M(HPT,+91..@.!Q^%7=/_ ./<_P"^:9J/_+'_
+M 'C_ "I=0*M%%%, HHHH **** "BBB@ J:S_ ./S_@!_F*AJ:R_X_/\ MF?Y
+MBDP&:C_K9/\ KG_C7.5T>H_ZV7_KG7.4 %%%%, K?3[B_2L"M]/N+]* %J*Y
+M_P"/:7_=-2U%<_\ 'M+_ +IH Q**** "BBB@">R_X^X_K6S6-9?\?<?UK9H
+M**** "L2X_X^9/\ >-;=8EQ_Q\R?[QH BHHHH **** )+?\ X^(_]ZMRL.W_
+M ./B/_>K<H **** "BBB@#)O_P#C[/T%5:OW=M-+<%D7*X'>H/L-Q_<_44 5
+MZ*L?8;C^Y^HH^PW']S]10!7HJQ]AN/[GZBC[#<?W/U% %>BK'V&X_N?J*/L-
+MQ_<_44 5Z*L?8;C^Y^HH^PW']S]10!7JUI__ !]_\!--^PW']S]15BSMI8KC
+M<ZX7!'6@#0HHHH NZ?\ \>Y_WS3-1_Y8_P"\?Y4_3_\ CW/^^:9J/_+'_>/\
+MJ74"K1113 **** "BBB@ HHHH *FLO\ C\/_ %S/\Q4-367_ !^'_KG_ %I,
+M!FH?ZV;_ *YUSE='J'^MF_ZYUSE !1113 *WT^XOTK K?3[B_2@!:BN?^/:7
+M_=-2U%<_\>TO^Z: ,2BBB@ HHHH GLO^/N/ZULUC67_'W']:V: "BBB@ K$N
+M/^/F3_>-;=8EQ_Q\R?[QH BHHHH **** )+?_CXC_P!ZMRL.W_X^(_\ >K<H
+M **** "BH;F<V\6\*&YQ@U4_M-O^>2_G0!HT5G?VFW_/)?SH_M-O^>2_G0!H
+MT5G?VFW_ #R7\Z/[3;_GDOYT :-%9W]IM_SR7\ZFBOXGX;Y#[]* +=%("",@
+MY'M2T %%%% !1110 4444 7=/_X]S_OFF:C_ ,L?]X_RI^G_ /'N?]\TS4?^
+M6/\ O'^5+J!5HHHI@%%%% !1110 4444 %3V7_'XW_7/^M05/8_\?;?]<_ZT
+MF!%?_P"MG_W/Z5SM=%?_ .MG_P!S^E<[0 4444P"M]/N+]*P*WT^XOTH 6HK
+MG_CVE_W34M17/_'M+_NF@#$HHHH **** )[+_C[C^M;-8UE_Q]Q_6MF@ HHH
+MH *Q+C_CYD_WC6W6)<?\?,G^\: (J*** "BBB@"2W_X^(_\ >K<K#M_^/B/_
+M 'JW* "BBB@"GJ/_ ![#_>%9=:FH_P#'L/\ >%9= !1110 4444 %%%% %BS
+ME:.=1D[2<$5L50TW[DGU%7Z "BBB@ HHHH **** +NG_ /'N?]\TS4?^6/\
+MO'^5/T__ (]S_OFF:C_RQ_WC_*EU JT444P"BBB@ HHHH **** "I['_ (^G
+M_P!P?SJ"K%C_ ,?,G^X/YFDP(+[_ %UQ_N_TKGJZ&]_UUS_N_P!*YZ@ HHHI
+M@%;Z?<7Z5@5OI]Q?I0 M17/_ ![2_P"Z:EJ*Y_X]I?\ =- &)1110 4444 3
+MV7_'W']:V:QK+_C[C^M;- !1110 5B7'_'S)_O&MNL2X_P"/F3_>- $5%%%
+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
+M_?='V^3_ )X#_ONC4"7^SX/1O^^C1_9\'HW_ 'T:B^WR?\\!_P!]T?;Y/^>
+M_P"^Z-0)?[/@]&_[Z-']GP>C?]]&HOM\G_/ ?]]T?;Y/^> _[[HU E_L^#T;
+M_OHT?V?!Z-_WT:B^WR?\\!_WW1]OD_YX#_ONC4"7^SX/1O\ OHT?V?!Z-_WT
+M:B^WR?\ / ?]]T?;Y/\ G@/^^Z-0)?[/@]&_[Z-']GP>C?\ ?1J+[?)_SP'_
+M 'W1]OD_YX#_ +[HU E_L^#T;_OHT?V?!Z-_WT:B^WR?\\!_WW1]OD_YX#_O
+MNC4"7^SX/1O^^C1_9\'HW_?1J+[?)_SP'_?='V^3_G@/^^Z-0)?[/@]&_P"^
+MC1_9\'HW_?1J+[?)_P \!_WW1]OD_P"> _[[HU E_L^#T;_OHT?V?!Z-_P!]
+M&HOM\G_/ ?\ ?='V^3_G@/\ ONC4"7^SX/1O^^C67X@O=/\ #FDOJ5VDK01L
+MJOL8Y&3C-7_M\G_/ ?\ ?=07;Q7\(ANK))8PP?:S<9!R#1J!C2>)M%MK2*6Z
+M2:*::!KB. -O9E"EL<<9*J3BKEAJ^BZA<PVT3RK-*H(1P1SM#;<]-P!!Q4(T
+M'1%G$PT6 . 0/GXY!!X^C$?C4]IIVFV%TEU;:7%'.D8C5]^2% Q^>.,T:@9%
+MIXRT:?4KRTFMYX5MF=3)OWY*R>6 0.02>GK70Z2]IJ^GK>112QJS,H5V((P2
+M.?RJE)I.DR+(K:1"1(&#X;&[<V\_^/<^QJU816VF+ML[%8EVA<"3/ R?ZFC4
+M#1_L^#T;_OHT?V?!Z-_WT:B^WR?\\!_WW1]OD_YX#_ONC4"7^SX/1O\ OHT?
+MV?!Z-_WT:B^WR?\ / ?]]T?;Y/\ G@/^^Z-0)?[/@]&_[Z-']GP>C?\ ?1J+
+M[?)_SP'_ 'W1]OD_YX#_ +[HU E_L^#T;_OHT?V?!Z-_WT:B^WR?\\!_WW1]
+MOD_YX#_ONC4"7^SX/1O^^C1_9\'HW_?1J+[?)_SP'_?='V^3_G@/^^Z-0)?[
+M/@]&_P"^C1_9\'HW_?1J+[?)_P \!_WW1]OD_P"> _[[HU E_L^#T;_OHT?V
+M?!Z-_P!]&HOM\G_/ ?\ ?='V^3_G@/\ ONC4"Y%$D*;$&%ZTV:".< 2 G!R,
+M'%5?M\G_ #P'_?='V^3_ )X#_OND!+_9\'HW_?1H_L^#T;_OHU%]OD_YX#_O
+MNC[?)_SP'_?=/4"7^SX/1O\ OHT?V?!Z-_WT:B^WR?\ / ?]]T?;Y/\ G@/^
+M^Z-0)?[/@]&_[Z-']GP>C?\ ?1J+[?)_SP'_ 'W1]OD_YX#_ +[HU E_L^#T
+M;_OHT?V?!Z-_WT:B^WR?\\!_WW1]OD_YX#_ONC4"A]KM_P#GJM'VNW_YZK6+
+M13 VOM=O_P ]5H^UV_\ SU6L6B@#:^UV_P#SU6C[7;_\]5K%HH VOM=O_P ]
+M5H^UV_\ SU6L6B@#:^UV_P#SU6C[7;_\]5K%HH VOM=O_P ]5H^UV_\ SU6L
+M6B@#:^UV_P#SU6C[7;_\]5K%HH VOM=O_P ]5H^UV_\ SU6L6B@#:^UV_P#S
+MU6C[7;_\]5K%HH VOM=O_P ]5H^UV_\ SU6L6B@#:^UV_P#SU6C[7;_\]5K%
+MHH VOM=O_P ]5H^UV_\ SU6L6B@#:^UV_P#SU6C[7;_\]5K%HH VOM=O_P ]
+M5H^UV_\ SU6JMEI,UVHD8^7&>A(Y-:8T&UQR\A/KFE<"M]KM_P#GJM'VNW_Y
+MZK3+O0I(E+V[>8!_">M9'(.",$4P-K[7;_\ /5:/M=O_ ,]5K%HH VOM=O\
+M\]5H^UV__/5:Q:* -K[7;_\ /5:/M=O_ ,]5K%HH VOM=O\ \]5H^UV__/5:
+MQ:* -K[7;_\ /5:/M=O_ ,]5K%HH VOM=O\ \]5H^UV__/5:Q:* -K[7;_\
+M/5:/M=O_ ,]5K%HH VOM=O\ \]5H^UV__/5:Q:* -K[7;_\ /5:/M=O_ ,]5
+MK%HH VOM=O\ \]5H^UV__/5:Q:* -K[7;_\ /5:/M=O_ ,]5K%HH VOM=O\
+M\]5H^UV__/5:Q:* "BK_ -HLO^>'Z4?:++_GA^E %"BK_P!HLO\ GA^E'VBR
+M_P">'Z4 4**O_:++_GA^E'VBR_YX?I0!0HJ_]HLO^>'Z4?:++_GA^E %"BK_
+M -HLO^>'Z4?:++_GA^E %"BK_P!HLO\ GA^E'VBR_P">'Z4 4**O_:++_GA^
+ME'VBR_YX?I0!0HJ_]HLO^>'Z4?:++_GA^E %"BK_ -HLO^>'Z4?:++_GA^E
+M%"BK_P!HLO\ GA^E'VBR_P">'Z4 4**O_:++_GA^E'VBR_YX?I0!0HJ_]HLO
+M^>'Z4?:++_GA^E %"KFF6HN[U48?(OS-3_M%E_SP_2M'1Y;=YY%BCVMM].M
+M$K^(=%AU5=*DU2T2_; 6W,H#Y[#'K[42>(M&BU5=+DU2T2_;I;F4!\^F/7VK
+MQ_4S<#7-4M?+D%S+KD=PFC_8V9[@!UQ(MQCY5(&[VQBFZPDW_"1ZC;>5*9Y=
+M>BN5T@6;%YPI7]Z)\<*<;L=L8J0/8KOQ'HMCJ4>G7>J6D%Y)C9#)* QSTX]Z
+MHZ[:".5;A!@/PWUKSO4GM;&T\8Z)JFESW&N:I>R266VW+FX5@/)*OC V?48Q
+M7I(5[+PWI\&HGS;A(HTD/7+A>30@,.BK_P!HLO\ GA^E'VBR_P">'Z50%"BK
+M_P!HLO\ GA^E'VBR_P">'Z4 4**O_:++_GA^E'VBR_YX?I0!0HJ_]HLO^>'Z
+M4?:++_GA^E %"BK_ -HLO^>'Z4?:++_GA^E %"BK_P!HLO\ GA^E'VBR_P">
+M'Z4 4**O_:++_GA^E'VBR_YX?I0!0HJ_]HLO^>'Z4?:++_GA^E %"BK_ -HL
+MO^>'Z4?:++_GA^E %"BK_P!HLO\ GA^E'VBR_P">'Z4 4**O_:++_GA^E'VB
+MR_YX?I0!0HJ_]HLO^>'Z4?:++_GA^E %"BC!]#1@^AH **,'T-&#Z&@ HHP?
+M0T8/H: "BC!]#1@^AH **,'T-&#Z&@ HHP?0T8/H: "BC!]#1@^AH **,'T-
+M&#Z&@ HHP?0T8/H: "BC!]#1@^AH **,'T-&#Z&@ HHP?0T8/H: "I[.Y-I=
+M)*.@X8>HJ#!]#1@^AH [6.1)HUDC8,K#@BGUQ]M>7%HV8F('=3T-: U^?;S
+MA/KDTK ;YQU/:N9U>]%U<!(SF./@'U-1W6IW5T-K-M3^ZO%4L'T-%@"BC!]#
+M1@^AI@%%&#Z&C!]#0 448/H:,'T- !11@^AHP?0T %%&#Z&C!]#0 448/H:,
+M'T- !11@^AHP?0T %%&#Z&C!]#0 448/H:,'T- !11@^AHP?0T %%&#Z&C!]
+M#0 448/H:,'T- '08'I1@>E%% !@>E&!Z444 &!Z48'I110 8'I1@>E%% !@
+M>E&!Z444 &!Z48'I110 8'I1@>E%% !@>E&!Z444 &!Z48'I110 8'I1@>E%
+M% !@>E&!Z444 &!Z48'I110 8'I1@>E%% !@>E&!Z444 &!Z48'I110 8'I1
+M@>E%% !@>E&!Z444 &!Z48'I110 8'I1@>E%% !@>E&!Z444 &!Z48'I110
+M8'I1@>E%% !@>E&!Z444 &!Z48'I110 8'I1@>E%% !@>E&!Z444 &!Z48'I
+%110!_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,97 @@
+{
+  "docid": "30113942",
+  "title": "Climate Change and Energy Transition",
+  "uri": "Q7835180",
+  "text": "Climate change is a challenge for all of us, and we need to address it holistically. Chevron is committed to an honest conversation about the energy transition. We could reduce our GHG emissions by changing our portfolio and selling our emissions-producing assets, but that would not serve our stockholders, who benefit from our strong asset base. Moreover, it would not benefit the global effort to combat climate change if we were to sell such assets to another company, who would still operate the assets, but perhaps to a less carbon-efficient standard.",
+  "entities": [
+    {
+      "uri": "Q5255891",
+      "boundaries": [
+        86,
+        103
+      ],
+      "surfaceform": "GHG emissions",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q26009",
+      "boundaries": [
+        42,
+        49
+      ],
+      "surfaceform": "Chevron",
+      "annotator": "Asset"
+    },
+    {
+      "uri": "Q7835180",
+      "boundaries": [
+        0,
+        36
+      ],
+      "surfaceform": "Climate Change and Energy Transition",
+      "annotator": "Environmental"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q26009",
+        "boundaries": [
+          42,
+          49
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Asset"
+      },
+      "predicate": {
+        "uri": "P9106",
+        "boundaries": null,
+        "surfaceform": "committed to",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835180",
+        "boundaries": [
+          0,
+          36
+        ],
+        "surfaceform": "Climate Change and Energy Transition",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q26009",
+        "boundaries": [
+          42,
+          49
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Asset"
+      },
+      "predicate": {
+        "uri": "P2842",
+        "boundaries": null,
+        "surfaceform": "reduce",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q5255891",
+        "boundaries": [
+          86,
+          103
+        ],
+        "surfaceform": "GHG emissions",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    }
+  ]
+}

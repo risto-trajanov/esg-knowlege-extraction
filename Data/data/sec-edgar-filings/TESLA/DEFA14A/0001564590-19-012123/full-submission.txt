@@ -1,0 +1,285 @@
+<SEC-DOCUMENT>0001564590-19-012123.txt : 20190419
+<SEC-HEADER>0001564590-19-012123.hdr.sgml : 20190419
+<ACCEPTANCE-DATETIME>20190419172914
+ACCESSION NUMBER:		0001564590-19-012123
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20190419
+DATE AS OF CHANGE:		20190419
+EFFECTIVENESS DATE:		20190419
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tesla, Inc.
+		CENTRAL INDEX KEY:			0001318605
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				912197729
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34756
+		FILM NUMBER:		19758336
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+		BUSINESS PHONE:		650-681-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TESLA MOTORS INC
+		DATE OF NAME CHANGE:	20050222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>tsla-8k_20190418.htm
+<DESCRIPTION>8-K
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+tsla-8k_20190418.htm
+</title>
+</head>
+<!-- NG Converter v5.0.18157.137 -->
+<body>
+
+<p style="border-bottom:Solid 0.75pt #000000;padding-bottom:0pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Arial;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-top:4pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-size:16pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">UNITED STATES </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:16pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SECURITIES AND EXCHANGE COMMISSION </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Washington, D.C. 20549 </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:2pt;border-bottom:Solid 0.75pt #000000;padding-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-size:16pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">FORM 8-K&#160;</p>
+<p style=" clear:both;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU2"></a>&#160;</p>
+<p style="text-align:center;margin-bottom:2pt;border-bottom:Solid 0.75pt #000000;padding-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">CURRENT REPORT </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 </p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Date of Report (Date of earliest event reported) </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">April 18, 2019</p>
+<p style="text-align:center;margin-bottom:2pt;border-bottom:Solid 0.75pt #000000;padding-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-size:22pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Tesla, Inc. </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Exact name of registrant as specified in its charter) <font style="font-size:11pt;font-family:Arial;font-weight:normal;">&#160;</font></p>
+<p style="text-align:center;margin-bottom:2pt;border-bottom:Solid 0.75pt #000000;padding-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:504pt;;">
+<tr>
+<td style="width:170pt;"></td>
+<td style="width:6.95pt;"></td>
+<td style="width:160.05pt;"></td>
+<td style="width:6.95pt;"></td>
+<td style="width:160.05pt;"></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Delaware</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">001-34756</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">91-2197729</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(State or other jurisdiction</p>
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">of incorporation)</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Commission</p>
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">File Number)</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(I.R.S. Employer</p>
+<p style="text-align:center;margin-bottom:1pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Identification No.)</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">3500 Deer Creek Road </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Palo Alto, California 94304 </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Address of principal executive offices, including zip code) </p>
+<p style="text-align:center;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(650) 681-5000 </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Registrant&#8217;s telephone number, including area code) </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:8pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Former name or former address, if changed since last report) </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;border-bottom:Solid 0.75pt #000000;padding-bottom:0pt;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:504pt;;">
+<tr>
+<td style="width:21.3pt;"></td>
+<td style="width:482.7pt;"></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:'Times New Roman';"><font style="font-size:10pt;font-family:'Times New Roman'">&#9744;</font></p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:504pt;;">
+<tr>
+<td style="width:21.3pt;"></td>
+<td style="width:482.7pt;"></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:'Times New Roman';"><font style="font-size:10pt;font-family:'Times New Roman'">&#9745;</font></p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:504pt;;">
+<tr>
+<td style="width:21.3pt;"></td>
+<td style="width:482.7pt;"></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:'Times New Roman';"><font style="font-size:10pt;font-family:'Times New Roman'">&#9744;</font></p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:6pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:504pt;;">
+<tr>
+<td style="width:21.3pt;"></td>
+<td style="width:482.7pt;"></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:'Times New Roman';"><font style="font-size:10pt;font-family:'Times New Roman'">&#9744;</font></p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR &#167;230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR &#167;240.12b-2). Emerging growth company <font style="font-family:'Times New Roman';"><font style="font-size:10pt;font-family:'Times New Roman'">&#9744;</font></font></p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. <font style="font-family:'Times New Roman';"><font style="font-size:10pt;font-family:'Times New Roman'">&#9744;</font></font></p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:3.57%;white-space:nowrap">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;font-family:Arial;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-family:Arial;font-size:10pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><br /></font></p></td>
+<td valign="top">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;"><a name="_AEIOULastRenderedPageBreakAEIOU3"></a></p></td></tr></table></div>
+<hr style="page-break-after:always;width:100%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">&nbsp;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:3.57%;white-space:nowrap">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;"><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 5.02</font></p></td>
+<td valign="top">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;"><font style="font-weight:bold;"></font><font style="font-weight:bold;"></font><font style="font-weight:bold;">Departure of Directors or Principal Officers; Election of Dire</font><font style="font-weight:bold;">ctors; Appointment of Principal </font><font style="font-weight:bold;">Officers</font><font style="font-weight:bold;">.</font></p></td></tr></table></div>
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:3.57%;text-indent:-3.57%;font-family:Times New Roman;font-size:12pt;">&nbsp;</p>
+<p style="Background-color:#FFFFFF;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-style:italic;font-size:10pt;font-family:Times New Roman;font-weight:normal;text-transform:none;font-variant: normal;"><br />(b)</p>
+<p style="Background-color:#FFFFFF;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;">&nbsp;</p>
+<p style="Background-color:#FFFFFF;margin-bottom:0pt;margin-top:0pt;text-indent:4.46%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The information set forth in the second paragraph of Item 8.01 of this Current Report on Form&#160;8-K&#160;below is incorporated by reference into this Item 5.02.</p>
+<p style="Background-color:#FFFFFF;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;">&nbsp;</p>
+<p style="Background-color:#FFFFFF;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Item 8.01&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Other Events.</p>
+<p style="Background-color:#FFFFFF;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:4.76%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">In connection with certain stockholder-friendly corporate governance initiatives as described in Tesla&#8217;s preliminary proxy statement on Schedule 14A filed with the SEC on April 19, 2019 (the &#8220;<font style="text-decoration:underline;">Preliminary Proxy Statement</font>&#8221;), Tesla&#8217;s Board of Directors (the &#8220;<font style="text-decoration:underline;">Board</font>&#8221;) and Nominating and Corporate Governance Committee reviewed the Board&#8217;s composition, focusing on a phased streamlining of the size of the Board to allow it to operate more nimbly and efficiently, while maintaining new ideas, expertise and experiences on the Board.&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:4.76%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">As a result, on April 18, 2019, each of Brad Buss, Antonio Gracias, Stephen Jurvetson, and Linda Johnson Rice agreed collectively with the Board and its Nominating and Corporate Governance Committee that each of them will not stand for re-election to the Board at the expiration of their respective current terms, which will be at the 2019 annual meeting of stockholders for Mr. Buss and Ms. Rice, at the 2020 annual meeting of stockholders for Mr. Jurvetson and, if our stockholders approve a director term reduction proposal as described in the Preliminary Proxy Statement, for Mr. Gracias. If our stockholders do not approve such proposal, Mr. Gracias&#8217; term will end at the 2021 annual meeting of stockholders. Such agreements did not result from any disagreement between Tesla and any of such directors.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-style:italic;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;text-transform:none;font-variant: normal;">Other Information</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:4.76%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Tesla plans to file with the Securities and Exchange Commission (the &#8220;<font style="text-decoration:underline;">SEC</font>&#8221;), and furnish to its stockholders, a definitive proxy statement in connection with the 2019 annual meeting of stockholders (the &#8220;<font style="text-decoration:underline;">Definitive Proxy Statement</font>&#8221;). The Definitive Proxy Statement will contain important information about the matters to be voted on at the 2019 annual meeting. STOCKHOLDERS OF TESLA ARE URGED TO READ THESE MATERIALS (INCLUDING ANY AMENDMENTS OR SUPPLEMENTS THERETO) AND ANY OTHER RELEVANT DOCUMENTS THAT TESLA WILL FILE WITH THE SEC WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT TESLA AND THE MATTERS TO BE VOTED ON AT THE 2019 ANNUAL MEETING. Stockholders will be able to obtain free copies of these documents and other documents filed with the SEC by Tesla through the website maintained by the SEC at&#160;www.sec.gov. In addition, stockholders will be able to obtain free copies of these documents from Tesla by contacting Tesla&#8217;s Investor Relations by&#160;e-mail&#160;at&#160;ir@tesla.com, or by going to Tesla&#8217;s Investor Relations page on its website at&#160;ir.tesla.com.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-style:italic;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;text-transform:none;font-variant: normal;">Participants in the Solicitation</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:4.76%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">The directors and executive officers of Tesla may be deemed to be participants in the solicitation of proxies from the stockholders of Tesla in connection with 2019 annual meeting. Information regarding the interests of participants in the solicitation of proxies, if any, in respect of the 2019 annual meeting will be included in the Definitive Proxy Statement.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-style:italic;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;text-transform:none;font-variant: normal;">Forward-Looking Statements</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-style:italic;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:4.46%;font-size:11pt;font-family:TimesNewRomanPSMT;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Certain statements in this report are forward-looking statements that are subject to risks and uncertainties. These forward-looking statements are based on management&#8217;s current expectations. Various important factors could cause actual results to differ materially, including the risks identified in our SEC filings. Tesla disclaims any obligation to update any forward-looking statement contained in this report and the exhibit hereto.<font style="font-size:12pt;font-family:Arial;"><br /></font></p>
+<hr style="page-break-after:always;width:100%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">&nbsp;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU4"></a><font style="font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SIGNATURES </font></p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:7.14%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:94.64%;">
+<tr>
+<td valign="top"  style="width:4.08%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="width:61.02%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;">&nbsp;</p></td>
+<td colspan="2" valign="top"  style="width:34.9%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;margin-right:11.9%;text-indent:0pt;;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">TESLA, INC.</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4.08%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="width:61.02%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;">&nbsp;</p></td>
+<td colspan="2" valign="top"  style="width:34.9%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;margin-right:11.9%;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">&nbsp;</p></td>
+</tr>
+<tr style="height:10.65pt;">
+<td valign="top"  style="width:4.08%; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="width:61.02%; border-bottom:solid 0.75pt transparent;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;letter-spacing:-0.1pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">By:</p></td>
+<td valign="top"  style="width:28.18%; border-bottom:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;margin-right:5.95%;text-indent:0pt;;letter-spacing:-0.1pt;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">/s/ Jonathan A. Chang</p></td>
+<td valign="top"  style="width:6.72%; border-bottom:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;margin-right:11.9%;text-indent:0pt;;font-family:Times New Roman;font-size:12pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:4.08%;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="width:61.02%;">
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:11pt;">&nbsp;</p></td>
+<td colspan="2" valign="top"  style="width:34.9%; border-top:solid 0.75pt #000000;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;margin-right:11.9%;text-indent:0pt;;font-weight:bold;letter-spacing:-0.1pt;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Jonathan A. Chang</p>
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;margin-right:11.9%;text-indent:0pt;;font-weight:bold;letter-spacing:-0.1pt;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">General Counsel</p></td>
+</tr>
+</table></div>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Date: April 19, 2019</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:12pt;">&nbsp;</p></body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

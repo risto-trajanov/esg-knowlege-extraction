@@ -1,0 +1,118 @@
+{
+  "docid": "30115002",
+  "title": "Investors call for climate scenario testing and insights",
+  "uri": "Custom3",
+  "text": "Investors are also calling for high-emitting companies to test their financial assumptions and resiliency against substantial reduced-demand climate scenarios, and to provide investors insights about the potential impact on their financial statements.",
+  "entities": [
+    {
+      "uri": "Custom4",
+      "boundaries": [
+        0,
+        8
+      ],
+      "surfaceform": "Investors",
+      "annotator": "Me"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Custom4",
+        "boundaries": [
+          0,
+          8
+        ],
+        "surfaceform": "Investors",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "Custom5",
+        "boundaries": [
+          17,
+          23
+        ],
+        "surfaceform": "calling",
+        "annotator": "Me"
+      },
+      "object": {
+        "uri": "Custom6",
+        "boundaries": [
+          29,
+          52
+        ],
+        "surfaceform": "high-emitting companies",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Custom6",
+        "boundaries": [
+          29,
+          52
+        ],
+        "surfaceform": "high-emitting companies",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "Custom7",
+        "boundaries": [
+          56,
+          69
+        ],
+        "surfaceform": "test their",
+        "annotator": "Me"
+      },
+      "object": {
+        "uri": "Custom8",
+        "boundaries": [
+          87,
+          124
+        ],
+        "surfaceform": "financial assumptions and resiliency against substantial reduced-demand climate scenarios",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Custom6",
+        "boundaries": [
+          29,
+          52
+        ],
+        "surfaceform": "high-emitting companies",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "Custom9",
+        "boundaries": [
+          126,
+          136
+        ],
+        "surfaceform": "provide",
+        "annotator": "Me"
+      },
+      "object": {
+        "uri": "Custom10",
+        "boundaries": [
+          149,
+          177
+        ],
+        "surfaceform": "investors insights about the potential impact on their financial statements",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    }
+  ]
+}

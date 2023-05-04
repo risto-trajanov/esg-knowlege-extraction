@@ -1,0 +1,575 @@
+<SEC-DOCUMENT>0001193125-22-104462.txt : 20220413
+<SEC-HEADER>0001193125-22-104462.hdr.sgml : 20220413
+<ACCEPTANCE-DATETIME>20220413172158
+ACCESSION NUMBER:		0001193125-22-104462
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20220413
+DATE AS OF CHANGE:		20220413
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANK OF AMERICA CORP /DE/
+		CENTRAL INDEX KEY:			0000070858
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				560906609
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06523
+		FILM NUMBER:		22825428
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BANK OF AMERICA CORPORATE CENTER
+		STREET 2:		100 N TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+		BUSINESS PHONE:		7043868486
+
+	MAIL ADDRESS:	
+		STREET 1:		BANK OF AMERICA CORPORATE CENTER
+		STREET 2:		100 N TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BANKAMERICA CORP/DE/
+		DATE OF NAME CHANGE:	19981022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATIONSBANK CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NCNB CORP
+		DATE OF NAME CHANGE:	19920107
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d278154ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9.5pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9.5pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9.5pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:16pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9.5pt; font-family:Times New Roman" ALIGN="center"><B>(Rule <FONT
+STYLE="white-space:nowrap">14a-101)</FONT> </B></P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:9.5pt; font-family:Times New Roman" ALIGN="center"><B>INFORMATION REQUIRED IN PROXY STATEMENT </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:9.5pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A INFORMATION </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:9.5pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) of the Securities </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9.5pt; font-family:Times New Roman" ALIGN="center"><B>Exchange Act of 1934 (Amendment No.&nbsp;&nbsp;&nbsp;&nbsp;) </B></P>
+<P STYLE="margin-top:36pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the Registrant&nbsp;&nbsp;&#9746; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by a Party
+other than the Registrant&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:9.5pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="2%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="97%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:9.5pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:9.5pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><B>Confidential, for Use of the Commission Only&nbsp;(as permitted by Rule <FONT STYLE="white-space:nowrap">14a-6(e)(2))</FONT></B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:9.5pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:9.5pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:9.5pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Soliciting Material Pursuant to &#167; <FONT STYLE="white-space:nowrap">240.14a-12</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:60pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>Bank of America Corporation </B></P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">(Name of Registrant as Specified in its
+Charter) </P> <P STYLE="font-size:20pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">(Name of Person(s) Filing Proxy
+Statement, if Other Than the Registrant) </P> <P STYLE="margin-top:36pt; margin-bottom:0pt; font-size:9.5pt; font-family:Times New Roman">PAYMENT OF FILING FEE (Check the appropriate box): </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:9.5pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="5%"></TD>
+
+<TD VALIGN="bottom" WIDTH="0%"></TD>
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="0%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:9.5pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="4">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:9.5pt">
+<TD VALIGN="top">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="4">Fee paid previously with preliminary materials.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:9.5pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="4">Fee computed on table in exhibit required by Item 25(b) per Exchange Act Rules 14a-6(i)(1) and 0-11</TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="right">
+
+
+<IMG SRC="g278154g00o32.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">April&nbsp;13, 2022 </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Bank of America Announces 2030 Financing Activity Targets as Part of Net Zero Commitment </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I>Committed to achieve net zero in its financing activities, operations and supply chain before 2050 </I></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Charlotte, N.C. &#151; Bank of America today announced 2030 targets for reducing emissions associated with financing activities related to three key sectors:
+auto manufacturing, energy and power generation. The targets are outlined in the company&#146;s Approach to Zero<SUP STYLE="font-size:85%; vertical-align:top">&#153;</SUP>,<SUP STYLE="font-size:85%; vertical-align:top">1</SUP> which details Bank of
+America&#146;s net zero greenhouse gas emissions approach and target setting process. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;This work goes hand in hand with the way we are engaging our
+clients &#150; those that have set their own net zero goals, those working toward future goals, and those that are in the supply chain of companies that have a goal &#150; to help ensure a just, stable transition to the sustainable future we all
+want,&#148; said Brian Moynihan, Chief Executive Officer at Bank of America. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Setting 2030 Targets for Financing Activities </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">To develop emission reduction targets related to its financing activity, Bank of America drew from its understanding of climate science and the guidance
+provided by industry collaborations in which the company participates including the <FONT STYLE="white-space:nowrap">Net-Zero</FONT> Banking Alliance and the Sustainable Markets Initiative. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Bank of America&#146;s targets initially cover emissions related to its committed credit exposure to clients in auto manufacturing, energy and power
+generation. For each of these sectors, the company has set targets based on emissions intensity, calculated on a weighted average for each portfolio of clients: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Auto manufacturing 2030 targets: </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">Reduce intensity 44% gCO<SUB STYLE="font-size:85%; vertical-align:bottom">2</SUB>e/km (Scope 1, Scope 2 and end use Scope 3 carbon emissions)
+</P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Energy 2030 targets: </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">Reduce intensity 42% gCO<SUB STYLE="font-size:85%; vertical-align:bottom">2</SUB>e/MJ (Scope 1 and Scope 2 emissions) </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">Reduce intensity 29% gCO<SUB STYLE="font-size:85%; vertical-align:bottom">2</SUB>/MJ (End use Scope 3 carbon emissions) </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Power generation 2030 target: </P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">Reduce intensity 70% kgCO2/MWh (Scope 1 carbon emissions) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Full details on the targets can be found in the company&#146;s Approach to Zero<SUP STYLE="font-size:85%; vertical-align:top">&#153;</SUP>.<SUP
+STYLE="font-size:85%; vertical-align:top">1</SUP> </P> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><I><SUP STYLE="font-size:85%; vertical-align:top">1</SUP>&nbsp;</I></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><I><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">https://about.bankofamerica.com/en/making-an-impact/our-net-zero-strategy-and-targets-to-reduce-emissions;
+</FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">https://about.bankofamerica.com/content/dam/about/pdfs/approach-to-zero-2022.pdf</FONT></FONT></FONT> </I></P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Bank of America plans to set targets for other key sectors through 2024 and update targets to include
+capital markets activities when the methodology is finalized and released by Partnership for Carbon Accounting Financials (PCAF). As data continues to improve and the science evolves, the company plans to review its targets to ensure they remain
+relevant and in alignment with its net zero before 2050 goal. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Bank of America plans to disclose its 2019 financed emissions baselines for the auto
+manufacturing, energy and power generation sectors, along with 2020 data, later this year in its Task Force on Climate-related Disclosures (TCFD) report.<SUP STYLE="font-size:85%; vertical-align:top">2</SUP> The company also plans to disclose the
+financed emissions for its entire business loan portfolio in 2023. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Bank of America met its carbon neutrality and 100% renewable electricity goals for its
+operations in 2019, a year ahead of schedule. Since then, the company has set 2030 operations and supply chain goals,<SUP STYLE="font-size:85%; vertical-align:top">3</SUP> including a commitment<SUP STYLE="font-size:85%; vertical-align:top">4</SUP>
+to utilize sustainable aviation fuel (SAF) for at least 20% of the company&#146;s total annual corporate and commercial jet fuel usage. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In April 2021,
+the company announced a $1 trillion by 2030 goal<SUP STYLE="font-size:85%; vertical-align:top">5</SUP> to mobilize capital to accelerate the environmental transition, this as part of its $1.5 trillion sustainable finance commitment to support the
+United Nations Sustainable Development Goals. In 2021, Bank of America mobilized and deployed approximately $250&nbsp;billion in sustainable finance activity of which approximately $155&nbsp;billion was for climate and environmental transition.
+Since 2007, Bank of America has mobilized more than $350&nbsp;billion toward climate and environment-related business activities. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Additional
+environmental, social and governance (ESG) metrics, progress, and disclosures can be found in the company&#146;s Annual Report to Shareholders,<SUP STYLE="font-size:85%; vertical-align:top">6</SUP> ESG Performance document,<SUP
+STYLE="font-size:85%; vertical-align:top">7</SUP> Environmental and Social Risk Policy Framework<SUP STYLE="font-size:85%; vertical-align:top">8</SUP> and Task Force on Climate-related Financial Disclosures<SUP
+STYLE="font-size:85%; vertical-align:top">2</SUP>. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Visit www.bankofamerica.com/environment to learn more about Bank of America&#146;s environmental
+sustainability efforts. </P> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><I><SUP STYLE="font-size:85%; vertical-align:top">2</SUP>&nbsp;</I></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><I><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">about.bankofamerica.com/en/making-an-impact/task-force-on-climate-related-financial-disclosures-report</FONT></FONT></FONT></FONT> </I></P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><I><SUP STYLE="font-size:85%; vertical-align:top">3</SUP>&nbsp;</I></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><I><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">newsroom.bankofamerica.com/content/newsroom/press-releases/2021/02/bank-of-america-announces-actions-to-achieve-net-zero-greenhouse.html
+</FONT></FONT></FONT></FONT></FONT></FONT></FONT> </I></P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><I><SUP STYLE="font-size:85%; vertical-align:top">4</SUP>&nbsp;</I></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><I><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">newsroom.bankofamerica.com/content/newsroom/press-releases/2022/02/bank-of-america-sets-2030-sustainable-aviation-fuel--saf--goal.html</FONT></FONT></FONT></FONT> </I></P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><I><SUP STYLE="font-size:85%; vertical-align:top">5</SUP>&nbsp;</I></TD>
+<TD ALIGN="left" VALIGN="top">
+<P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><I><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">newsroom.bankofamerica.com/content/newsroom/press-releases/2021/04/bank-of-america-increases-environmental-business-initiative-targ.html
+</FONT></FONT> </I></P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><I><SUP STYLE="font-size:85%; vertical-align:top">6</SUP>&nbsp;</I></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><I>investor.bankofamerica.com/2021-annual-report </I></P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><I><SUP STYLE="font-size:85%; vertical-align:top">7</SUP>&nbsp;</I></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><I>about.bankofamerica.com/content/dam/about/pdfs/ESG_Data-2020.pdf </I></P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><I><SUP STYLE="font-size:85%; vertical-align:top">8</SUP>&nbsp;</I></TD>
+<TD ALIGN="left" VALIGN="top">
+<P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><I><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">about.bankofamerica.com/content/dam/about/pdfs/environmental-and-social-risk-policy-framework-report.pdf
+</FONT></FONT> </I></P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Cautionary Information and Forward-Looking Statements </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This press release contains statements regarding environmental, social and governance (ESG) related information and opinions, in each case which may include
+metrics, targets, goals, commitments and sustainability strategy. Such Information and any statements made in connection therewith are not guarantees or promises that any metrics, goals, targets or commitments will be met, and are based on current
+goals, targets, commitments, estimates, assumptions, developing standards and methodologies and currently available data, which continue to evolve and develop. The information in this press release is as of the date referenced, subject to change
+without notice and should be regarded as indicative and for illustrative purposes only. Such information may also include the use of <FONT STYLE="white-space:nowrap">non-financial</FONT> metrics and/or other information that are subject to
+significant measurement uncertainties, which may include the methodology, collection and verification of data, various estimates and assumptions and/or underlying data that is obtained from third parties, some of which cannot be independently
+verified. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Additionally, certain statements contained in this press release may constitute &#147;forward-looking&#148; statements within the meaning of
+the Private Securities Litigation Reform Act, including statements about future financial performance and business and <FONT STYLE="white-space:nowrap">ESG-related</FONT> information, which may evolve over time. Words such as
+&#147;anticipates,&#148; &#147;believes,&#148; &#147;expects,&#148; &#147;intends,&#148; &#147;plans,&#148; and similar expressions are used to identify forward-looking statements. Forward-looking statements reflect management&#146;s current
+expectations, plans or forecasts, are not guarantees of future results or performance, involve certain known and unknown risks, uncertainties and assumptions that are difficult to predict and often beyond Bank of America Corporation&#146;s control
+and are inherently uncertain. Actual outcomes and results may differ materially from those expressed in, or implied by, forward-looking statements. You should not place undue reliance on any forward-looking statement and should consider the
+uncertainties and risks discussed in Bank of America Corporation&#146;s 2021 Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> and subsequent Securities and Exchange Commission filings. Bank of America Corporation undertakes no
+obligation to update or revise any forward-looking statements. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Website links<SUP STYLE="font-size:85%; vertical-align:top">9</SUP> throughout this press
+release are provided for convenience only, and the content on the linked websites is not incorporated by reference into this press release. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Bank of
+America Environmental, Social and Governance </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">At Bank of America, we&#146;re guided by a common purpose to help make financial lives better, through
+the power of every connection. We&#146;re delivering on this through responsible growth with a focus on our environmental, social and governance (ESG) leadership. ESG is embedded across our eight lines of business and reflects how we help fuel the
+global economy, build trust and credibility, and represent a company that people want to work for, invest in and do business with.&nbsp;It&#146;s demonstrated in the inclusive and supportive workplace we create for our </P>
+<P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">9</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">See footnotes for website URLs </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+employees, the responsible products and services we offer our clients, and the impact we make around the world in helping local economies thrive.&nbsp;An important part of this work is forming
+strong partnerships with nonprofits and advocacy groups, such as community, consumer and environmental organizations, to bring together our collective networks and expertise to achieve greater impact. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">For more Bank of America news, including dividend announcements and other important information, register for email news alerts. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Reporters may contact: </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Kelly Sapp, Bank of
+America&nbsp;&nbsp;&nbsp;&nbsp; </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Phone: +1 <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">980-214-3070</FONT></FONT> </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Kelly.E.Sapp@bofa.com </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g278154g00o32.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g278154g00o32.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_X1#Z17AI9@  34T *@    @ ! $[  (
+M   0   (2H=I  0    !   (6IR=  $    @   0TNH<  <   @,    /@
+M   <Z@    @
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                                                 %-H=V5T82!0
+M:&%D=&%R90  !9 #  (    4   0J) $  (    4   0O)*1  (    #.3
+M )*2  (    #.3   .H<  <   @,   (G      <Z@    @
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                         #(P,C(Z,#0Z,30@,#$Z,34Z,#< ,C R,CHP
+M-#HQ-" P,3HQ-3HP-P   %, : !W &4 = !A "  4 !H &$ 9 !T &$ <@!E
+M    _^$+(FAT=' Z+R]N<RYA9&]B92YC;VTO>&%P+S$N,"\ /#]X<&%C:V5T
+M(&)E9VEN/2?ON[\G(&ED/2=7-4TP37!#96AI2'IR95-Z3E1C>FMC.60G/SX-
+M"CQX.GAM<&UE=&$@>&UL;G,Z>#TB861O8F4Z;G,Z;65T82\B/CQR9&8Z4D1&
+M('AM;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR9&8M
+M<WEN=&%X+6YS(R(^/')D9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z
+M9F%F-6)D9#4M8F$S9"TQ,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SID
+M8STB:'1T<#HO+W!U<FPN;W)G+V1C+V5L96UE;G1S+S$N,2\B+SX\<F1F.D1E
+M<V-R:7!T:6]N(')D9CIA8F]U=#TB=75I9#IF868U8F1D-2UB83-D+3$Q9&$M
+M860S,2UD,S-D-S4Q.#)F,6(B('AM;&YS.GAM<#TB:'1T<#HO+VYS+F%D;V)E
+M+F-O;2]X87 O,2XP+R(^/'AM<#I#<F5A=&5$871E/C(P,C(M,#0M,314,#$Z
+M,34Z,#<N.#DU/"]X;7 Z0W)E871E1&%T93X\+W)D9CI$97-C<FEP=&EO;CX\
+M<F1F.D1E<V-R:7!T:6]N(')D9CIA8F]U=#TB=75I9#IF868U8F1D-2UB83-D
+M+3$Q9&$M860S,2UD,S-D-S4Q.#)F,6(B('AM;&YS.F1C/2)H='1P.B\O<'5R
+M;"YO<F<O9&,O96QE;65N=',O,2XQ+R(^/&1C.F-R96%T;W(^/')D9CI397$@
+M>&UL;G,Z<F1F/2)H='1P.B\O=W=W+G<S+F]R9R\Q.3DY+S R+S(R+7)D9BUS
+M>6YT87@M;G,C(CX\<F1F.FQI/E-H=V5T82!0:&%D=&%R93PO<F1F.FQI/CPO
+M<F1F.E-E<3X-"@D)"3PO9&,Z8W)E871O<CX\+W)D9CI$97-C<FEP=&EO;CX\
+M+W)D9CI21$8^/"]X.GAM<&UE=&$^#0H@(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(#P_>'!A8VME="!E;F0])W<G/S[_VP!#  <%!08%! <&!08(!P<("A$+"@D)
+M"A4/$ P1&!4:&1@5&!<;'B<A&QTE'1<8(BXB)2@I*RPK&B O,R\J,B<J*RK_
+MVP!# 0<(" H)"A0+"Q0J'!@<*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ
+M*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BK_P  1"  P 1L# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+..P/2GT8HJCA"BBB@#_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

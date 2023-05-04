@@ -1,0 +1,79 @@
+{
+  "docid": "30115004",
+  "title": "Financial accounting adjustments related to climate change",
+  "uri": "Custom9",
+  "text": "All three subsequently adjusted critical accounting assumptions, resulting in material impairments, and disclosed how climate change affected the adjustments.",
+  "entities": [
+    {
+      "uri": "Q19682",
+      "boundaries": [
+        23,
+        50
+      ],
+      "surfaceform": "accounting assumptions",
+      "annotator": "Me"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Custom10",
+        "boundaries": [
+          0,
+          29
+        ],
+        "surfaceform": "All three subsequently adjusted",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P5825",
+        "boundaries": null,
+        "surfaceform": "resulting in",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom11",
+        "boundaries": [
+          52,
+          72
+        ],
+        "surfaceform": "material impairments",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    },
+    {
+      "subject": {
+        "uri": "Custom10",
+        "boundaries": [
+          0,
+          29
+        ],
+        "surfaceform": "All three subsequently adjusted",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P8212",
+        "boundaries": null,
+        "surfaceform": "disclosed",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom12",
+        "boundaries": [
+          83,
+          116
+        ],
+        "surfaceform": "how climate change affected the adjustments",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    }
+  ]
+}

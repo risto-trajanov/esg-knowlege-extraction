@@ -1,0 +1,963 @@
+<SEC-DOCUMENT>0001193125-21-102098.txt : 20210331
+<SEC-HEADER>0001193125-21-102098.hdr.sgml : 20210331
+<ACCEPTANCE-DATETIME>20210331145858
+ACCESSION NUMBER:		0001193125-21-102098
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20210331
+DATE AS OF CHANGE:		20210331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		21792686
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9729406000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d150414ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the
+Registrant&nbsp;&nbsp;&#9746; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Filed by a Party other than the
+Registrant&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>Confidential, for Use of the Commission Only (as permitted by Rule <FONT STYLE="white-space:nowrap">14a-6(e)(2))</FONT></B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Soliciting Material Pursuant to <FONT STYLE="white-space:nowrap">&#167;240.14a-12</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>E<SMALL>XXON</SMALL> M<SMALL>OBIL</SMALL> C<SMALL>ORPORATION</SMALL> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified In Its Charter) </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules <FONT STYLE="white-space:nowrap">14a-6(i)(4)</FONT> and <FONT STYLE="white-space:nowrap">0-11.</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Title of each class of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Aggregate number of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11</FONT>
+(set forth the amount on which the filing fee is calculated and state how it was determined):</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Proposed maximum aggregate value of transaction:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Total fee paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Fee paid previously with preliminary materials.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11(a)(2)</FONT> and identify the filing for which the offsetting fee was paid previously. Identify the
+previous filing by registration statement number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Amount Previously Paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Form, Schedule or Registration Statement No.:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filing Party:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date Filed:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXXONMOBIL GLOBAL EMPLOYEE FORUM TRANSCRIPT </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>MARCH&nbsp;30, 2021 </B></P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE:</B> Hello, everybody. I&#146;m Karen McKee, president of ExxonMobil Chemical Company; and
+it&#146;s my pleasure to welcome all of you to this event, whether you&#146;re joining us in person in this small <FONT STYLE="white-space:nowrap">in-person</FONT> audience that we have today or watching the recorded session virtually all around the
+world. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I know that you&#146;re all eager to hear from our chairman and CEO, Darren Woods, as Darren will be speaking about our future
+business plans. And as we saw in 2020, the future can change very quickly. As a resilient organization, of course our plans could always change to match. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Today&#146;s materials will be based on the Investor Day held on March the 3<SUP STYLE="font-size:85%; vertical-align:top">rd</SUP>. If
+you&#146;re interested in more details about what will be covered today, please take a look at the full set of Investor Day materials which are available on our website. Following Darren&#146;s presentation, we will have a Q&amp;A session to address
+both <FONT STYLE="white-space:nowrap">pre-submitted</FONT> questions and those that are on the minds of those of you in the room today. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So without further ado, it is now my privilege to invite our chairman and CEO, Darren Woods, to come up to the stage. Thank you. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS:</B> Well, thank you, Karen. And good morning, everybody. Great to see all of you and to see some of your faces. It is really, really nice to
+be here. I have missed coming out to the campus and interacting with people. I am hopeful that we&#146;re on the back end of this pandemic so that we can get to somewhat more of a normal sense of business and interactions. While I say that, I am
+very conscientious of the fact that, obviously, the progress in fighting the pandemic and Coronavirus is varied around the world. Some people are moving faster than others. And so as good as I feel about some of the progress we see here in the US
+and other places in the world, we still have some very important challenges out there for some of our people. So that&#146;s always very close to mind. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As you can see today, we&#146;re going to continue to social distance. And I think it&#146;s important to maybe start out and just talk about
+the amount of change that the organization has gone through in the last year, and I want to start by contexting that change in that there are two real important driving factors: Obviously, the external environment, the pandemic, and the impact that
+that&#146;s had on our industry and the changes that we&#146;ve had to make in responding to that, but also the internal needs, </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">the things which were
+independent of the pandemic but also critical in terms of us responding and becoming a more competitive company so that we could be &#151; have a more successful future. And as we go through the discussion today, I think it will be clear on some of
+those things that were internally driven that happened to overlap at the same time with this very challenging external environment. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Bottom line, though, obviously, is those two things coming together created an enormous amount of change and an enormous amount of challenges
+for all of us and all of you to deal with. And so I think I want to start by making sure that I express my gratitude for that and for your professionalism indealing with that and the resilience that you&#146;ve demonstrated, everybody demonstrated
+around the world in dealing with those challenges, whether they&#146;re external or internal. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As Karen said, I&#146;m going to cover a
+lot of the Investor Day slides. In fact, I&#146;d say most of that material, if not all of it, is directly from the Investor Day slides. I&#146;ll give you some color commentary as we go through that. I want to leave a lot of time for questions,
+though, to make sure that I can address kind of what&#146;s top of mind of all of you and then happy to dig into additional detail for any part of the presentation that we go through today. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I want to start, though, by reflecting on 2020, which, as I just commented on, it was a
+very, very tough year &#151; obviously, the global pandemic, the unprecedented business environment &#151; and I never lose sight of all the personal challenges that each of us were dealing with. And as I said in October and continue to feel
+extremely proud of how the organization responded to those challenges. And as I said, you know, we took care of ourselves. You all took care of yourselves. You took care of friends and family and, at the same time, took care of business, which is a
+tremendous accomplishment; and the results speak for themselves. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Who would have thought in the crunch of everything that we were dealing
+with that the organization would deliver the best-ever safety and reliability in the corporation&#146;s history. That&#146;s an amazing feat. Drove structural efficiencies. We reduced operating expenses by more than 15&nbsp;percent, $3&nbsp;billion
+in structural improvements. We reduced our capital by 30&nbsp;percent and, at the same time, preserved the value of those projects. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I
+think it&#146;s important to remember that this very robust portfolio of investments in this aggressive capital investment program that we had, none of those projects have been cancelled. We basically found a way to put those on pause, put them in a
+position where we can come back to those when the environment supports bringing those projects back on. The value has been preserved but delayed. That&#146;s a tremendous accomplishment by the organization, one, frankly, I don&#146;t think we could
+have done without the global projects organization, a big change that we made in 2019. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We achieved our 2020 emissions reduction goals
+that we had announced back in 2018. And over the course of 2020, with the new planning process, we set detailed plans on how we can reduce emissions even further in 2025. And those emission reductions are consistent with what the Paris Agreement is
+looking for. And I&#146;m going to show you a chart a little later in the presentation that demonstrates that. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I think it&#146;s
+important to point out that those emission reduction plans were not a <FONT STYLE="white-space:nowrap">top-down</FONT> target. Those were efforts by all of you, our organizations around the world to focus on how can we get better at reducing our
+emissions, build your plans up, figure those things out. We bring all that together, see where we&#146;re at. And as I said, what came back and what we committed to as part of our 2025 plans is in line with what the expectations of the Paris
+Agreement are, the ambitions of the Paris Agreement and, as I&#146;ll show you, far exceeds what has been demonstrated to date by the rest of society. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Made really important progress and each of our businesses grew value and the potential value in the downstream and the upstream in chemicals.
+Obviously, some of that value didn&#146;t manifest itself in the year, given the challenging external environment that we&#146;re in; but nonetheless, that value potential exists. And as the market recovers, we&#146;ll see that value come directly
+to the bottom line. So that hard work will manifest itself far beyond what we demonstrated in 2020. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We also continue to advance very
+important and strategic projects. Obviously, kept moving on the Permian. We had to cut back the investments in the Permian and short-cycle investment in the upstream; but at the same time, if you&#146;ll look at the progress we made in the
+productivity of the capital that we&#146;re spending, a tremendous progress in the Permian, in that organization, which puts us in good state as we go forward. We&#146;ll get more production for less dollars moving forward. And my expectation is
+we&#146;re going to continue to see that trend, more and more productive spend with higher and higher output; continue to progress Guyana, working very closely with the new administration. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Gulf Coast steam cracker that we&#146;re building in the chemical organization
+didn&#146;t miss a beat, kept that moving. And I think credit to that whole organization, did that while managing the challenges of COVID and kept people safe while progressing that project. And my expectation is we&#146;ll start that up ahead of
+the schedule and &#150; and probably below budget. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And then we kept a really important work going in China with our China 1 chemical
+investment, which, again, thinking about the dynamics there and engagement with that government and the pressure on the businesses to reduce spend was a really challenging effort but managed to kind of thread the needle there and keep that project
+moving. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Those are just a few. I mean, a lot of good, hard work by a lot of people around the organization to keep the value proposition
+intact as we move forward and dealt with these short-term challenges. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Obviously, none of that was easy to achieve, particularly given the
+constraints that we&#146;re on, and, obviously, a lot of personal sacrifices. And I&#146;ll be the first to acknowledge, I think everyone had some personal issue they had to deal with and some more than others where &#151; you think about people
+working offshore, moving into these other countries on rotation, real challenging environments to go into and often isolated for months on end. So I think great, great sacrifices by people all around the corporation. And, again, I want to thank
+everybody for that &#151; that contribution. I know that that reflects basically the commitment that all of you have to this corporation, and I am very, very thankful for that. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I hope that you take pride in what we, together, were able to deliver; and I hope you recognize that that work has made our company stronger
+and more competitive with a brighter future. And why is that so important? To what end are we all working for here? And I just want to keep coming back and reminding people of how vitally important the work we do is for society and the fact that we
+provide essential products that support modern life. And if you &#151; if you wonder what do I mean by that or question that, just think about your own personal circumstances for those living here in Texas with the ice storm and when we lost power,
+which then led to the loss of water and &#151; and heat. There&#146;s a very kind of real example in the short term. But you can see all around the world when people are facing challenges and they lose access to energy, whether it&#146;s
+transportation, fuels or heat and light, the impact that it has on their personal lives. And for places that don&#146;t have that today and that we then bring to. And Guyana is a great example of that, bring power to help lift people out of poverty.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We are, as a company, advancing growth and global prosperity. And I think &#151; and it&#146;s unfortunate that not everyone can see the
+impact that that has. I know a lot of folks in the upstream going in to some of these countries that don&#146;t have that. The power that we&#146;re going to bring to Guyana to allow more sophisticated medical facilities, for schools, it&#146;s
+going to change people&#146;s lives. They will change people &#151; people&#146;s lives. So &#151; and we &#151; you know, chemical products, same thing. You all remember in the pandemic we started making more IPA to make hand sanitizers for folks,
+the &#151; especially polypropylene that &#151; that goes into masks and &#151; and gowns. So a lot of things that people don&#146;t appreciate make a big difference in
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">day-to-day</FONT></FONT> life. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So, obviously, energy &#151; very clear,
+the connection of energy to prosperity. And I&#146;ve shown you in the past this connection that as people&#146;s prosperity rises, as their standards of living improve, so does the energy consumption and their individual energy consumption. So as
+we work and deal with the challenges of the future going forward, we always have to remember that very important fundamental and vital role we pay play here and now and the commitment that I feel and I hope that many of you feel to continue to
+responsibly meet the world&#146;s energy needs as we go forward. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And, of course, the key question is &#150; and I hear this all the time: Okay. We all accept
+and understand the need for energy and the important role that it plays, but what form will energy take in the future? That&#146;s an important question. And I think if you&#146;re reading the paper or media, listen to the news, you&#146;re going to
+get a lot of different views about what form energy will take. We&#146;re convinced, based on the work that we do and the understanding of the global energy system, that oil and gas is going to play a critical role in meeting society&#146;s needs
+for decades and decades to come. But I&#146;m sure people will say, &#147;Well, we&#146;d expect you to say that, Darren, as head of ExxonMobil.&#148; But I will tell you that we don&#146;t &#150; we don&#146;t base our plans and thinking just on
+our own math. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">A term I use often with our organization, the folks that work directly with me, is: We can&#146;t drink our own <FONT
+STYLE="white-space:nowrap">Kool-Aid.</FONT> We need to keep an external perspective. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We look at the IPCC&#146;s forecast. That is the
+intergovernmental body, a panel on climate change. It is the UN&#146;s group that they&#146;ve put in place to have oversight on climate change, the risk of climate change and the predictions of the future. We look at their models and their
+projections. They have a number of scenarios they look at, a <FONT STYLE="white-space:nowrap">2-degree</FONT> scenario. So what does the world look like as they head to limit global warning to 2 degrees C? And in those scenarios &#151; there&#146;s
+74 of them that we&#146;ve kind of averaged together. In those scenarios, oil and gas, 20 years from now, still will represent about half of the energy mix. Half of the energy mix. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Now, why is that? Fundamentally, it&#146;s because economies around the world are going to continue to grow and people&#146;s standards of
+living are going to continue to rise. And to support that, the economic growth and people&#146;s prosperity, three <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">very-hard-to-decarbonize</FONT></FONT> sectors are going to be
+required: The industrial sector, commercial transportation and power generation. So think about it. Industrial to make the goods and the concrete, the steel and the things that we all use in <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">day-to-day</FONT></FONT> life, commercial transportation to move that around the world and then power generation to light and heat and cool homes. That represents about 75&nbsp;percent of demand today. In 2040, that&#146;s
+going to represent about 80&nbsp;percent of demand. And you can see here on this chart from the IPCC how that breakdown looks. That&#146;s in a <FONT STYLE="white-space:nowrap">2-degree</FONT> scenario. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Now, to meet that demand, what&#146;s it going to take? And I think, again, people often think about a <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">flat-to-down</FONT></FONT> demand means less investment for our industry. And what I would tell you is: Always remember, particularly in the upstream, in the oil and gas business, this depletion curve, every year that we
+produce, every year the industry produce, there&#146;s a 5 to 7&nbsp;percent decline in supply. And this chart gives you a really good perspective of what that annual decline rate does ultimately to the supply, the global supply, in this case, of
+oil out through 2040. And you can see without any further investment, that depletion curve will take the amount of oil supply available to the world in 2040 down to about 20&nbsp;million barrels a day. That&#146;s from about a hundred million
+barrels a day in 2019. Okay? So remember that. Depletion curve&#146;s working on its own. You&#146;re losing supply every day. So to hold even, you&#146;ve got to invest and grow your supply by 5 to 7&nbsp;percent. Most industries would consider
+that </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">a growth business. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Now, if you use &#151; look at the IPCC&#146;s
+<FONT STYLE="white-space:nowrap">2-degrees</FONT> scenarios and the average of that, what they project in 2040 for oil demand is about 75&nbsp;million barrels a day. So IPCC <FONT STYLE="white-space:nowrap">2-degree</FONT> scenario, 75&nbsp;million
+barrels a day of oil demand, natural decline, and the oil industry gets to 20&nbsp;million &#151; there&#146;s a 50 million-barrel-plus gap between what we&#146;ll have in 2040 without further investments and what the demand will be in a <FONT
+STYLE="white-space:nowrap">2-degree</FONT> scenario. So the world needs investments in oil and gas, and the IEA estimates that investment between now and 2040 will be about $12 trillion or, on average, $600&nbsp;billion a year. And if you think
+about the challenges to get on a <FONT STYLE="white-space:nowrap">2-degree</FONT> path, you&#146;re going to need more of that money sooner than later as the work &#151; as the world works towards these alternative forms of </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">energy. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So while the world works for a
+lower-carbon future, works to limit the temperature, there&#146;s also work to be done to continue to meet the demand. Our strategy through 2025 basically helps achieve this. And we&#146;re doing it while, at the same time, reducing our emissions in
+line with the Paris ambitions. I think that&#146;s a really important point; so I want to say that again. We&#146;re going to meet the short-term demand for oil and gas in the world consistent with the projections that are out there while, at the
+same time, reducing our emissions in line with the Paris accord. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And this morning I want to start &#151; I&#146;m going to very quickly
+take you through just some highlights of each of the businesses and the work that they&#146;re doing, our plans through 2025 and how we&#146;re going to grow value. And then I&#146;ll turn to the work that we&#146;re doing for the future and driving
+to a lower-carbon future and the work that we&#146;re doing in that space and the opportunities that we see there. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So let me start with
+the upstream, where if you think about what we&#146;re doing in the upstream, the strategy essentially is to improve our competitiveness by increasing the value of every barrel or barrel equivalent that we produce while retaining flexibility to
+adjust to market conditions. We demonstrated the importance of that in 2020, and I will tell you that the plans that we have going forward are very cognizant of the variation or the volatility that we expect to see out there and making sure that our
+plans are robust to that volatility. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We&#146;re focusing the investment portfolio on <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">lowest-cost-of-supply</FONT></FONT> resources, giving us high-return projects and with a weighting towards liquids. And if you look at the outcome of the work that we&#146;ve been doing in the upstream around sharpening
+that portfolio and hydrating it, 90&nbsp;percent of the investments in &#150; in developing resources generate a return greater than 10&nbsp;percent at $35 a barrel. When you think about the future and where oil prices could go &#151; you can look
+out the window today and see where they&#146;re at, but our investments in developing resources are robust and attractive at $35 a barrel or less. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Look at the size of the portfolio we have, 9&nbsp;billion <FONT STYLE="white-space:nowrap">oil-equivalent</FONT> barrels in Guyana, about
+10&nbsp;billion <FONT STYLE="white-space:nowrap">oil-equivalent</FONT> barrels in the Permian, which is going to support about 700,000 barrels of <FONT STYLE="white-space:nowrap">oil-equivalent</FONT> a day of production by 2025. Gas is going to
+continue to play a very important role as the economies around the world look to decarbonize, particularly moving off of coal and to gas. And we have a very diverse set of opportunities with <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">low-cost-to-supply</FONT></FONT></FONT> developments. We&#146;ve said this time and time again. I&#146;ll say it one more time. We do have the best set of opportunities we&#146;ve had in
+the portfolio since the merger of Exxon and Mobil. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We turn to the downstream. We made a really good progress in 2020. The lubricants
+business really shone in 2020, which was important given the challenges that we had on the fuel side of the equation, had earnings of over a billion dollars in 2020. And that&#146;s in the range of what we&#146;ve historically been annually earning.
+It&#146;s on the high side, but lubricants continues to be a very high-value piece of our downstream business. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In the fuels value chain, saw a record earnings in our trading group. And that&#146;s an
+area that over the years we&#146;ve been building up and continues to evolve but an important source of earnings for 2020. Very thankful that we had that in place last year given all the volatility that we&#146;ve seen and an organization that could
+respond to that volatility, make sure that we were bringing, you know, our share of that value into the business as the rest of the challenges manifested themselves. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We also, in 2020, improved our retail earnings versus 2019. So I think, given the challenges there, really good progress in our downstream.
+Continue to advance some very important projects to improve the <FONT STYLE="white-space:nowrap">net-cash</FONT> margins of our manufacturing sites. And with those projects that we&#146;ve ever put online, here recently, the three that we&#146;ve
+got online and the four that were progressing, we&#146;ll see a 3&nbsp;percent increase in <FONT STYLE="white-space:nowrap">net-cash</FONT> margin. And those projects are essentially kind of upgrading the bottom of the barrel, the <FONT
+STYLE="white-space:nowrap">low-value</FONT> stuff, into higher-value stuff in line with what the demand in society is for those higher-value products. So very important projects in the downstream we made progress with. Obviously have paused some of
+those, but we&#146;ve positioned those to start back up again going forward here. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Also made good progress in the downstream growth
+markets, Indonesia, China, India, Mexico. Our expectation for those markets in 2025 is about $500&nbsp;million of earnings. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And then also
+in the downstream, made really good progress on structural efficiencies with a target of about $1.5&nbsp;billion of annual savings by 2023 through the leveraging our scale and our integration, which for the downstream business, given the margins and
+how thin they are, is going to be vital &#150; vital to their long-term success. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And I&#146;ll turn to chemicals, which continues to be a
+very important part of the business. And frankly, if you&#146;ll look at global trends and where the world&#146;s heading, chemical is going to be a really important part of the foundation for the corporation going forward and one of the reasons why
+you&#146;ve seen the investments that we&#146;re making in the chemical business to make sure that we are positioning ourselves well to keep pace with that growth, with a strategy really focused on technology-driven, higher-value performance
+products. And so we&#146;ll invest where we have an opportunity to bring a unique set of value. We may start with a commodity product to have the capacity, to fill capacity; but we&#146;ll quickly work to upgrade those products into the <FONT
+STYLE="white-space:nowrap">higher-end</FONT> specialty products. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">But just to give you some example of the work that the chemical
+organization has been doing in that space, in 2020 we had a hundred major manufacturing product trials, over 3,000 new commercial leads and 1600 product trials. And those numbers were achieved despite the challenges that we were facing in &#151; in
+the businesses and the manufacturing organization responding to these imbalances that &#151; that we were seeing over the course of the year. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We earned $2&nbsp;billion last year in the 23 chemical company, well ahead of the rest of the industry, had record reliability, captured some
+very unique value from our integration with the refining sites. I think for those of you involved in that, you know the exchange and how well the refining organization worked with the chemical organization to make sure that we were optimizing those
+streams. That brought a lot of value to the organization that, frankly, others didn&#146;t have that opportunity and, at the same time, drove significant efficiencies. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We have a really strong pipeline going forward of new and advantaged products and anticipate
+through 2027 growing high-performance products by about 60&nbsp;percent. We&#146;ve commercialized more than 250 new products since 2010. So there&#146;s a really strong track record today of our ability to take technology and translate that into
+value-added product for our customers and a lot more opportunity going forward as the chemical organization works to bring that technology into our customers&#146; businesses. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And then more recently, you may have seen that we have started advanced recycling; so producing a circular polymer, using plastic waste in a
+proprietary technology. Just finished some of our initial plant runs at Baytown. So real opportunity there. And, again, that will be a high-value product with the focus that the world has on recycling in circular economies. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So you step back and, in spite of a very challenging year, I think you can see there are a lot of points of pride in every one of our
+businesses, overcoming the challenges and delivering value. Going forward, we&#146;re going to have to stay focused, obviously, on continuing to improve safety and reliability, continuing our drive for efficiencies. We cannot allow ourselves to
+slip. We&#146;ve made really good progress. We&#146;ve got more work to do. We have to move ourselves to the front of the pack. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">You know,
+the challenges I&#146;ve given the presidents is in leveraging the capabilities of the corporation and across the whole. We don&#146;t want to be amongst the best; we want to be in front of the best and be that best. And so the benchmarking that
+we&#146;re doing all around the businesses to make sure we understand where we stand with respect to competition and then developing plans to make sure that we get out in front of them and demonstrate the value of our corporation and the synergies
+that we have between all the businesses and the quality of the teams and the people that we have working for us. Driving efficiencies, developing these advantaged projects &#150; that is going to be absolutely critical. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As we step back, 2017, 2018 time frame, we recognize that in order to continue to grow the value of our corporation, that we&#146;re going to
+have to grow the capital base with advantaged projects and assets; and that investment plan that I&#146;ve talked about is key to that. So we&#146;ve got to keep that moving along. That, in turn, is going to grow our earnings and cash flow. And
+certainly in the near term, we&#146;re going to use that growth to rebuild the balance sheet. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And so as you think about the environment
+out there and as things start to look better, maybe, than we had anticipated, that&#146;s good news for us; but that money is going to go right into the balance sheet because we&#146;ve got to rebuild that buffer. We used that advantage and
+strength, our strong balance sheet, to weather through the pandemic and to mitigate the tough choices that we had to make. We&#146;ve got to make sure we have that capacity again because, I promise you, we will be back in another down-cycle at some
+point in the future. When, I&#146;m not sure. Hopefully it&#146;s a little ways out there, but we&#146;ve got to make sure that we have the advantages and the capacity to deal with that when it comes back around. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Upstream is going to stay very focused on kind of building up an asset basis, high quality and low cost of supply. That way &#151;
+irrespective of where that demand curve goes. You know, the trick here is as &#151; wherever demand takes us, to make sure that the supply that we&#146;re bringing on is the lowest cost in industry. So irrespective of what last barrel meets that
+demand, we&#146;ll be advantaged versus that and, therefore, successful. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And the downstream, as I mentioned, thin margins and, in some markets, declining demand,
+need to make sure that our <FONT STYLE="white-space:nowrap">net-cash</FONT> margin is improved and so continuing to focus on those conversion projects, continuing to focus on getting into new markets where we&#146;re seeing growth and demand and
+then continuing to keep the emphasis on growing our lubricants. But we do have an advantaged product that is recognized by the market. We&#146;ve got to make sure we&#146;re keeping pace with that market and continuing to lead innovation in that
+space. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And then same kind of strategy in the chemical business, continue to grow our differentiated product through these &#150; through
+technology and &#151; and high-performing products. All that work strengthens the foundation on which we built this business and, very importantly, will serve as a foundation for the future as we continue the work that we&#146;ve been doing to move
+to this lower-carbon future. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And it&#146;s something, as we talked about Investor Day, that we&#146;ve been working on for decades. And
+for me, I&#146;m actually very encouraged with how this space has been developing. The world is increasingly focusing its attention on the gaps that exist today and our ability to reduce emissions. And we&#146;ve been focused for some time now on
+leveraging our core science capabilities and the partnerships that we&#146;ve struck over the years with academia, with the governments and the national labs, with other technology companies to find solutions that actually fill those gaps and to
+help decarbonize those <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">hard-to-decarbonize</FONT></FONT> sectors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Now,
+I&#146;m going to come back to &#150; come back to that because that&#146;s a really important history of work that we&#146;ve been doing which is going to serve us very well going forward in the future, but while we&#146;ve been doing that, a lot
+of work to reduce our current emissions footprint and to develop products to help our customers reduce their emissions footprint. And that&#146;s important: Work on what you control today and focus on what&#146;s needed in the future. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And you can see from this chart, we&#146;re making excellent progress. Since 2016, when the Paris accord was assigned, we&#146;ve reduced our
+greenhouse gas emissions by 6&nbsp;percent versus &#151; in 2019 versus 2016. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Now, as you can see from the lines on this chart,
+that&#146;s well ahead of the progress that society&#146;s made. And as you can also see, well ahead of where the Paris nationally determined contributions &#151; it&#146;s, in essence, the folks who signed up for the Paris accord, where their
+commitments are with respect to what we&#146;re focused on and achieving. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As I said, we&#146;ve met our goal for 2020; and we&#146;ve
+established plans for 2025. And I&#146;m going to reiterate it again: Those are not targets. Those are plans. We&#146;ve got those built into our operating units and the expectation is our businesses will meet that and we will hold our managers and
+supervisors accountable for that. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">What are we going to do with respect to reducing emissions? 15 to 20&nbsp;percent GHG intensity
+reductions in the upstream operations. So facilities that we operate, a 15 to 20&nbsp;percent reduction in the intensity of their greenhouse gases, a 40 to 50&nbsp;percent reduction in methane intensity and a 35 to 45&nbsp;percent decrease in
+flaring intensity. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">9 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Now, people ask why do we use intensity. And one of the challenges we&#146;ve had, one of
+the things &#151; I don&#146;t think as an organization that we should focus on divesting and selling high-intensity assets to other people because it doesn&#146;t solve the problem. The challenge in our &#151; it may make our numbers look better,
+but the challenge for us is to make sure that we are trying to move the needle for the globe. And the things that we are doing intellectually, we believe, makes improvements. And so focusing on intensity allows us to whatever we have in the
+portfolio to make sure that we&#146;re driving the intensity of those emissions down. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">But people are interested in the absolute number as
+well, which is fine. We &#151; the work that we&#146;re doing &#151; is going to reduce the absolute greenhouse gas emissions in the upstream by 30&nbsp;percent. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And the question is: How do you get from the red diamond in 2025 down to net zero in 2050? And the answer is: We don&#146;t know yet. And
+neither does the rest of society. That is the challenge. How do you decarbonize these three sectors that I talked about earlier that represent 80&nbsp;percent of the demand for oil and gas in 2040 and 80&nbsp;percent of the world&#146;s
+energy-related emissions? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Unfortunately, there are very few alternatives that exist today. The IEA says that 6 out of the 46 technologies
+in sectors that are needed to solve this problem, only 6 of them are on track. There are some significant shortfalls in the alternatives we&#146;ve got today across these three sectors. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So let&#146;s think about power generation. Solar and wind will play a very important role, but we all know there are challenges with
+intermittency. The wind doesn&#146;t always blow. The sun doesn&#146;t always shine. And there&#146;s also what we&#146;ve termed a resource quality issue, which is not all places in the world have the wind power or the solar intensity needed to
+generate the power that society is going to need. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Commercial transportation. People will talk about electrifying the vehicles. We&#146;ve
+seen that with, like, new vehicles, you know, a growing penetration of electric cars. The challenge in commercial transportation, when you&#146;re moving heavy loads, the batteries get very, very heavy and they take a long, long time to charge. And
+so we need some breakthrough in batteries if we&#146;re going to find a way to make those economic and practical for commercial transportation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And then in many industrial applications, the intensity of the energy that &#150; the temperature intensity needed is so high that the
+alternatives aren&#146;t available. So significant challenges to overcome in those three areas. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">But we&#146;re not giving up on that and
+neither is the rest of society. The point of this is we need some innovations. We need higher energy-density batteries. We need a lower cost in carbon capture to make it more practical and economic. We need a lower cost in producing hydrogen. We
+could use hydrogen in some of these temperature-intense industrial applications. And we need to look for less energy-intensive industrial processes. And that is the work that we have been focusing on. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And we&#146;ve got a very long history of that, 20 years of researching, developing and then commercializing
+<FONT STYLE="white-space:nowrap">low-carbon</FONT> technologies. This timeline gives you some sense of that. We&#146;ve been focused on carbon capture, efficient separations, new materials and biofuels. And if you&#146;ll look at the plans that we
+have through 2025, we&#146;ve got $3&nbsp;billion invested based on what we know today. So a lot of investments in these technologies and in deploying technologists to reduce our emission footprint, which is in part why you&#146;ve seen the progress
+that I&#146;ve showed you on the earlier chart. Leveraging that work along with our operating and engineering expertise and the fact that we know how to operate at scale, we have identified some significant opportunities going forward, particularly
+in carbon capture, where we have been the industry leader for decades. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">10 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So just some statistics to give you a sense for what we do in that space. We have
+9&nbsp;million tonnes of capture capacity available, more than anyone else in the world. If you look across the world, we are the number two in terms of CO2 pipelines and geological storage. If you&#146;ll look at the depth and breadth of our
+experience, it all plays to what is needed in carbon capture. We understand the subsurface. We know how to build big projects. We know how to operate them. Those all give us a competitive advantage in what could be a potentially fast-growing market.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We recognized this back sometime in 2018. We formed a carbon-capture venture to look at the opportunity to start commercializing some of
+the technology in carbon capture. That group found about <FONT STYLE="white-space:nowrap">20-plus</FONT> opportunities for CCS investments around the world, some of them here in the US, in the Gulf Coast, in the Midwest, in the Netherlands, in
+Singapore, Belgium, places all around the world. And that group had been advancing those opportunities based on the technology set but, I would tell you, up until very recently, a very limited recognition of the importance of carbon capture. In
+fact, I can tell you, some of the conversations I&#146;ve had, people said carbon capture won&#146;t play a role in the future. That has changed pretty dramatically here even in the last year. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So less than a year ago, I can tell you all the conversations I were having &#151; I was having. The litmus test for whether ExxonMobil was
+focused on addressing the risk of climate change and contributing to a lower-carbon future was whether or not we were investing in wind and solar. That was the criteria. And I tried my best to help people understand that while wind and solar will
+play a role, there are more important solutions that are needed and more important ways that ExxonMobil can contribute and leverage the scale and the capacity and capability we have to help solve problems that don&#146;t have solutions yet. And I
+will tell you that there is now this growing awareness of that need and an appreciation for the approach that we&#146;re taking. I don&#146;t know if some of you have seen the Bill Gates book that&#146;s out there, but I would say that that book has
+really helped broader audiences and constituencies start to think about this and understand that this is a hard problem to solve, and we&#146;ve got significant technology gaps. What Bill will tell you &#151; I can&#146;t remember if he has it in
+his book, but in conversations I&#146;ve had with him, he&#146;ll tell you the easy stuff&#146;s been done. Somebody needs to be working on the hard stuff. And I would tell you that&#146;s what our organization has been very focused on. Governments
+are starting to recognize the need for that. And importantly, the investment community is starting to recognize the need for that. There are a lot of investment dollars out there chasing opportunities to invest in reducing carbon. It&#146;s also
+creating a market opportunity. Let me talk a little bit about that. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The growing recognition by governments is leading to more policy
+support, which is going to be critical if this business is going to take &#151; get a foothold and start growing. If you&#146;ll look at the past five years, there&#146;s been more than 20 different new programs &#151; government programs supporting
+the deployment of carbon capture. And more than half of those have occurred in the last two years. Climate tech is venture capital that&#146;s going into technology to help solve the risk of climate change. That has been growing pretty rapidly.
+Unfortunately, they&#146;re not investing in the three sectors where we need the most help. <FONT STYLE="white-space:nowrap">Two-thirds</FONT> of the global emissions are receiving about 20&nbsp;percent of the investment in technology for reducing
+emissions. So there&#146;s an opportunity there to engage some of that capital in these <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">harder-to-decarbonize</FONT></FONT> sectors if you can bring a solution that people see as
+valuable. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">11 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And then, of course, you will all be familiar with and aware of the commitments that are
+being made around the world to 2050 net zero and the reductions of businesses&#146; emissions and their footprint, the carbon footprint. I&#146;ve talked to many of the CEOs who have made those commitments. I would tell you that many of them are
+looking for answers on how they&#146;re going to do it. And so there is a growing need &#151; and a lot of them will look for carbon offsets because many of them are in these
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">hard-to-decarbonize</FONT></FONT> sectors. And so they are looking for an offset they can buy to offset their emissions; and so there is a growing market for carbon offsets, a new
+market that&#146;s growing and one that could be quite valuable. And so from our standpoint, if we can bring the technology to bear, if we get the government policy in place, make the investments, reduce the carbon, generate an offset, we may be
+able to help solve some of these problems. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So that&#146;s a significant opportunity. The question is: How big could that market get?
+It&#146;s a tough question to answer since it&#146;s out into the future, but we use the IPCC&#146;s <FONT STYLE="white-space:nowrap">2-degree</FONT> scenarios and 2040 projections to try to provide a perspective of where that market could go and,
+importantly, how our business fits with those markets. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And you can see from this chart that we&#146;re pretty well-positioned to
+capitalize on these trends and to grow in the years to come. If you look at our existing markets, they&#146;re large. We&#146;re competitively positioned, which means there&#146;s a value opportunity that&#146;s going to remain onto that future. Oil
+and gas, as I said, has got about 48&nbsp;percent of the energy mix in 2040. So our upstream business is still going to have an important role to play in that future. Our fuels market is going to be a 6 trillion-dollar market. The chemical market is
+expected to be $4 trillion. Pretty big markets for us to continue to compete and win in. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If you look at some of the new markets, we have
+advantages in those as well. Hydrogen is an area that we&#146;ve been focusing on&#133;and, obviously, we use hydrogen today and understand that technology pretty well. Our technology organization is looking at new technology to produce hydrogen at
+a lower cost. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">That could be a 1 trillion-dollar market. CCS is expected to grow 35&nbsp;percent per year and potentially mitigate up to
+15&nbsp;percent of the world&#146;s emissions. That market could grow to $2 trillion. So big market opportunities in new areas that fit very well with our history and our expertise, the technology. And so that represents an opportunity and one of
+the reasons, the primary reason, why we launched the Low Carbon Solutions business, bringing the experience that we&#146;ve got, the technology that we&#146;re developing and the market opportunity together to plot a path for the future. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The objective of that group is emission reductions at scale, at industry-advantaged cost. So you know the old saying, &#147;Go big or go
+home?&#148; We want to go big here. We think there&#146;s an opportunity for us to bring a solution to society, and we think governments are in a position today to help do that and are motivated to make that happen. And we can do that at a lower
+cost to society and a lower cost to the alternatives available to them. We&#146;re going to leverage the expertise, our leadership in carbon &#151; <FONT STYLE="white-space:nowrap">low-carbon</FONT> technologies to create this value. We&#146;re
+going to focus initially on CCS, but I can tell you there&#146;s a pipeline being worked that could evolve into other technologies as those technologies mature. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We&#146;re going to work very closely with the administrations around the world. I can tell you, with the Biden administration, I&#146;ve
+already had a number of discussions with them around what we&#146;re thinking of doing in this space and how we might help but have been very clear we need legal and policy frameworks to support those investments, particularly for large-scale
+commercial opportunities. And the good news is they&#146;re interested in that and interested in continuing that conversation. So work to be done there, but I think very promising. We established that group on March 1st. We announced it in February.
+We&#146;re bringing that organization together, and we&#146;ve got Joe hammering away at working through a business plan. And we&#146;ll be talking more about that as we go forward, particularly given all the external interest in this space. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">12 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I see Joe&#146;s here in the audience today. So high expectations, Joe. Looking forward to the results. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Hey so maybe just let me wrap this up. Hopefully, I hope, that you&#146;ve got a sense today for the tremendous opportunities that we have as
+a company to grow value, both in the short, the medium and the long term. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And I would tell you that that value proposition and the work
+that has to be done to deliver that extends well beyond the careers of anybody in this company today. We won&#146;t work to see this work completed. We won&#146;t be in these jobs to see that completed; but it is a foundation that we will build for
+the future, just as people who came before that left the foundation and the legacy for us. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The good news is we&#146;re doing that while
+meeting the needs of communities all around the world, both today, in meeting this demand for energy and our chemical products, and into the future with a lower carbon solution set. We&#146;re providing growth and development opportunities for our
+people. We&#146;re delivering value to society, and we&#146;re generating returns for our shareholders. That&#146;s the magic equation. And we&#146;re leveraging our existing competitive advantages. This is not about going out and doing something
+brand new. This is about taking the stuff that we&#146;ve spent generations working on and developing competitive advantage and leveraging that to its full extent to solve new problems, something that we&#146;ve been doing for 135 years, tapping
+into the innovation and the technology that we do, finding the lowest-cost, highest-value solutions. These are not new work activities. It&#146;s established competencies and capabilities that we are pointing in a different direction based on where
+society demand is evolving to. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I hope, too, that you take pride in what we&#146;re doing together, collectively. As I said at the
+beginning, we are advancing growth and global prosperity. Despite all the challenges that are out there, we are doing good things for people all around the world. And I will tell you, in a lot of conversations I have behind closed doors, that is
+recognized. And the question is: What more can you do to help with this other problem? And my answer to that is: much, much more. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And
+finally, the last point I want to make &#151; and I hope that each of you know this &#151; is how essential all of you are to that success, to our success. It is our people, all of you, that is our most important competitive advantage. Your
+development and your success underpins everything that we&#146;re doing; and that is why we introduced &#145;We Are ExxonMobil,&#146; why we&#146;ve done the work on the performance assessment process, why we&#146;ve articulated our culture, our
+core values and expectations of leaders. Those are the foundations on which we&#146;re going to build a successful future. And while we introduced that framework last year and started that rollout, obviously it was challenged with conditions that we
+have. I hope that that framework helps some of you manage through the tough times and those very difficult decisions that we had to make difficult but necessary. And I hope that you understand why we had to make those decisions and how they
+strengthen the foundation of the company, not only now &#151; and made the company stronger &#151; but also strengthen the foundation for your future with our company. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">13 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Now, as we look forward, I am encouraged, both because of the sophistication and the
+discussion about how a lower-carbon future will manifest itself and the role that we could play. I&#146;m obviously encouraged in the short term here with some of the signs of the recovery while recognizing we&#146;ve still got a lot of challenges
+around the world. We&#146;ve got to stay very focused on the things that we know how to do to deliver that value, and we&#146;ve got to deliver on the commitments we&#146;ve all made as part of our corporate plans. At the end of the day, we have a
+great team of people. We have very good people. There is no debate of that. And my ask of you is to let&#146;s continue together to work hard on these problems. I have tremendous confidence in the capability of the organization and all of you that
+we can overcome the challenges and successfully meet the needs of society in a way that others cannot. We can do it in a way that brings value to our people, to our stakeholders and to the society. And like I said, I&#146;m very encouraged by what
+I&#146;m seeing in the discussions that we&#146;re having; and I&#146;m looking forward to a very, very bright future. So with that, thank you. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Karen,
+I&#146;ll turn it over to you, maybe answer some questions. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE</B>: Well, thank you, Darren. You know, a lot of messages, I know I&#146;ve
+heard before. And I listened to the Investor Day, but when you put it all together, it&#146;s really very inspiring. I really appreciate the time you&#146;ve taken for us. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I also want to thank all of you who submitted questions in advance. We actually received hundreds of questions; and, of course, we can&#146;t
+individually ask Darren to answer all of those or we&#146;d be here for quite some time. But what we have done is make sure that we have prioritized questions that are representative of the themes and categories that were most popular. Okay? </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So our process here is going to be&#133;we&#146;re going to take one of the <FONT STYLE="white-space:nowrap">pre-submitted</FONT> questions,
+and then we&#146;re going to take one from the room. And so for any of you who&#146;d like to ask a question in the room, there are two mics, one on each of the aisles here. So please feel free to step up and ask a question. You don&#146;t need to
+touch the mic. You just need to lean in and ask your question. Just maintain social distance and please do feel free, if you are wearing a mask, to take it off while you&#146;re asking your question. Okay? </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So let&#146;s start with one of the questions that was very popular amongst the Sli.do ones. There were quite a number of questions. This is
+rather a <FONT STYLE="white-space:nowrap">US-centric</FONT> question, Darren. But the question is&#133;As people see the price of oil as mostly recovered from last year&#146;s crash and you&#146;ve recognized the tremendous efforts the organization
+has put in to reduce our operating cost, how likely is it that our US payroll employees are going to see a reintroduction of the 401(k) match and/or broadly pay increases this year? </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>: Yeah, I think that&#146;s a really appropriate question; and, I think, let me just spend some time kind of putting some context in place
+before directly responding to those questions. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I&#146;d say, first of all, as you think about the environment that we came through and how we leaned on
+the balance sheet and grew down the balances in the balance sheet, we&#146;ve used the capacity that we have today to ride through the cycles. And so a very important priority and one that we balance between our investing in capital, paying the
+dividends and keeping the balance sheet for, we pulled heavy on the balance sheet; so we&#146;ve got to build that back up again. And I would tell you that that is the priority that we&#146;re working on, and so as we move forward, my expectation is
+that as &#151; if the price environment sustains itself, we&#146;ll go back to filling that balance sheet to make sure that we have the capacity to ride through. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">14 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Now, I recognize the pandemic was a very unusual year. It&#146;s something that the
+corporation has never lived through before. So my expectation is we won&#146;t see another one of those, I hope, in any of our careers. That would be my hope. And so building a capacity back up so that as we go forward we do not have to move our
+capital allocation program around significantly will be important. And it&#146;s likewise we&#146;ll restore the benefits programs that we had to reduce temporarily last year. We&#146;ll put that back in place. And that capital balance sheet will
+allow us to continue to go through that and try to stabilize that. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I think the changes that we made last year was a reflection of these
+very unusual times. And it was tough decisions because we recognized that every lever we pulled was going to have an impact on our people or our shareholders or our partners that we were doing business with and so a lot of debate and discussion
+around how best to balance these challenges. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And let me give you some perspective on how we chose to make the choices that we did, the
+logic that went behind it. I think first and foremost, we recognized that as we were going into the pandemic and prices were crashing and the revenue was drying up that people were going to be challenged in their personal lives. And I can tell you
+many companies at the time when this first happened started reducing pay. And I didn&#146;t want to do that because, you know, my sense of we don&#146;t have any idea what our employee base, what commitments and obligations they have; and the last
+thing I want to do when we&#146;re in a crisis situation is in any way mitigate their ability to meet their financial obligations in the short term, so really concentrate on avoiding a reduction of pay. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Similar philosophy with dividends, quite frankly. If you look at our investment base, a large, large portion, much more than most other
+companies, are individual retail owners who rely on our dividends as a source of income. And so as I thought about the dividend and what we would do in the dividend, to me it was a little bit like cutting somebody&#146;s pay who was relying on that
+revenue stream to meet their short-term financial obligations. And I was very sensitive to cutting off funding for people who would need that to meet short-term demand, if short term, and not put additional stress on them. And so this short-term
+horizon that I knew we were going to be challenged with going through the pandemic, we were very focused on trying not to exacerbate to short-term challenge for our employees or our shareholders. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If you look at the reductions that we were making in capital, we were basically lowering the longer-term value of the investment in ExxonMobil
+because we were deferring value of creative projects to further out in time. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">But we had very little choice. So the benefit of owning
+ExxonMobil stock was reduced simply because we had to take value of creative investment opportunities and defer them in time, and that deferral with time meant on a MTB basis, lower value. And so as we thought about that benefit that the ownership
+of our stock had &#151; you can think about the short-term price reduction and that they had in stock and my perspective on that was: don&#146;t sell your stock now. It would be a bad time to do that. But the longer-term value proposition was
+impacted by our deferral of capital. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And my view on a short-term pause in the match for the 401(k) was a similar deferral in capital and
+value. And so while not a <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">one-for-one</FONT></FONT> analogy, the idea was trying to strike a balance across these constituents to make sure that as we did these things there was some
+parity recognizing very different types of people and organizations. But that was the thinking that went behind that. My expectation is we&#146;ll bring that back. That was meant to be a temporary pause, and it will be a function of where we see the
+market going. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">15 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I might add that one of the decisions or criteria we looked at in making that decision to
+reduce it was how competitive was our benefits package in the base case and would that change make our long-term package uncompetitive versus competition, assuming they made no change. And I will tell you, given the value of that benefits package in
+the long term for retirement, even with that short-term pause, it was a competitive and advantage package versus our competition. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So I
+also knew in considering that that we weren&#146;t going to disadvantage ourselves for the long term. If this year continues where we see it, I would look to try to bring back that temporary pause later this year; but we need to let some time play
+out. We haven&#146;t had a quarter close yet since we lost money. I imagine &#151; I just want to remind everybody, you may be feeling good about what the stock price is right now or where the &#151; where the stock &#151; the crude price is, but we
+have not had a quarter where we&#146;ve made money. And as an old boss of mine in the UK used to say: One swallow does not make a summer. I think one quarter of positive earnings will not mean a successful year. So we&#146;ve got a little more work
+to do, but I would just tell you to rest assured that restoring those benefits is an important priority that we are focused on; and when we&#146;re confident we can do that and sustain it, we will. One final point to make. I know I&#146;m taking a
+long time with these questions, Karen. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE</B>: It&#146;s an important question. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>: But one other point I want to make with respect to pay. A little different in terms of raises and how we think about that. There is a
+process that we go through. Our objective is to make sure that we are paying fairly and competitively, and so our HR organization does a lot of work to understand where our pay is versus, <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">vis-a-vis,</FONT></FONT> the rest of the industry. You can imagine with the salary freeze that we put on, that&#146;s consistent with what the rest of industry is doing. As we go through the year, we&#146;re continuing to
+monitor, make sure that what we do remains competitive with the market environment that we&#146;re in and that people are treated fairly. And so my expectation is, as we go through that cycle, we&#146;ll see that manifest itself in the next pay
+cycle. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE</B>: Okay. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>:
+Okay? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE</B>: Thank you. That certainly answered the questions that I&#146;ve been hearing in the organization. As I don&#146;t see anybody
+stepping up to either of the mics at this point, let me ask a second question. Oh, we do have one. Thank you. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>EMPLOYEE</B>: Good morning, Darren. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>: Good morning. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>EMPLOYEE</B>: Thanks so
+much for sharing your perspectives with us this morning. I have a question. Within EMRE Specialized Engineering, we&#146;ve been talking a lot about psychological safety and the fear of having mistakes held against you when you take a risk. What are
+your thoughts on these themes; and furthermore, are you able to share with us, if you&#146;re comfortable, a mistake you made early on in your career and how that&#146;s helped you grow? Thank you. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">16 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>: Well, you&#146;ve touched on, I think, a really important concept, which is, you know,
+how do you balance risk and risk-taking, particularly in a business environment with respect to your own personal value proposition, so to speak. And I think one of the challenges that, when we roll the leadership framework out, is how do you
+incentivize people to take risks when it&#146;s easier to play it safe, maybe not get the results but then not risk the downside. And I think that&#146;s a really important balance in judgment that we&#146;re asking the organization to make with
+respect to business and commercial opportunities in driving the business forward. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I think it&#146;s much less relevant in what I would
+say is the safety and the manufacturing side of the equation because, you know, frankly there, we&#146;re not asking everybody to kind of make risk/reward tradeoff with respect to personal safety or process safety risk. I think, you know, what my
+philosophy has been in that space is, you know, there&#146;s hundreds and thousands of years of cumulative experience built into our procedures and processes. I always like to think that that collective wisdom is smarter than any one individual and
+so stick with what we know has worked. And so I think a different dynamic in the operating space. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">But the broader question around the
+psychological, you know, taking risk for the reward of the company and how do you balance those two, I think the way I would talk about it, first of all, what I would say is if you take a risk, commercial business risk the right way, understand the
+consequences of it and what the potential outcomes could be and weigh those off with a positive expected value and execute that and it manifest itself in value to the business, that that, in time, will be reflected in the personal &#151; in your
+personal circumstances. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And you asked me about my own experiences. I would tell you there&#146;s been nothing in this company that has
+not reinforced that concept and idea with me. And there have been a number &#151; a number of personal risks that I&#146;ve taken, not because I was looking to get ahead, because I felt like it was the right thing to do and that, at the end of the
+day, when you go home and you look in the mirror, you know, &#147;Did you do your best?&#148; And that&#146;s the &#151; you know, from my standpoint, that&#146;s the criteria I hold myself. &#147;Did I give it my all? Did I give it my best?&#148;
+To use my American football analogy, &#147;Did I leave it all out on the field?&#148; And if I do that, irrespective of the outcome, I can feel good about it because I couldn&#146;t do anything more than that. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And that mindset in pushing that risk equation, which &#151; and the second point, when you have a failure, you make mistake, to me, it&#146;s
+not the individual mistake you make. It&#146;s the accumulation of mistakes that&#146;s important. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">What do I mean by that? If you take 10
+risks, 9 of them work out really well and deliver high returns. And one of them works out not so well and delivers a low return. In aggregate you&#146;re ahead. That&#146;s how you get measured and judged. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And so for me personally, I would say that&#146;s been my experience within the company; and frankly, for the mistakes that I&#146;ve made,
+which I know they&#146;re out there &#151; we all make them &#151; they&#146;ve been an aggregate overwhelmed with the positive results. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And so I think that&#146;s the way to think about it. Don&#146;t dwell on the one mistake. Focus on the aggregation of the value that
+you&#146;re creating. Are you leaving the company better off? Are you contributing in a positive way? And recognize that not every decision you make will be right. Let&#146;s just make sure the one wrong one doesn&#146;t jeopardize the integrity of
+the business or our operations or our people. And I think it&#146;s a relatively easy formula, maybe hard to execute. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">17 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>EMPLOYEE</B>: Thank you. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>: You&#146;re welcome. Thank you. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN
+MCKEE</B>: Okay. So let me go back to the questions that were <FONT STYLE="white-space:nowrap">pre-submitted,</FONT> and we&#146;ve got a number of questions on CapEx, Darren. And so a specific question which was represented from the Global Projects
+Group was during the 4th Quarter earnings call, and there was a slide showed the transition from less flexible to more flexible CapEx, and it started to show that at about $46 a barrel. And of course Brent is now way up above that, nudging 60. How
+do we &#151; you know, how does that all play into where we stand on our paused and deferred projects? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>: So I think if you look at
+where &#151; the way of demonstrating or showing that capital in that <FONT STYLE="white-space:nowrap">46-dollar</FONT> break-even in that low &#151; was to demonstrate how robust those investments were in a variety of price environments going
+forward in the future. Because one of the questions and one of the concerns is, given the uncertainty that people have around where the future is heading, what the demand for oil and gas will be and therefore what the ultimate price will be, are the
+investments you&#146;re making today competitive in the long run so that if demand is lower than you might think, will you be comfortable with the investments that you made or will you regret them? And so one of the tests we like to make in those
+longer terms is that say, &#147;Well, under what price environment would I regret making this decision?&#148; And that&#146;s the basis for looking at those break-evens and demonstrating the value proposition of those projects in isolation and to
+give us confidence that we can make those investments today even with an uncertain future, keeping in mind the decline curve and how that plays itself out. So that&#146;s, you know, broadly the philosophy. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In the short term, our plans and all of our projects basically envision ramping those back up again with the recovery in the price
+environment. So if you look at the plans that we announced at the end of the board meeting in November, we had a capital plan this year of 16 to 19&nbsp;billion, and then going out to the out years, 20 to 25&nbsp;billion. And that reflected the
+resumption, the expectation that prices would improve at some point during the year, we&#146;d start to build the balance sheet back up, and that we&#146;d start to turn on some of those projects and ramp up some of the spending in the Permian. That
+was kind of the basis of the plan with a relatively modest price outlook, one that&#146;s certainly within the range of kind of the third parties that are out there. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">That&#146;s the plan that we&#146;re working on today, and that hasn&#146;t changed. And if prices in the short term are much higher than
+we&#146;d anticipate, as I said, that money will go back to funding the balance sheet and making sure that we&#146;re building up the reserve so that as we go forward in the future, we can keep on that path of those investments. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And if things happen to get worse, if prices drop off, we&#146;ve got the flexibility to come down. And that flexibility that we showed in the
+plan was really a result of engagement with outside shareholders that for some reason had in their mind this idea that once you talked about a capital plan that it&#146;s fixed in stone and you can&#146;t change it. And what we&#146;ve tried to is,
+one, remind everybody, &#147;Look at 2020 and the changes that we made in 2020,&#148; but more importantly going forward, we have the flexibility, particularly as you go out in time. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And so we tried to represent the decisions that still laid ahead of us that we could make that could impact that capital spend and represent
+that as flexible CapEx. And that was the intent of it. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">18 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The reality of it is we want to spend the capital based on the plan that we put out there
+because we view that as being the highest value <FONT STYLE="white-space:nowrap">go-forward</FONT> approach. And my expectation is we&#146;ll stick to that. But let me just quickly add, as Karen made at the very beginning, the environment is
+volatile, things change and we&#146;re going to continue to do the right thing and be smart about it. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE</B>: Okay. Seeing no questions in
+the room at this point, let me go on to one of the <FONT STYLE="white-space:nowrap">pre-submitted</FONT> questions. Another very popular area for questions, Darren, was on the Low Carbons Solutions business. And a specific question, which is near
+and dear to all our hearts, is how quickly to we expect it to become a profitable business? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>: Yeah. Joe, you want to answer that
+question? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>: So look, the point I want to try to make on that, this is &#151; first of all, I&#146;d say we announced that was
+something that the management committee had been working on and thinking about, you know, for quite some time. I would tell you that we announced that probably sooner than we normally would in terms of going public, primarily because as we talked
+with shareholders, they just didn&#146;t understand what we were trying to do in this space. And as much time as I spent talking about it and I think, you know, rightly so, as people were critical as to, &#147;Well, you know, show me. What is it
+that you&#146;re actually doing?&#148; And so we made the decision, you know, all this good work that we&#146;ve been doing and the history that we&#146;ve shown you and the basis for how we&#146;re thinking about working in the transition, we
+weren&#146;t doing a good job of helping people understand exactly how that would come together. And so we said, &#147;Let&#146;s go out and start talking about what we intend to do.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">My view would have been that we would have announced that when we had more concrete, you know, where we&#146;re at, what we think the numbers
+are going to be and so that we could talk about it in the way ExxonMobil likes to talk about its stuff, saying, &#147;Boom, boom, boom, here it all is.&#148; Instead, now, &#147;Here&#146;s the concept.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">But having said that, I think it&#146;s been advantageous because, as I pointed out, you&#146;ve got government policy that has to change.
+You&#146;ve got investment dollars you have to flow into this sector. And you&#146;ve got to basically generate the demand side of the equation or lock those in. And so all of those things are kind of coming together now, and it&#146;s very early in
+its evolution. And so the intent is to get in there now and start shaping and help inform that so that we can make sure that the value contribution that ExxonMobil can make in that space is recognized and that that evolution comprehends that value
+opportunity so that, again, society can make the right choices at the lowest cost. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And so the answer ultimately to that question of when
+is that going to manifest itself in profits or, you know &#151; it&#146;s kind of a question, &#147;Well, tell me how the rest of this stuff is going to come together?&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I can envision a scenario where the governments act fast and do the right thing, put the right policy in place, people sign on the line
+because they&#146;ve made commitments to the zero &#151; you know, net zero in 2050, and so they want to go buy that. I&#146;ve got investment dollars flowing and things can move <FONT STYLE="white-space:nowrap">&#147;kickadee-boo&#148;</FONT> and
+we can make that happen quickly. I can also envision a world where the politics continue to be bureaucratic, move around, trade things off, spend forever getting a policy in place and investment dollars want to stay with the sexy stuff and the
+mobility where all the money is flowing and that people decide to spend money on their net zero 2050 commitments ten years from now. That would be very much harder to make that business stand up. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">19 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And so, you know, those are two book ends you might think about and where exactly does this
+all, you know, fall out? It&#146;s really difficult to say right now. What I would tell you is we&#146;re committed to advancing that as quickly as possible and moving those vectors together to come up with a value proposition, one that&#146;s good
+for society and one that&#146;s good for our shareholders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">You know, the challenge that we have as a company is we can&#146;t focus just
+on one of those levers. We&#146;ve got to focus on those amongst others. And I think that&#146;s one of the challenges that often certainly isn&#146;t represented in the press and people don&#146;t often think about is we have a number of
+constituencies and stakeholders that we&#146;ve got to strike a balance between. We can&#146;t go out and spend other people&#146;s money for no benefit to them. We have to give that money back to them and let them make that choice. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And so that&#146;s the challenge that we give ourselves, and the point I wanted to make today as we talked about that is I actually think we
+have found a balance point there. We can do it all, but things have to kind of move in the right direction and the good news is they&#146;re evolving in that way. We&#146;re going to try to catalyze that reaction. Joe being from chemicals
+understands catalysts and chemical reactions; so Joe is the catalyst in this thing. His organization is the catalyst. I tried to put it in terms that you&#146;d understand, Joe. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE</B>: There you go. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>: Anyway,
+a little chemical humor there. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE</B>: Very good. I&#146;ll try not to react. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>: Yeah. Well, a laugh would be all right, Karen. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE</B>: Okay. Another question that was popular is in the area of structural reductions in costs. So clearly you&#146;ve articulated that we
+achieved $3&nbsp;billion of structural reductions in 2020 with an ambition for another $3&nbsp;billion of reductions by 2023. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So the
+question on minds of some of our employees is, &#147;Where is that additional $3&nbsp;billion in structural reduction coming from, and will it manifest in more workforce reductions?&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS</B>: Yeah. Well, I want to start by making sure, you know, one of the disadvantages of some of the work that we were doing in 2020 was the
+overlap with the external environment and the pandemic. And what I would say is &#151; and understandably so, the organization&#146;s conflation, you know, bringing together the two independent activities and kind of thinking about them as one. And
+what I would tell you is the reductions that we made in expense, while very helpful with respect to our response to the pandemic, was independent of that. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We recognized, going back in time into the strategy work that each of the organizations did, that we had lost competitive footing and that we
+had to more effectively run the business to effectively compete in the sectors that we are in. And we did the strategy work and led to some significant reorganizations that you&#146;re all familiar with, the downstream, the value change and then the
+significant changes that we completed in 2019 with the new organization. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">20 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And that organizational construct was really driven by the strategy of how do we go out and
+effectively compete and bring value to the bottom line and to our shareholders and make sure that we have a future and a successful one as a foundation for all of you and for our shareholders going forward. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">That was the work that led to the recognition that we need to think hard about the business and how we compete and the work around identifying
+inefficiencies and unneeded work activities and processes that we could eliminate. That was the work. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And you may recall in 2020 there
+were a lot of companies that came out and announced big reduction plans, and I didn&#146;t do that because we weren&#146;t making a reduction based on being in the coronavirus world. We were doing the work&#133;each company was doing the work to
+figure out how do they successfully compete? And that was the point I made. The organizations are going to figure out what they need to successfully run their businesses. And to the extent they conclude that they are right size and there&#146;s no
+work to be&#133;no cuts to be made or to the extent that they don&#146;t and there&#146;s not, then we&#146;re going to progress those things. As hard and as difficult as it is, it&#146;s what management&#146;s job is, to make sure that we build a
+successful company with a foundation that supports growth and a secure base of employment for all of us who remain to go get this work done. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So those &#151; it was a separate activity that manifested itself during the coronavirus, and I was keen to make sure that, one, we came up
+with the right answer and, two, that we try to bring it all together and do it once so that we don&#146;t keep drib and drabbling these things out. That was a very important part of the criteria. So we tried. We took the time it took, which I know
+for many people was frustrating because they saw all this happening and kept wondering, &#147;Are you guys&#133;what are you going to do?&#148; and we were working it. But make sure we get to the right answer, and then we go to execute it. And
+that&#146;s what we&#146;ve done, and that&#146;s the process that we&#146;re in now and the reductions in terms of our expenses associated with that, if you think about it, didn&#146;t really manifest itself in 2020 because we kind of started at
+the back end of the year and executed very back into the year and then into this year, that will manifest itself more this year and going forward. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And so the largest part of those reductions that we&#146;ve talked about going forward in 2023 will come from the actions that we&#146;ve
+already taken, along with the other efficiency work that the organizations were driving with respect to their new organizations. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So we
+don&#146;t have another major redundancy plan &#151; in the plan &#151; program in the plan. It&#146;s not part of the plan today. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Having
+said that, what I would tell you is the organizations are challenged to make sure that you&#146;re leveraging and taking advantage of the new organization, your line of sight to competition, your line of sight to the market and your consumers and
+making sure that we are the most effectively positioned to go out there and compete and win because of the uncertainties in the future, and you all want us to do that. If you come back and you doubt the views that I&#146;ve laid out there or
+you&#146;re concerned about them, the best response to that is to become a more effective competitor. Because no matter what level of oil and demand or chemicals products that are needed or fuels products that are needed or fuels product that are
+needed out there, no matter what level that is, if you were the lowest cost, most efficient, most reliable, safest supplier, you&#146;re going to generate a return. Guarantee that. And we need to do that to fund the work for the <FONT
+STYLE="white-space:nowrap">go-forward</FONT> stuff. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">21 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So it all comes together. There&#146;s a very separate program. And I would tell you that
+what we&#146;ve got in the plans today is you&#146;ve seen the impact of that and they&#146;re your plans. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE:</B> Well, our time has flown
+by together. We have time for one last question; and the next most popular theme amongst the <FONT STYLE="white-space:nowrap">pre-submitted</FONT> questions was regarding the proxy contest with Engine 1. So it&#146;s a nice one for you to end on.
+&#147;Can you please explain why shareholders should vote the blue proxy in line with the Board&#146;s recommendation?&#148; It wasn&#146;t planned; but this was the last question, just to be clear. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS:</B> Yeah. Well, let me &#151; again, I think context is really important because I know that most of you, rightfully so, don&#146;t get
+involved in what we&#146;re doing at a board and how this all works. Let me share a little bit of perspective with you. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">I engage with
+shareholders routinely and meet with them throughout the year, talk about our business, where we&#146;re going. They express their concerns, views and ideas and, believe it or not, listen to that and respond to it. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So if you just step back and look at the directors that I&#146;ve added to the board since I&#146;ve been in this job, starting with Susan
+Avery a climate scientist, Jay Hooley a finance person, Steve Kandarian a risk manager person, Wan Zulkiflee which was somebody from the industry which we&#146;ve been working for a long, long time, those capabilities and the criteria of those
+investments were a function of the feedback that we were getting from our shareholders and what they were looking for in terms of making sure the board had the right competencies and capabilities to oversee and to judge and to engage in and steer
+the management team. And so that&#146;s been an ongoing process that&#146;s been happening. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We had two activist shareholders come in in
+December after we had formulated the plan and announce that. One of them that we &#151; I engaged with &#151; I met with both of them and talked to them. One of them that I engaged with was very focused on creating value for our &#151; for the
+company. How do you create value and recognition of the transition and where the future might go? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And what I explained to those folks is
+every point that they made around what they think is important in the value proposition, I agreed with them on. I absolutely agreed with that&#146;s what we need to do. And the point I made to them was, &#147;And we&#146;ve done that as part of our
+plan,&#148; which you don&#146;t know about because we haven&#146;t released it yet. And I can&#146;t tell you what it is because of fair disclosure rules. I can only tell you something that&#146;s unique when I tell everybody. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">And so the discussion that we had with one of the activists was &#147;Wait for it, and let&#146;s talk about what we do.&#148; And we had
+already built a plan that says, &#147;We&#146;re going to stop on investor day having the big reveal and start spending more time talking about what we&#146;re doing on a more frequent basis.&#148; And so we had &#151; we issued a press release
+after the board approved the plan. We had a plan for talking about our plan in the fourth quarter earnings call, which I did, and then we were going to build upon that with the analyst day, the investor day. We had also had a couple of spotlights
+planned that we actually pulled down, but the intent is to start more frequent communications for people to explain that. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So when we
+&#151; when all that came to being and we laid all that stuff out, one of the activist investors, D.E. Shaw, saw that and believed that that was in line with what they were looking for and so were very complimentary of the work that we had done and
+then shared with the rest of the investment community. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">22 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The other activist, which is the one that we&#146;re in a proxy fight with, didn&#146;t want
+to talk to us about what their value proposition was. And when I tried to engage them, &#147;Well, what are the capabilities or the capacities that we&#146;re looking for that you think we need on the board that we don&#146;t have?&#148; they
+weren&#146;t willing to have that conversation with me. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The view was, we picked the directors. You need to go into wind and solar. We
+don&#146;t need to have a conversation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">That&#146;s difficult to respond to. And so difficult to have a conversation and find that path,
+and frankly, as we&#146;ve talked about before, you know, wind and solar is going to play a role and we could go into wind and solar. That is open to us. The question is, &#147;To what value are we helping to advance a needed solution that society
+needs? Are we bringing a unique capability to that space and creating value? Are we building competitive advantage so that we are well positioned going into the future and have a secure business. Hard for us to find an answer with existing wind and
+solar businesses. That doesn&#146;t mean we don&#146;t have a role to play. It just means it&#146;s a different one. And I think that&#146;s where &#151; and I would tell you, since we&#146;ve been out and talking about this with some of these
+broader recognition than I mentioned, a lot of receptivity to that. People get it, instantly recognize that makes sense. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The one
+characterization I would tell you I hear time and time again is when I go out and lay out what we&#146;re doing here is, &#147;That makes a lot of sense, and you guys are uniquely positioned to do it.&#148; And the market could be huge. That&#146;s
+why we&#146;re doing it. That&#146;s why we think it makes sense. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Still a lot of unknowns, but I think the right first step and
+we&#146;ll see how &#151; see how it pans out. But as I said in the presentation, the good news is it draws on our strengths. It draws on our known capabilities. It focuses on significant solutions and gaps that are needed to be filled. Generally
+markets where there&#146;s a gap that needs to be filled, there&#146;s value that comes along with it. Our job is to figure out how to unlock that while advancing this ambition of a lower carbon future. I think it&#146;s a good proposition and one
+that I&#146;m excited to pursue while continuing to meet the short-term needs of society with our current product. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE:</B> Okay. Well, thank
+you, Darren. Our time has really run short and that&#146;s all the time we have and we&#146;ll address the remaining questions via regular business-line communications and forums. And we will post a recording of this forum via the EMformation app
+and Inside ExxonMobil. We will have a little bit of a delay doing that because due to SEC guidelines during the proxy solicitation, we have to submit a recording of the forum and the transcript with the SEC and therefore we appreciate your patience
+if there&#146;s a delay as we get that information to the broader global organization. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Just a couple of housekeeping things before I hand
+it back to Darren. Firstly, you will receive a survey on this forum. We really appreciate your feedback on that. And secondly, please stay in your seats, if you&#146;re in the room here, until you &#151; you&#146;ve received guidance from the
+E&amp;PS organization team so that we maintain social distance as we leave the room. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So with that, Darren, any closing comments before we
+conclude the forum? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>DARREN WOODS:</B> Yeah, no new messages, but maybe reiterating one of the most important ones which is, again, your role and the
+work that you do in driving the success of this company. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">23 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Just, I want to reassure you that the management committee and really all the VPs and the presidents, the
+whole corporate leadership team over the course of the year knew that we were taking some very tough decisions and ones that had impacts on people&#146;s lives and we knew we were doing it at a time when a lot of outside challenges were facing many
+of you and still do today. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So they were tough decisions and ones that we spent a lot of time thinking hard over and challenging
+ourselves, but we also knew that we had to keep an eye on the future and make sure that we were continuing to lay a foundation for success because at the end of this, when we got through these very, very difficult times, that people were going to
+need to have a successful company and a career that they could count on and one that they were proud to work for. And that was a huge underlying driver in our thinking, and that is the motivation and the way we try to context and make the decisions
+that we made. And I&#146;ll be the first to say we don&#146;t get them all right, that was certainly the intent and we worked hard to do that with all of you always in our minds and trying to understand the potential implications for the whole,
+recognizing that, you know, the few might be impacted, but how do we make sure that we&#146;re addressing the needs of the whole. And so that was our intent. You can judge how well we did with that, but I want to end by reiterating my thanks for the
+hard work and your commitment for a really delivering, outstanding result in a very challenging year, and based on that performance, I am absolutely convinced that if we maintain that momentum, that this year will be a very, very successful year.
+We&#146;ll recover from the challenges of last year and we&#146;ll get on that growth path of success going forward. And that will all be something that you take pride in. And I think with time people will look to ExxonMobil as not only an oil and
+gas company, but a company that is really solving the hard problems of the world and helping society transition to a much lower carbon future. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">So thanks for your time, thanks for coming today and more &#151; thanks for all your hard work. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>KAREN MCKEE:</B> Thanks, Darren. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">24 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Important Additional Information Regarding Proxy Solicitation </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exxon Mobil Corporation (&#147;ExxonMobil&#148;) has filed a definitive proxy statement and form of associated BLUE proxy card with the U.S. Securities and
+Exchange Commission (the &#147;SEC&#148;) in connection with the solicitation of proxies for ExxonMobil&#146;s 2021 Annual Meeting (the &#147;Proxy Statement&#148;). ExxonMobil, its directors and certain of its executive officers will be
+participants in the solicitation of proxies from shareholders in respect of the 2021 Annual Meeting. Information regarding the names of ExxonMobil&#146;s directors and executive officers and their respective interests in ExxonMobil by security
+holdings or otherwise is set forth in the Proxy Statement. To the extent holdings of such participants in ExxonMobil&#146;s securities are not reported, or have changed since the amounts described, in the Proxy Statement, such changes have been
+reflected on Initial Statements of Beneficial Ownership on Form 3 or Statements of Change in Ownership on Form 4 filed with the SEC. Details concerning the nominees of ExxonMobil&#146;s Board of Directors for election at the 2021 Annual Meeting are
+included in the Proxy Statement. BEFORE MAKING ANY VOTING DECISION, INVESTORS AND SHAREHOLDERS OF THE COMPANY ARE URGED TO READ ALL RELEVANT DOCUMENTS FILED WITH OR FURNISHED TO THE SEC, INCLUDING THE COMPANY&#146;S DEFINITIVE PROXY STATEMENT AND
+ANY SUPPLEMENTS THERETO AND ACCOMPANYING BLUE PROXY CARD, BECAUSE THEY CONTAIN IMPORTANT INFORMATION. Investors and shareholders can obtain a copy of the Proxy Statement and other relevant documents filed by ExxonMobil free of charge from the
+SEC&#146;s website, www.sec.gov. ExxonMobil&#146;s shareholders can also obtain, without charge, a copy of the Proxy Statement and other relevant filed documents by directing a request by mail to ExxonMobil Shareholder Services at 5959 Las Colinas
+Boulevard, Irving, Texas, 75039-2298 or at shareholderrelations@exxonmobil.com or from the investor relations section of ExxonMobil&#146;s website, www.exxonmobil.com/investor. </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

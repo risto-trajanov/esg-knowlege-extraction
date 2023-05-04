@@ -1,0 +1,106 @@
+{
+  "docid": "Custom7",
+  "title": "Chevron's approach to the energy transition",
+  "uri": "Custom8",
+  "text": "The report outlines Chevron’s approach to the energy transition, including testing the resiliency of Chevron’s portfolio against the International Energy Agency’s Sustainable Development Scenario (“SDS”) and Net Zero Scenario.",
+  "entities": [
+    {
+      "uri": "Q156279",
+      "boundaries": [
+        24,
+        31
+      ],
+      "surfaceform": "Chevron",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Q1078059",
+      "boundaries": [
+        54,
+        87
+      ],
+      "surfaceform": "International Energy Agency’s Sustainable Development Scenario",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Custom9",
+      "boundaries": [
+        92,
+        105
+      ],
+      "surfaceform": "SDS",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Custom10",
+      "boundaries": [
+        120,
+        132
+      ],
+      "surfaceform": "Net Zero Scenario",
+      "annotator": "Me"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q156279",
+        "boundaries": [
+          24,
+          31
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P127",
+        "boundaries": null,
+        "surfaceform": "outlines",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom11",
+        "boundaries": [
+          33,
+          50
+        ],
+        "surfaceform": "Chevron’s approach",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    },
+    {
+      "subject": {
+        "uri": "Custom11",
+        "boundaries": [
+          33,
+          50
+        ],
+        "surfaceform": "Chevron’s approach",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P710",
+        "boundaries": null,
+        "surfaceform": "to",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "object": {
+        "uri": "Custom12",
+        "boundaries": [
+          54,
+          116
+        ],
+        "surfaceform": "the energy transition, including testing the resiliency of Chevron’s portfolio against the International Energy Agency’s Sustainable Development Scenario (“SDS”) and Net Zero Scenario",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    }
+  ]
+}

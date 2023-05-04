@@ -1,0 +1,49 @@
+{
+  "docid": "30115004",
+  "title": "Global action on climate change",
+  "uri": "Custom7",
+  "text": "This more aggressive global action to curtail climate change is consistent with a 1.5°C temperature increase globally.",
+  "entities": [
+    {
+      "uri": "1.5",
+      "boundaries": [
+        81,
+        84
+      ],
+      "surfaceform": "1.5°C",
+      "annotator": "Me"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Custom7",
+        "boundaries": [
+          0,
+          69
+        ],
+        "surfaceform": "This more aggressive global action to curtail climate change",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P444",
+        "boundaries": null,
+        "surfaceform": "consistent with",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "object": {
+        "uri": "1.5",
+        "boundaries": [
+          81,
+          84
+        ],
+        "surfaceform": "1.5°C",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    }
+  ]
+}

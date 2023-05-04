@@ -1,0 +1,641 @@
+<SEC-DOCUMENT>0001193125-21-095655.txt : 20210326
+<SEC-HEADER>0001193125-21-095655.hdr.sgml : 20210326
+<ACCEPTANCE-DATETIME>20210326102251
+ACCESSION NUMBER:		0001193125-21-095655
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20210326
+DATE AS OF CHANGE:		20210326
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		21775378
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9729406000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d103897ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the
+Registrant&nbsp;&nbsp;&#9746; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Filed by a Party other than the
+Registrant&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>Confidential, for Use of the Commission Only (as permitted by Rule <FONT STYLE="white-space:nowrap">14a-6(e)(2))</FONT></B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Soliciting Material Pursuant to <FONT STYLE="white-space:nowrap">&#167;240.14a-12</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>E<SMALL>XXON</SMALL> M<SMALL>OBIL</SMALL> C<SMALL>ORPORATION</SMALL> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified In Its Charter) </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules <FONT STYLE="white-space:nowrap">14a-6(i)(4)</FONT> and <FONT STYLE="white-space:nowrap">0-11.</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Title of each class of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Aggregate number of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11</FONT>
+(set forth the amount on which the filing fee is calculated and state how it was determined):</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Proposed maximum aggregate value of transaction:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Total fee paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Fee paid previously with preliminary materials.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11(a)(2)</FONT> and identify the filing for which the offsetting fee was paid previously. Identify the
+previous filing by registration statement number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Amount Previously Paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Form, Schedule or Registration Statement No.:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filing Party:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date Filed:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>The following communication will appear in the Energy Factor Asia Pacific </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>ASIA PACIFIC ENERGY FACTOR ARTICLE: MAKING GREENER STEEL FOR HOMES OF THE FUTURE </B></P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g103897g81h09.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">India is becoming a powerhouse in Asia, but how can this powerhouse meet its growing population&#146;s housing needs while
+managing its carbon footprint? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A recent Asia Power Index, which ranks 26 countries by cultural, economic and military power across the region, placed
+India as the fourth most powerful nation in the region, after China, the US and Japan. <SUP STYLE="font-size:85%; vertical-align:top">1</SUP> It also forecast that India will reach 40&nbsp;per cent of China&#146;s economic output by 2030.<SUP
+STYLE="font-size:85%; vertical-align:top">2</SUP> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Along with economic power, India&#146;s population is slated to grow by a quarter, from
+1.21&nbsp;billion in 2011 to about 1.52&nbsp;billion by 2036. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">According to India&#146;s Ministry of Health and Family Welfare, about 70% of this growth
+will be in urban areas, with the country&#146;s urban population increasing from 377&nbsp;million in 2011 to 594&nbsp;million in 2036. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">To meet this
+growing urban population, the country will need at least 25&nbsp;million new affordable houses by 2030.<SUP STYLE="font-size:85%; vertical-align:top">3</SUP> And to build these new houses, India needs millions of tonnes of steel. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">India&#146;s steel demand, in part to support this massive housing need, is likely to quadruple over the next 30 years to almost 450&nbsp;million tonnes.<SUP
+STYLE="font-size:85%; vertical-align:top">4</SUP> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">But steel-making is also the largest industrial source of carbon emissions in India, contributing to
+high air pollution levels.<SUP STYLE="font-size:85%; vertical-align:top">5</SUP> Additionally, India&#146;s iron and steel sector has the highest emissions footprint per unit of production
+globally.<SUP STYLE="font-size:85%; vertical-align:top">6</SUP> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If the steel industry stays on its current trajectory, its carbon emissions are expected
+to leap from about 242&nbsp;million tonnes to almost 837&nbsp;million tonnes by 2050.<SUP STYLE="font-size:85%; vertical-align:top">7</SUP> This can slow India down in meeting its <FONT STYLE="white-space:nowrap">air-quality</FONT> goals and
+challenge its cleaner-growth aspirations. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">1</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">https://power.lowyinstitute.org/countries/india/ </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">2</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">https://theprint.in/world/who-wields-most-power-in-asia-us-tops-lowy-index-but-china-is-catching-up-india-ranks-4th/526428/</FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT>
+</FONT></FONT> </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">3</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">https://realty.economictimes.indiatimes.com/news/residential/india-needs-additional-25-million-affordable-houses-by-2030-report/70450083</FONT></FONT></FONT></FONT> </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">4</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">https://energy.economictimes.indiatimes.com/news/coal/carbon-emissions-by-indias-steel-sector-to-triple-by-2050/73928760</FONT></FONT></FONT></FONT></FONT></FONT>
+</P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">5</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">https://www.iea-coal.org/carbon-emissions-by-indias-steel-sector-to-triple-by-2050/</FONT></FONT></FONT></FONT></FONT></FONT>
+</FONT> </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">6</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">CEEW&#151;Sustainable manufacturing in a <FONT STYLE="white-space:nowrap">low-carbon</FONT> economy 24Sep19.pdf
+</P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">7</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">https://energy.economictimes.indiatimes.com/news/coal/carbon-emissions-by-indias-steel-sector-to-triple-by-2050/73928760</FONT></FONT></FONT></FONT></FONT></FONT>
+</P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Natural gas can help change this story. By changing the way steel is made, India can slash its projected
+emissions levels without reducing its steel output. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Steel-production methods in India primarily rely on coal to reduce the iron ore to metallic iron.
+However, steel can also be made using natural gas instead. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><FONT STYLE="white-space:nowrap">Gas-based</FONT> steel-making is energy-efficient: it
+generates only <FONT STYLE="white-space:nowrap">one-third</FONT> of the carbon emissions as coal while producing the same amount of strong steel with significantly lesser impact on the air. It takes only 200 kilograms of gas&#151;as opposed to about
+770 kilograms of coal&#151;to make a tonne of steel.<SUP STYLE="font-size:85%; vertical-align:top">8</SUP> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Given the growing need to manage carbon
+emissions, new installations in the world tend to rely on natural gas for steel-making. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">India is expanding its pipeline infrastructure to connect
+industries, power and transportation sectors with natural gas. In areas yet to be connected with physical pipelines, innovative solutions such as virtual gas pipelines<SUP STYLE="font-size:85%; vertical-align:top">9</SUP> can help connect the steel
+industry with more gas to make greener steel.<SUP STYLE="font-size:85%; vertical-align:top">10</SUP> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Natural gas is one of the future fuels that can help
+India achieve cleaner growth and reduce air pollution as it builds new homes and infrastructure for its growing cities. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Newsletter copy
+</U></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">India will need more than 25&nbsp;million new houses by 2030, and millions of tonnes of steel to build them. So how can it make greener steel to
+meet its housing demand? </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Facebook </U></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Copy:
+</B>As India&#146;s population grows, so does the demand for steel for housing. But is there a greener way to meet this demand? </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Link Headline:</B>
+Making greener steel </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>CTA:</B> Learn More </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Twitter
+</U></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Copy</B>: As India&#146;s population grows, so does the demand for steel for housing. But is there a greener way to meet this demand? </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Link Headline:</B> Making greener steel </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>LinkedIn
+</U></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Copy: </B>As India&#146;s population grows, so does the demand for steel for housing. But is there a greener way to meet this demand? </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Link Headline: </B>Reducing steel emissions </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">8</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+<P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><FONT STYLE="white-space:nowrap">https://www.worldcoal.org/coal/uses-coal/how-steel-produced#:~:text=Around%200.6%20tonnes%20(600%20kg,produced%20in%20Electric%20Arc%20Furnaces
+</FONT> and slides provided by Shikha Dimri. </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">9</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">https://energyfactor.exxonmobil.asia/news/pipeline-gas-connecting-indians-to-a-better-life/</FONT></FONT></FONT></FONT></FONT> </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">10</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left"><FONT STYLE="white-space:nowrap">https://energyfactor.exxonmobil.asia/news/virtual-pipeline-real-gas/</FONT>
+</P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Important Additional Information Regarding Proxy Solicitation </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exxon Mobil Corporation (&#147;ExxonMobil&#148;) has filed a definitive proxy statement and form of associated BLUE proxy card with the U.S. Securities and
+Exchange Commission (the &#147;SEC&#148;) in connection with the solicitation of proxies for ExxonMobil&#146;s 2021 Annual Meeting (the &#147;Proxy Statement&#148;). ExxonMobil, its directors and certain of its executive officers will be
+participants in the solicitation of proxies from shareholders in respect of the 2021 Annual Meeting. Information regarding the names of ExxonMobil&#146;s directors and executive officers and their respective interests in ExxonMobil by security
+holdings or otherwise is set forth in the Proxy Statement. To the extent holdings of such participants in ExxonMobil&#146;s securities are not reported, or have changed since the amounts described, in the Proxy Statement, such changes have been
+reflected on Initial Statements of Beneficial Ownership on Form 3 or Statements of Change in Ownership on Form 4 filed with the SEC. Details concerning the nominees of ExxonMobil&#146;s Board of Directors for election at the 2021 Annual Meeting are
+included in the Proxy Statement. BEFORE MAKING ANY VOTING DECISION, INVESTORS AND SHAREHOLDERS OF THE COMPANY ARE URGED TO READ ALL RELEVANT DOCUMENTS FILED WITH OR FURNISHED TO THE SEC, INCLUDING THE COMPANY&#146;S DEFINITIVE PROXY STATEMENT AND
+ANY SUPPLEMENTS THERETO AND ACCOMPANYING BLUE PROXY CARD, BECAUSE THEY CONTAIN IMPORTANT INFORMATION. Investors and shareholders can obtain a copy of the Proxy Statement and other relevant documents filed by ExxonMobil free of charge from the
+SEC&#146;s website, www.sec.gov. ExxonMobil&#146;s shareholders can also obtain, without charge, a copy of the Proxy Statement and other relevant filed documents by directing a request by mail to ExxonMobil Shareholder Services at 5959 Las Colinas
+Boulevard, Irving, Texas, 75039-2298 or at shareholderrelations@exxonmobil.com or from the investor relations section of ExxonMobil&#146;s website, www.exxonmobil.com/investor. </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g103897g81h09.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g103897g81h09.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( +4!+P,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /1O&?C/4O#NL0V=G!;/&\ D)E5B<EF'9AZ"LIS<79'51HQJ
+M1NSGA\4-<_Y];#_OV_\ \56?M6;_ %6'=BCXGZV?^76Q_P"_;_\ Q5'M9!]5
+MAW8X?$W6_P#GUL?^_;__ !5'M6'U6'=BCXF:W_SZV/\ W[?_ .*H]K(/JL.[
+M'#XE:T?^76R_[X?_ .*H]M(/JL.['_\ "R-9_P"?:R_[X?\ ^*H]M(7U6'=A
+M_P +(UG_ )]K+_OA_P#XJE[:0?58=V*/B1K'_/M9?]\/_P#%4_;2#ZK#NP_X
+M6/K'_/M9?]\/_P#%4O;2#ZK#NQ?^%C:Q_P ^UE_WP_\ \51[:0?58=V'_"QM
+M8_Y]K+_OA_\ XJCVTA_58=V-_P"%CZS_ ,^UE_WP_P#\52]M(/JL.[$_X63K
+M(_Y=;+_OA_\ XJCVT@^JP[L3_A96LC_EVLO^^'_^*H]M(/JL.[&GXF:R/^7:
+MR_[X?_XJCVTA_5(=V)_PLW6O^?6Q_P"^'_\ BJ/;R#ZI#NQI^)^M#_EUL?\
+MOV__ ,51[:0?5(=V-_X6AK?_ #ZV/_?M_P#XJCVT@^J0[L/^%H:YVM;'_OV_
+M_P 51[>0?5(=V(?BCK@_Y=+#_OV__P 51[>0?5(=V,/Q3UP?\NMA_P!^W_\
+MBJ/;R#ZI#NQO_"U=='_+I8?]^W_^+H]O(7U6'=C3\5]>_P"?33_^_;__ !='
+MMY!]5AW8G_"V->'_ "Z:?_W[?_XNCVT@^JP[L:?BUK__ #YZ?_W[?_XNG[:0
+MOJL/,0_%O7Q_RYZ?_P!^W_\ BZ/;2#ZM#S&GXN^(!_RYZ=_W[?\ ^+H]M(7U
+M:'=C3\7O$ _Y<]._[]O_ /%T>VD'U: G_"W_ !!_SYZ=_P!^W_\ BZ/;2%]6
+M@)_PN#Q#_P ^>G?]^Y/_ (NCVS#ZM$3_ (7#XB_Y\]-_[]R?_%T>V8?5HB?\
+M+B\1?\^6F_\ ?N3_ .+H]LQ_5HB?\+B\1#_ERTW_ +]2?_%T>V8OJT1#\9/$
+M0_Y<M-_[]2?_ !='MF'U: W_ (7+XB'_ "Y:;_WZD_\ BZ?MI!]7B-/QG\1C
+MI9:9_P!^I/\ XNCVS#ZO$[?X;>-M3\8'5!J,%K%]D\K9Y",N=V_.<L?[HK6$
+MN8YZM-0M8Q?B<N?$MM_UZ+_Z&]95?B.K"_ _4XL)69U7'B.@+DBI2"X\1T"N
+M+LQ0(,8H 7% "8H *0Q0<46"XX&D,,4 (5H C9<4AD9HL,81S0 PT[ -YI (
+M>* &FD PB@!A6@0TK0 TK0 W;0(:5H 84HN*PGET7"PW91<+"%*+A8:4HN%A
+MI6D TK3N%AA6BXAA6G<5AI6G<+'K'P07:=>_[8?^U*Z*/4X\3T+OQ'B+^(;<
+M@?\ +JO_ *$U%7XC3#? <@(".U9'1<>(#Z4!<>(<4!<=Y-( \DT -,1H C*$
+M4 )BF ;:0";<4 )TH'< V*+!<=NXI#&F@9&0*!C"* &$4 -Q2 :12 :10 TK
+M0 W%(!I6@!-M #=M(!-M #=E*X";*+CL-*T7 :5H$-*T -*4!885HN%AA6@5
+MAA7%.XAI6G<#U;X)C']N_P#;#_VI730ZG%BNAK>/$#:Y ?\ IW7_ -":G5W*
+MP_P',"(>E9'0+Y/M1<+"^3BD.PHB% 6%\JD/E&F'VHN'*,-N*=PLQC6WI1<5
+MB)K<CM3$,,1':@"-H_:@")E(H&,Y% 7$R12"X9H*N% 7&E12'<;MH :5I -*
+MT )MI#&E: $VT )LI (4I#$V>U(!-E QI2D A2@!I2@!I7%(!A2F PH:!6(S
+M'1<+#"E,+#"E CU3X+C']N?]L/\ VI75A^IPXOH;'C=<ZU"?^G<?^A-55?B*
+MPWP'.*F>E8['2E<>%I%V%"BD.R%\NBX6$\O%%PL+MI#L(4]10%AAC]*=R7$;
+ML]J!6 PJ>U%PY41M:@CBGS!R%62U([4[D-6*[0D=J8B%HZ8#"A%*P!M- Q-M
+M(!-M [B;:0";:!W$*4AC2M(!-M P*T -V4##;2 3;BE88TK18!"M(!I6BP#"
+ME(8TI2 :5H 85]J (RAIB(VC- K'J'P;7:=;_P"V/_M2NO#=3AQ?0U_&W_(:
+MA_Z]Q_Z$U55W##? <ZN0:Q:.I.P_//%*Q5Q0<46'<<,#O2L4F/ 4U.J+5A?+
+MXI7'RB>611<.6P;*5Q\HABQ3N)Q&%!ZT[DV#;2&AKQDCBA,4HE.6(CM6J,&K
+M%9HQZ4R2$Q>E,!AB(H ;LI (5Q0 TK2&-VT!<-M(=Q-E 7$VB@=PVT@N(4-%
+MAW$,=*P[C2F* &[?:@8W::0"%#2&-,=%@$\NE8!A0"BP#"%%*PR)W5:=B6TB
+MM)-V JE$ER/3O@RQ8ZWG_IA_[4KJH*USAQ3O8V/&O_(:A_ZX#_T)J=1:CP_P
+MG/XXXK$Z_0:<CM5)$[#@P'4&CE!,>"OJ14V9::'CV8&IL4F/5F7I4M)FBDT2
+MJX/48K-Q[&BFNH[:#4[&F@QHSVIIDM$#QD5HF8N)&"5//(IM7$FT2@J1CI6;
+M31HFF12QU<61*)4>+%:)G.U8B,?M3$(8L]J &&"BXAA@QVH :8<=J!C#%BD
+MGET -\HTPN'DT@#RJ!B>72"XTI0.XTJ!2'<810,8?I2&,)Q0 PDT!<C8GUI
+M1,?>D%R)CCO0%RNPR:H@;M4=C0&QZ?\ !S&=;Q_TQ_\ :E=%#J<>*Z&SXT7.
+MLP\?\L!_Z$U54=F5AU[ISZKCM63.E#\ ^U3J7H!3TIW%839[47%84(*+CL.
+MQWI%#@#4CU'C<.@J78M-HD5CT(J''L:*7<4QANE3>Q5DR)K<U2D2X#1 RFAR
+M0E!H>8<BIYB^70K/ P/2M%)&$H-$7D'^[5<Q'(Q?)([47#E%\GU%*X^43[,K
+M=L4<P<B&-:"FIB<",VH%/F(Y1A@ IW)L,,:BG<5AA510 FT>E QC)Z4 1,AH
+M C9,=Z0[D1 % 7&$4#(RM(=QA6D.Y&4I 1M'Z"D!&T7M1<=AACQVI7"Q&T?M
+M1<+'IGP?7;_;/_;'_P!GKJP[O<X<6K6-GQ>R+J\0;_G@/_0FJJJ;>@\--*-F
+M8B^6W0BL&FCL4HL=L6IU*T%\L=J+L=D+Y0]*+L=D+Y2T7"P>4/2E<?*.$'X5
+M/,4HCA%2;+2) F*BY0NSVI &SVH :5QVH 3'M0 TK[4 0297M5Q(DVB!I2!]
+MVM%%&#FR RMZU7*C/F8WS6'0FJY4+F8GGOCK2Y4/G8TS.:.5(7,QA8GKFC80
+MPFF%R)FQVH)&%C3 82: (VS2'<810%QAQ0,:>*0R,FD%QAS4C(R#2N,80:0T
+M,.:0QA!I 1E30!Z5\(AM_MG_ +8_^SUUX;J<6+^R:GC(#^V(?^N _P#0FK6I
+MHS*C\)SX45G<VL/ 8=&-*Z*5UL/5G'?-*R+4Y(>)7':ERHI5&/$Q]ZGE17M1
+MXG[4N0I511+GO1RC]H*'I<H_:"[R.A-'*A^T$,SCIS0H(EU6AOGRBJ]G$CVL
+MD'VEO2I=)%*NP^TMG&P&E[)#]O8/M2]T(H]CV8UB$,,\)ZAA2]E)![>#&$P-
+MT8CZBCED@]I!C&2/LP-"YB6XD#; >U:),R<D,)3TJN5BYD(=IZ"E:P[HC88[
+M8H%>Q&2#WQ3L+F&$>XH"XPK0*Y&10%R,T!<8:10PBD,85I7&,*TAC"M(8TK4
+ML8PKBD4,*TAC"M*XQA6E<+'I'PF&/[8_[8_^SUUX7J<.,TY?F7_&;8UF$?\
+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
+MBFQ&2BD$ \$4UJ),KJBL69FP:NXP95VKL&#CGW.: L6ETJZ%LMP$ B92VXG
+MXJ/:1<N7J&Q4'RMP,'M5[@G83S']3FBR'S,:LK G)/XT^5 I-#'8R8SUJDK"
+MYKE^Y&Y-HKGAHSHEL5C"!C!Q6O,96(MK*V.XJKH0XRC;P"&[X/!HY0N202^6
+M02-R]QZU,HW&G8=.[2_=&$]*45R@W<K%0>G!K2Y-CWC]G L?^$F##!'V;_VK
+M5P,JA;^+U\D'C&RAEB+Q_8T<CC!_>/Q^E<N(<5+4TI)M''0ZMIR[?-LV)'IQ
+MQ^=<OM*?\IK[.7<L2ZQILXVR6+L@' 9L_P"?_K5*JTUM$?LY=S(NY8';=!'Y
+M48SA0*QJ34WHC6,7'<;:7-NI<36WG+@$\XV\U#@][CWV+MEH_P#:4L[PRBUA
+M@3?(S-\I7L,=SS1%MKWBI-1V.ETKRH]#DM[0QP>:ZY(CW3S=1\O''T_2JOI8
+MQ>KU*>J&2.^>$QBTA5<R#($FWC )/7)'>HNT7I8XC5=8(NV%BK0(O'WR23ZY
+MKJIT[J\C*4M.7H8LMY-<N&9V8COFNI0440K]!#)(^&<DCL32Y4MAJ[$9V495
+MR#UII(=VB2&]8Y64D@G@]Z3AV-(5&E9E=[@&0E5.T]C_ #JE'0SYM1FT\$'B
+MG="Y6/2+<<A@ /6DW8I1N2\K$1D9J>I35EJ0C=Y97(!['TJM+DV8("&RS=.U
+M#\@2LQ7E&[@4*(.033))/YJQ*ORXVCI3BFE9L3WNAK3JH!12AQR ::B9L2:[
+M>XD,DKC<>#\O7C%-1MHA"+$[+E'3!X(+4-I;E*+(9%:, ,,=^*I:[$RT-"+5
+M;IK,VDDS-"RX"G@=<UFX*]Q-V%LH+(SL;R1UAV'#1@$[\<=>V:;OT$WV*$_E
+M"4B(,%_VNM5&]M1D#CK5H&(BY_.FP6Y<NR1$<5C#<Z)[%=9,J,UHXF*D/^4\
+M]ZG5%71 R_-Q6B9(J95L=J3#8D#8SCI4V!,86R<=*JPN8]V_9P(QXEQG_EV_
+M]JUI#J9S=['L]]H>D:G,LVH:79W<JKM#SP*Y ZXR1TY/YU3A%N[1"DULRO\
+M\(IX<QC_ (1_3,?]>D?^%3[*G_*ON'S2[A_PBGAP=- TS_P$C_PH]E3_ )5]
+MP^>7<#X4\.$8.@:9C_KTC_PH]E3_ )5]P<\NX+X5\.H<IH.FJ?:TC']*/94_
+MY5]P<\NY(GAS0XU*IHU@JD@D"V09(_"CV-/^5?<+GEW'+H&C)(DBZ39*\?W&
+M%N@*_3CBDJ--;17W!SR[A+X?T6?=YVD6,FYMS;[=#D^O3K3]E3_E7W!S2[E5
+MO!WA=R2WAO2B3W-E'_A5<D5T%S/N"^#/"RG*^&M)!]K*/_XFCECV&I26S%/A
+M#PRR!&\.Z65'0&SCP/THY(]A\\MKC?\ A#/"W_0M:3_X!1__ !-'+'L+F?</
+M^$+\*_\ 0LZ1_P" ,7_Q-'*NPN9]Q?\ A#?"QSGPUI//7_0H_P#"CECV'S2[
+M@?!OA<]?#>D_^ 4?^%')'L'/+N'_  AGA;&/^$:TG'_7E'_A1R1[!SR[B'P9
+MX6/7PUI/_@%'_P#$T<D>P<\GU#_A"_"O_0LZ3_X Q_\ Q-'+'L'-+N'_  A?
+MA7_H6=)_\ 8O_B:.6/8.9]P_X0OPK_T+.D?^ ,7_ ,31RKL+F?<3_A"O"F,?
+M\(QI'_@#%_\ $T^5=@NP_P"$)\*?]"QI'_@#%_\ $T6078G_  A'A/\ Z%?1
+M_P#P!B_^)HL@NP_X0CPG_P!"OH__ ( Q?_$T6078?\(1X3Z?\(OH_P#X Q?_
+M !-%D%V._P"$+\*\?\4SI''3_08N/_':.5=@NQ/^$*\*?]"QI'_@#%_\31RK
+ML%V'_"$^$_\ H6-(_P# &+_XFBR"[$_X0CPG_P!"OH__ ( Q?_$T6078O_"$
+M>$QT\+Z1_P" ,7_Q-%D%V*?!7A5A@^&=(/UL8O\ XFERI=!\TNXW_A"/"?\
+MT*^C_P#@#%_\33LA78O_  A'A/\ Z%?2/_ &+_XFBR"[#_A"?"?_ $*^D?\
+M@#%_\319!=B?\(1X3_Z%?1__  !B_P#B:+(+L/\ A"/"8_YE?1__  !B_P#B
+M:+(+L/\ A"/"7_0KZ/\ ^ ,7_P 319!=E_3=$TG1O-_LO2[.Q\W'F?9H%CWX
+,SC.T#.,G\Z=K"/_9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

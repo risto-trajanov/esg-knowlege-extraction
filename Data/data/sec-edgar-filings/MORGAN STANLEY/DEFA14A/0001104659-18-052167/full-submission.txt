@@ -1,0 +1,304 @@
+<SEC-DOCUMENT>0001104659-18-052167.txt : 20180815
+<SEC-HEADER>0001104659-18-052167.hdr.sgml : 20180815
+<ACCEPTANCE-DATETIME>20180815093056
+ACCESSION NUMBER:		0001104659-18-052167
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		5
+FILED AS OF DATE:		20180815
+DATE AS OF CHANGE:		20180815
+EFFECTIVENESS DATE:		20180815
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MORGAN STANLEY INSTITUTIONAL FUND INC
+		CENTRAL INDEX KEY:			0000836487
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05624
+		FILM NUMBER:		181019914
+
+	BUSINESS ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		800-548-7786
+
+	MAIL ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY DEAN WITTER INSTITUTIONAL FUND INC
+		DATE OF NAME CHANGE:	19990329
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY INSTITUTIONAL FUND INC
+		DATE OF NAME CHANGE:	19920703
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000836487
+<SERIES-ID>S000035027
+<SERIES-NAME>Insight Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000107706
+<CLASS-CONTRACT-NAME>Class I
+<CLASS-CONTRACT-TICKER-SYMBOL>MFPIX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000107707
+<CLASS-CONTRACT-NAME>Class A
+<CLASS-CONTRACT-TICKER-SYMBOL>MFPHX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000107708
+<CLASS-CONTRACT-NAME>Class L
+<CLASS-CONTRACT-TICKER-SYMBOL>MFPLX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000155906
+<CLASS-CONTRACT-NAME>Class C
+<CLASS-CONTRACT-TICKER-SYMBOL>MSSPX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>a18-18803_1defa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+
+
+<html>
+<head>
+
+
+
+  </head>
+<body link=blue lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">MORGAN STANLEY INSTITUTIONAL FUND,&nbsp;INC. INSIGHT PORTFOLIO</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">IMPORTANT SHAREHOLDER INFORMATION</font></b><br> Please vote promptly</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dear Stockholder:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We recently sent you proxy materials concerning an important proposal regarding your Portfolio, which will be considered at a special meeting of stockholders on October&nbsp;17, 2018 at 522 Fifth Avenue, 3</font><font size="1" style="font-size:6.5pt;position:relative;top:-3.0pt;">rd</font>&#160;Floor, New York, NY 10036. This letter was sent to you because you held shares in the Portfolio on the record date and we have not received your vote.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Your vote is critical to this process. Please vote prior to the Special Meeting on October&nbsp;17, 2018.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">VOTING IS QUICK AND EASY</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Read the enclosed materials and vote by one of these four options:</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="24%" style="padding:0in 0in 0in 0in;width:24.66%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman"><img width="48" height="40" src="g188031bgi001.jpg"></font></p>    </td>
+<td width="22%" style="padding:0in 0in 0in 0in;width:22.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman"><img width="48" height="38" src="g188031bgi002.jpg"></font></p>    </td>
+<td width="25%" style="padding:0in 0in 0in 0in;width:25.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-weight:bold;"><img width="48" height="45" src="g188031bgi003.gif"></font></b></p>    </td>
+<td width="27%" style="padding:0in 0in 0in 0in;width:27.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman"><img width="48" height="43" src="g188031bgi004.jpg"></font></p>    </td>   </tr>
+<tr>
+<td width="24%" valign="top" style="padding:0in 0in 0in 0in;width:24.66%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Vote Online<br><br></font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Visit   the website noted<br>   on the enclosed proxy<br>   voting card and follow<br>   the instructions</font></p>    </td>
+<td width="22%" valign="top" style="padding:0in 0in 0in 0in;width:22.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Vote by Mail<br><br></font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mail   your signed proxy<br>   voting card(s)&nbsp;in the<br>   postage-paid envelope</font></p>    </td>
+<td width="25%" valign="top" style="padding:0in 0in 0in 0in;width:25.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Vote by Phone<br><br></font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Call   the toll-free number printed on the enclosed<br>   proxy voting card and follow the automated instructions. Available 7 days a   week<br>   24 hours a day.</font></p>    </td>
+<td width="27%" valign="top" style="padding:0in 0in 0in 0in;width:27.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Speak with a Proxy</font></b></p>
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Specialist<br>    </font></b>Call 1 866 209 5914 with any   questions. Specialists can assist with voting. Available Mon-Fri from<br>   9 a.m.&nbsp;&#150; 6 p.m.&nbsp;ET and Sat from 10 a.m.&nbsp;&#150; 6 p.m.&nbsp;ET</p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Thank you for investing with Morgan Stanley.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mary E. Mullin</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Secretary</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\111404\18-18803-1\task9012084\18803-1-bg.htm',USER='111404',CD='Aug 15 03:55 2018' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g188031bgi001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g188031bgi001.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  H'!PD'!@H)" D+"PH,#QD0#PX.
+M#QX6%Q(9)" F)2,@(R(H+3DP*"HV*R(C,D0R-CL]0$! )C!&2T4^2CD_0#W_
+MVP!# 0L+"P\-#QT0$!T]*2,I/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3T]
+M/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3W_P  1"  H # # 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#TW5+^^;5(
+M=,TL0I.\1GEGG!98T!P,*",DGW[5']B\2?\ 07L/_ )O_BZ?_P SQ_W#O_:E
+M;55>QJY<J22,+[%XD_Z"]A_X!-_\71]B\2?]!>P_\ F_^+K=HHYA>T?9?<C"
+M^Q>)/^@O8?\ @$W_ ,74FEZA?#5)]+U00/.D0GCF@!59$)(Y4DX((]>];-88
+M_P"1[;_L&C_T::+W&I<R::'?\SQ_W#O_ &I6U7/:G>1Z/XH@O[W<EG+:&W\\
+M*2J.'W -CID=#[5-_P )EH/_ $$X/U_PH:;V'*$I)-*^AMT5B?\ "9:#_P!!
+M.#]?\*/^$RT'_H)P?K_A2Y7V)]E/^5_<;=88_P"1[;_L&C_T::7_ (3+0?\
+MH)P?K_A4&EW4>K^*9]0LMSV<5HMOYQ4A7?>6(7/7 QD^]-)J]RHPE%-R5M#H
+M>M-9 %.U%)QP#114F)B?:O$7_0&T[_P-/_Q%'VKQ%_T!M._\#3_\11157\C3
+<G7\J_'_,VHUS&IDC17(&X#D ]^:?THHJ3,__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g188031bgi002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g188031bgi002.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  H'!PD'!@H)" D+"PH,#QD0#PX.
+M#QX6%Q(9)" F)2,@(R(H+3DP*"HV*R(C,D0R-CL]0$! )C!&2T4^2CD_0#W_
+MVP!# 0L+"P\-#QT0$!T]*2,I/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3T]
+M/3T]/3T]/3T]/3T]/3T]/3T]/3T]/3W_P  1"  F # # 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#L/$.LZN-<
+MN8;26:#3;%8_M$EM$LDH+@G=M;JH[XYJ_::;J-_:QW-IXMGFAD&5=+>(@_I5
+MC2?^1P\0?2W_ /0#4=YH-SI=U)J'ALI'(YW3V+G$,_N/[C>XX]:TNMCK<DK1
+M5D[+HNP[^P=9_P"AGNO_  &B_P */[!UG_H9[K_P&B_PJ]HVO6VLK(B!X+J'
+MB>UE&)(C[CN/<<&C6==MM%B3S0\US,=L%M$,R2MZ ?UZ"E>5[&?-4YN6VOHO
+M\C)O[#4-,LY+J]\6SPP1C+.UO%_AUJCH6J:ZFK69OII)=-OW:.!;F)4FX0MO
+MPO0''0^M:ECH-SJ5W'J?B,I),AW6]FIS%;>_^T_O^52Z[_R,'A__ *^)/_13
+M55UL:*2^!V>_1=N@FD_\CAX@^EO_ .@&K6H:V+75;33;:$W-W.=SHK8$47=V
+M/\AWK!N-9&C^)==\J,SWMP;>.VMQUD?8?R ZDUN:!HITN&6>ZD\_4KH[[J?^
+M\>RCT4= *EKJR)Q2]Z796^Y"ZQH$.J/'<Q2-::A#_J;N+[R^Q_O+[&FZ/X?C
+MTZ9[RZF:]U.88ENI!@X_NJ/X5]A6Q14\SM8R]I+EY;Z&5IFNQW]]<V,T+6M[
+M;L<PR')9,\.I[@_I5;7?^1@\/_\ 7Q)_Z*:K&NZ&-56*>WE-MJ-L2UM<J.5/
+M=3ZJ>XK!&M-J6NZ';7L/V;4[:YD%Q ?^N3893W4]C5I7U1K"*;YH]G?[OR-S
+M4O#&GZIJ"7THFBNT39YT$K1L5]"14/\ PB-K_P _^K?^!TG^-%%1S,S56:5K
+MA_PB-K_S_P"K?^!TG^-'_"(VO_/_ *M_X'2?XT44^9A[6?</^$1M?^?_ %;_
+F ,#I/\:FL/"]A8:@M\#<3W2*422XF:0H#UQGI112YF#JS:M<_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g188031bgi003.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g188031bgi003.gif
+M1TE&.#=A,  M '<  "'^&E-O9G1W87)E.B!-:6-R;W-O9G0@3V9F:6-E "P
+M    ,  M (>3&&^4&W&5&W*5''*6'W.7'W23&7"4&G"6'G*5'7*6'7*5'G*5
+M''&4&G&6'G.6'W24&7"<*GJ7(76;*7J8(W:7(G66(72<*WN;*GJ<*WJ7('29
+M)7>>,'Z=+'R;*'F<*GN?,7^8)':>+WV9)':?,'Z?,G^7(72:*'F8(G6?-("@
+M-8&B.(.C.82D/(:B.8.@-("E/H>A-8&@-8"D/H:A-X*A-H*A-(&F0(BO4Y2Q
+M6)BE08>I1HRT79JG0XFN4I.F08BR6IBK2XZH18NG1(JI1XRQ5Y:M4)*E0(BS
+M7)JJ28ZM3Y*R7)FU8IZU89VU8IVW9I^U8)RV9)ZV8IZ^<ZBY:J.Z:Z*[;Z6Y
+M::*]<Z>X9J"]<J>\<*? >:O!>JS"?J_,DKO%A++)C+?-D[S-E+S.E;[/F+_*
+MCKG%@[+/F+[*C;C)C;C&A;/,D;K/EK['B;7,E+S1G<+2G\/2GL/0G,#1G,+0
+MF\'<M='6J,C3H\78KLS>MM+<M-';LL_7J,G6I\C9KLS7J\O5H\;8J\O>N=/8
+MK,O3H,3AOM?@O=;@OM?BP]KDQMSDQ=OGRM[GS-_EQ]SDQMOCQ-OGR][FR]_A
+MP-?FRM[HSN'IT.+JTN/QW^OKU.3OW.GPWNOKU.7PW^OKU>7KU^;LUN7IT>+G
+MS>#OW>KLU^;MVN?HSN#NV^CKT^3\^OSV[//]^_WTYN_Z\_C^_O[X[_7QXNWW
+M[?3Y\?;RXNWRY.[W[O7TZ/#W[O3[]_K\^/OZ]/CY\O?Y\O;UZ/'X\/;X\_CY
+M\_?^_/W]_/W__O_\^?OSY>_^_?[W[/3X\/7Z]?CZ]?GQX>SUZ?'__O[Z]OG[
+M^/OSY_#V[/3V[?3UZO+SYN____\! @,! @,! @,! @,! @,! @,! @,! @,!
+M @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,!
+M @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,!
+M @,! @,! @,! @,(_P"K"1Q(L*#!@P@3*ES(L*'#AQ C$DRE:I7$BP<319!P
+M Z/':JQP )B0 X"*5A\CVJ%0@8O%+@#@I'3HZLO(2@-?5;  :R9#, %TQ"IH
+M20 3GPI?7=@AZR"/ 8:0(IP%( Y"6A@RU))JT):&, GO !##M>"M"5,2XEI!
+MX%+9@;E8]%"(J0#8MP*I *"5,!. ,7@%:@+@!:&N#0 V!1:X@\.N@V0,X%DL
+ML,R!/ 8Y56C!BW*U7A(J^"KH0T,GSP+E )A3\,>&7ZBK >O@819!10A<W(I]
+M* &08 3I *@B++85 'J&$6QB $SL6Q\4<")(+$@"F:@7#1 R=&"Q(03VQ/\V
+M<\!)04\@ /")_03 &6,$CV%HBUH7$0!]"G["$((1ZF(B).!'08U<L, ?!"&#
+MQA58.")5,B^,H(@K!&E" @!UN$*+30"40 $ :2B#U#(F!/"(03  < , +")2
+M32XQ ""#*DB!(H$)@!3$3!$ & $)+@.UH@8 )P2"5"@3H"!(,]1%4IQ!AK@
+M0!:O^"2)!PSP 5Q#SD!Q0 6B^#0*!0VL\5 P@RC@ "D^L7+$ 4@X\] D T2!
+MU#-. # #3@U1PH 67+&1  !MY+(0-"=@$ U7QI22P@$<F)*0-#0 (-Y;O;@1
+M  -22&+0-$(D0 =EI_#@  !)$-+)*L980L,#;U @Z!DU2I@  0 HU    X7$
+3-M TCFQA PI+H"*KK\C.%!  .P$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>g188031bgi004.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g188031bgi004.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  K # # 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#W^L75?$<5
+MC>+IUG;2ZAJ;+N%K!CY%_O.QX0>Y_ &K.O:G_8^A7FH;-[0QDHG]YNBC\20*
+MB\/:.-'TT+(?,OISYMY.?O2RGJ2?0= .P JDE:[-(I*/-(H"W\87V&EO]-TM
+M3_RS@@-PX^K,0,_04[^R_%$(W0^)(+AA_!<V"A3^*$$5T$TT5O!)/-(L<4:E
+MG=C@*!U)KC[+Q+K$,?\ :^HV32:'=L6A,$1,MK'GY6D7JRL,-D<C/2FKO8T@
+MYR7NI?<C2M/$-Q;W\6G:_9+97,QVP3QOOMYSZ*W56_V6_#-=#63,ND^+-#EA
+MCGBNK2=<"2)P=I[$$=&!Y]B*9X7OKB]T1%O&W7EK(]K<-_>=#MW?B,'\:36E
+MR)Q37,E9K=%?QOQX7F<_<CG@=_\ =$R$_I6GJ::H\<?]E3VD4@;Y_M,3.&'M
+MM88JCXR:-/!FL&3&TVKJ,_WB,#]2*@O[FXT_6?#LCS2+:SA[29<_*9&4%"1Z
+MY0C\::V*@FX*WG^2*ZZ4VKZDUGKNMQ7KP!9GTVV011X)^4N,EF&1T)Q[5T-S
+MJ%E826T5S<Q0-<.(H%=@-[?W1[U+Y4$<KW'EQK(5P\NT D#U/H*:\=K=+',Z
+M0S+&=\;D!@I]0>WUI-W(E/F:OL<U=1V.C?$#2Y(8HK=M3MYX9-B[1*Z[&4G'
+M4_>YJYX7^:?7G7[C:K+M]\(@/Z@UC/Y7BKXC6=Q:3)-I^AQL9)4.5,[\!0>^
+M  36QX,(_L:X4_ZQ+^Z60=PWFL>?P(JY?";U%:GKO97^]_I8=XGT>^U7[#)9
+MR6[_ &2;SFM+G<(IR/N[BO.5/(ZC/6F3:1JNM:->6NM3VD4TA5[8V:M_H[KR
+MK;FY8A@#T%=%14<SL8*K)))=#B[C4]/US2)_#GBF7^S+]U"3*9/+67!R'B<\
+M,IQG'X$5BG1O".E62:5IBS:[J!SY5FMVSJ2>\@4[%4=R1^=>D7-I;7L?EW5O
+M#/'_ '94##\C26MC:6*%+2U@MT/58HP@_2J4[;&L:ZBK1NO*^G^?];F!I7AZ
+M^T#PVMKI4EDNH-)Y\[21$12,?O* O*CH!Z #BG:%H^J6VN7^JW[VL NT4-:6
+;C,R,X_Y:,6 ^;'' Z=:Z2BIYF9NM)WOU/__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

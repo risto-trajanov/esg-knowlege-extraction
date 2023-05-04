@@ -1,0 +1,611 @@
+<SEC-DOCUMENT>0001193125-18-164959.txt : 20180516
+<SEC-HEADER>0001193125-18-164959.hdr.sgml : 20180516
+<ACCEPTANCE-DATETIME>20180516114102
+ACCESSION NUMBER:		0001193125-18-164959
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20180516
+DATE AS OF CHANGE:		20180516
+EFFECTIVENESS DATE:		20180516
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		18839284
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9729406000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d589753ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:7.5in" align="left">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="5"><B>SCHEDULE 14A </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>Proxy Statement Pursuant to Section 14(a) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>of the Securities Exchange Act
+of 1934 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>(Amendment No. &nbsp;&nbsp;&nbsp;&nbsp; ) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Filed by the Registrant&nbsp;&nbsp;&nbsp;&nbsp;&#9746; </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Filed by a Party other than the Registrant&nbsp;&nbsp;&nbsp;&nbsp;&#9744;
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check the appropriate box: </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;Preliminary Proxy Statement</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ROWSPAN="2">
+<P STYLE="margin-left:2.00em; text-indent:-2.00em"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B></B>&#9744;<B></B><B>&nbsp;&nbsp;&nbsp;&nbsp;Confidential,&nbsp;for&nbsp;Use&nbsp;of&nbsp;the&nbsp;Commission&nbsp;Only(as&nbsp;permitted&nbsp;
+by&nbsp;Rule&nbsp;14a-6(e)(2))</B></FONT></P></TD></TR>
+<TR STYLE="page-break-inside:avoid">
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;Definitive Proxy
+Statement</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9746;&nbsp;&nbsp;&nbsp;&nbsp;Definitive Additional Materials</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid">
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;Soliciting Material Pursuant to &#167;240.14a-12</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>E<SMALL>XXON</SMALL>
+M<SMALL>OBIL</SMALL> C<SMALL>ORPORATION</SMALL> </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Name of Registrant as Specified In Its Charter) </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Payment of Filing Fee (Check
+the appropriate box): </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9746;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">No fee required. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11. </FONT></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(1)</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Title of each class of securities to which transaction applies: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:6%;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(2)</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Aggregate number of securities to which transaction applies: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:6%;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(3)</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and
+state how it was determined): </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:6%;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(4)</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Proposed maximum aggregate value of transaction: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:6%;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(5)</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Total fee paid: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:6%;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Fee paid previously with preliminary materials. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#9744;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously.
+Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(1)</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Amount Previously Paid: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:6%;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(2)</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Form, Schedule or Registration Statement No.: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:6%;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(3)</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Filing Party: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:6%;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">(4)</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Date Filed: </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; margin-left:5%" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3">&nbsp;&nbsp;</FONT></P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:2px;margin-left:6%;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:7.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"><B>Exxon Mobil Corporation</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>Jeffrey J. Woodbury</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top">5959 Las Colinas Boulevard</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Vice President and Secretary</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top">Irving, TX 75039-2298</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">
+
+
+<IMG SRC="g589753g67i70.jpg" ALT="LOGO">
+</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">May&nbsp;16, 2018</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Re: Supplemental Information Related to Item 3 &#150; Advisory Vote to Approve Executive Compensation </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Dear Investor, </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">As you may have noted, Institutional Shareholder Services (ISS) has
+issued a voting recommendation inconsistent with the Board&#146;s recommendation on the <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">Say-on-Pay</FONT></FONT> proposal for ExxonMobil&#146;s upcoming annual meeting. We disagree
+with their assessment of our executive compensation program. ExxonMobil&#146;s compensation program effectively aligns executive pay with Company performance and the interests and experience of our long-term shareholders, as highlighted in our 2018
+Proxy and <I>Executive Compensation Overview</I>. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The ISS analysis is underpinned by a philosophy that drives toward similar pay programs for companies in
+different industries and with different business models. This issue is compounded by flawed and incomplete analysis. We believe their recommendations are not in our shareholders&#146; interest and, if implemented, would weaken the Company and
+undermine shareholder value. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Below are the highlights of our concerns, and <B>Attachment 1</B> provides additional detail on each concern. </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Specifically, we disagree with the underlying basis of the ISS recommendation for the following reasons: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><B>ISS&#146; quantitative screening process is flawed:</B> </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">-</TD>
+<TD ALIGN="left" VALIGN="top"><B><FONT STYLE="white-space:nowrap">ISS-selected</FONT> peer group is constantly in a state of flux</B> - ISS made 15 changes to ExxonMobil&#146;s compensation peer group in the last 4 years, including the recent
+addition of Berkshire Hathaway, which has little to no similarity with the ExxonMobil business model, nor was it selected by ISS as a benchmark company for ExxonMobil&#146;s largest U.S.-based competitor or any other company </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9726;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">ISS also selected other benchmark companies for ExxonMobil&#146;s largest U.S.-based competitor that are different than those selected for ExxonMobil </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">-</TD>
+<TD ALIGN="left" VALIGN="top"><B>Cross-industry comparisons are not meaningful for this purpose</B> - financial and operating performance is compared against companies in different industries with different capital investment and business profiles
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">-</TD>
+<TD ALIGN="left" VALIGN="top"><B>Significant changes in compensation are not recognized</B> - 36&nbsp;percent reduction in compensation for the CEO position in 2017 was not recognized, nor was the 50&nbsp;percent reduction in the bonus program over
+the last 5 years; share grants were reduced for the CEO and Named Executive Officers </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">-</TD>
+<TD ALIGN="left" VALIGN="top"><B>Analysis of total compensation is incomplete</B> - comparison of only &#147;reported pay&#148; to measure the relative positioning of compensation fails to fully recognize pay that is realized in a given year, as
+well as the unrealized future value of compensation </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman">&#9726;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">ExxonMobil&#146;s CEO position is at the 44<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> percentile of benchmark companies for realized and unrealized pay; ISS methodology using only reported pay places CEO
+position at the 71<SUP STYLE="font-size:85%; vertical-align:top">st</SUP> percentile </TD></TR></TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:7.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"><B>The ISS philosophy insists on a single, <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">one-size-fits-all</FONT></FONT></FONT> model for long term incentive
+programs</B> </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">-</TD>
+<TD ALIGN="left" VALIGN="top"><B>Short-term <FONT STYLE="white-space:nowrap">(3-year),</FONT> target-setting model would undermine ExxonMobil&#146;s business</B> &#150; ExxonMobil investment lead times can exceed 10 years. Conversely, the ISS
+methodology would result in shorter restriction periods, which risks senior level attrition </TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">In summary, ExxonMobil relies on our executives
+maintaining a long-term view and a constancy of purpose in their business decision-making. The combination of performance metrics applied <B>at grant</B>, the <B>longest restriction periods across industries</B>, and the <B>ultimate value of pay
+that is determined by share price</B> results in a very high performance standard for our executives. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">We urge you to vote <B>FOR</B> Item 3 in our proxy. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:54%; text-indent:-2%; font-size:10pt; font-family:ARIAL">Sincerely, </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt; margin-left:51%; text-indent:-2%">
+
+
+<IMG SRC="g589753g0515120528448.jpg" ALT="LOGO">
+ </P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:7.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Attachment 1 &#150; Details on Specific Issues with ISS&#146; Proxy Analysis </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>1.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Quantitative Screen Results </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">We have the following concerns with the results of ISS&#146; quantitative screen:
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Peer Group </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">As we noted in correspondence with ISS on March&nbsp;5,
+2018, it is difficult to understand how Berkshire Hathaway (Berkshire) was selected by ISS as a benchmark company for the most recent assessment period, given the substantially different profiles of the two businesses. We did not receive a response
+from ISS to our March&nbsp;5 inquiry seeking clarification on this matter. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">All other companies in the <FONT STYLE="white-space:nowrap">ISS-selected</FONT> peer
+group are companies that are capital-intensive, have engineering or manufacturing profiles, and/or long investment lead times. Regardless of its size, Berkshire is a holding company for unrelated businesses, many of which have business models that
+are finance or insurance related and do not align with that of ExxonMobil. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Additionally, we would expect to see similar companies selected by ISS as benchmark
+companies for ExxonMobil and our largest U.S.-based competitor in the oil/gas industry. Yet, Berkshire was not selected by ISS as a benchmark for ExxonMobil&#146;s largest U.S.-based competitor or any other company, according to our analysis. Also,
+the <FONT STYLE="white-space:nowrap">ISS-selected</FONT> peer group for Berkshire does not include ExxonMobil, nor does it include our largest U.S.-based competitor. Appropriately, most of Berkshire&#146;s
+<FONT STYLE="white-space:nowrap">ISS-selected</FONT> benchmark group includes financial services and insurance companies. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Furthermore, based on our analysis, the
+utilization of companies more comparable in size, capital investment profiles, and business models would result in a more positive score. Also, based on our analysis, we believe that utilization of the
+<FONT STYLE="white-space:nowrap">ISS-selected</FONT> benchmark companies for our largest U.S.-based competitor would also yield a more favorable outcome in the quantitative analysis for ExxonMobil. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Finally, it is impossible to accurately measure market orientation for pay when the ISS selected benchmark companies change substantially on an annual basis. In the
+last 4 years, there have been 15 changes to the <FONT STYLE="white-space:nowrap">ISS-selected</FONT> peer group for ExxonMobil. During the same period ExxonMobil&#146;s Compensation Committee changed only 2 benchmark companies (they removed
+Caterpillar and added General Motors in 2017 to ensure that the peer group continues to reflect companies of sufficient size, scale, and complexity for comparison). </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Relative TSR Performance </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">While we agree with ISS that relative TSR
+performance is one of several appropriate metrics on which to base company performance, comparing ExxonMobil&#146;s relative TSR to companies outside of the oil/gas industry is not meaningful for the purpose of determining relative performance
+underlying pay decisions. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">A cross-industry TSR comparison, especially against companies and industries that are not exposed to commodity cycles or have different
+(or sometimes opposite) business cycles, does not accurately portray ExxonMobil&#146;s relative TSR performance. We believe it is more accurate and informative to compare TSR across companies of similar size, scale, and complexity in the same
+industry. This is the basis on which the Compensation Committee measures TSR and other financial and operating metrics for the purpose of determining executive compensation (see our 2018 Proxy, pages <FONT STYLE="white-space:nowrap">34-35).</FONT>
+</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="right">1 </P>
+
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:7.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>Benchmark Level of Compensation </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The ISS model relies on a simple comparison of CEO compensation based on the reported pay from the Summary Compensation Table. We do not agree that using reported pay to
+determine the relative position of CEO compensation across benchmark companies provides a complete view of the total pay package. A more complete analysis, and one that illustrates whether pay is aligned with changes in company performance, would
+include compensation actually realized and paid out in combination with the market value of unrealized compensation (the market value of compensation granted, but not paid out yet). As illustrated in our 2018 Proxy, chart 4, page 33, the market
+orientation for the CEO position is at the 42<SUP STYLE="font-size:85%; vertical-align:top">nd</SUP> percentile when using this methodology (or the 44<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> percentile if including 2008-2017
+compensation per the May&nbsp;2, 2018 Supplemental Disclosure, chart 4, page 1), as compared with the 71<SUP STYLE="font-size:85%; vertical-align:top">st</SUP> percentile in the ISS quantitative model. This &#147;realized and unrealized&#148;
+analysis, over the most recent <FONT STYLE="white-space:nowrap">10-year</FONT> period, better reflects the intent of the Compensation Committee when granting annual compensation to the CEO as it relates to managing the long-term market orientation
+of our CEO position. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Further, the ISS analysis does not fully recognize the significant (36 percent) reduction in total pay to the CEO position upon the transition
+to the new incumbent in 2017, nor does it recognize the 50 percent reduction in the bonus program over the last 5 years. Additionally, share grants were reduced for the CEO and Named Executive Officers. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>2.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Performance Criteria at Grant for stock-based LTI program: </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">ISS is effectively recommending a <FONT
+STYLE="white-space:nowrap">3-year</FONT> target-setting methodology for the stock program (LTI) in a business with <FONT STYLE="white-space:nowrap">10-year</FONT> investment lead times. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">We believe that ISS should focus their assessment on the question of whether the compensation program is performance-based, versus assessing the method of achieving a
+performance-based outcome, which should be unique to each industry and company business model. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The reduction in share grant to our CEO in 2017, even though the
+incumbent was promoted from President to CEO, contributed to an overall pay reduction for the CEO position of 36&nbsp;percent. This underscores the performance basis of the program. At the same time, the methodology for achieving this outcome is
+aligned with the business model. This decision reflects the Compensation Committee&#146;s belief that the stock-based LTI program does not have to be based on short-term target-setting to be performance-based. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">In the performance share program, assessing performance at grant is the lynchpin for the most important features of our long-term program: 1) the ability to have a
+performance period (10 years) that aligns with the investment lead times of our business, and 2) restriction periods on performance shares (10+ years) that are 3 times longer than those found in most industries. We have received direct feedback from
+shareholders who support this design feature, especially from those required to hold our shares long-term (e.g., passive fund investors). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">If we changed the program
+to apply performance criteria at vest, it would require implementing a program that involves short-term target-setting (3 years or less) to maintain <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">line-of-sight</FONT></FONT> so
+that credible and achievable performance targets could be established. This time frame does not align with our business model, and would incentivize executives to take a short-term view in making business decisions. This approach would be
+inconsistent with the realities of our business, in which capital projects can take decades to show results. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The risk of senior executive attrition also needs to
+be considered. Changing the stock-based LTI program to incorporate shorter restriction periods and faster monetization of awards increases the risk of attrition among executives at all levels. This risk is compounded by the scale and scope of our
+business, which makes the Company a frequent target of recruiters for <FONT STYLE="white-space:nowrap">mid-size</FONT> oil/gas companies. The long restriction periods in the current compensation program create a significant barrier to exit for
+executives through a buyout hurdle composed of unvested shares. Any reduction in this buyout hurdle and resulting executive attrition could undermine the long range business plans of the Company. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="right">2 </P>
+
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:7.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">Additionally, the alternative LTI program design suggested by ISS typically involves leverage that would pay out
+shares at a multiple of &#147;target&#148; depending on performance. The additional benefit that could accrue to executives would not be experienced by shareholders, and therefore is inconsistent with our objective to align executive pay with the
+experience of long-term shareholders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">The combination of performance metrics applied <B>at grant</B>, the <B>longest restriction periods across industries</B>, and
+<B>a value at vest that is determined by share price</B> results in a very high performance standard for our executives. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">In summary, ExxonMobil relies on our executives maintaining a long-term view and a constancy of purpose in their business decision-making. Our compensation program
+design drives our culture of performance, and the decisions made by the Compensation Committee during 2017 reflect our strong commitment to ensuring that pay outcomes reflect the performance of the Company. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">For the reasons cited above, we request that you consider this information and vote <B>FOR</B> <I>Item 3 &#150; Advisory Vote to Approve Executive Compensation.</I>
+</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><I>This information is being provided to certain shareholders in addition to
+ExxonMobil&#146;s proxy statement dated April&nbsp;12, 2018, which you already received. Please read the complete proxy statement and accompanying materials carefully before you make a voting decision. Even if voting instructions for your proxy have
+already been given, you can change your vote at any time before the annual meeting by giving new voting instructions as described in more detail in the proxy statement. </I></P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="right">3 </P>
+
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g589753g0515120528448.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g589753g0515120528448.jpg
+M_]C_X  02D9)1@ ! 0$ > !X  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" !: +H# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+MX$ EO_%M]\NZ?7)8^/2-$C'_ *"?SKL: "BBB@ HHHH **** "BBB@ HHHH
+M**** "BBB@ HHHH **** "BBB@ HHHH Y/X?1A=#U"7O-J]](?\ P(<?R%=9
+M7.>"8?(\/R+Q\U_>-Q[W$E='0 44B_<'TI: "BBB@ HHHH **** "BBB@ HI
+M/XC2T %%%% !1110 4444 %%%% !1110!D^'(3;Z2\1()6[N<X]YW/\ 6M:H
+7+5519 JA096/ [D\TQF;>?F/7UH _]D!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g589753g67i70.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g589753g67i70.jpg
+M_]C_X  02D9)1@ ! 0$ > !X  #_X0!X17AI9@  24DJ  @    & #$! @ 1
+M    5@    $#!0 !    :     ,# 0 !     @   !!1 0 !     0   !%1
+M!  !    =!(  !)1!  !    =!(       !-:6-R;W-O9G0@3V9F:6-E $2@
+MA@$ C[$  /_; $, " 8&!P8%" <'!PD)" H,% T,"PL,&1(3#Q0=&A\>'1H<
+M'" D+B<@(BPC'!PH-RDL,#$T-#0?)SD].#(\+C,T,O_; $,!"0D)# L,& T-
+M&#(A'"$R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,O_  !$( "< M ,!(@ "$0$#$0'_Q  ?   !!0$! 0$! 0
+M         0(#! 4&!P@)"@O_Q "U$  " 0,# @0#!04$!    7T! @, !!$%
+M$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I*C0U
+M-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'B(F*
+MDI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7V-G:
+MX>+CY.7FY^CIZO'R\_3U]O?X^?K_Q  ? 0 # 0$! 0$! 0$!         0(#
+M! 4&!P@)"@O_Q "U$0 " 0($! ,$!P4$!  ! G<  0(#$00%(3$&$D%1!V%Q
+M$R(R@0@40I&AL<$)(S-2\!5B<M$*%B0TX27Q%Q@9&B8G*"DJ-38W.#DZ0T1%
+M1D=(24I35%565UA96F-D969G:&EJ<W1U=G=X>7J"@X2%AH>(B8J2DY25EI>8
+MF9JBHZ2EIJ>HJ:JRL[2UMK>XN;K"P\3%QL?(R<K2T]35UM?8V=KBX^3EYN?H
+MZ>KR\_3U]O?X^?K_V@ , P$  A$#$0 _ +GQ#U35HO']U:6>HW<2MY2I''.R
+M*"47L#CJ:F_X0WXC?\_EU_X,3_\ %5F_$F8V_P 2+J90"T?DN >APBFM;_A<
+MVK_] RQ_-_\ &O(<J?M)^TDUJ?HL:6,6#P[P=.,KQ5[I=EYH]0\*6>H6'ABR
+MM=5=GO8PWFLTF\G+$CYN_!%;-<Q)I]MX\\%6IU&)8Y+F%9D:,?ZER.JY_P D
+M5Y%;ZCK_ ,-M:O;'"@R(058$QOP=LB_3_$'V[9U_8J-U[O<^7PV5O,)5>6:5
+M5-OEM9/76SO^AZ#XP^)$FAZTFE:5:Q7EPO$V[)PQZ*,=3Z_45W&F/?2:;!)J
+M4<4=XR[I(XL[4)[<DYQ7EWPN\+&[G?Q3J9W_ #L;?><[GR=TA^ASCWR>PK)\
+M5ZO=_$'Q=!H^DDM9Q.4B/\+'^*4^V.GM[FLXUYQC[2779'=5RK#U:OU2A9*F
+MKU*GG]_]?(]RJ-)X9'9$E1G7[RJP)'UKQ/Q=?3Z3+;>!O#YD2*((DYC.'N9G
+M ."?0Y''X= *I:C\._$GAO3AK*31;H!O?[+*PDA'KG Z=\']*J6*DFU&-[;F
+M%+(:4H1E5KJ#G\":U:Z-ZZ7^9[[2$@ DG '4FO//#GBF;Q+\.M:%XP:]M+66
+M.5AQO!C;:Q'J<$?A7FWA#P_JWB>2YTRQN_L]IA9;DL3M.,A<@=3R<#ZTY8KX
+M>17N9T,A;59XBHH>S:3TNM>O^6FI]%1313KNBD21<XRC BO,/C#J-]82:/\
+M8[RXM]XFW>3*R;L;,9P>>IKC;1M5^'?C6.WEE&%=/-$;'9-$WM],_0BNH^-?
+M^LT3Z3_^R5E5KNI0EI9K_,[\!E4<)FE"TE.$TVG;?W7TU*WPIU^_G\4365]?
+M7,Z36Q*+-*SX8$'C)],UK?%W6KRR_LNQL+F:"60O(YAD*L0,!1Q]6_*N4L1_
+M8/C[PS=_=CN;6S?Z!XA&Q_/<:W==']O?&RQLN6CLS&#Z80&4_J<5G&4O8NG?
+M6]CLK4*7]IQQ?*N14W-KI=)K_(C^$FJ:A?>)+R.[O[JX1;0L%FF9P#O7G!->
+MP$@ DG '4FO%/@U_R,]]_P!>1_\ 0TJOXCUC6/'_ (K?1M+9_L:.4BBW;4(7
+MK(_KTS[< <];H5_9T$WJVSES3*_K>:3C%J$(Q3;Z)6/<8YHIEW12)(.F58&N
+M4^)=U<6?@FZFMIY8)1)& \3E6'S#N*\MU3PUXD^'DUOJ<5V@5F"^=;.2N[KM
+M8$#(.#[&NU\6ZVOB+X0C4U38TK1B1/[KA\,/ID<>V*T==SA.,E9I''#*8X?$
+MX>M2FJE.4TKVZWV:U-7X9W\L_@I;F_NWD83N#+/(2<<8Y)KM$=9$#HP93T*G
+M(-?//AKPCKOBZR:.VG6/3[9R 9W(0.>2% !YZ9-3Z;?:U\-_%2VMXS"'<#/"
+MK;HY8S_$OOZ'KQCU%12Q3C"/-'3N=>.R&G7Q%7V-9.I=ODMT[7OO\CT3X@:'
+MXGU:\LGT">6...-A+Y=SY63GCC(S5+XBW&I:5X!T91=SP7BR11S/'*0Q81-N
+MRP//(K%^,[!]2TEE.5,#D$=^15SXA?\ )+?#GUM__1#459*]1+>R# T)<F"E
+M.SBY/2VN[W=]?N1V'PZN)[OP'IL]S-)-*WF[I)&+,<2N.2?:BHOAG_R3W2_^
+MVO\ Z->BNNC_  X^B/G,R26-K)?S2_-GF/Q"=(_BA,\A 17@+$] -BYKU?\
+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
+%HHH _]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

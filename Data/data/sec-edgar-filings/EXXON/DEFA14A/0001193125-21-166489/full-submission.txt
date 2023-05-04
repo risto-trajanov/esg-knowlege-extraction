@@ -1,0 +1,854 @@
+<SEC-DOCUMENT>0001193125-21-166489.txt : 20210519
+<SEC-HEADER>0001193125-21-166489.hdr.sgml : 20210519
+<ACCEPTANCE-DATETIME>20210519151559
+ACCESSION NUMBER:		0001193125-21-166489
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20210519
+DATE AS OF CHANGE:		20210519
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		21940029
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9729406000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d154162ddefa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEFA14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the
+Registrant&nbsp;&nbsp;&#9746; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Filed by a Party other than the
+Registrant&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>Confidential, for Use of the Commission Only (as permitted by Rule <FONT STYLE="white-space:nowrap">14a-6(e)(2))</FONT></B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Soliciting Material Pursuant to <FONT STYLE="white-space:nowrap">&#167;240.14a-12</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>E<SMALL>XXON</SMALL> M<SMALL>OBIL</SMALL> C<SMALL>ORPORATION</SMALL> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified In Its Charter) </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules <FONT STYLE="white-space:nowrap">14a-6(i)(4)</FONT> and <FONT STYLE="white-space:nowrap">0-11.</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Title of each class of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Aggregate number of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11</FONT>
+(set forth the amount on which the filing fee is calculated and state how it was determined):</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Proposed maximum aggregate value of transaction:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Total fee paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Fee paid previously with preliminary materials.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11(a)(2)</FONT> and identify the filing for which the offsetting fee was paid previously. Identify the
+previous filing by registration statement number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Amount Previously Paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Form, Schedule or Registration Statement No.:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filing Party:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date Filed:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I>The following communication will be distributed to new
+<FONT STYLE="white-space:nowrap">opt-in</FONT> subscribers to a corporate communication channel. </I></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g154162g0519224745550.jpg" ALT="LOGO">
+ </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER:1px solid #000000; padding-left:8pt; padding-right:2pt"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>Welcome
+Email</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Email subject: Welcome to Energy Factor Asia Pacific </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Email copy: </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Thank you for subscribing to Energy Factor
+Asia Pacific&#146;s Exxchange newsletter. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This newsletter keeps you up to date with the cutting-edge developments and innovations the energy sector makes
+to help power our future in the region. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Over the coming weeks we&#146;ll be sharing some of the most important stories in energy, straight to your inbox.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Be sure to list Energy Factor as a &#147;safe sender&#148; so our emails don&#146;t get stuck in your spam box. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>- Energy Factor team </I></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER:1px solid #000000; padding-left:8pt; padding-right:2pt"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>Onboarding email #1:
+Natural gas, cleaner energy</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Email subject:</U> What&#146;s powering your world: lower-carbon technologies, including natural gas </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Thanks again for signing up for the Exxchange newsletter. The world is undergoing an energy transition, and in today&#146;s newsletter we discover how lower
+carbon technologies, including natural gas, is helping to power the way forward while managing the risks of climate change. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Discover the ways in which
+these energy sources are not just keeping the lights on, but changing lives. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As we continue to develop solutions in our business, we&#146;ll keep you
+updated here in our newsletter and on our website. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER:1px solid #000000; padding-left:8pt; padding-right:2pt"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>Onboarding email #2:
+Lower carbon solutions&nbsp;&amp; technology</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Email subject:</U> The technology building a lower-carbon future </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Hello again and thank you for subscribing to our newsletter! This week we&#146;re exploring the innovative developments and new technology,&nbsp;like carbon
+capture and storage, that are helping the world meet the demand for increasing levels of reliable energy while reducing CO2 emission levels. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Make sure to stay tuned as we dive into technological advancements that are helping us work towards a
+lower-carbon world. As we continue to develop solutions in our business, we&#146;ll keep you updated here in our newsletter and on our website. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER:1px solid #000000; padding-left:8pt; padding-right:2pt"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>Onboarding email #3:
+Economic&nbsp;&amp; community development</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Email subject:</U> Fuelling a better life for today and tomorrow </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Hello and thank you again for being a part of our community. Energy is a liberating force, and access to reliable power is helping to change lives around the
+world for the better. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Today, we&#146;re sharing some of the ways ExxonMobil not only supplying energy but also playing an active role in helping to
+improve the communities in which it operates, now and into the future. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Make sure to stay tuned as we dive into the ways we are working towards a better
+tomorrow and a lower-carbon world. As we continue to develop solutions in our business, we&#146;ll keep you updated here in our newsletter and on our website. </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Important Additional Information Regarding Proxy Solicitation </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Exxon Mobil Corporation (&#147;ExxonMobil&#148;) has filed a definitive proxy statement and form of associated BLUE proxy card with the U.S. Securities and
+Exchange Commission (the &#147;SEC&#148;) in connection with the solicitation of proxies for ExxonMobil&#146;s 2021 Annual Meeting (the &#147;Proxy Statement&#148;). ExxonMobil, its directors and certain of its executive officers will be
+participants in the solicitation of proxies from shareholders in respect of the 2021 Annual Meeting. Information regarding the names of ExxonMobil&#146;s directors and executive officers and their respective interests in ExxonMobil by security
+holdings or otherwise is set forth in the Proxy Statement. To the extent holdings of such participants in ExxonMobil&#146;s securities are not reported, or have changed since the amounts described, in the Proxy Statement, such changes have been
+reflected on Initial Statements of Beneficial Ownership on Form 3 or Statements of Change in Ownership on Form 4 filed with the SEC. Details concerning the nominees of ExxonMobil&#146;s Board of Directors for election at the 2021 Annual Meeting are
+included in the Proxy Statement. BEFORE MAKING ANY VOTING DECISION, INVESTORS AND SHAREHOLDERS OF THE COMPANY ARE URGED TO READ ALL RELEVANT DOCUMENTS FILED WITH OR FURNISHED TO THE SEC, INCLUDING THE COMPANY&#146;S DEFINITIVE PROXY STATEMENT AND
+ANY SUPPLEMENTS THERETO AND ACCOMPANYING BLUE PROXY CARD, BECAUSE THEY CONTAIN IMPORTANT INFORMATION. Investors and shareholders can obtain a copy of the Proxy Statement and other relevant documents filed by ExxonMobil free of charge from the
+SEC&#146;s website, www.sec.gov. ExxonMobil&#146;s shareholders can also obtain, without charge, a copy of the Proxy Statement and other relevant filed documents by directing a request by mail to ExxonMobil Shareholder Services at 5959 Las Colinas
+Boulevard, Irving, Texas, 75039-2298 or at shareholderrelations@exxonmobil.com or from the investor relations section of ExxonMobil&#146;s website, www.exxonmobil.com/investor. </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g154162g0519224745550.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g154162g0519224745550.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" +M +D# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+MO3W-32?%[QG K/+JT6X\!!;1X3\<<GVKAY)?*/ 9YI.@'WC_ ("F)$(_W\[
+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
+M2PC#&6^=R6)_UF!CTJU);:=-9Q*;O]U&I .\'Y2.1],4 1?V"QN/-.J7!/\
+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
+MS+;1*T-N9F+8*CL/6K0.0#ZU7N[K[+&KE2V6QUZ4 4WU64&<"T?]W(JC(/S
+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
+M4 %%%% !1110 4444 %%%% !24M)0 #I5+4+Z>S>,164MR'!SY9'RXQ_]?\
+M*KHZ49 (!(R>E &*NO7,B!DT>[P1GYL#C-*-;O'B9TT>Y!"@JK$9/(X_+-;5
+M)D>M &$VO7WF%4T6Y*@]20,\U+_;=R=F-(N@68+SC ]S6P"#T/2EH Q7UF]2
+M3;_9%PR@D%@1^&*1]=NUX&BW18GCD8K:) &2<4 @C(.10!CG6+QH)&CTF?S%
+M&55R!NYJ/_A(9_,6,Z/>>81R,# _&MS(]:,C.,C- &&=?N8][2Z/=*BG (P:
+ME;5[V,N7TJ9DW?(489(]Q6N2!UQ2T 8S:U<F%9(]+N#^\V.AZCCJ*9_;E[L)
+M_L>YSG@9'2MRB@#$CUV[?KHUV,GCD?K6TIW*#@C(S@]J6B@ HHHH **,T4 %
+M%%% !24M)0 #I6?JD5H[PM<W1@8!E0A]N<XS_2M =*HZDUNOEF>R:YQDKM3=
+MMZ4 45BTQ0Q;4W92I4YFR,$5!]GTE8]PU.5E52Q ESQW-3F>S"[?[&EY'3R1
+MBG0RVA5\:1(F$.[]T.1Z>] $<Z:<T8D^WRHLI^78W4DT26>G#Y)-4F!5N09O
+MT-.2X@='8:-(!&,H"@&>13O/LS&7;2IB3(<@Q9.>N: %\C3H8=LFH%DDYS))
+MD'J.*@,&F1Q*W]J2JF, "7&0..!2M=VPACW:+,RJ.!Y><?YS4\<]K,OS:3(N
+MQ3UB'Y"@"J;/2C)_R$I5:501^]/(JS]GT^-/*-TYW-L+;CN)[<TANK9MH?2I
+M"0H.!&#M'84J7EO)*%_LJ<,QW M%QGWH B^RZ=MEMY=2F+!^=\O((]*5$TV)
+MMG]JR;LALM+UQVS3VGAD7SCI#ER^&W)STZTQKBTV871I6(Z Q 4 ->UTU=OF
+M:K+G&[_7=<]Z0V^FY8?VE.FULG,I&>.E*+NW<+G1)0Q&WF,<"I9IX $8:2SL
+MQ.X%.F./2@!A33GVEM6?Y5P )<?C2FWL?(,;:E,8VPX?S.WUHD-LT.]]'8AV
+M&0J<X]:<UW:A%0Z3,<84+Y7 % $"6^EIG.K2MGUG_6I([;3BK1+JDK.ZE WG
+M9;KVH>[MA))')HLQ .,K$"&IT-U:"11_93Q.=VW,8[<T -2WTV0O$NH2M)D8
+M'F'<"/2D3^S<2PK>W&YL;AN;(P:FM9X9'!32GCF +J67 _/UJ,W42D&31I?-
+M?EMJ _KZT :<-S:HD,"R@'&Q%;@G%6JQCJ,2N'.EW._<,'R\D$UJ6TXN8%E"
+M,@;LPP: ):2EI*  =*K7:7K/&;62-0H.X.,[CQC^M61TJI>)$TT+R79@VYPH
+M<*'^OK0! #K#+*K+;JQ0[&4G@]LY_&HQ_;H;!^QE>F23GZU&(+6"-E&LR!6
+M4?O0=ISG(^M->SMMO.LS#><!O-'6@"T!K+-M8VJKD99<Y]^M.D&J?NS$8N%.
+MX-W.>/TJO%:06[*S:O*PX;#3#YJ46D+<)JTAR2[$2C)Z?H* 'O\ VXR84VBM
+MGKR:6+^V?-3S3;&,$;MN<D556"!GP-;N,CG_ %@QBGRPV<;LQU>2-78G:)AC
+M- %@C6-DH'V;=N_=GGI[TF=;QTM,@^IYJO)#;23,PUB968CA9!Q[4&TMQ(Z'
+M69@X^\#*/PH M$ZQL&%M=V[DDG[M&=8$8P+4N3SDG %5H+6WC9,:Q*^&X5I1
+MS[5(]O 56-=6E5E;'RRC)]C0!)#_ &SYV)?LIC'<9R:7&K@J<VQRWS+ST]JK
+M1V<0P'UJ63V,HIQM;69V_P")G)O\S/$H!'L* )F;6=_"6FW)[G.*,ZSN)VVF
+M#C )/%59+>SFE$+:LYEB7!)<9^IJ8VEJ8TV:DZ"-N664#)(QS0!)(-9^TEXV
+MMO)' 0YY]Z%_MCRW++:;]OR#)QG/^%5S!;[TSK,NT-]TR#!/IFFBPMQN*:S.
+MJNQX$PQUZ4 60-:5%.;5GW'<#D#'M^M$AUIG<1K:HF3M+$D]>*BAA@@D5O[7
+M+1*I#(T@.?>FI96V-RZO,1@;OWPZ=!0!,6US>0$M-O'))_&K5E]N D%YY/7Y
+M#'GI[_I6;]DMRV\:W+TPO[X<5J631>0(XKCS]G!8MN/XT 6:2EI*  =*HZB+
+M61XH;FU:;?G:0F0OX]JO#I52]:^5HS9QQ.,-O$AQSVH R(7TA85#:7(I(#$>
+M26_7UH^TZ;&\R_V5<;<[^8L@G&.*ORRZON BM+;;M!R7/7'(_/-*)-6*%C;V
+MP88PNXX/7//Y4 5#+ICB 2::X7.V/,/W>@'TZTHFTF.>0#3Y%895F$!P>QY_
+M"IO.UH%F-I;%0N0H8Y)J6.75)(X2]M!&Q8^9\V<+_C0!4\[392R'39,H@(4Q
+M=5_R:C,^E%Q'_94K#.<^15Y9=69ES:VZ<_,=Y/%,:;669@EI;*HZ%G.3S0!6
+MBGTAXI)([!R,A3B#KFEN)=,2X=9-,E?/+L(<U8\[60VU;*VVY')<U+%)JI \
+MRWMP=^#AC]WU^M % W.DH^?[,GR,'/V<U+OTN-FD_L]P5 DR(3DY_K4PEUA>
+M/L]N_)Y+8IK2:YORMO:E?3<: *V_2PJR#2I-IR 1#S^520G3F$;_ -ENC%\
+M&+D$=ZLQ2:MUE@M^<\!NG'^-()]8*\V=L&[8D.* *@?3I1)C29#+@G:8L;N<
+M=:3S]-!\HZ5,.067R>A'2KD,NL>8%EMK<IGE@YSCZ4Z.75BK&2UME;;E<.3S
+MGI0!2%UI6T(=-E"MEL&#CW-/+Z>B&)]+<0J1L(BR#P#T[58:75Q!N%I;M)G[
+MF\]*0S:T54BTMO=2YH HEM)C1)8]+=E9B"?*Y7CTJ2*[TO+;-,G&1@_Z/U'7
+M^E:"/J.V$&WA#$GS3N^[]*A\[60Q'V2U(&,-YA&: *\*:7<B3R],.=F_]Y%M
+MW8[?6K^F):^09;:U^S[N&4K@\5=_"EH *2EI*  =*IWT1F:-1>M;D9.%(&[I
+M_G\:N#I69J_V#,)OK=I1SM(7.WI_]:@" V-UA,:Y)P?G8[<GTIPMR\:,NM/M
+M ()##YCGK583:$(3"+638PWE?);D#O21_P!@RF11:,I,>]@8R,KTH N?9':,
+MAM7D)5\A@P&..G]:1[=]R*VM2*5780"H);U-0?\ $H2%,63^1DOGRSP>!TI6
+M&D7)+-9R,S.%.8B.3W^E #VMV8A#K<@8C*X(%.>UDDD#IK3KD 8!7!Q542:+
+M,$MGLY 5_=JAC/ ^M-C&A/*84L9#N!R?*('% %S[%*[DIK4H8#G#*:=$B_NT
+M_M4LR D_,/F!]:J))HP222.RD#*H#+Y9!P:=$FDWF";$CRTRNX8X% $ZVBJ&
+MADU>1U9<[2XR.>N::;0^:#_;4H!X4;A_.J?GZ"H.ZS=6)Y C)Y/O4^[1/LB*
+M;9Q%R OEG\: )S:2A@PUJ3 '0LN":<;,.7>#59%9N6(<$?E5/.@E@/L;[MN,
+M")NE*DFB#S"EM(&:,Y781E1Z"@"Q):M(L4;:NPE7+!P1R*1+*55YUR9LG .5
+MZTWS='>U(-LXC7"E?*.1WI$N]'C4[;:55R&.(6[=#0!.(6@1A)K#EI%*!V(X
+M/J/>EC@82B1]79]N1C<H%5A-HDULZ"!S&AWE?+8<GBH5&B0LVZQ9. /N$YR,
+MT 6Q92[PJZU)D@X7<IR:2.!XT*SZT[G&TX(&#P?\_6JHFT."2'R[*7Y6RK+$
+M>#FI8KC2)%$:VL@C#<YC(&20/QSQ0!;M[>2&=7DU=Y0&)*,5P<]JTUD1F*JZ
+MEAU -<P?[ = 'LY4(D/RB-N3G';M6G:W5@MQ";>WD62;Y =A'"^OMQ0!K4E+
+M24  Z53OY+U&C^R0)*.=P8X]/_KU<'2L[5;9[@Q;-0-I@," ?O=/Y4 ,-SJF
+M?^0;%P2#^]ZBG>=J68V^PQ9)*N-_09X/TQ562U!55&M%,L22'&3SG YZ?X4[
+M['*8D1-9(=2Q9@0=V?Q[8H G>YU02LJ:=&4R0K>;^1I8[G4RK[[",%5)&)/O
+M'M506DQ8H-=<OGC!&1Q_A3WMY2JQC6MC)G.".<GOS0!-]HU4&-OL$)! W#S,
+M%3WH,VJ^>0MI%Y>X@,?3WYIIB!@"IJQ^4Y9BV<YZ5%+:D ,NM-'GON&#Z]Z
+M++S:FLC!;*%UP,'?CZTW[1JC%@NGQIA<@F0')]*B>TDE\I1JVUE'S;3]['XT
+M-938$@U<JJ]2#Q_.@!1=:P0 =,A!SRWF\5(+O4BI TU-P?:<R8&,=:CAB>-9
+MF.K[T8;>3PA]N:9]CD& VM,VTYY8<_K0!9:XU(*I6PCR5Y!DZ&HFN=5W@C2X
+MCQC)D&149M#Y84:P0Q RV[G'J.:46LBPLHUHC<PPQ89X[=: ++S:D$;99PEL
+MC&7ZCO2&;5"JNMG"N =T9?D\\8-54MV$$H;6MQ8C#[NGZT&SE=E']N/AA\HR
+M.?\ )H G6XU;&3IT(SV\RG)<ZDY97L(XS@[6WY&0.,U76TDP%7622N=PSQ]>
+MM(;62249UD9QT4]>.O6@"P;C5(@ UA%)CJR/C/T%)-<:M',ZQ6$4D>X;3OQQ
+M4:VKHK0_VN2[$8RW(P/K3W@B,$(7561@A7S/,&6/K0 Y;G52 3ID0R>GF]/T
+MJ]:-,\ :YA6*7)RJG(Z\5#9/%;6RPR7J3.N27+#)_6K$=Q#,<12HYQG"MGB@
+M"6DI:2@ '2L_5&M5\HW4;L#D J<8Z'GGV%: Z54OIKF)HO(MA.ISOYY% &/-
+M'H=N7DDLY"&4'=M+9!Q[^]/WZ-:.L(MG#2)GH3P1SW]*MI<:J64RV,0B)^8!
+MLL!G'TZ<U$;O5MR?\2R/!ZMN''X9H B/]BV/DS^0ZF0'!7+>QS@TQAH8A:1H
+MFR>#\WS'\<U=2?4ODWV,2@L P!S@9Y/7TQ22SZFC*%L(G4DY8'H.>U %2*[T
+M6)F1(I02 ,,#C'YXI;DZ.F8I[:4[&^4X)Y/OFK,4^J.&\RQB0J>!G.1^=+-=
+MZF%7R]-63*Y.7 Y]/Y4 593HUHTKM#)W#X).?7C-1Q7>B+"ZK#<>2WRX(8J>
+M_K6@;G4-L9_L]26'S'(X/;C-->ZU,*-FG(W/(R!_6@"K'_9!5-D$X1WP"<@9
+MZ^M1HVB-<'9:2F0'DC)_K5Q;O6-JEM,BYYP).E*USJJ$$:;$<CDJW2@"JUQI
+M%P^_R)V*_*< C;^&:1ET:>)R;::18V"X&3U]!FK_ -KOUG(.G@Q[ 0P(SN].
+MM(MQJC0EEL8EDWXVLW\/K]: ,^&;0U"LEO*I'R@$'/TZU.[:4D<:&VEY&Y>H
+M(P?7/K4Z7.J'&[3HPW0G(P/UJ26XU!0-MBCMM&0",>_- &<+C1D4MY$VQ@P)
+M.??/&?K21W6A^7M2VD*DG:-IY/6KT=SJ;))YFG1AU&5&[@_CFFFZU8%<:9$,
+M@D_/W["@"O/<:+;W1>2&3SEQS@G&>V>G>FSR:&)%#P.6* J IP![=NW\JORS
+MZD%W)81-E =I;D'GCW[4V2XU-;8.EA&\F5&W..,<_E0 L&C:9- LBVI"."0&
+M)Z'V_&K5KIMK9MN@0J=NW[Q/''^ JI]LU3R\BQ4OCIGC/YU-I]S?SRR"\M!
+MH'RX;.: -"DI:2@ '2JE]!=3&,VUV(-I.05R&],U;'2LW5AIQ>#[?,4/(0;B
+M >GI^% #%L=3164ZF#N  8Q\CG/K^%)!9ZDFT2:@LNU]QXQD>GTJEY&@1JH-
+MVW ."9F/XTBPZ 9"R7,C,J%L"1N0.OUH O266H"YDD.HXB8G9&1C'MFE:RU)
+ME;&I *QW A?N^W7I5-3H4CK(+EV:-1QYC'&W'4?E0T6B+$8_M$OES#)82-C@
+M_IR: +Z65Y]GC4Z@WFJ3EQ_%^%)%8WR1,LFHLTA!P<=\\&LXGP_# P%VY1R,
+MXD8\_P!*60:%>3%C<2-(XZ*[ ]* -&"TU&)EWWPE7/)9>::UAJ)/RZB4_P"
+MYJK;G1"$CBNVRI+[3(V>G?\ "H]FC)(EQ]LE4$Y&7;! [_2@"V;'4 VU=5(Z
+M<%<G^=+)87YG+-JK)%U*A0"/QJL!H,XVK<;V8F08=LGCM3?)T*Y:)?M+LP3:
+MJ^8V2/>@"TNGWY=BVJ,<CY5 Z>_6I8;"_23=-J+2*.@"XK-$>@M')*DTAVK\
+MP61L@=.E/5=(FS*9I]N -Q<@*!Q0!;73]17>7U-F)P%!7 'K3!INJ;CMU=MI
+M]4S5:5="4?9I+ULHY^7S6R*+:VT&9VCAN7=@,X\YNGJ* +KZ?J! 5-39>Y.,
+MD?K4TD%_A"E\B%4 ?,8()]?:LQ?^$?9/)6^^^5Z3-DX/'-/6'0I5DMUNMPR6
+M91*>V0:KDEV%S+N6Q:ZQNR=2B(]H13S;ZHVS;?Q !2&_<CYFSQ^E4HTT3R;A
+MHIV=2F7 D8X4>GI4(@T'RVB^UR+D<@S-D4FFMQWN=!;K(ENB2R>9(HPS8QDU
+M+6)9ZKHUI&T<-SA=_.[)YZ=_I6E:W]M>EA!(&9>2.^,D9^G!I 6:2EI*  =*
+MI:A,\31!;%KK.<D8^7&/7_/%71TJK?1WT@06<\<7/SEER?PH H+?2D C0Y@&
+M&3G;T_QH6_F\T#^Q)1\O#?+Q[5.J:MY,F;NU\S/R$1G&.>O/TIOE:WMP+JT)
+MSP3&>GYT --U)YB*FCOA@NYFVX .,C\/Z4V*[9I1$=&E1-Q 8A<#GK4CP:N=
+MC1WL&X$@@I\IY-*T6L 1D7=L",[\IP3GC% $7VR00.W]BR[E8 * OS>_TIR7
+MDFUG_L>16# 8^7D'N*>8M:[7-J"!P#&3F@0ZQ\^Z[M^1\I$?0T 1S7TL4S;-
+M&E<*/O#;S3_M3&U\PZ3)N!"B+"YP?TI6BUA_**W-NA .\;,Y--,>LY.+NU+[
+M>$V=30!%'=.C&1M$=7/&4VGBI)+V6(Y72)'^4$[<9SZ5*4U8QL?/MD;:,90G
+M![YJ+;K97BYL@<]=A.: ""]\YY$;294VJ<DJ,$CM227IB12-'F.Y1D #C/:I
+ME35%D7=<P%2O/R\@XZTU(=8,GSW=N8PI^['@DT (;AY/+*Z4Q+@LQ<#C';ZT
+MQ;N40L_]C2+(N,*-O.?0U(T&K_*PNH-P7##;\N?7%,>WUQTXO;9&SVBH C%Y
+M<;2?[#<<C'*]*>UV=ASHTNXL%VX7G.<FI(X-7WGS;N$ICC:F#FF+;ZVJHOVR
+MV; ^8M&2<XIW86"*[VYB&D2( AP,#!P.E1+?R[A_Q(9ATY^7K4Q@UO: +RVS
+MCD^73F@U@P)BZ@$X8DX0[2.W'6D Q;IW=5.C2+\X#,=N!GO3[:]F>YC0:7+"
+MKDAI&QP!GT_SS2F+6=ORW5MNQWC.,U<M1<K !=.C2Y.2@P/:@">DI:2@ '2L
+M_4A9^?:R75TT)1MR*'P'/'4=^U: Z51U&>. Q&2PENB<X,<8;;Z_G35NH,R3
+M::"6R+_EA@8F[5.3I3W22?VJX,9W!!-@'GT[T@O($4 :#. !@@0#@<]/R_6I
+MYI[6"9=FCS2?*"'C@&.>U6E%[$MM%5TT4L =388Z*LV!U]J22+1U@E235)75
+MB&(,VXC!/2IS<VN$?^PYRS G_CW&1SWI)7M9TVOH<S+TYB I\B)YF1^1I)93
+M_:TN1P/](Q^%.B3289Q*-4=F0EOGGW#\J?'/;L[+_8DJJO\ $T(YXIS7,)!
+MT68CWB&*.1#YF0^1I4D3%-1E4 8W"8X!ZU(T.FW$$);46)C_ '8E27:6]CBE
+M:[@5=O\ 8EP<]A ,5<LS#=+S8&'8<@21@<^U*44E<:=V4;<:7;M(#J<C;\HR
+M2RY_0U']AT5W>(79# D%/,QCOQ6V;2W+;C!&6]2HS1]DM]V[R(]WKM%9E&')
+M;Z+*H+:C\NW 'G#H/UJ:"/28HHVCOV$<><?ON.?6M0V-HW6VA/U04HL[8(4%
+MO$%/4;!@T 4+&\TNTC,$>H+)R6)DDR?SJW_:E@(Q(;R$(3@,7&,TX6%F#D6L
+M()_V!2FQM&7:;:$C.<%!UH B&K:>6VB[BSG&-U*^JV2/L,ZDAMIQS@_Y%2BR
+MM0P86T0(Z'8*4VEN008(SDY/RCK0! =7T]5+?;(< 9X;-,&MZ:P!%Y&<@D#/
+M)Q5D6-H.EM".WW!2"QM 01:PY'0[!0!)#/%<1^9$X=<XR.Q]*DIJ1I$I6-%4
+M$Y(48YIU !24M)0 #I2U%YR#@YX]J//3U/Y4 2T5%YZ>I_*CST]3^5 $M%1>
+M>GJ?RH\]/4_E0!+147GIZG\J//3U/Y4 2T5%YZ>I_*CST]3^5 $M%1>>GJ?R
+MH\]/4_E0!+147GIZG\J//3U/Y4 2T5%YZ>I_*CST]3^5 $M%1>>GJ?RH\]/4
+M_E0!+147GIZG\J//3U/Y4 2T5%YZ>I_*CST]3^5 $M)4?GIZG\J3ST]3^5 $
+M#_?;ZTVG/]]OK3: "C!]*K:A')-IEU%#_K7A=4YQR0<<UQ-Q!KNG6%C%#'<*
+MJ9,Z @EB/XN/3KUYJ)SY>AV87"+$+XTG?KZ'?TN#Z&N,BB\2W*EH;V0P,<K+
+MN7+#!Q@8X'3.:I_V'XE_M#[0'('FF89EXW$8Z>E3[5](LW670NU*M%'?45Q/
+MV'Q0UPDN^;)0I\TJ],G[_K^%;WAVSO+*RE2]SYC2EA\V>*<9MNUC&OA(TH<R
+MJ)OLC8HHH/0CIQ6AQ!16+_9.I1+^XUF4$DD^8F\<^E"6.N)&RMJR2,5P',6,
+M'/I]* -JBL/^S=;5FD&LAF(P%,.!6A=VUU-:(D%UY4R]7(X/'M0!<HKG_P"R
+M=?9!G7PK8P<0_P#UZL-8:TQ0?VNJA8\,1"/G;/7V% &Q1618:;J=I>>9/JS7
+M$!R6B:/J3TP<\?2K>H6UU<QJMK=_9F!.6VYX_P : +E%8CZ9K;%@-; 4D$?N
+M.1CWS2/I6M2(H.N$%3G*PXSSWYH W**K6$-U!:B.\NA<S;B3*$V9'88JS0 4
+ME+24 /?[[?6FTY_OM]:;0 4444 %%%% !1110 44H!)P!DT,K+]X8H 2BG*C
+M-T!--((."* "BG>6^,[3BD ). ,F@!**<R,OW@13: "BBB@ HHHH **** "D
+MI:2@![_?;ZTVG/\ ?;ZTV@ HHHH **** "BBB@".XCDFLYX8IC#*Z$)(#C:>
+MQJCH6EW6E:>\=]J#7UU+(7>0DX'L*TJ* ([RV-[9I"DYA*R*S$'&0#TJQ(RF
+M0$=!4=% $,=M<IJ+W)U#-NQ)\C;4^-RNH;:6! /I244 0V=L]I#(LDHD+-D8
+9;.*FHHH **** "BBB@ HHHH *2EI* /_V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

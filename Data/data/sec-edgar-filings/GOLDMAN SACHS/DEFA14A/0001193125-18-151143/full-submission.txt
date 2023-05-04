@@ -1,0 +1,397 @@
+<SEC-DOCUMENT>0001193125-18-151143.txt : 20180504
+<SEC-HEADER>0001193125-18-151143.hdr.sgml : 20180504
+<ACCEPTANCE-DATETIME>20180503181632
+ACCESSION NUMBER:		0001193125-18-151143
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20180504
+DATE AS OF CHANGE:		20180503
+EFFECTIVENESS DATE:		20180504
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Goldman Sachs BDC, Inc.
+		CENTRAL INDEX KEY:			0001572694
+		IRS NUMBER:				462176593
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00998
+		FILM NUMBER:		18805385
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		STREET 2:		ATT: PRIVATE CREDIT GROUP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		1-212-902-0328
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		STREET 2:		ATT: PRIVATE CREDIT GROUP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Goldman Sachs Liberty Harbor Capital, LLC
+		DATE OF NAME CHANGE:	20130321
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d549787ddefa14a.htm
+<DESCRIPTION>GOLDMAN SACHS BDC, INC.
+<TEXT>
+<HTML><HEAD>
+<TITLE>Goldman Sachs BDC, Inc.</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P> <P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) of the </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Securities Exchange Act of 1934 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by the
+Registrant&nbsp;&nbsp;&#9746;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filed by a Party other than the
+Registrant&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="96%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Preliminary Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Confidential, for Use of the Commission Only (as permitted by Rule <FONT STYLE="white-space:nowrap">14a-6(e)(2))</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Proxy Statement</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Definitive Additional Materials</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Soliciting Material Pursuant to &#167; <FONT STYLE="white-space:nowrap">240.14a-12</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>Goldman Sachs BDC, Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified in its Charter) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P> <P STYLE="font-size:16pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">No fee required.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Title of each class of securities to which transactions applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Aggregate number of securities to which transaction applies:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11</FONT>
+(Set forth the amount on which the filing fee is calculated and state how it was determined):</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Proposed maximum aggregate value of transaction:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(5)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Total fee paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Fee paid previously with preliminary materials.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="4"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">Check box if any part of the fee is offset as provided by Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11(a)(2)</FONT> and identity the filing for which the offsetting fee was paid previously. Identify the
+previous filing by registration statement number, or the Form or Schedule and the date of its filing.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="24"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD>
+<TD HEIGHT="24" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Amount Previously Paid:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Form, Schedule or Registration Statement No.:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(3)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filing Party:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(4)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date Filed:</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:3%; font-size:12pt; font-family:Times New Roman">On May&nbsp;3, 2018, Goldman Sachs BDC, Inc. (the &#147;Company&#148;) filed a preliminary proxy
+statement containing a unanimous recommendation by its board of directors (the &#147;Board&#148;) to approve a proposal (the &#147;Proposal&#148;) that would permit the Company to reduce the asset coverage requirements applicable to the Company
+under the Investment Company Act of 1940, as amended, from 200% to 150%. Below are excerpts of the Company&#146;s earnings press release, dated May&nbsp;3, 2018 and the earnings slide presentation discussing the Proposal. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Excerpt of Earnings Press Release, dated May&nbsp;3, 2018 </B></P> <P STYLE="font-size:16pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#9679;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Subsequent to quarter-end, following a thorough review of the Small Business Credit Availability Act, the Company and its Board of Directors (the &#147;Board&#148;) have determined that the best course of action is to
+seek stockholder approval to reduce the Company&#146;s asset coverage requirement at the annual stockholder meeting to be held on June 15, 2018. Accordingly, the Company has filed a proxy statement containing a unanimous recommendation by the Board
+to approve a proposal that would permit the Company to reduce its asset coverage requirement from 200% to 150%. If the proposal is approved, the base management fee payable to Goldman Sachs Asset Management, L.P. by the Company will be reduced from
+1.5% of gross assets to 1.0% of gross assets beginning immediately upon receipt of stockholder approval.<SUP STYLE="font-size:85%; vertical-align:top">1</SUP> </TD></TR></TABLE>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">*** </P> <P STYLE="font-size:120pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:120pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:60pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:26%">&nbsp;</P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><SUP STYLE="font-size:85%; vertical-align:top">1</SUP> Pursuant to the Company&#146;s Investment Management Agreement, the management fee is calculated on the
+average value of the Company&#146;s gross assets (including assets purchased with borrowed money, but excluding cash and cash equivalents) at the end of the two most recently completed calendar quarters. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman"><B>Excerpt of Earnings Presentation, dated May&nbsp;4, 2018 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:23pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:23pt; font-family:ARIAL">Quarterly Highlights</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:14pt; font-family:ARIAL"><FONT COLOR="#7399c6">Quarter Ended
+March&nbsp;31, 2018</FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="right">
+
+
+<IMG SRC="g549787g48a48.jpg" ALT="LOGO">
+</P> <P STYLE="font-size:8pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD></TR>
+</TABLE> <P STYLE="line-height:1.5pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.50pt solid #026cb6">&nbsp;</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT COLOR="#7399c6"><FONT STYLE="font-family:Times New Roman" COLOR="#7399c6">&#9726;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top">Net investment income for the quarter ended March 31, 2018 was $0.47 per share, equating to an annualized net investment income yield on book value of 10.4%; </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT COLOR="#7399c6"><FONT STYLE="font-family:Times New Roman" COLOR="#7399c6">&#9726;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top">The Company announced a second quarter dividend of $0.45 per share payable to shareholders of record as of June 29, 2018;<SUP STYLE="font-size:85%; vertical-align:top">1</SUP> </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT COLOR="#7399c6"><FONT STYLE="font-family:Times New Roman" COLOR="#7399c6">&#9726;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top">Net asset value per share for the quarter ended March 31, 2018 was stable at $18.10, as compared to $18.09 for the quarter ended December 31, 2017; </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT COLOR="#7399c6"><FONT STYLE="font-family:Times New Roman" COLOR="#7399c6">&#9726;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top">New investment commitments and fundings were $67.2 million and $72.7 million, respectively; sales and repayments totaled $78.7 million, resulting in net funded portfolio change of $(6.0) million;<SUP
+STYLE="font-size:85%; vertical-align:top">2</SUP> </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT COLOR="#7399c6"><FONT STYLE="font-family:Times New Roman" COLOR="#7399c6">&#9726;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top">The Senior Credit Fund (&#147;SCF&#148;) produced a 12.0% return on investment to the Company; this investment represents the Company&#146;s largest investment at 7.4% of total investments at fair value;<SUP
+STYLE="font-size:85%; vertical-align:top">2,3</SUP> </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT COLOR="#7399c6"><FONT STYLE="font-family:Times New Roman" COLOR="#7399c6">&#9726;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top">Investments on non-accrual represented 0.0% and 0.1% of the total investments at fair value and amortized cost, respectively;<SUP STYLE="font-size:85%; vertical-align:top">2</SUP> and </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="1%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT COLOR="#7399c6"><FONT STYLE="font-family:Times New Roman" COLOR="#7399c6">&#9726;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top">Subsequent to quarter-end, following a thorough review of the Small Business Credit Availability Act, the Company and its Board of Directors (the &#147;Board&#148;) have determined that the best course of action is to
+seek stockholder approval to reduce the Company&#146;s asset coverage requirement at the annual stockholder meeting to be held on June 15, 2018. Accordingly, the Company has filed a proxy statement containing a unanimous recommendation by the Board
+to approve a proposal that would permit the Company to reduce its asset coverage requirement from 200% to 150%. If the proposal is approved, the base management fee payable to Goldman Sachs Asset Management, L.P. by the Company will be reduced from
+1.5% of gross assets to 1.0% of gross assets beginning immediately upon receipt of stockholder approval.<SUP STYLE="font-size:85%; vertical-align:top">4</SUP> </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:90pt; margin-bottom:0pt; font-size:6pt; font-family:Times New Roman"><SUP STYLE="font-size:85%; vertical-align:top">1</SUP> The $0.45 per share dividend is payable on July 16, 2018 to holders of record as of June 29, 2018. </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:6pt; font-family:Times New Roman"><SUP STYLE="font-size:85%; vertical-align:top">2</SUP> The discussion of the investment portfolio of both the Company and the SCF excludes the investment in a
+money market fund managed by an affiliate of The Goldman Sachs Group, Inc. (&#147;Group Inc.&#148;). </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:6pt; font-family:Times New Roman"><SUP STYLE="font-size:85%; vertical-align:top">3</SUP>
+The return on the SCF has been computed based on the net investment income earned from the SCF for the trailing twelve months ended March 31, 2018, which may include dividend income and loan origination and structuring fees, divided by GS BDC&#146;s
+average member&#146;s equity at cost and fair value, adjusted for equity contributions. The SCF&#146;s return to the Company was measured at GS BDC&#146;s average member&#146;s equity at cost over the trailing four quarters. </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:6pt; font-family:Times New Roman"><SUP STYLE="font-size:85%; vertical-align:top">4</SUP> Pursuant to the Company&#146;s Investment Management Agreement, the management fee is calculated on the
+average value of the Company&#146;s gross assets (including assets purchased with borrowed money, but excluding cash and cash equivalents) at the end of the two most recently completed calendar quarters. </P>
+<P STYLE="line-height:1.5pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.50pt solid #026cb6">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="right">3 </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman">In connection with the proposal to reduce the Company&#146;s asset coverage limit, the Company has filed a
+preliminary proxy statement with the SEC. The Company will also file with the SEC a definitive version of the proxy statement that will be sent or provided to stockholders when available. The information contained in the preliminary proxy statement
+is not complete and may be changed. The Company&#146;s stockholders and other interested persons are advised to read the preliminary proxy statement and, when available, the definitive proxy statement in connection with the Board&#146;s solicitation
+of proxies for the meeting because they will contain important information about the proposal. Stockholders are able to obtain copies of the preliminary proxy statement and, once available, will also be able to obtain copies of the definitive proxy
+statement, without charge, at the SEC&#146;s website at www.sec.gov. or by contacting the Company at (800) 621-2550. </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g549787g48a48.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g549787g48a48.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+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
+MR%W\V/<5 )"@^A/ H J?\+$\13:%ITXN[:VG:WU":1FA5O,, RB]<#/?'X4
+M,NOB/XI$=O):B$F+3K2ZDWB)(Y&D(W;F=A@'.!MSS0!='C'Q/<Z]):Q:E#%"
+M^MWFFHOV9242) RG/<\XH S)?B7XKFL;62U,"2+I<=W(S)&J.YE*$L7=<+@8
+M^7G)H V;WQIXBB\1I%'=Q):OKEOIODF!2522,,3NSU&>/ZT ='\,)KNX\'^=
+M>WTEW*UU.-TIRPQ(PQGJ>F:8CK+BRM;MX'N;>.5K>02Q%U!*.!C</0\F@"K!
+MH&CVH@$&F6L0MW:2(+$!L9AAB/0D=: *L/@[PU;K*L&@:?$LR&.0);*-ZD@[
+M3@<C(!Q[4 33>&M#N(9X9](LY(YW5Y5>%2'91A2>.2!Q0!B>(OA[IVM65O9V
+MIAT^VA$H\J.TC="9%P6 (^5AU!!'- &G;>#M!@M=-BETRVNI-.A2&">>)7D
+M3IR1^- %Q= TA)O.73+42>>]QN$0SYK##/\ [Q'4T 02>%/#THM1)HEBXM!M
+M@#6ZGRQG.%XX&>: +#Z#I,D_G2:;;-+YZW.\Q GS5& _^\!WH FL=,L=,69;
+3&SAMA-(99!$@4.YZL<=30!__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

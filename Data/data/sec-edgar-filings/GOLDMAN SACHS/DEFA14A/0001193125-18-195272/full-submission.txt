@@ -1,0 +1,218 @@
+<SEC-DOCUMENT>0001193125-18-195272.txt : 20180618
+<SEC-HEADER>0001193125-18-195272.hdr.sgml : 20180618
+<ACCEPTANCE-DATETIME>20180618111504
+ACCESSION NUMBER:		0001193125-18-195272
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20180618
+DATE AS OF CHANGE:		20180618
+EFFECTIVENESS DATE:		20180618
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Goldman Sachs BDC, Inc.
+		CENTRAL INDEX KEY:			0001572694
+		IRS NUMBER:				462176593
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00998
+		FILM NUMBER:		18903921
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		STREET 2:		ATT: PRIVATE CREDIT GROUP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+		BUSINESS PHONE:		1-212-902-0328
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		STREET 2:		ATT: PRIVATE CREDIT GROUP
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Goldman Sachs Liberty Harbor Capital, LLC
+		DATE OF NAME CHANGE:	20130321
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>d207006ddefa14a.htm
+<DESCRIPTION>GOLDMAN SACHS BDC, INC.
+<TEXT>
+<HTML><HEAD>
+<TITLE>Goldman Sachs BDC, Inc.</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(RULE 14a-101) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>INFORMATION REQUIRED IN PROXY STATEMENT </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A INFORMATION </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) of the </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities Exchange Act of 1934 </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by
+the Registrant &#9745; </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by a Party other than the Registrant &#9744; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Preliminary Proxy Statement </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"><B>Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))</B> </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Definitive Proxy Statement </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9745;</TD>
+<TD ALIGN="left" VALIGN="top">Definitive Additional Materials </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting Material Pursuant to &#167; 240.14a-12 </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>Goldman Sachs BDC, Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">(Name of Registrant as Specified in its Charter) </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">Payment</TD>
+<TD ALIGN="left" VALIGN="top">of Filing Fee (Check the appropriate box): </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9745;</TD>
+<TD ALIGN="left" VALIGN="top">No fee required. </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">Title of each class of securities to which transactions applies: </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top">Aggregate number of securities to which transaction applies: </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(3)</TD>
+<TD ALIGN="left" VALIGN="top">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing fee is calculated and state how it was determined): </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(4)</TD>
+<TD ALIGN="left" VALIGN="top">Proposed maximum aggregate value of transaction: </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(5)</TD>
+<TD ALIGN="left" VALIGN="top">Total fee paid: </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Fee paid previously with preliminary materials. </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identity the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement
+number, or the Form or Schedule and the date of its filing. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">Amount Previously Paid: </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top">Form, Schedule or Registration Statement No.: </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(3)</TD>
+<TD ALIGN="left" VALIGN="top">Filing Party: </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(4)</TD>
+<TD ALIGN="left" VALIGN="top">Date Filed: </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:16pt; font-family:ARIAL" ALIGN="center"><B>GOLDMAN SACHS BDC, INC. </B></P>
+<P STYLE="margin-top:16pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><FONT COLOR="#951826"><B>IMMEDIATE ACTION REQUIRED </B></FONT></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>ADJOURNED MEETING </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">Dear
+Stockholder: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">We recently sent you proxy materials concerning an important proposal affecting your investment in the Goldman Sachs
+BDC, Inc. The Special Meeting, is being adjourned to allow stockholders more time to vote on the proposal as sufficient votes have not been received to reach quorum to hold the meeting. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify"><B>The Special Meeting will reconvene on July 13, 2018, at 10:00 am (Eastern time) at the offices of Goldman Sachs Asset Management,
+L.P. 30 Hudson Street, Jersey City, NJ 07302. This letter was sent because you held shares on the record date and </B><B><I><U>we have not received your vote</U>.</I></B><B> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10.5pt; font-family:ARIAL" ALIGN="center"><B>YOUR FUND&#146;S BOARD RECOMMENDS THAT YOU VOTE <U>FOR</U> THE PROPOSAL </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:14pt; font-family:ARIAL" ALIGN="center"><B><FONT STYLE="font-family:ARIAL" COLOR="#951826"><U>YOUR VOTE IS VERY IMPORTANT</U></FONT> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10.5pt; font-family:ARIAL" ALIGN="center"><B>VOTING NOW HELPS MINIMIZE PROXY COSTS, AVOIDS UNNECESSARY </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10.5pt; font-family:ARIAL" ALIGN="center"><B>COMMUNICATIONS AND ELIMINATES PHONE CALLS TO STOCKHOLDERS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">Please vote using one of the following options: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="11%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="justify"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10.5pt"><FONT COLOR="#951826"><B>1.</B></FONT></P></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10.5pt"><FONT COLOR="#951826"><B></B><B>VOTE ONLINE</B> </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:14%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">Log on to the website or scan the QR code shown on your proxy card. Please have your proxy card in hand to access your control number
+(located in the box) and follow the on-screen instructions. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="11%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="justify"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10.5pt"><FONT COLOR="#951826"><B>2.</B></FONT></P></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10.5pt"><FONT COLOR="#951826"><B></B><B>VOTE BY TOUCH-TONE TELEPHONE</B> </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:14%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">Call the toll free number listed on your proxy card. Please have your proxy card in hand to access your control number (located in the
+box) and follow the recorded instructions. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">A copy of the Proxy Statement may be viewed or downloaded at the website listed on
+your proxy card. Please read the materials carefully. If you have any questions regarding the proposal, or need assistance with voting, you may call Computershare Fund Services, Goldman Sachs BDC, Inc.&#146;s proxy solicitor, toll free at
+<B>1-877-632-0899</B>. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">Thank you for your prompt attention to this matter. If you have already voted, we appreciate your
+participation. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:16pt; font-family:ARIAL" ALIGN="center"><B>GOLDMAN SACHS BDC, INC. </B></P>
+<P STYLE="margin-top:16pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><FONT COLOR="#951826"><B>IMMEDIATE ACTION REQUIRED </B></FONT></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>ADJOURNED MEETING </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">Dear
+Stockholder: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">We recently sent you proxy materials concerning an important proposal affecting your investment in the Goldman Sachs
+BDC, Inc. The Special Meeting, is being adjourned to allow stockholders more time to vote on the proposal as sufficient votes have not been received to reach quorum to hold the meeting. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">The Special Meeting will reconvene on July 13, 2018, at 10:00 am (Eastern time) at the offices of Goldman Sachs Asset Management, L.P.
+30 Hudson Street, Jersey City, NJ 07302. This letter was sent because you held shares on the record date and <I><U>we have not received your vote</U></I>. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10.5pt; font-family:ARIAL" ALIGN="center"><B>YOUR FUND&#146;S BOARD RECOMMENDS THAT YOU VOTE <U>FOR</U> THE PROPOSAL </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:14pt; font-family:ARIAL" ALIGN="center"><B><FONT STYLE="font-family:ARIAL" COLOR="#951826"><U>YOUR VOTE IS VERY IMPORTANT</U></FONT> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10.5pt; font-family:ARIAL" ALIGN="center"><B>VOTING NOW HELPS MINIMIZE PROXY COSTS, AVOIDS UNNECESSARY </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10.5pt; font-family:ARIAL" ALIGN="center"><B>COMMUNICATIONS AND ELIMINATES PHONE CALLS TO STOCKHOLDERS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">Please vote using one of the following options: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="11%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="justify"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10.5pt"><FONT COLOR="#951826"><B>1.</B></FONT></P></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10.5pt"><FONT COLOR="#951826"><B></B><B>VOTE ONLINE</B> </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:14%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">Log on to the website or scan the QR code shown on your proxy card. Please have your proxy card in hand to access your control number
+(located in the box) and follow the on-screen instructions. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10.5pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="11%">&nbsp;</TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="justify"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10.5pt"><FONT COLOR="#951826"><B>2.</B></FONT></P></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10.5pt"><FONT COLOR="#951826"><B></B><B>VOTE BY TOUCH-TONE TELEPHONE</B> </FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:14%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">Call the toll free number listed on your proxy card. Please have your proxy card in hand to access your control number (located in the
+box) and follow the recorded instructions. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">A copy of the Proxy Statement may be viewed or downloaded at the website listed on
+your proxy card. Please read the materials carefully. If you have any questions regarding the proposal, you may call Computershare Fund Services, Goldman Sachs BDC, Inc.&#146;s proxy solicitor, toll free at <B>1-877-632-0899</B>. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:9%; font-size:10.5pt; font-family:ARIAL" ALIGN="justify">Thank you for your prompt attention to this matter. If you have already voted, we appreciate your participation. </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

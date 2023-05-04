@@ -1,0 +1,143 @@
+<SEC-DOCUMENT>0001104659-17-066229.txt : 20171106
+<SEC-HEADER>0001104659-17-066229.hdr.sgml : 20171106
+<ACCEPTANCE-DATETIME>20171106115214
+ACCESSION NUMBER:		0001104659-17-066229
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20171106
+DATE AS OF CHANGE:		20171106
+EFFECTIVENESS DATE:		20171106
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MORGAN STANLEY INSTITUTIONAL FUND INC
+		CENTRAL INDEX KEY:			0000836487
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05624
+		FILM NUMBER:		171178795
+
+	BUSINESS ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		800-548-7786
+
+	MAIL ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY DEAN WITTER INSTITUTIONAL FUND INC
+		DATE OF NAME CHANGE:	19990329
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY INSTITUTIONAL FUND INC
+		DATE OF NAME CHANGE:	19920703
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000836487
+<SERIES-ID>S000002820
+<SERIES-NAME>ACTIVE INTERNATIONAL ALLOCATION PORTFOLIO
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000007736
+<CLASS-CONTRACT-NAME>CLASS I
+<CLASS-CONTRACT-TICKER-SYMBOL>MSACX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000007737
+<CLASS-CONTRACT-NAME>CLASS A
+<CLASS-CONTRACT-TICKER-SYMBOL>MSIBX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000113799
+<CLASS-CONTRACT-NAME>Class L
+<CLASS-CONTRACT-TICKER-SYMBOL>MSLLX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000155887
+<CLASS-CONTRACT-NAME>Class C
+<CLASS-CONTRACT-TICKER-SYMBOL>MSAAX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>a17-22750_4defa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+
+
+<html>
+<head>
+
+
+
+
+  </head>
+<body link=blue lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">MORGAN STANLEY INSTITUTIONAL FUND,&nbsp;INC.</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ACTIVE INTERNATIONAL ALLOCATION PORTFOLIO</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;"><b><u><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">IMPORTANT NOTICE</font></u>:</b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Please exercise your right to vote as soon as possible!</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dear Shareholder:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We recently sent you proxy materials concerning an important proposal affecting your fund, which will be considered at a Special Meeting of Shareholders of the fund on Friday, December&nbsp;8, 2017 at 522 Fifth Avenue, 3</font><font size="1" style="font-size:6.5pt;position:relative;top:-3.0pt;">rd</font>&#160;Floor, New York, NY 10036. This letter was sent because you held shares in the fund on the record date and <b><i style="font-weight:bold;">we have not received your vote</i></b>.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">YOUR FUND&#146;S BOARD RECOMMENDS YOU VOTE &#147;FOR&#148; THE PROPOSAL</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><u><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">YOUR VOTE IS VERY IMPORTANT</font></u></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">VOTING NOW HELPS MINIMIZE PROXY COSTS, AVOIDS UNNECESSARY COMMUNICATIONS WITH SHAREHOLDERS AND ELIMINATES PHONE CALLS</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Please vote using one of the following options:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .5in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b>VOTE ONLINE</b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Log on to the website listed on your proxy card.&#160; Please have your proxy card in hand to access your control number (located in the box) and follow the on screen instructions.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .5in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">2.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b>VOTE BY TOUCH-TONE TELEPHONE</b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Call the toll free number listed on your proxy card. Please have your proxy card in hand to access your control number (located in the box) and follow the recorded instructions.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .5in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">3.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b>VOTE BY MAIL</b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Complete, sign and date the enclosed proxy card(s), then return them in the enclosed postage paid envelope.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .5in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">4.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b>SPEAK WITH A PROXY SPECIALIST</b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Call 1-866-875-8612 to speak to a live proxy specialist.&#160; We can answer your questions and record your vote.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt .5in;text-indent:-.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">5.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b>Attend the Special Meeting of Shareholders on December&nbsp;8, 2017.</b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The proxy materials we sent you contain important information regarding the proposal that you and other shareholders are being asked to consider. Please read the materials carefully. If you have any questions regarding the proposal, or need assistance with voting, you may call Computershare Fund Services, the fund&#146;s proxy solicitor, toll free at </font><b>1-866-875-8612</b>.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Thank you for your prompt attention to this matter. If you have already voted, we appreciate your participation.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109772\17-22750-4\task8627316\22750-4-bc.htm',USER='109772',CD='Nov  6 20:59 2017' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

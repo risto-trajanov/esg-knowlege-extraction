@@ -1,0 +1,118 @@
+{
+  "docid": "30115002",
+  "title": "Chevron on lower carbon energy",
+  "uri": "Custom3",
+  "text": "Chevron believes the future of energy is lower carbon and aims to equip stockholders with data and facts so that they can make informed choices as the world moves toward the global net-zero ambitions of the Paris agreement.",
+  "entities": [
+    {
+      "uri": "Q22668887",
+      "boundaries": [
+        0,
+        7
+      ],
+      "surfaceform": "Chevron",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Paris_agreement",
+      "boundaries": [
+        124,
+        138
+      ],
+      "surfaceform": "Paris agreement",
+      "annotator": "Me"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q22668887",
+        "boundaries": [
+          0,
+          7
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P6108",
+        "boundaries": null,
+        "surfaceform": "believes",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "object": {
+        "uri": "Custom4",
+        "boundaries": [
+          31,
+          45
+        ],
+        "surfaceform": "lower carbon",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q22668887",
+        "boundaries": [
+          0,
+          7
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P5536",
+        "boundaries": null,
+        "surfaceform": "aims to",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "object": {
+        "uri": "Custom7",
+        "boundaries": [
+          70,
+          101
+        ],
+        "surfaceform": "equip stockholders with data and facts",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Custom7",
+        "boundaries": [
+          70,
+          101
+        ],
+        "surfaceform": "equip stockholders with data and facts",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P1036",
+        "boundaries": null,
+        "surfaceform": "can make",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "object": {
+        "uri": "Custom8",
+        "boundaries": [
+          105,
+          151
+        ],
+        "surfaceform": "informed choices as the world moves toward the global net-zero ambitions of the Paris agreement",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    }
+  ]
+}

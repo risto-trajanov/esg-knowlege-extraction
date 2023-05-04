@@ -1,0 +1,118 @@
+{
+  "docid": "30115002",
+  "title": "Chevron peers' GHG reduction goals",
+  "uri": "Custom1",
+  "text": "This focus has led many Chevron peers to commit to major GHG reductions, including setting “net zero emission” goals by 2050.",
+  "entities": [
+    {
+      "uri": "Q1316",
+      "boundaries": [
+        35,
+        41
+      ],
+      "surfaceform": "Chevron",
+      "annotator": "Me"
+    },
+    {
+      "uri": "Custom3",
+      "boundaries": [
+        76,
+        80
+      ],
+      "surfaceform": "2050",
+      "annotator": "Date_Linker"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q1316",
+        "boundaries": [
+          35,
+          41
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P7257",
+        "boundaries": null,
+        "surfaceform": "commit to",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "object": {
+        "uri": "Custom4",
+        "boundaries": [
+          49,
+          68
+        ],
+        "surfaceform": "major GHG reductions",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q1316",
+        "boundaries": [
+          35,
+          41
+        ],
+        "surfaceform": "Chevron",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P2043",
+        "boundaries": null,
+        "surfaceform": "setting",
+        "annotator": "NoSubject-Triple-aligner"
+      },
+      "object": {
+        "uri": "Custom5",
+        "boundaries": [
+          70,
+          87
+        ],
+        "surfaceform": "net zero emission goals",
+        "annotator": "Me"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "NoSubject-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Custom5",
+        "boundaries": [
+          70,
+          87
+        ],
+        "surfaceform": "net zero emission goals",
+        "annotator": "Me"
+      },
+      "predicate": {
+        "uri": "P585",
+        "boundaries": null,
+        "surfaceform": "by",
+        "annotator": "Simple-Aligner"
+      },
+      "object": {
+        "uri": "Custom3",
+        "boundaries": [
+          76,
+          80
+        ],
+        "surfaceform": "2050",
+        "annotator": "Date_Linker"
+      },
+      "sentence_id": 0,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Simple-Aligner"
+    }
+  ]
+}

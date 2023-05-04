@@ -1,0 +1,193 @@
+{
+  "docid": "30113944",
+  "title": "Growing Consensus on Climate-Related Risks",
+  "uri": "Q7835178",
+  "text": "A growing international consensus has emerged among financial institutions that climate-related risks are a source of financial risk, and therefore limiting global warming is essential to risk management and responsible stewardship of the economy.\n\nBacking from investors that insist on targets for all emissions continues to gain momentum: 2021 saw unprecedented investor support for climate resolutions. In the US, three of these climate resolutions passed with a historic majority. In Europe, support for these climate resolutions continued to build.",
+  "entities": [
+    {
+      "uri": "Q7835178",
+      "boundaries": [
+        0,
+        51
+      ],
+      "surfaceform": "Growing Consensus on Climate-Related Risks",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q270364",
+      "boundaries": [
+        56,
+        78
+      ],
+      "surfaceform": "financial institutions",
+      "annotator": "Governance"
+    },
+    {
+      "uri": "Q12299",
+      "boundaries": [
+        130,
+        144
+      ],
+      "surfaceform": "global warming",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q185285",
+      "boundaries": [
+        253,
+        262
+      ],
+      "surfaceform": "investors",
+      "annotator": "Investor"
+    },
+    {
+      "uri": "Q212836",
+      "boundaries": [
+        310,
+        318
+      ],
+      "surfaceform": "emissions",
+      "annotator": "Environmental"
+    },
+    {
+      "uri": "Q4917",
+      "boundaries": [
+        407,
+        409
+      ],
+      "surfaceform": "US",
+      "annotator": "Social"
+    },
+    {
+      "uri": "Q458",
+      "boundaries": [
+        510,
+        516
+      ],
+      "surfaceform": "Europe",
+      "annotator": "Social"
+    }
+  ],
+  "triples": [
+    {
+      "subject": {
+        "uri": "Q7835178",
+        "boundaries": [
+          0,
+          51
+        ],
+        "surfaceform": "Growing Consensus on Climate-Related Risks",
+        "annotator": "Environmental"
+      },
+      "predicate": {
+        "uri": "P2046",
+        "boundaries": null,
+        "surfaceform": "limiting global warming",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q12299",
+        "boundaries": [
+          130,
+          144
+        ],
+        "surfaceform": "global warming",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 1,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q185285",
+        "boundaries": [
+          253,
+          262
+        ],
+        "surfaceform": "investors",
+        "annotator": "Investor"
+      },
+      "predicate": {
+        "uri": "P2046",
+        "boundaries": null,
+        "surfaceform": "targets for all emissions",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q212836",
+        "boundaries": [
+          310,
+          318
+        ],
+        "surfaceform": "emissions",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 2,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q4917",
+        "boundaries": [
+          407,
+          409
+        ],
+        "surfaceform": "US",
+        "annotator": "Social"
+      },
+      "predicate": {
+        "uri": "P2860",
+        "boundaries": null,
+        "surfaceform": "support for climate resolutions",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835178",
+        "boundaries": [
+          0,
+          51
+        ],
+        "surfaceform": "Growing Consensus on Climate-Related Risks",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 3,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    },
+    {
+      "subject": {
+        "uri": "Q458",
+        "boundaries": [
+          510,
+          516
+        ],
+        "surfaceform": "Europe",
+        "annotator": "Social"
+      },
+      "predicate": {
+        "uri": "P2860",
+        "boundaries": null,
+        "surfaceform": "support for climate resolutions",
+        "annotator": "Environmental-Triple-aligner"
+      },
+      "object": {
+        "uri": "Q7835178",
+        "boundaries": [
+          0,
+          51
+        ],
+        "surfaceform": "Growing Consensus on Climate-Related Risks",
+        "annotator": "Environmental"
+      },
+      "sentence_id": 4,
+      "dependency_path": null,
+      "confidence": null,
+      "annotator": "Environmental-Triple-aligner"
+    }
+  ]
+}

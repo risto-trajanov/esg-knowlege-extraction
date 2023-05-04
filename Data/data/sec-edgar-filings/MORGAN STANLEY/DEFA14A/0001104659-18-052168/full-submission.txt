@@ -1,0 +1,303 @@
+<SEC-DOCUMENT>0001104659-18-052168.txt : 20180815
+<SEC-HEADER>0001104659-18-052168.hdr.sgml : 20180815
+<ACCEPTANCE-DATETIME>20180815093140
+ACCESSION NUMBER:		0001104659-18-052168
+CONFORMED SUBMISSION TYPE:	DEFA14A
+PUBLIC DOCUMENT COUNT:		5
+FILED AS OF DATE:		20180815
+DATE AS OF CHANGE:		20180815
+EFFECTIVENESS DATE:		20180815
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MORGAN STANLEY INSTITUTIONAL FUND INC
+		CENTRAL INDEX KEY:			0000836487
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEFA14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-05624
+		FILM NUMBER:		181019917
+
+	BUSINESS ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+		BUSINESS PHONE:		800-548-7786
+
+	MAIL ADDRESS:	
+		STREET 1:		522 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10036
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY DEAN WITTER INSTITUTIONAL FUND INC
+		DATE OF NAME CHANGE:	19990329
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MORGAN STANLEY INSTITUTIONAL FUND INC
+		DATE OF NAME CHANGE:	19920703
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000836487
+<SERIES-ID>S000030617
+<SERIES-NAME>Global Discovery Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000094895
+<CLASS-CONTRACT-NAME>Class I
+<CLASS-CONTRACT-TICKER-SYMBOL>MLDIX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000094896
+<CLASS-CONTRACT-NAME>Class L
+<CLASS-CONTRACT-TICKER-SYMBOL>MGDLX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000094897
+<CLASS-CONTRACT-NAME>Class A
+<CLASS-CONTRACT-TICKER-SYMBOL>MGDPX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000155903
+<CLASS-CONTRACT-NAME>Class C
+<CLASS-CONTRACT-TICKER-SYMBOL>MSPCX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0000836487
+<SERIES-ID>S000035028
+<SERIES-NAME>Global Insight Portfolio
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000107709
+<CLASS-CONTRACT-NAME>Class I
+<CLASS-CONTRACT-TICKER-SYMBOL>MBPIX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000107710
+<CLASS-CONTRACT-NAME>Class A
+<CLASS-CONTRACT-TICKER-SYMBOL>MBPHX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000107711
+<CLASS-CONTRACT-NAME>Class L
+<CLASS-CONTRACT-TICKER-SYMBOL>MBPLX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000155907
+<CLASS-CONTRACT-NAME>Class C
+<CLASS-CONTRACT-TICKER-SYMBOL>MSIZX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEFA14A
+<SEQUENCE>1
+<FILENAME>a18-18803_2defa14a.htm
+<DESCRIPTION>DEFA14A
+<TEXT>
+
+
+<html>
+<head>
+
+
+
+  </head>
+<body link=blue lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">MORGAN STANLEY INSTITUTIONAL FUND,&nbsp;INC. GLOBAL DISCOVERY PORTFOLIO</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">MORGAN STANLEY INSTITUTIONAL FUND,&nbsp;INC. GLOBAL INSIGHT PORTFOLIO</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">IMPORTANT SHAREHOLDER INFORMATION</font></b><br> Please vote promptly</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dear Stockholder:</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">We recently sent you proxy materials concerning an important proposal regarding your Portfolio, which will be considered at a special meeting of stockholders on October&nbsp;17, 2018 at 522 Fifth Avenue, 3</font><font size="1" style="font-size:6.5pt;position:relative;top:-3.0pt;">rd</font>&#160;Floor, New York, NY 10036. This letter was sent to you because you held shares in the Portfolio on the record date and we have not received your vote.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Your vote is critical to this process. Please vote prior to the Special Meeting on October&nbsp;17, 2018.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">VOTING IS QUICK AND EASY</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Read the enclosed materials and vote by one of these four options:</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="23%" style="padding:0in 0in 0in 0in;width:23.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-weight:bold;"><img width="51" height="38" src="g188032bgi001.gif"></font></b></p>    </td>
+<td width="22%" style="padding:0in 0in 0in 0in;width:22.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman"><img width="49" height="36" src="g188032bgi002.jpg"></font></p>    </td>
+<td width="25%" style="padding:0in 0in 0in 0in;width:25.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-weight:bold;"><img width="47" height="42" src="g188032bgi003.gif"></font></b></p>    </td>
+<td width="29%" style="padding:0in 0in 0in 0in;width:29.16%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman"><img width="49" height="48" src="g188032bgi004.jpg"></font></p>    </td>   </tr>
+<tr>
+<td width="23%" valign="top" style="padding:0in 0in 0in 0in;width:23.34%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Vote Online<br><br></font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Visit   the website noted<br>   on the enclosed proxy<br>   voting card and follow<br>   the instructions</font></p>    </td>
+<td width="22%" valign="top" style="padding:0in 0in 0in 0in;width:22.5%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Vote by Mail<br><br></font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mail   your signed proxy<br>   voting card(s)&nbsp;in the<br>   postage-paid envelope</font></p>    </td>
+<td width="25%" valign="top" style="padding:0in 0in 0in 0in;width:25.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Vote by Phone<br><br></font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Call   the toll-free number printed on the enclosed<br>   proxy voting card and follow the automated instructions. Available 7 days a   week</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">24   hours a day.</font></p>    </td>
+<td width="29%" valign="top" style="padding:0in 0in 0in 0in;width:29.16%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Speak with a Proxy</font></b></p>
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Specialist<br>    </font></b>Call 1 866 209 5914 with any   questions. Specialists can assist with voting. Available Mon-Fri from<br>   9 a.m.&nbsp;&#150; 6 p.m.&nbsp;ET and Sat from 10 a.m.&nbsp;&#150; 6 p.m.&nbsp;ET</p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Thank you for investing with Morgan Stanley.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mary E. Mullin</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Secretary</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\111404\18-18803-2\task9012135\18803-2-bg.htm',USER='111404',CD='Aug 15 04:10 2018' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g188032bgi001.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g188032bgi001.gif
+M1TE&.#=A,P F '<  "'^&E-O9G1W87)E.B!-:6-R;W-O9G0@3V9F:6-E "P
+M    ,P F (:5''&<*WN8)':;*7F;*7J>+WV9)G>9)7>7('2A-8&C.H6C.H2B
+M.(.E/XBA-H*T7YRN49.M3Y&L3)"I1XVS7)JR6IBG0HFL3I"K3(^S79JR6IFW
+M99^V8YZY:*&Z;*.^<ZC#?Z_/F;_$@;#&AK3+D;K)C+?*CKG-E;W2GL/1G,+;
+MLL_4I,;6I\C7J<G7J,GER-WBP]GOW>GHSN'LU^;NV^GIT>+TZ?'Z]/CY]/CY
+M\?;RY.[TY_#Y\_?X[_7VZ_/TZ/'___\! @,! @,! @,! @,! @,! @,! @,!
+M @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,!
+M @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,!
+M @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,!
+M @,! @,! @,! @,! @,! @,! @,! @,! @,! @,! @,']8! @H.$A8:'B(F*
+MBXR-CH,V(0\0E)66EYB9F!TJ-XHQ$0 )$IJEII<3 0(>.(D4 RLYC[.#.B($
+M((@R"B,[M+] ,Q46/(<H!2_ OSTI"S+&R,JTS,[0R=*/U,^&Q]?8C=K6WX[A
+MW-'CC.6%W>CIS=OKY^V)ZH3L\_3OXOB(]8/W_ SY$P0P(*&!0 H:%(10X<*&
+M\A8RU&?.FT0@$"U*S'AQ$,>.&"G&T_A0I+V(&TT.@L& A ^0-#80.\3C@H%8
+M%VV4./ A40T, !J<&FI*@@,$&7XHLF%" ]&GF3BP\ 2RJM6KWWJT@ KAA Z#
++6KFZZ(&U+,A  #L!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g188032bgi002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g188032bgi002.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  D #$# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#V+Q9K=WH6
+MD)/868N[R:=8(8B< LV?SZ=*RM(UGQ-KEG]HLI=!8*=LD;"97B;NK+U!J_XM
+M_P"8%_V%[?\ ]FJ35_#GVF\_M72KC[!JZC'G*,I,!_#*O\0]^HK16MJ=,'!0
+M2:U?4C_XK3_J ?\ D:C_ (K3_J ?^1JETCQ']IN_[+U6#[!JZ#)@8_),/[T3
+M?Q#VZCOTJ/5_$4JWIT?0X%O-6(^?)_=6H/\ %*W;V4<FC6]K!:?-R\J,G6M?
+M\4:(D2RC1)KJ<[;>T@69I93[#T]2>!70^&]4N]6TMI;^U2VO(9G@FC1MRAU.
+M#@^E1Z)X=BTN62^N9FOM5G&)KR4<D?W4'\*^PIOAC_5:K_V$[C_T*AM-:!-P
+M<&HK;J;M%%%9G,<YXM_Y@7_87M__ &:GZ[K-RM[#HFC;'U6<;V=AN2UBSS(P
+M_0#N:A\<1:BVCVMUI=H;NYL[R.Y$*]6"Y[=^2.!65X?U2#1[:62XTO7[G4KI
+MO-N[DZ7+F1_0<<*.@'85JE>-SKA"]-2WMT.KU71;+6K1;>^BW[#NCE0[7B;L
+MR,.5-1V>BP:/H\MGI"I!*RL5ED&\M*1]]SU8YZU0_P"$P@_Z VO_ /@LE_PH
+M_P"$P@_Z VO_ /@LE_PJ;2M8SY*MN7H6-!UYM0>73]0A%IK%J/W]OGAAVD0]
+MT/Z=#3?#'^JU7_L)W'_H5<_X@U*#5E@NK73-?M=4M#OM;D:7+\I[JW'*'H16
+MYX-COQHDEQJ=I]DNKJYEN&A/5-QS^'T--JRN7."C!RVOT_KH=#11169RA111
+00 4444 %%%% !1110!__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g188032bgi003.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g188032bgi003.gif
+M1TE&.#=A+P J '<  "'^&E-O9G1W87)E.B!-:6-R;W-O9G0@3V9F:6-E "P
+M    +P J (23&&^9)G>@-(&G0XJN49.T8)RW99^U8IV[;J7"?:[)B[?0FL#6
+MJ,G=M]+DQ=OKU.3QXNWX\?;___\! @,! @,! @,! @,! @,! @,! @,! @,!
+M @,! @,! @,! @,! @,%_Z DCF1IGFBJKFSKOG LSW1MWS.T) XN+P& \.%S
+M10J P>,!(!19CP% ,5( &$_5(- @102!2/;4 "Q,#D!B;+(23<@W6Y3NF2 !
+MYUP$F:(2 ')S GIM '9[@! F7V%[(DQ4)59=CR($CB-]A98,?E6!EB288B)E
+M!J(C:04D!U>I(H"5(E*"CXV+(A$! ;9[:0,D#[REHE8())X#Q99(6"/*S'L1
+M4L\BT<(.OC>[O<E)8@X$0FK2-\/>T !YZSP(2=LUZ((.O K%#$%G3_->YE$
+M"IB3QPM1B@B !,2;,>P5BS+!^$E9PP+)F CC!N1"D089&RL!))D8)F"@#X "
+@K!Q!XK6P")!V/12PA!6!@11R!%K.@<! P2Q8,D(  #L!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>g188032bgi004.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g188032bgi004.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  P #$# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#W^H+N\MK"
+MW:XN[B*WA7K)*X51^)J#6=5AT72+G4)P62%<A%ZNQX51[DD#\:Q=-\,M?2IJ
+MWB54O-1;YH[=OFAM!V5%Z$^K'G-4EI=FD8*W-+8>/'&ESG_B7V^I:B/[UG92
+M.O\ WT0!^M./C2Q@^:^L-6L(N\MS8N$'U*YQ^-=%PJ]@ /RK)T;Q+I6O-,EA
+M<;GB)RCJ59ES@. >JGL13T[%+D:;479>?_ -"SOK74;5;FRN(KB!_NR1,&!_
+M*IZY36M&?1I)/$&@1"*XB&^[LXQB.[C'WL@<!P,D$=^#G-=)97D.H6,%Y;MN
+MAGC61#Z@C(I-=43."2YH[$]%%%29G-^+!YUUX>MFXCDU6-GR>#L1W /U('Y5
+MH:IKUKI$L<=Q#>.9%+ P6LDH_$J#@U0\9C;I^G7(_P!9;ZG;.GU,@0_HQ%:"
+M:L3XGET=X0N+-;J.3=]X;RK#'M\OYU?1&]KP3MHKF->7&K>*8C865E=:7I\G
+MRW-Y=+Y<K)W6-.H)Z;FQCGBM&^\*Z7>VMK$L;VLMF@2UN+5_+EA &  WI['(
+MK2M[5X+BZE:ZGF$[AECD(VQ8 &%P.G&:2:SDEU"VN5O+B-(0P:!"NR7/][(S
+MQVP12YNPO:-.T=$C&T:ZU*UU^YT+4[Q+X):I<P7'E"-V4LRD, <$C Y '6CP
+M1\GAOR!_J[>ZN(8QZ*LK #\!65)--=?&.%+8GRK/32MT1T^8D@'\T-:W@4 ^
+M#-.ER"\ZM.Y]6=RQ_4U4EI]QI55H7[V_4Z*BBBLSE.-\87KIK6DVU[#<)HT;
+MBZEN(86EWRH?DC(4$@9PQ/?IV--U>^>:.P\66=C>1C3I72>*>(H\MLP&]@O7
+M .&&<?=-=I15J6VANJR26FW],P-?N=8O/#L=SX3EMI9Y65E=R"&C(.2N>,].
+MO;/>L?4+_P 7:9H9NM5U#1K(*N&D@@>65F[*BDA2Q_+\*U/^$0AMKAY='U.^
+MTI9&+O!;LK0DGJ0C@@'Z8J6R\*VT-_'J%_>7>IWD7,,EVX*Q>Z( %!]\9IIQ
+M1<9TXKHUZ:_Y&/X=C?PEH"7VLPWMQ?ZC+YU[/'$9FBX^4/CG '' ."35CP)/
+M-]EO+&.&8Z5:RXL;F6)HV=&).S:P!^7IGN,>E==12<KW(E6YD[K5_P!?\ **
+&**@P/__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
