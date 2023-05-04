@@ -1,0 +1,84 @@
+<View>
+   <Relations>
+    <Relation value="gen:is"/>
+    <Relation value="gen:use"/>
+    <Relation value="gen:lack"/>
+    <Relation value="gen:has"/>
+    <Relation value="gen:type of"/>
+    <Relation value="gen:consists"/>
+    <Relation value="env:reduce"/>
+    <Relation value="env:responsibility"/>
+    <Relation value="env:recycle"/>
+    <Relation value="gen:improve"/>
+    <Relation value="gen:prevent"/>
+    <Relation value="env:polute"/>
+    <Relation value="env:conserve"/>
+    <Relation value="env:emission"/>
+    <Relation value="env:deforestation"/>
+    <Relation value="env:degradation"/>
+    <Relation value="env:disposal"/>
+    <Relation value="soc:protect"/>
+    <Relation value="soc:engage"/>
+    <Relation value="soc:violates"/>
+    <Relation value="soc:exploits"/>
+    <Relation value="soc:breach"/>
+    <Relation value="gov:lobby"/>
+    <Relation value="gov:corrupt"/>
+    <Relation value="gov:bribe"/>
+    <Relation value="gen:lack"/>
+
+
+  </Relations>
+  <Labels name="label-General" toName="text">
+    <Label value="Organization" background="orange"/>
+    <Label value="Person" background="red"/>
+    <Label value="Environmental" background="green"/>
+    <Label value="Social" background="yellow"/>
+    <Label value="Governence" background="blue"/>
+  </Labels>
+  <Labels name="label-Env" toName="text">
+    <Label value="Carbon Footprint" background="green"/>
+    <Label value="Climate Change" background="green"/>
+    <Label value="Water" background="green"/>
+    <Label value="Renewable Energy " background="green"/>
+    <Label value="Resource Management" background="green"/>
+    <Label value="Air Quality" background="green"/>
+    <Label value="Waste" background="green"/>
+    <Label value="Biodiversity" background="green"/>
+    <Label value="Pollution" background="green"/>
+    <Label value="Natural Resource" background="green"/>
+    <Label value="Chemical" background="green"/>
+  </Labels>
+  <Labels name="label-Soc" toName="text">
+    <Label value="Diversity and Inclusion" background="yellow"/>
+    <Label value="Human Rights" background="yellow"/>
+    <Label value="Labor" background="yellow"/>
+    <Label value="Data Privacy" background="yellow"/>
+    <Label value="Community" background="yellow"/>
+    <Label value="Health and Safety" background="yellow"/>
+    <Label value="Well-being" background="yellow"/>
+    <Label value="Education and Training" background="yellow"/>
+    <Label value="Equal Opportunities" background="yellow"/>
+    <Label value="Housing and Benefits" background="yellow"/>
+    <Label value="Philanthropy" background="yellow"/>
+    <Label value="Discrimination and Exclusion" background="yellow"/>
+  </Labels>
+  <Labels name="label-Gov" toName="text">
+    <Label value="Transparency and Disclosure" background="blue"/>
+    <Label value="Risk management" background="blue"/>
+    <Label value="Corruption" background="blue"/>
+    <Label value="Political" background="blue"/>
+    <Label value="Independent, and diverse board" background="blue"/>
+    <Label value="Whistleblower" background="blue"/>
+    <Label value="Shareholder" background="blue"/>
+    <Label value="Lawsuit" background="blue"/>
+    <Label value="Money Laundring" background="blue"/>
+    <Label value="Conflict of Interest" background="blue"/>
+
+  </Labels>
+  <Text name="text" value="$text"/>
+</View>
+
+<!-- {"data": {
+  "text": "Microsoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800."
+}} -->

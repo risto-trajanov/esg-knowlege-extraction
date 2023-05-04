@@ -1,0 +1,1918 @@
+<SEC-DOCUMENT>0001193125-17-287466.txt : 20170918
+<SEC-HEADER>0001193125-17-287466.hdr.sgml : 20170918
+<ACCEPTANCE-DATETIME>20170918172503
+ACCESSION NUMBER:		0001193125-17-287466
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20171102
+FILED AS OF DATE:		20170918
+DATE AS OF CHANGE:		20170918
+EFFECTIVENESS DATE:		20170918
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Goldman Sachs Middle Market Lending Corp.
+		CENTRAL INDEX KEY:			0001683074
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55746
+		FILM NUMBER:		171090537
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282-2198
+		BUSINESS PHONE:		212-902-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282-2198
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Goldman Sachs Middle Market Lending LLC
+		DATE OF NAME CHANGE:	20160825
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>d453882ddef14a.htm
+<DESCRIPTION>DEF 14A
+<TEXT>
+<HTML><HEAD>
+<TITLE>DEF 14A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>(RULE <FONT STYLE="white-space:nowrap">14a-101)</FONT> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>INFORMATION REQUIRED IN PROXY STATEMENT </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SCHEDULE 14A INFORMATION </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Proxy Statement Pursuant to Section&nbsp;14(a) of the </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Securities Exchange Act of 1934 </B></P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by
+the Registrant &#9745; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Filed by a Party other than the Registrant &#9744; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box: </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;Preliminary Proxy Statement </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;<B>Confidential, for Use of the Commission Only (as permitted by Rule <FONT STYLE="white-space:nowrap">14a-6(e)(2))</FONT></B>
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#9745;&nbsp;&nbsp;&nbsp;&nbsp;Definitive Proxy Statement </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;Definitive Additional Materials </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;Soliciting Material Pursuant to &#167; <FONT STYLE="white-space:nowrap">240.14a-12</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Goldman Sachs Middle Market Lending Corp. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Registrant as Specified in its Charter) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Payment of Filing Fee (Check the appropriate box): </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#9745;&nbsp;&nbsp;&nbsp; No fee required. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;Fee computed on table below per Exchange Act Rules <FONT STYLE="white-space:nowrap">14a-6(i)(1)</FONT> and <FONT
+STYLE="white-space:nowrap">0-11.</FONT> </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">Title of each class of securities to which transactions applies: </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top">Aggregate number of securities to which transaction applies: </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(3)</TD>
+<TD ALIGN="left" VALIGN="top">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11</FONT> (Set forth the amount on which the filing fee is calculated and state how it
+was determined): </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(4)</TD>
+<TD ALIGN="left" VALIGN="top">Proposed maximum aggregate value of transaction: </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(5)</TD>
+<TD ALIGN="left" VALIGN="top">Total fee paid: </TD></TR></TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#9744;&nbsp;&nbsp;&nbsp;&nbsp;Fee paid previously with preliminary materials. </P>
+<P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Check box if any part of the fee is offset as provided by Exchange Act Rule <FONT STYLE="white-space:nowrap">0-11(a)(2)</FONT> and identity the filing for which the offsetting fee was paid previously. Identify the
+previous filing by registration statement number, or the Form or Schedule and the date of its filing. </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">Amount Previously Paid: </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top">Form, Schedule or Registration Statement No.: </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(3)</TD>
+<TD ALIGN="left" VALIGN="top">Filing Party: </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(4)</TD>
+<TD ALIGN="left" VALIGN="top">Date Filed: </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g453882g0918204340320.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>GOLDMAN SACHS MIDDLE MARKET LENDING CORP. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">200 West Street </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">New York, New
+York 10282 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">September&nbsp;18, 2017 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Dear
+Stockholder: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">You are cordially invited to attend the 2017 Annual Meeting (the &#147;Meeting&#148;) of Goldman Sachs Middle Market Lending Corp. (the
+&#147;Company&#148;) to be held on Thursday, November&nbsp;2, 2017, at 10:00 a.m. (Eastern time), at the offices of Goldman Sachs Asset Management, L.P., located at 30 Hudson Street, 21st Floor&#151;Conference Room C, Jersey City, New Jersey 07302.
+Please note that if you plan to attend the Meeting in person, photographic identification will be required for admission. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The meeting is being
+held&nbsp;to (i)&nbsp;elect four directors of the Company, who will each serve until the 2018 annual meeting of stockholders and until his or her successor is duly elected and qualified, and (ii)&nbsp;to ratify the selection of
+PricewaterhouseCoopers LLP as the Company&#146;s independent registered public accounting firm for the fiscal year ending December&nbsp;31, 2017. </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A
+formal Notice of Annual Meeting and Proxy Statement setting forth in detail the matters to come before the Meeting are attached hereto, and a proxy card is enclosed for your use. You should read the Proxy Statement carefully. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>WHETHER OR NOT YOU PLAN TO BE PRESENT AT THE MEETING, YOUR VOTE IS VERY IMPORTANT.</B> If you do not plan to be present in person at the Meeting, you can
+vote by signing, dating and returning the enclosed proxy card promptly or by using the Internet or telephone voting options as described on your proxy card. If you have any questions regarding the proxy materials, please contact the Company at (800)
+<FONT STYLE="white-space:nowrap">621-2550.</FONT> Your prompt response will help reduce proxy solicitation costs&#151;which are paid by the Company and its stockholders&#151;and will also mean that you can avoid receiving <FONT
+STYLE="white-space:nowrap">follow-up</FONT> phone calls and mailings. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Sincerely, </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g453882g0918204340429.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Brendan McGovern </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Chief
+Executive Officer and President </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>PLEASE SIGN, DATE AND RETURN THE ENCLOSED PROXY CARD IN THE ENCLOSED ENVELOPE OR USE THE INTERNET OR TELEPHONE VOTING
+OPTIONS TO CAST YOUR VOTE AS SOON AS POSSIBLE. YOUR VOTE IS IMPORTANT. </B></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g453882g0918204340320.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>GOLDMAN SACHS MIDDLE MARKET LENDING CORP. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">200 West Street </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">New York, New
+York 10282 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>NOTICE OF ANNUAL MEETING </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>To Be Held On November&nbsp;2, 2017 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">September&nbsp;18, 2017 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Notice
+is hereby given to the owners of shares of common stock (the &#147;Stockholders&#148;) of Goldman Sachs Middle Market Lending Corp. (the &#147;Company&#148;) that: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The 2017 Annual Meeting of Stockholders (the &#147;Meeting&#148;) will be held on Thursday, November&nbsp;2, 2017, at 10:00 a.m. (Eastern
+time), at the offices of Goldman Sachs Asset Management, L.P., located at 30 Hudson Street, 21st Floor&#151;Conference Room C, Jersey City, New Jersey 07302, for the following purposes (the &#147;Proposals&#148;): </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>1.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>to elect four directors of the Company, who will each serve until the 2018 annual meeting of the stockholders and until his or her successor is duly elected and qualified. </B></TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>2.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>to ratify the selection of PricewaterhouseCoopers LLP as the Company&#146;s independent registered public accounting firm for the fiscal year ending December&nbsp;31, 2017 </B></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The matters referred to above are discussed in the Proxy Statement attached to this Notice. The Board of Directors of the Company, including
+each of the independent directors, unanimously recommends that you vote <B>&#147;FOR&#148;</B> the Proposal. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Stockholders of record at
+the close of business on September&nbsp;5, 2017 are entitled to receive notice of, and to vote at, the Meeting and at any postponements or adjournments thereof. Each Stockholder is invited to attend the Meeting in person. Please note that if you
+plan to attend the Meeting in person, photographic identification will be required for admission. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Your vote is extremely important to us.
+If you will not attend the Meeting in person, we urge you to sign, date and promptly return the enclosed proxy card in the envelope provided, which is addressed for your convenience and needs no postage if mailed in the United States. You may also
+vote easily and quickly by Internet or by telephone. In the event there are not sufficient votes for a quorum or to approve the Proposal at the time of the Meeting, the Meeting may be postponed or adjourned in order to permit further solicitation of
+proxies by the Company. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">By Order of the Board of Directors </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">of Goldman Sachs Middle Market Lending Corp. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="99%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">
+
+
+<IMG SRC="g453882g06v27.jpg" ALT="LOGO">
+</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Caroline L. Kraus</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><I>Secretary</I></P></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>YOUR VOTE IS IMPORTANT </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>NO MATTER HOW MANY SHARES YOU OWN </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">To secure the largest possible representation at the Meeting, please mark your proxy card, sign it, date it, and return it in the postage-paid
+envelope provided (unless you are voting by Internet or by telephone). <B>If you sign, date, and return a proxy card but give no voting instructions, your shares will be voted &#147;FOR&#148; all of the proposals indicated on the card.</B> If you
+prefer, you may instead vote via the Internet or by telephone. To vote in this manner, you should refer to the directions below. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">To vote
+via the Internet, please access the website found on your proxy card and follow the <FONT STYLE="white-space:nowrap">on-screen</FONT> instructions on the website. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">To vote by telephone, Stockholders within the United States should call the toll-free number found on the proxy card and follow the recorded
+instructions. Stockholders outside the United States should vote via the Internet or by submitting a proxy card instead. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">You may revoke
+your proxy at any time at or before the Meeting (1)&nbsp;by notifying the Secretary of the Company in writing at the Company&#146;s principal executive offices, (2)&nbsp;by submitting a properly executed, later-dated proxy or (3)&nbsp;by attending
+the Meeting and voting in person. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g453882g0918204340320.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ANNUAL MEETING </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>OF </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>GOLDMAN SACHS MIDDLE
+MARKET LENDING CORP. </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">200 West Street </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">New York, New York 10282 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PROXY
+STATEMENT </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">September&nbsp;18, 2017 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">This Proxy Statement is furnished in connection with the solicitation of proxies by and on behalf of the Board of Directors (the
+&#147;Board&#148;) of Goldman Sachs Middle Market Lending Corp. (the &#147;Company,&#148; &#147;we,&#148; &#147;our&#148; and &#147;us&#148;) for use at the 2017 Annual Meeting of Stockholders (the &#147;Meeting&#148;), to be held at at the offices
+of Goldman Sachs Asset Management, L.P., located at 30 Hudson Street, 21st Floor&#151;Conference Room C, Jersey City, New Jersey 07302, on&nbsp;Thursday, November&nbsp;2, 2017, at 10:00 a.m. (Eastern time), and any postponement or adjournment
+thereof. Much of the information in this Proxy Statement is required under rules of the Securities and Exchange Commission (the&nbsp;&#147;SEC&#148;), and some of it is technical in nature. If there is anything you do not understand, please contact
+the Company at (800) <FONT STYLE="white-space:nowrap">621-2550.</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">This Proxy Statement, the accompanying Notice of Annual Meeting
+and proxy card are being mailed to the Company&#146;s stockholders (the &#147;Stockholders&#148;) of record as of September&nbsp;5, 2017 (the &#147;Record Date&#148;) on or about September&nbsp;18, 2017. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PURPOSE OF THE MEETING </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">At the Meeting,
+you will be asked to vote on the following proposal: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4.50em; font-size:10pt; font-family:Times New Roman">1. To elect four directors of the Company who will each serve until the 2018 annual meeting of the stockholders and until
+his or her successor is duly elected and qualified (&#147;Proposal 1&#148;); and</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:4.50em; font-size:10pt; font-family:Times New Roman"><BR>2. To ratify the selection of
+PricewaterhouseCoopers LLP as the Company&#146;s independent registered public accounting firm for the fiscal year ending December&nbsp;31, 2017 (&#147;Proposal&nbsp;2&#148;).</P></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>INFORMATION REGARDING THIS SOLICITATION </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">It is expected that the solicitation of proxies will be primarily by mail. The Company&#146;s officers, and personnel of Goldman Sachs Asset
+Management, L.P. (the &#147;Investment Adviser&#148;), the Company&#146;s Investment Adviser and transfer agent and any authorized proxy solicitation agent, may also solicit proxies by telephone, email, facsimile, Internet, or in person. If the
+Company records votes through the Internet or by telephone, it will use procedures designed to authenticate Stockholders&#146; identities to allow Stockholders to authorize the voting of their shares in accordance with their instructions and to
+confirm that their identities have been properly recorded. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Company will pay the expenses associated with this Proxy Statement and
+solicitation, in a manner agreed upon by the Board. The Company has engaged Broadridge Financial Solutions, Inc. (&#147;Broadridge&#148;), an independent proxy solicitation firm, to assist in the distribution of the proxy materials and tabulation of
+proxies.&nbsp;The </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">1 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+cost of Broadridge&#146;s services with respect to the Company is estimated to be approximately $66,954, plus reasonable
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">out-of-pocket</FONT></FONT> expenses. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">To vote by mail, sign, date, and
+promptly return the enclosed proxy card in the accompanying postage <FONT STYLE="white-space:nowrap">pre-paid</FONT> envelope. To vote by Internet or telephone, please use the control number on your proxy card and follow the instructions as
+described on your proxy card. If you have any questions regarding the proxy materials, please contact the Company at (800) <FONT STYLE="white-space:nowrap">621-2550.</FONT> <B>If the enclosed proxy card is properly executed and received prior to the
+Meeting and has not been revoked, the shares represented thereby will be voted in accordance with the instructions marked on the returned proxy card or, if no instructions are marked, the proxy card will be voted &#147;FOR&#148; each of the
+Proposals described in this Proxy Statement; and in the discretion of the persons named as proxies in connection with any other matter that may properly come before the Meeting or any adjournment(s) or postponement(s) thereof.</B> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Any person giving a proxy may revoke it at any time before it is exercised (1)&nbsp;by notifying the Secretary of the Company in writing at
+the Company&#146;s principal executive offices, (2)&nbsp;by submitting a properly executed, later-dated proxy or (3)&nbsp;by attending the Meeting and voting in person. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If (i)&nbsp;you are a member of a household in which multiple Stockholders share the same address, (ii)&nbsp;your shares are held in
+&#147;street name&#148; and (iii)&nbsp;your broker or bank has received consent to household material, then your broker or bank may send to your household only one copy of this Proxy Statement, unless your broker or bank previously received contrary
+instructions from a Stockholder in your household. If you are part of a household that has received only one copy of this Proxy Statement, the Company will deliver promptly a separate copy of this Proxy Statement to you upon written or oral request.
+To receive a separate copy of this Proxy Statement, please contact the Company by calling (toll-free) (800) <FONT STYLE="white-space:nowrap">621-2550</FONT> or by mail to the Company&#146;s principal executive offices at Goldman Sachs Middle Market
+Lending Corp., 200 West Street, New York, New York 10282. If your shares are held with certain banks, trust companies, brokers, dealers, investment advisers and other financial intermediaries (each, an &#147;Authorized Institution&#148;) and you
+would like to receive a separate copy of future proxy statements, notices of internet availability of proxy materials, prospectuses or annual reports or you are now receiving multiple copies of these documents and would like to receive a single copy
+in the future, please contact your Authorized Institution. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>IMPORTANT NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS FOR THE
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ANNUAL MEETING TO BE HELD ON N<SMALL>OVEMBER</SMALL>&nbsp;2, 2017 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">This Proxy Statement is available online at&nbsp;www.proxyvote.com&nbsp;(please have the control number found on your proxy card ready when
+you visit this website). </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>INFORMATION REGARDING SECURITY OWNERSHIP </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Control Persons and Principal Stockholders </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The following table sets forth, as of the Record Date, certain ownership information with respect to shares of the Company&#146;s common stock
+for each of the Company&#146;s current directors (including nominees), executive officers and directors and executive officers as a group, and each person known to the Company to beneficially own 5% or more of the outstanding&nbsp;shares of the
+Company&#146;s common stock. Unless otherwise indicated, the Company believes that each beneficial owner set forth in the table has sole voting and investment power over such common stock. The percentage ownership is based on 14,593,369 shares of
+common stock outstanding as of the Record Date. </P> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="92%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD style="width:34pt"></TD>
+<TD></TD>
+<TD></TD>
+<TD style="width:34pt"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD style="width:38pt"></TD>
+<TD></TD>
+<TD></TD>
+<TD style="width:38pt"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><B>Name and Address<SUP STYLE="font-size:85%; vertical-align:top">(1)</SUP></B></P></TD>
+
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="4" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Number</B><br><B>of</B><br><B>Shares</B><br><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Owned<SUP STYLE="font-size:85%; vertical-align:top">(2)</SUP>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="4" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Percentage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>5% Owners</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">&#151;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right">&#151;&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="center">&#151;</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>Interested Director</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Katherine (&#147;Kaysie&#148;) Uniacke</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,551</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">*</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>Independent Directors</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Carlos E. Evans</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">3,102</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">*</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Richard A. Mark</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">4,653</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">*</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Timothy J. Leach</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">4,653</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">*</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>Executive Officers</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Brendan McGovern</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,551</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">*</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Jon Yoder</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right">&#151;&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="center">&#151;</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Jonathan Lamm</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">775.5</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">*</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Maya Teufel</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right">&#151;&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="center">&#151;</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Salvatore Lentini</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">387.8</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">*</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">David Yu</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">387.8</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="center">&#151;</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Scott Turco</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right">&#151;&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="center">&#151;</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Caroline Kraus</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right">&#151;&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="center">&#151;</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Carmine Rossetti</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right">&#151;&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="center">&#151;</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">All officers and directors as a group (13 persons)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">17,061.1</TD>
+<TD NOWRAP VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" >&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">*</TD>
+<TD NOWRAP VALIGN="bottom"></TD></TR>
+</TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">* Less than 1% of the total of the Company&#146;s common stock outstanding as of the Record Date. </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">The address for each of the Company&#146;s directors and executive officers is c/o Goldman Sachs Asset Management, L.P., 200 West Street, New York, New York 10282. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top">Beneficial ownership has been determined in accordance with Rule <FONT STYLE="white-space:nowrap">13d-3</FONT> under the Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;). </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Section&nbsp;16(a) Beneficial Ownership Reporting Compliance </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Pursuant to Section&nbsp;16(a) of the Exchange Act, a company&#146;s directors and executive officers and any persons holding more than 10% of
+the company&#146;s common stock are required to report their beneficial ownership and any changes therein to the SEC and the company. Specific due dates for those reports have been established, and a company is required to report in this proxy
+statement any failure to file such reports by those due dates. The Company&#146;s Registration Statement on Form 10 (the &#147;Registration Statement&#148;) was filed on January&nbsp;27, 2017. Upon the effectiveness of the Registration Statement on
+March&nbsp;28, 2017, the Company became subject to the requirements of Section&nbsp;13(a) of the Exchange Act, including the rules and regulations thereunder, which require the Company, among other things, to file annual reports on Form <FONT
+STYLE="white-space:nowrap">10-K,</FONT> quarterly reports on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> and current reports on Form <FONT STYLE="white-space:nowrap">8-K,</FONT> and the Company then became required to comply with all other
+obligations of the Exchange Act applicable to issuers filing registration statements pursuant to Section&nbsp;12(g) of the Exchange Act. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Dollar Range
+of Equity Securities Beneficially Owned by Directors </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The following table sets out the dollar range of the Company&#146;s equity
+securities beneficially owned by each of the Company&#146;s directors as of the Record Date. Beneficial ownership is determined in accordance with Rule <FONT STYLE="white-space:nowrap">16a-1(a)(2)</FONT> under the Exchange Act. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="80%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="80%"></TD>
+<TD VALIGN="bottom" WIDTH="10%"></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman"><B>Name of Director</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Dollar Range of</B><br><B>Equity Securities</B><br><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in&nbsp;the&nbsp;Company<SUP
+STYLE="font-size:85%; vertical-align:top">(1)(2)</SUP>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman"><B>Interested
+Director</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Katherine (&#147;Kaysie&#148;)
+Uniacke</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="white-space:nowrap">$10,001-$50,000</FONT></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman"><B>Independent
+Directors</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Carlos E. Evans</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="white-space:nowrap">$50,001-$100,000</FONT></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Timothy J. Leach</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="white-space:nowrap">$50,001-$100,000</FONT></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Richard A. Mark</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="white-space:nowrap">$50,001-$100,000</FONT></TD></TR>
+</TABLE> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="96%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">(1)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Dollar ranges are as follows: none, $1 &#150; $10,000, $10,001 &#150; $50,000, $50,001 &#150; $100,000, or over $100,000.</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">(2)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">The dollar range of equity securities of the Company beneficially owned by directors of the Company, if applicable, is calculated by multiplying the net asset value per share of the Company as of June&nbsp;30, 2017, which was
+$19.03, times the number of Shares beneficially owned.</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PROPOSAL 1 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ELECTION OF DIRECTORS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Prior to the Company listing its common stock on a national securities exchange (an &#147;Exchange Listing&#148;), the Company&#146;s
+certificate of incorporation provides that directors will each serve for a one year term. However, immediately prior to an Exchange Listing, the Company&#146;s Board will be divided into three classes, and, at such time, each class of directors will
+hold office for a three-year term. Since an Exchange Listing has not occurred, at the Meeting you will be asked to elect four directors to serve until the 2018 annual meeting of stockholders and until his or her successor is duly elected and
+qualified, or until his or her earlier death, resignation, removal or disqualification. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Information concerning the nominees and other
+relevant factors is provided below. Using the enclosed proxy card or voting by the Internet or by telephone, a Stockholder may vote his or her shares &#147;For&#148; or &#147;Against,&#148; or may abstain from voting with respect to the election of
+any nominee. If the enclosed proxy card is properly executed and received prior to the Meeting (and has not been revoked) but no instructions are marked, the proxies will vote &#147;FOR&#148; each of the nominees. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Each of Ms.&nbsp;Katherine (&#147;Kaysie&#148;) Uniacke, and Messrs. Carlos E. Evans, Timothy J. Leach, and Richard A. Mark has consented to
+his or her nomination and has agreed to continue to serve if elected. If, at the time of the Meeting, for any reason, any of Ms.&nbsp;Uniacke, or Messrs. Evans, Leach, or Mark is not available for election or is not able to serve as a director, the
+persons named as proxies intend to exercise their voting power in favor of such person as is nominated by the Board as a substitute. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>THE BOARD, INCLUDING EACH OF THE INDEPENDENT DIRECTORS, UNANIMOUSLY </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>RECOMMENDS THAT YOU VOTE &#147;FOR&#148; EACH NOMINEE LISTED ABOVE. </B></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Information about the Director Nominees </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Set forth below are the names of the nominees for director and their addresses, ages, terms of office, principal occupations for at least the
+past five years and any other directorships they hold. Director nominees who (1)&nbsp;are not deemed to be &#147;interested persons,&#148; as defined in the 1940 Act, of the Company, (2)&nbsp;meet the definition of &#147;independent directors&#148;
+under the corporate governance standards of the New York Stock Exchange (&#147;NYSE&#148;) and (3)&nbsp;meet the independence requirements of Section&nbsp;10A(m)(3) of the Exchange Act are referred to as &#147;Independent Directors.&#148;
+Ms.&nbsp;Uniacke is deemed to be an &#147;interested person&#148; of the Company and is referred to as the &#147;Interested Director.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Each of Ms.&nbsp;Uniacke, and Messrs. Evans, Leach, and Mark has been nominated for election as a director to serve until the 2018 annual
+meeting of stockholders. None of the nominees is being proposed for election pursuant to any agreement or understanding between such nominee and the Company. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Director Nominees </I></B></P> <P STYLE="font-size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="26%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Name&nbsp;and</B></P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><B>Age</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Term&nbsp;of</B></P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><B>Office</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Principal&nbsp;Occupation(s)&nbsp;During<BR>Past 5 Years</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle" ALIGN="center"><B>Other&nbsp;Directorships</B></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="5"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="5"><I>Independent Directors</I></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Carlos&nbsp;E. Evans&nbsp;(65)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Director&nbsp;since June 2016</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Evans is retired. He is Director, Sykes Enterprises, Inc. (2016-Present); Director, Highwoods Properties, Inc. (2015-Present);
+Director, Queens University of Charlotte (2015-Present); Director, National Coatings and Supplies</P> <P STYLE="font-size:10pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Sykes Enterprises, Inc. (an international provider of outsourced customer contact management services); Highwoods Properties, Inc. (a real</TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="26%"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Inc. (2015-Present); Director, American Welding&nbsp;&amp; Gas Inc. (2015-Present); and Director, Johnson Management (2015-Present). He was formerly Executive Vice President and Group Head of Wells Fargo Eastern Commercial Banking
+and National Head of Government and Institutional Banking (2009-2014).</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">estate investment trust); Queens University of Charlotte; National Coatings and Supplies Inc.; American Welding&nbsp;&amp; Gas Inc.; and Johnson Management</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Director&#151;the Company</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Richard&nbsp;A.</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Mark (64)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Director since June 2016</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Mark is retired. He is Director, Almost Home Kids (2016-Present). He was formerly Partner, Deloitte&nbsp;&amp; Touche LLP
+(2002-2015) and Chairman and member of the Audit Committee, Katy Industries, Inc.&nbsp;(2015-2016).</P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Director&#151;the Company</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Almost Home Kids (an organization which provides care to children with complicated health needs)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Timothy&nbsp;J.</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Leach (61)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Director since July 2016</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Leach is retired. He is a member of the investment advisory board of American Bankers Association (2014-Present); and Treasurer and
+Director, National Committee to Preserve Social Security&nbsp;&amp; Medicare (2014-Present). He was formerly Chief Investment Officer, US Bank Wealth Management (2008-2016).</P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Lead Independent Director&#151;the Company</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">American Bankers Association; and National Committee to Preserve Social Security&nbsp;&amp; Medicare</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="7"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="7"><I>Interested Director</I>*</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Katherine</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(&#147;Kaysie&#148;)</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Uniacke</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">(55)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Director&nbsp;since June 2016</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Chair of the Board&#151;Goldman Sachs Asset Management International (2013&#150;Present); Director&#151;Goldman Sachs Funds, plc (2013&#150;Present); Advisory&nbsp;Director&#151;Goldman Sachs (2013&#150;Present); Global Chief
+Operating Officer&#151;GSAM (2007&#150;2012); Partner, Goldman Sachs (2002&#150;2012); and Managing Director&#151;Goldman Sachs (1997&#150;2002).</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">None</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Director&#151;the Company, Goldman Sachs BDC, Inc., a BDC (&#147;GS BDC&#148;) and Goldman Sachs Private Middle Market Credit LLC, a BDC (&#147;PMMC&#148;)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top">Ms.&nbsp;Uniacke is considered to be an &#147;Interested Director&#148; because she holds positions with Goldman Sachs and owns securities issued by GS Group. Ms.&nbsp;Uniacke holds comparable positions with certain
+other companies of which Goldman Sachs, GSAM or an affiliate thereof is the Investment Adviser, administrator and/or distributor. </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">Each nominee and director may be contacted by writing to the nominee or director, c/o Goldman Sachs Asset Management, L.P., 200 West Street, New York, New York 10282. </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:Times New Roman">The significance or relevance of a nominee&#146;s or director&#146;s particular experience, qualifications, attributes, and/or skills is
+considered by the Board on an individual basis. Experience, qualifications, attributes, and/or skills common to all nominees and directors include the ability to critically review, evaluate and discuss information provided to them and to interact
+effectively with the other directors and with representatives of Goldman Sachs Asset Management, L.P. (&#147;GSAM&#148;) and its affiliates, other service providers, legal counsel and the Company&#146;s independent registered public accounting firm,
+the capacity to address financial and legal issues and exercise </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+reasonable business judgment, and a commitment to the representation of the interests of the Company and the Stockholders. The Board&#146;s Governance and Nominating Committee&#146;s charter
+contains certain other factors that are considered by the Governance and Nominating Committee in identifying and evaluating potential nominees to serve as Independent Directors. Based on each nominee&#146;s experience, qualifications, attributes
+and/or skills, considered individually and with respect to the experience, qualifications, attributes and/or skills of the other directors, the Board has concluded that each nominee should continue to serve as a director. Below is a brief discussion
+of the experience, qualifications, attributes and/or skills of each nominee, as well as of the continuing directors, that led the Board to conclude that such individual should serve as a director. </P>
+<P STYLE="margin-top:10pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Director Nominees </I></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Independent Directors:
+</I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Carlos E. Evans.</U>&nbsp;Mr.&nbsp;Evans has served on our Board of Directors since June 2016. Mr.&nbsp;Evans is retired. Mr.&nbsp;Evans is
+currently a member of the Board of Directors of Sykes Enterprises, Incorporated, an international provider of outsourced customer contact management services, and is a member of the Board of Directors of Highwoods Properties, Inc., a real estate
+investment trust, where he serves as chair of the Compensation/Governance Committee and as a member of the Executive Committee. Prior to his retirement in 2014, Mr.&nbsp;Evans worked for Wells Fargo Bank, most recently serving as executive vice
+president and group head of the eastern division of Wells Fargo commercial banking. From 2006 until Wachovia Corporation&#146;s merger with Wells Fargo in 2009, Mr.&nbsp;Evans served as wholesale banking executive and an executive vice president for
+the Wachovia general banking group. Previously, he held senior management positions with First Union National Bank and with Bank of America and its predecessors, including NationsBank, North Carolina National Bank and Bankers Trust of South
+Carolina, which he joined in 1973. Mr.&nbsp;Evans is chairman emeritus of the board of the Spoleto Festival USA and chairman of the board of the Medical University of South Carolina Foundation. Mr.&nbsp;Evans also serves on the boards of Queens
+University of Charlotte and three private companies, National Coatings and Supplies Inc., American Welding&nbsp;&amp; Gas Inc. and Johnson Management. Based on the foregoing, Mr.&nbsp;Evans is experienced with financial and investment matters. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Richard A. Mark.</U>&nbsp;Mr.&nbsp;Mark has served on our Board of Directors since June 2016. Mr.&nbsp;Mark has been designated as the Board of
+Director&#146;s &#147;audit committee financial expert&#148; given his extensive accounting and finance experience. Mr.&nbsp;Mark is retired. Prior to his retirement in 2015, Mr.&nbsp;Mark was a partner at Deloitte&nbsp;&amp; Touche LLP, most
+recently leading the corporate development function of the advisory business of Deloitte. Mr.&nbsp;Mark began his career at Arthur Andersen&nbsp;&amp; Co. and held various positions with Arthur Andersen, including audit partner, before joining
+Deloitte in 2002. Mr.&nbsp;Mark also served until August 2016 as Chairman of the Board of Directors and as a member of the Audit Committee of Katy Industries, Inc., a manufacturer, importer and distributor of commercial cleaning and consumer storage
+products. Mr.&nbsp;Mark is a certified public accountant. Mr.&nbsp;Mark is a Director of Almost Home Kids, an organization which provides care to children with complicated health needs. Based on the foregoing, Mr.&nbsp;Mark is experienced with
+accounting, financial and investment matters. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Timothy J. Leach.</U>&nbsp;Mr.&nbsp;Leach has served on our Board of Directors since July 2016 and on
+March&nbsp;2, 2017 was appointed as Lead Independent Director. Mr.&nbsp;Leach is retired.<B></B>&nbsp;From 2008 until his retirement in July 2016, Mr.&nbsp;Leach served as chief investment officer of US Bank Wealth Management. Prior to joining US
+Bank, Mr.&nbsp;Leach held senior management positions with U.S. Trust Company and various investment advisers and asset managers, including Wells Fargo Private Investment Advisors, Wells Fargo Alternative Asset Management, ABN Amro Global Asset
+Management, ABN Amro Asset Management (USA) and Qualivest Capital Management.&nbsp;Mr.&nbsp;Leach currently serves as a member of the investment advisory board of American Bankers Association and as treasurer and a member of the board of the
+National Committee to Preserve Social Security&nbsp;&amp; Medicare.&nbsp;Based on the foregoing, Mr.&nbsp;Leach is experienced with financial and investment matters. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Interested Director: </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>Kaysie
+Uniacke.</U>&nbsp;Ms.&nbsp;Uniacke has been one of our directors and the Chairperson of our Board of Directors since June 2016. Ms.&nbsp;Uniacke is the chair of the board of Goldman Sachs Asset Management International, serves on the boards of the
+Goldman Sachs Luxembourg, Dublin family of funds, GS BDC and PMMC and is an advisory director to GS Group. Previously, she was global chief operating officer of GSAM&#146;s portfolio management business until 2012 and served on the Investment
+Management Division Client and Business Standards Committee. Prior to this, she was president of Goldman Sachs Trust, the GS mutual fund family, and was head of the Fiduciary Management </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+business within Global Manager Strategies, responsible for business development and client service globally. Earlier in her career, Ms.&nbsp;Uniacke managed GSAM&#146;s U.S. and Canadian
+Distribution groups. In that capacity, she was responsible for overseeing all North American institutional and third-party sales channels, marketing and client service functions, for which client assets exceeded $200&nbsp;billion. Before that,
+Ms.&nbsp;Uniacke was head of GSAM&#146;s Global Cash Services business, where she was responsible for overseeing the management of assets exceeding $100&nbsp;billion. Ms.&nbsp;Uniacke worked at Goldman Sachs from 1983 to 2012 where she was named
+managing director in 1997 and partner in 2002. Ms.&nbsp;Uniacke serves on the board
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">of&nbsp;Person-to-Person,&nbsp;a&nbsp;non-profit&nbsp;organization</FONT></FONT></FONT> that supports the working poor in lower Fairfield County, CT.
+Based on the foregoing, Ms.&nbsp;Uniacke is experienced with financial and investment matters. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Compensation of Directors </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Prior to January&nbsp;1, 2017, each Independent Director was compensated with a unitary annual fee of $75,000 for his or her services as one of
+our directors and as a member of the Audit Committee and Governance and Nominating Committee and the director designated as &#147;audit committee financial expert&#148; received an additional $5,000 for his services in such capacity. From
+January&nbsp;1, 2017 through June&nbsp;30, 2017, each Independent Director is compensated with a unitary annual fee of $100,000, which increased to $125,000 as of July&nbsp;1, 2017, for his or her services as one of our directors and as a member of
+the Audit Committee and Governance and Nominating Committee. As of January&nbsp;1, 2017, the director designated as &#147;audit committee financial expert&#148; receives an additional $15,000 for his services in such capacity and the Lead
+Independent Director receives an additional $25,000 for his services in such capacity. The Independent Directors of the Board of Directors and each committee are also reimbursed for travel and other expenses incurred in connection with attending
+meetings. We may also pay the incidental costs of a director to attend training or other types of conferences relating to the business development company industry.</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="65%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="62%"></TD>
+<TD VALIGN="bottom" WIDTH="14%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="14%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Total&nbsp;Compensation&nbsp;From&nbsp;the<BR>Company</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Total&nbsp;Compensation<BR>From&nbsp;the&nbsp;Goldman&nbsp;Sachs<BR>Fund&nbsp;Complex</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>For Fiscal Year 2016</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>For Fiscal Year 2016</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>Interested&nbsp;Director</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Kaysie&nbsp;Uniacke<SUP STYLE="font-size:85%; vertical-align:top"> (1)</SUP></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right">&#151;&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom" ALIGN="right">&#151;&nbsp;&nbsp;</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><B>Independent&nbsp;Directors</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Carlos&nbsp;E. Evans</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">75,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">75,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Richard&nbsp;A. Mark<SUP STYLE="font-size:85%; vertical-align:top">(2)</SUP></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">80,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">80,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Timothy&nbsp;J. Leach</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">75,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">75,000</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">Ms.&nbsp;Uniacke is an interested director and, as such, will not receive compensation from the Company or the Goldman Sachs Fund Complex for her service as director or trustee. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top">Includes compensation as audit committee financial expert. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">No compensation will be paid to directors who are
+&#147;interested persons,&#148; as that term is defined in the Investment Company Act. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Board Composition and Leadership Structure </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Company was formed on June&nbsp;13, 2016 and effective January&nbsp;30, 2017, converted from Goldman Sachs Middle Market Lending LLC, a
+Delaware limited liability company, into Goldman Sachs Middle Market Lending Corp., a Delaware corporation. As a result, any references in this section to meetings of the Company&#146;s Board prior to January&nbsp;30, 2017 refer to meetings of the
+Company&#146;s LLC predecessor. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Company&#146;s business and affairs are managed under the direction of its Board. The Board consists
+of four members, three of whom are Independent Directors. &#147;Independent Directors&#148; are directors who (1)&nbsp;are not deemed to be &#147;interested persons,&#148; of the Company (as defined in the Investment Company Act), (2) meet the
+definition of &#147;independent directors&#148; under the corporate governance standards of the NYSE and (3)&nbsp;meet the independence requirements of Section&nbsp;10A(m)(3) of the Exchange Act. The Board elects our officers, who serve at
+</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+the discretion of the Board of Directors. The responsibilities of the Board include quarterly valuation of our assets, corporate governance activities, oversight of our financing arrangements and
+oversight of our investment activities. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Board&#146;s role in the management of the Company is one of oversight. Oversight of our
+investment activities extends to oversight of the risk management processes employed by our Investment Adviser as part of <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">its&nbsp;day-to-day</FONT></FONT> management of our
+investment activities. The Board reviews risk management processes at both regular and special Board meetings throughout the year, consulting with appropriate representatives of our Investment Adviser as necessary and periodically requesting the
+production of risk management reports or presentations. The goal of the Board&#146;s risk oversight function is to ensure that the risks associated with our investment activities are accurately identified, thoroughly investigated and responsibly
+addressed. The Board&#146;s oversight function cannot, however, eliminate all risks or ensure that particular events do not adversely affect the value of the investments held by the Company. The Board also has primary responsibility for the
+valuation of our assets. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Board has established an Audit Committee, Governance and Nominating Committee (the &#147;Governance and
+Nominating Committee&#148;), Compliance Committee (the &#147;Compliance Committee&#148;), and Contract Review Committee (the &#147;Contract Review Committee&#148;). The scope of each committee&#146;s responsibilities is discussed in greater detail
+below. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Kaysie Uniacke serves as Chairman of the Board. The Board believes that it is in the best interests of the Company for Kaysie
+Uniacke to lead the Board because of her familiarity with the Company&#146;s portfolio companies, her broad experience with the <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">day-to-day</FONT></FONT> management and operation of
+other investment funds and her significant background in the financial services industry, as described above. Kaysie Uniacke will generally act as a liaison between the Company&#146;s management, officers and attorneys between meetings of the Board.
+Timothy J. Leach, the Lead Independent Director, generally will preside over all executive sessions of the Independent Directors without management. The Board believes that its leadership structure is appropriate because the structure allocates
+areas of responsibility among the individual directors and the committees in a manner that enhances effective oversight. The Board also believes that its size creates an efficient corporate governance structure that provides opportunity for direct
+communication and interaction between management and the Board. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Board had four formal meetings in 2016. Each director nominee that
+was a member of the Board during the fiscal year ended December&nbsp;31, 2016 attended 100% of the aggregate number of meetings of the Board and of the respective committees on which he or she served. To promote effectiveness of the Board, directors
+are strongly encouraged to attend regularly scheduled Board meetings in person. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Company did not hold an annual meeting in 2016 as it
+was formed on June&nbsp;13, 2016. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Committees of the Board of Directors </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Audit Committee </I></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The members of the
+Audit Committee are Carlos E. Evans, Timothy J. Leach, and Richard A. Mark, each of whom is an Independent Director and meets the current independence and experience requirements of Rule <FONT STYLE="white-space:nowrap">10A-3</FONT> of the Exchange
+Act and none of whom is an &#147;interested person&#148; of the Company as defined in Section&nbsp;2(a)(19) of the 1940 Act. Richard A. Mark serves as Chairman of the Audit Committee. The Board and the Audit Committee have determined that Richard A.
+Mark is an &#147;audit committee financial expert,&#148; as defined in Item 407 of Regulation <FONT STYLE="white-space:nowrap">S-K</FONT> under the Exchange Act. The Audit Committee is responsible for overseeing matters relating to the appointment
+and activities of the Company&#146;s auditors, audit plans and procedures, various accounting and financial reporting issues and changes in accounting policies, and reviewing the results and scope of the audit and other services provided by the
+Company&#146;s independent public accountants. The Audit Committee is also responsible for aiding the Board in fair value pricing debt and equity securities that are not publicly traded or for which current market values are not readily available.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Audit Committee held three formal meetings in 2016. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Governance and Nominating Committee </I></B></P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">9 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Governance and Nominating Committee members are Kaysie Uniacke, Carlos E. Evans, Richard A.
+Mark and Timothy J. Leach. Kaysie Uniacke serves as the Chairman of the Governance and Nominating Committee. The Governance and Nominating Committee is responsible for identifying, researching and nominating Independent Directors for election by the
+Company&#146;s stockholders, when necessary, selecting nominees to fill vacancies on the Board or a committee of the Board, developing and recommending to the Board a set of corporate governance principles and overseeing the evaluation of the Board
+and the Company&#146;s management. The Governance and Nominating Committee will consider nominees recommended by the Company&#146;s stockholders that are properly submitted in accordance with the Company&#146;s bylaws. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Governance and Nominating Committee held three formal meetings in 2016. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Compliance Committee </I></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The
+Compliance Committee members are Kaysie Uniacke, Carlos E. Evans, Richard A. Mark and Timothy J. Leach. Kaysie Uniacke serves as Chairman of the Compliance Committee. The Compliance Committee is responsible for overseeing the Company&#146;s
+compliance processes, and, insofar as they relate to services provided to us, the compliance processes of the Company&#146;s Investment Adviser, principal underwriters, administrator and transfer agent, except that compliance processes relating to
+the accounting and financial reporting processes and certain related matters are overseen by the Audit Committee. In addition, the Compliance Committee provides assistance to the full Board with respect to compliance matters. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Compliance Committee had three formal meetings in 2016. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Contract Review Committee </I></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The
+Contract Review Committee members are Kaysie Uniacke, Carlos E. Evans, Richard A. Mark and Timothy J. Leach. Kaysie Uniacke serves as Chairman of the Contract Review Committee. The Contract Review Committee is responsible for overseeing the
+processes of the Board for reviewing and monitoring performance under the Company&#146;s investment management, placement agency, underwriting (if any), transfer agency and certain other agreements with the Company&#146;s Investment Adviser and its
+affiliates. The Contract Review Committee provides appropriate assistance to the Board in connection with the Board&#146;s approval, oversight and review of the Company&#146;s other service providers, including the Company&#146;s
+custodian/accounting agent, <FONT STYLE="white-space:nowrap">sub-transfer</FONT> agents, placement agent, professional (legal and accounting) firms and printing firms. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Contract Review Committee did not have a formal meetings in 2016. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Information about Executive Officers who are not Directors </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Set forth below is certain information about the Company&#146;s executive officers who are not directors: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="48%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD></TR>
+
+
+<TR STYLE="font-size:1px; ">
+<TD COLSPAN="7" VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000">&nbsp;</P></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><B>Name</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Age&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Position</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Officer&nbsp;Since&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Brendan McGovern</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="middle"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-bottom:1pt; margin-top:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">46</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Chief Executive Officer and President</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2016</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Jon Yoder</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">43</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Chief Operating Officer</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2016</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Jonathan Lamm</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">43</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Chief Financial Officer and Treasurer</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2016</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Maya Teufel</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">44</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Chief Compliance Officer</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2016</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Salvatore Lentini</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">45</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Executive Vice President</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2016</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">David Yu</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">36</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Executive Vice President and Head of Research</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2016</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Scott Turco</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">39</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Executive Vice President</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2016</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Carmine Rossetti</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">38</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Principal Accounting Officer</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center">2017</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The address for each executive officer is c/o Goldman Sachs Asset Management, L.P., 200 West Street, New York,
+New York 10282. Each officer holds office at the pleasure of the Board until the next election of officers or until his or her successor is duly elected and qualifies. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">10 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman"><B>Brendan McGovern</B>.&nbsp;Mr.&nbsp;McGovern was appointed as the Company&#146;s chief
+executive officer and president in June 2016. Mr.&nbsp;McGovern heads GSAM&#146;s Private Credit Group, is chief executive officer and president of GS BDC and PMMC and also serves as <FONT STYLE="white-space:nowrap">co-head</FONT> and senior
+portfolio manager of the GSAM Credit Alternatives investment team. He is also the Chair and a voting member of the Private Credit Group&#146;s Investment Committee, which is responsible for evaluating and approving all of the Company&#146;s
+investments. Mr.&nbsp;McGovern joined the firm as a managing director in 2006 and was made partner in 2016. Prior to joining the firm, Mr.&nbsp;McGovern served as a managing director in the Global Investment Group at Amaranth Advisors, where he <FONT
+STYLE="white-space:nowrap">co-headed</FONT> the fund&#146;s private placement efforts for both debt and equity linked products in the United States. He is also president and board member of the Oxalosis and Hyperoxaluria Foundation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman"><B>Jon Yoder</B>.&nbsp;Mr.&nbsp;Yoder was appointed as the Company&#146;s chief operating officer in June 2016. Mr.&nbsp;Yoder is chief
+operating officer of GS BDC and PMMC and a member of GSAM&#146;s Private Credit Group with a focus on sourcing , structuring and executing privately negotiated debt financings. He is also a voting member of the Private Credit Group&#146;s Investment
+Committee, which is responsible for evaluating and approving all of the Company&#146;s investments. Mr.&nbsp;Yoder joined the firm in 2005. Prior to joining the firm, he was a member of the mergers and acquisitions and private equity groups at Paul,
+Weiss, Rifkind, Wharton&nbsp;&amp; Garrison, LLP. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman"><B>Jonathan Lamm</B>.&nbsp;Mr.&nbsp;Lamm was appointed as the Company&#146;s chief
+financial officer and treasurer in June 2016. Mr.&nbsp;Lamm is also chief financial officer and treasurer of GS BDC and PMMC and chief operating officer of the GSAM Credit Alternatives portfolio management team, responsible for the operations of the
+business, including business financials, infrastructure support, and IT project management, as well as the continuous improvement of the control environment. Mr.&nbsp;Lamm is secretary and a <FONT STYLE="white-space:nowrap">non-voting</FONT> member
+of the Private Credit Group&#146;s Investment Committee, which is responsible for evaluating and approving all of the Company&#146;s investments. He joined the firm in 2002. Prior to joining the firm, Mr.&nbsp;Lamm worked in the securities audit
+practice at Deloitte&nbsp;&amp; Touche LLP. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman"><B>Maya Teufel</B>.&nbsp;Ms.&nbsp;Teufel was appointed as the Company&#146;s chief compliance
+officer in December 2016. Ms.&nbsp;Teufel is currently the chief compliance officer of GS BDC, PMMC and Goldman Sachs Trust II. Prior to joining GSAM in September 2016, she was, from November 2013 to August 2016, the General Counsel and Chief
+Compliance Officer of Emerging Global Advisors, LLC (currently part of Ameriprise Financial). While at Emerging Global Advisors, Ms.&nbsp;Teufel also held the position of fund chief compliance officer from October 2015 to August 2016. Prior to
+joining Emerging Global Advisors, she was, from July 2005 to November 2013, Vice President, Corporate Counsel at Prudential Insurance Company of America, a subsidiary of Prudential Financial Inc., an insurance and financial services company. Prior
+to Prudential, Ms.&nbsp;Teufel was an associate in the mergers and acquisitions groups of Sullivan&nbsp;&amp; Cromwell LLP and Gibson, Dunn&nbsp;&amp; Crutcher LLP. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman"><B>Salvatore Lentini</B>.&nbsp;Mr.&nbsp;Lentini was appointed as an executive vice president of the Company in June 2016. Mr.&nbsp;Lentini is
+executive vice president of GS BDC and PMMC and <FONT STYLE="white-space:nowrap">co-head</FONT> and senior portfolio manager of the GSAM Credit Alternatives investment team and also serves as its head of liquid credit and trading. Mr.&nbsp;Lentini
+is also a voting member of Private Credit Group&#146;s Investment Committee, which is responsible for evaluating and approving all of the Company&#146;s investments. Mr.&nbsp;Lentini joined the firm in 2006. Prior to joining the firm,
+Mr.&nbsp;Lentini was a managing director in the Global Investments Group at Amaranth Advisors, where he was responsible for trading all credit products within the United States. Before joining Amaranth, he was responsible for trading high yield and
+crossover debt at the Royal Bank of Scotland (RBS). Earlier, Mr.&nbsp;Lentini traded high yield fixed income for PaineWebber. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman"><B>David
+Yu</B>.&nbsp;Mr.&nbsp;Yu was appointed as an executive vice president of the Company in June 2016. Mr.&nbsp;Yu is executive vice president of GS BDC and PMMC and a member of the GSAM Private Credit Group with a focus on sourcing, structuring and
+executing privately negotiated debt financings and serves as its Head of Research. Mr.&nbsp;Yu is a voting member of the Private Credit Group&#146;s Investment Committee, which is responsible for evaluating and approving all of the Company&#146;s
+investments. Mr.&nbsp;Yu joined the firm in 2006. Prior to joining the firm, Mr.&nbsp;Yu was an associate in the Global Investments Group at Amaranth Advisors, where he similarly worked with public and private issuers to structure and execute debt
+and equity financings. Prior to joining Amaranth, he worked in the Leveraged Finance and Sponsor Coverage Group at CIBC World Markets. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman"><B>Scott Turco</B>.&nbsp;Mr.&nbsp;Turco was appointed as an executive vice president of the Company in June 2016. Mr.&nbsp;Turco is executive
+vice president of GS BDC and PMMC and a member of the GSAM Private Credit Group </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">11 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+with a focus on sourcing, structuring and executing privately negotiated debt financings. He is also a voting member of the Private Credit Group&#146;s Investment Committee, which is responsible
+for evaluating and approving all of the Company&#146;s investments. Mr.&nbsp;Turco joined the firm in 2013. Prior to joining the firm, Mr.&nbsp;Turco was a Director at THL Credit, Inc., where he focused on sourcing and underwriting investments
+across the capital structure of middle-market public and private companies. Before THL Credit, Mr.&nbsp;Turco was an associate at Gabelli&nbsp;&amp; Company, Inc., where he was responsible for originating, researching and advising hedge fund, mutual
+fund and private equity clients on equity and preferred equity investments in public and private companies. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman"><B>Carmine Rossetti</B>.
+Mr.&nbsp;Rossetti was appointed as the Company&#146;s principal accounting officer in May 2017. Mr.&nbsp;Rossetti is also the principal accounting officer of GS BDC and GS PMMC and head of the GSAM Hedge Fund and BDC Fund Controller teams. He is
+responsible for fund accounting and financial reporting oversight as well as the continuous improvement of the control environment. He joined the firm in 2004. Prior to joining the firm, Mr.&nbsp;Rossetti worked in the audit practice at
+Ernst&nbsp;&amp; Young LLP. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Certain Relationships and Related Party Transactions </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Investment Management and Advisory Agreement </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Company is party to an investment management agreement, pursuant to which the Company pays GSAM, a wholly owned subsidiary of GS Group
+Inc., a quarterly fee for investment management services equal to 0.375% (i.e., an annual rate of 1.50%) of our average NAV (including uninvested cash and cash equivalents), and a <FONT STYLE="white-space:nowrap">two-part</FONT> incentive fee based
+on (a)&nbsp;the amount by which our ordinary income exceeds certain &#147;hurdle rates,&#148; and (b)&nbsp;our capital gains. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Subject to
+the supervision of the Board of Directors, our Investment Adviser <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">provides&nbsp;day-to-day&nbsp;advice</FONT></FONT> regarding our portfolio transactions and is responsible for our
+business affairs and other administrative matters. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Investment Management Agreement between the Company and the Investment Adviser was
+approved by the Initial Member of the Company, and was approved by the Board of Directors at an in person meeting held in June&nbsp;14, 2016 and entered into prior to the first date on which any investors (other than the Initial Member) are required
+to fund their capital commitments to purchase shares of our common stock. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Company commenced operations on January&nbsp;11, 2017, and
+did not pay management or incentive fees to GSAM in the year ended December&nbsp;31, 2016. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>License Agreement </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Company is party to a license agreement with an affiliate of Goldman Sachs pursuant to which the Company has been granted <FONT
+STYLE="white-space:nowrap">a&nbsp;non-exclusive,&nbsp;royalty-free</FONT> license to use the &#147;Goldman Sachs&#148; name. Under this agreement, the Company shall not have a right to use the Goldman Sachs name if GSAM or another affiliate of
+Goldman Sachs is not the Company&#146;s Investment Adviser or if the Company&#146;s continued use of such license results in a violation of applicable law, results in a regulatory burden or has adverse regulatory consequences. Other than with
+respect to this limited license, the Company has no legal right to the &#147;Goldman Sachs&#148; name. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I><FONT STYLE="white-space:nowrap">Co-Investment</FONT> Opportunities </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Company has in the past <FONT STYLE="white-space:nowrap">co-invested,</FONT> and in the future may
+<FONT STYLE="white-space:nowrap">co-invest,</FONT> on a concurrent basis with other funds managed by GSAM and its affiliates, but not if such <FONT STYLE="white-space:nowrap">co-investment</FONT> is impermissible under existing regulatory guidance,
+applicable regulations or GSAM&#146;s allocation procedures. Certain types of negotiated <FONT STYLE="white-space:nowrap">co-investments</FONT> may be made only if the Company receives an order from the SEC permitting the Company to do so. On
+January&nbsp;4, 2017, the SEC granted the Company, GS PMMC and GS BDC, as well as certain other funds managed by GSAM in the future, the exemptive relief to make negotiated <FONT STYLE="white-space:nowrap">co-investments,</FONT> subject to certain
+terms and conditions in the exemptive relief. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">12 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Transfer Agent Agreement </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company has entered into a transfer agency agreement (the &#147;Transfer Agency Agreement&#148;), with Goldman Sachs&nbsp;&amp; Co. LLC, an
+affiliate of GSAM, pursuant to which Goldman Sachs&nbsp;&amp; Co. LLC, serves as the Company&#146;s transfer agent (&#147;Transfer Agent&#148;), registrar and disbursing agent. The Company pays the Transfer Agent fees at an annual rate of 0.12% of
+the average NAV of the Company at the end of the then-current quarter and the prior calendar quarter (and, in the case of the Company&#146;s first quarter, the Company&#146;s NAV as of such <FONT STYLE="white-space:nowrap">quarter-end).</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Company commenced operations on January&nbsp;11, 2017, and did not pay transfer agent fees to Goldman Sachs&nbsp;&amp; Co. LLC in the year
+ended December&nbsp;31, 2016. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><I>Placement Agent Agreements </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company has entered into an agreement with each of Goldman Sachs&nbsp;&amp; Co. LLC and Goldman Sachs International (each, a &#147;Placement Agent&#148;
+and together with various <FONT STYLE="white-space:nowrap">sub-placement</FONT> agents, the &#147;Placement Agents&#148;) pursuant to which the Placement Agents will assist the Company in conducting private placement offerings. The Placement Agents
+have entered into or will enter <FONT STYLE="white-space:nowrap">into&nbsp;sub-placement&nbsp;agreements</FONT> (together with the agreements with Goldman Sachs&nbsp;&amp; Co. LLC and Goldman Sachs International, the &#147;Placement Agent
+Agreements&#148;) with <FONT STYLE="white-space:nowrap">various&nbsp;sub-placement&nbsp;agents</FONT> to assist in conducting the private placement offering. The Placement Agents are not expected to be compensated by the Company for their services,
+but may charge investors a placement fee with respect to their investment in the Company. The Placement Agents may also be compensated by the Investment Adviser, in its discretion, for certain services including promotional and marketing support,
+shareholder servicing, operational and <FONT STYLE="white-space:nowrap">recordkeeping,&nbsp;sub-accounting,&nbsp;networking</FONT> or administrative services. These payments are made out of the Investment Adviser&#146;s own resources and/or assets,
+including from the revenues or profits derived from the advisory fees the Investment Adviser receives from the Company. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Related Party Transaction
+Review Policy </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The Audit Committee conducts quarterly reviews of any potential related party transactions brought to its attention and,
+during these reviews, it also considers any conflicts of interest brought to its attention pursuant to the Company&#146;s Code of Ethics. Each of the Company&#146;s directors and executive officers is instructed and periodically reminded to inform
+GSAM Compliance of any potential related party transactions. In addition, each such director and executive officer completes a questionnaire on an annual basis designed to elicit information about any potential related party transactions. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Proxy Voting by the Investment Adviser </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Our Investment Adviser has implemented processes designed to prevent conflicts of interest from influencing proxy voting decisions that it
+makes on behalf of advisory clients, including us, and to help ensure that such decisions are made in accordance with its fiduciary obligations to its clients. Notwithstanding such proxy voting processes, proxy voting decisions made by our
+Investment Adviser with respect to securities held by us may benefit the interests of Goldman Sachs and Accounts other than us. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">13 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PROPOSAL 2 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>RATIFICATION OF SELECTION OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">At a meeting of the Board held on December&nbsp;13, 2016, the Audit Committee selected and recommended, and the Board, including a majority of
+the Independent Directors, approved, the selection of PricewaterhouseCoopers LLP to act as the independent registered public accounting firm for the Company for the fiscal year ending December&nbsp;31, 2017. This selection is presented for
+ratification by the Stockholders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Representatives of PricewaterhouseCoopers LLP are expected to be present at the Meeting and will be
+available to respond to appropriate questions from Stockholders if necessary. Representatives of PricewaterhouseCoopers LLP will be given the opportunity to make statements at the Meeting, if they so desire. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Audit Fees </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">No audit fees were billed by
+PricewaterhouseCoopers LLP for the year ended December&nbsp;31, 2016. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Fees included in the audit fees category are those associated with
+the filing of the Company&#146;s Registration Statement on Form 10 and services that are normally provided in connection with statutory and regulatory filings. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Audit-Related Fees </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">No audit-related fees
+were billed by PricewaterhouseCoopers LLP for the year ended December&nbsp;31, 2016. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Audit-related fees are for any services rendered to
+the Company that are reasonably related to the performance of the audits or reviews of the Company&#146;s financial statements (but not reported as audit fees above). These services include attestation services that are not required by statute or
+regulation and consultations concerning financial accounting and reporting standards. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">No audit-related fees were billed by
+PricewaterhouseCoopers LLP to GSAM, and any entity controlling, controlled by, or under common control with, GSAM, that provides ongoing services to the Company, for engagements directly related to the Company&#146;s operations and financial
+reporting, for the year ended December&nbsp;31, 2016. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Tax Fees </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">No fees were billed by PricewaterhouseCoopers LLP for services rendered to the Company for tax compliance, tax advice and tax planning for the
+year ended December&nbsp;31, 2016. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Fees included in the tax fees category comprise all services performed by professional staff in the
+independent registered public accountant&#146;s tax division except those services related to the audits. This category comprises fees for tax compliance services provided in connection with the preparation and review of the Company&#146;s tax
+returns. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">No tax fees were billed by the Company&#146;s independent registered public accountant to GSAM, and any entity controlling,
+controlled by, or under common control with, GSAM, that provides ongoing services to the Company, for engagements directly related to the Company&#146;s operations and financial reporting, for the year ended December&nbsp;31, 2016. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>All Other Fees </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">No fees were billed by
+PricewaterhouseCoopers LLP for products and services provided to the Company, other than the services reported in &#147;Audit Fees,&#148; &#147;Audit Related Fees,&#148; and &#147;Tax Fees&#148; above, for the year ended December&nbsp;31, 2016. </P>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">14 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">No other fees were billed by the Company&#146;s independent registered public accountant to GSAM,
+and any entity controlling, controlled by, or under common control with, GSAM, that provides ongoing services to the Company, for engagements directly related to the Company&#146;s operations and financial reporting, for the year ended
+December&nbsp;31, 2016. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Aggregate <FONT STYLE="white-space:nowrap">Non-Audit</FONT> Fees </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">No <FONT STYLE="white-space:nowrap">non-audit</FONT> fees were billed to the Company&#146;s Investment Adviser and service affiliates by
+PricewaterhouseCoopers LLP for <FONT STYLE="white-space:nowrap">non-audit</FONT> services for the year ended December&nbsp;31, 2016. This includes any <FONT STYLE="white-space:nowrap">non-audit</FONT> services required to be <FONT
+STYLE="white-space:nowrap">pre-approved</FONT> or <FONT STYLE="white-space:nowrap">non-audit</FONT> services that did not require <FONT STYLE="white-space:nowrap">pre-approval</FONT> since they did not directly relate to the Company&#146;s
+operations or financial reporting. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><FONT STYLE="white-space:nowrap">Pre-Approval</FONT> of Audit and <FONT STYLE="white-space:nowrap">Non-Audit</FONT>
+Services Provided to the Company </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Audit and <FONT STYLE="white-space:nowrap">Non-Audit</FONT> Services <FONT
+STYLE="white-space:nowrap">Pre-Approval</FONT> Policy (the &#147;Policy&#148;) adopted by the Audit Committee sets forth the procedures and the conditions pursuant to which services performed by an independent auditor for the Company may be <FONT
+STYLE="white-space:nowrap">pre-approved.</FONT> Services may be <FONT STYLE="white-space:nowrap">pre-approved</FONT> specifically by the Audit Committee as a whole or, in certain circumstances, by the Audit Committee Chairman or the person
+designated as the audit committee financial expert. In addition, subject to specified cost limitations, certain services may be <FONT STYLE="white-space:nowrap">pre-approved</FONT> under the provisions of the Policy. The Policy provides that the
+Audit Committee will consider whether the services provided by an independent auditor are consistent with the SEC&#146;s rules on auditor independence. The Policy provides for periodic review and <FONT STYLE="white-space:nowrap">pre-approval</FONT>
+by the Audit Committee of the services that may be provided by the independent auditor. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><I>De Minimis Waiver</I>. The <FONT
+STYLE="white-space:nowrap">pre-approval</FONT> requirements of the Policy may be waived with respect to the provision of <FONT STYLE="white-space:nowrap">non-audit</FONT> services that are permissible for an independent auditor to perform, provided
+(1)&nbsp;the aggregate amount of all such services provided constitutes no more than five percent of the total amount of revenues subject to <FONT STYLE="white-space:nowrap">pre-approval</FONT> that was paid to the independent auditors during the
+fiscal year in which the services are provided; (2)&nbsp;such services were not recognized by the Company at the time of the engagement to be <FONT STYLE="white-space:nowrap">non-audit</FONT> services; and (3)&nbsp;such services are promptly brought
+to the attention of the Audit Committee and approved prior to the completion of the audit by the Audit Committee or by one or more members of the Audit Committee to whom authority to grant such approvals has been delegated by the Audit Committee,
+pursuant to the <FONT STYLE="white-space:nowrap">pre-approval</FONT> provisions of the Policy. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman"><I><FONT STYLE="white-space:nowrap">Pre-Approval</FONT> of <FONT STYLE="white-space:nowrap">Non-Audit</FONT> Services Provided to
+GSAM.</I>&nbsp;The Policy provides that, in addition to requiring <FONT STYLE="white-space:nowrap">pre-approval</FONT> of audit and <FONT STYLE="white-space:nowrap">non-audit</FONT> services provided to the Company, the Audit Committee will <FONT
+STYLE="white-space:nowrap">pre-approve</FONT> those <FONT STYLE="white-space:nowrap">non-audit</FONT> services provided to the Company&#146;s investment adviser (and entities controlling, controlled by or under common control with the investment
+adviser that provide ongoing services to the Company) where the engagement relates directly to the operations or financial reporting of the Company. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Audit Committee has considered these fees and the nature of the services rendered, and has concluded that they are compatible with
+maintaining the independence of PricewaterhouseCoopers LLP. The Audit Committee did not approve any of the audit-related, tax, or other <FONT STYLE="white-space:nowrap">non-audit</FONT> fees described above pursuant to the &#147;<I>de
+minimis</I>&nbsp;exceptions&#148; set forth in Rule <FONT STYLE="white-space:nowrap">2-01(c)(7)(i)(C)</FONT> and Rule <FONT STYLE="white-space:nowrap">2-01(c)(7)(ii)</FONT> of Regulation <FONT STYLE="white-space:nowrap">S-X.</FONT>
+PricewaterhouseCoopers LLP did not provide any audit-related services, tax services or other <FONT STYLE="white-space:nowrap">non-audit</FONT> services to GSAM or any entity controlling, controlled by or under common control with GSAM that provides
+ongoing services to the Company that the Audit Committee was required to approve pursuant to Rule <FONT STYLE="white-space:nowrap">2-01(c)(7)(ii)</FONT> of Regulation <FONT STYLE="white-space:nowrap">S-X.</FONT> The Audit Committee considered
+whether the provision of <FONT STYLE="white-space:nowrap">non-audit</FONT> services rendered to GSAM and any entity controlling, controlled by, or under common control with GSAM that provides ongoing services to the Company that were not <FONT
+STYLE="white-space:nowrap">pre-approved</FONT> by the Audit Committee because the engagement did not relate directly to the operations and financial reporting of the Company is compatible with maintaining PricewaterhouseCoopers LLP&#146;
+independence. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>THE BOARD, INCLUDING EACH OF THE INDEPENDENT DIRECTORS, UNANIMOUSLY </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>RECOMMENDS THAT YOU VOTE&nbsp;&#147;FOR&#148;&nbsp;THE RATIFICATION OF PRICEWATERHOUSECOOPERS
+</B></P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">15 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>
+LLP AS INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM TO THE COMPANY FOR THE </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>FISCAL YEAR ENDING DECEMBER&nbsp;31, 2017. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B></B><B><I>Audit Committee Report</I></B><B><SUP STYLE="font-size:85%; vertical-align:top">(1)</SUP> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The following is the report of the Audit Committee of Goldman Sachs Middle Market Lending Corp. (the &#147;Company&#148;) with respect to the
+Company&#146;s audited financial statements as of January&nbsp;13, 2017 (the &#147;Audited Financial Statements&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Audit
+Committee has: (a)&nbsp;reviewed and discussed the Audited Financial Statements with the management of the Company; (b)&nbsp;discussed with the independent auditor the matters required to be discussed by the Public Company Accounting Oversight Board
+(&#147;PCAOB&#148;) Standard No.&nbsp;1301, as modified or supplemented; and (c)&nbsp;received the written disclosures and the letter from the independent auditor required by applicable requirements of the PCAOB Ethics and Independence Rule 3526
+regarding the independent auditor&#146;s communications with the Audit Committee concerning independence, and has discussed with the independent auditor the auditor&#146;s independence. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The members of the Audit Committee are not, and do not represent themselves to be, professionally engaged in the practice of auditing or
+accounting and are not employed by the Company for accounting, financial management or internal control purposes. Moreover, the Audit Committee relies on and makes no independent verification of the facts presented to it or representations made by
+management or the Company&#146;s independent auditor. Accordingly, the Audit Committee&#146;s oversight does not provide an independent basis to determine that management has maintained appropriate accounting and/or financial reporting principles
+and policies, or internal controls and procedures designed to assure compliance with accounting standards and applicable laws and regulations. Furthermore, the Audit Committee&#146;s considerations and discussions referred to above do not provide
+assurance that the audit of the Company&#146;s financial statements has been carried out in accordance with the standards of the PCAOB or that the financial statements are presented in accordance with generally accepted accounting principles. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Based on its consideration of the Audited Financial Statements and the discussions referred to above with management and the Company&#146;s
+independent auditor, and subject to the limitations on the responsibilities and role of the Audit Committee set forth in the charter and those discussed above, the Audit Committee recommended to the Board of Directors that the Audited Financial
+Statements be accepted by the Board of Directors and included in the Company&#146;s registration statement on Form 10. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">May&nbsp;3, 2017 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The Audit Committee </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Richard A. Mark, Chairman </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Carlos E. Evans </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Timothy J. Leach</P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="3%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">The material in this report is not &#147;soliciting material,&#148; is not deemed &#147;filed&#148; with the SEC, and is not to be incorporated by reference into any filing of the Company under the Securities Act of
+1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date hereof and irrespective of any general incorporation language in any such filing. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">16 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>OTHER BUSINESS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The management of the Company does not know of any other matters to be brought before the Meeting. If such matters are properly brought before
+the Meeting, proxies that do not contain specific instructions to the contrary will be voted in accordance with the judgment of Caroline Kraus and Neena Reddy, who are the persons named as proxy. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>VOTE REQUIRED FOR THE ELECTION OF DIRECTORS AND APPROVAL OF OTHER MATTERS </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>AT THE MEETING </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">A quorum
+for the transaction of business at the Meeting is established by the presence, in person or by proxy, of holders representing a majority of the votes entitled to be cast at the Meeting. Stockholders of record at the close of business on the Record
+Date are entitled to receive notice of, and to vote at, the Meeting and at any postponements or adjournments thereof.&nbsp;There were 14,593,369&nbsp;shares of the Company&#146;s common stock outstanding on the Record Date. Each share of common
+stock is entitled to one vote. Cumulative voting is not permitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Election of Directors </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The election of each nominee requires a majority of the votes cast by all Stockholders present, in person or by proxy, at the Meeting, provided
+that if, as of the tenth (10th)&nbsp;day preceding the date the Company first mails the notice of such meeting to the Stockholders, the number of nominees for the directorships (or, if applicable, the directorships of a particular class of
+directors) exceeds the number of such directors to be elected, such directors shall be elected by the vote of a plurality of the votes cast. Under the Company&#146;s bylaws, a majority of votes cast means that the number of votes cast
+&#147;for&#148; a director&#146;s election exceeds the number of votes cast &#147;against&#148; that director&#146;s election (with &#147;abstentions&#148; and &#147;broker <FONT STYLE="white-space:nowrap">non-votes&#148;</FONT> not counted as a
+vote cast either &#147;for&#148; or &#147;against&#148; that director&#146;s election). </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Ratification of Auditor </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Approval of Proposal 2, the ratification of the selection of PricewaterhouseCoopers LLP to serve as the Company&#146;s independent registered
+public accounting firm, requires a majority of the votes cast by all Stockholders present, in person or by proxy, at the Meeting. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Broker <FONT
+STYLE="white-space:nowrap">Non-Votes</FONT> </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Broker <FONT STYLE="white-space:nowrap">&#147;non-votes&#148;</FONT> are shares held in an
+account with an Authorized Institution for which the broker indicates that instructions have not been received from the beneficial owners or other persons entitled to vote, and the broker does not have discretionary voting authority with respect to
+a <FONT STYLE="white-space:nowrap">non-routine</FONT> proposal. As broker <FONT STYLE="white-space:nowrap">non-votes</FONT> are entitled to vote on Proposal 2, broker <FONT STYLE="white-space:nowrap">non-votes</FONT> will be counted as shares
+present for purposes of determining whether a quorum is present. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Proposal 1 is a <FONT STYLE="white-space:nowrap">non-routine</FONT>
+matter. As a result, if you hold shares in &#147;street name&#148; through a broker, bank or other nominee, your broker, bank or nominee will<B></B><B>&nbsp;not</B>&nbsp;be permitted to exercise voting discretion with respect to Proposal 1, the
+election of four directors. Therefore, if you do not vote and you do not give your broker or other nominee specific instructions on how to vote for you, then your shares will have no effect on Proposal 1. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Proposal 2, the ratification of the selection of PricewaterhouseCoopers LLP to serve as the Company&#146;s independent registered public
+accounting firm, is a routine matter. As a result, if you beneficially own your shares and you do not provide your broker or nominee with voting instructions, then your broker, bank or nominee will be able to vote your shares for you on Proposal 2.
+</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">17 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Abstentions </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Abstentions will be counted as shares present for purposes of determining whether a quorum is present, but will not be voted for or against the
+Proposal for which the proxy card has been marked &#147;Abstain&#148;. Accordingly, abstentions will have no effect on either Proposal.</P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Adjournment
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If less than a quorum is present at the Meeting or if an insufficient number of votes is present for the approval of the Proposals,
+the chairman of the Meeting shall have the power to adjourn the Meeting from time to time without notice other than announcement at the Meeting. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">A vote may be taken on either Proposal prior to any such adjournment if there are sufficient votes for approval of such Proposal. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>COMMUNICATIONS WITH THE BOARD </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">All interested parties, including Stockholders, may send communications to the Board, the Independent Directors, the Chairman or any other
+individual director, by addressing such communication to the Board, the Independent Directors, the Chairman or to the individual director, c/o Goldman Sachs Asset Management, L.P., 200 West Street, New York, New York 10282. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ANNUAL AND QUARTERLY REPORTS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">Copies of the Company&#146;s Annual Reports on Form <FONT STYLE="white-space:nowrap">10-K,</FONT> Quarterly Reports on Form <FONT
+STYLE="white-space:nowrap">10-Q</FONT> and Current Reports on Form <FONT STYLE="white-space:nowrap">8-K</FONT> are available, without charge, or upon request by writing to the Company or by calling the Company toll-free at <FONT
+STYLE="white-space:nowrap">(800)&nbsp;621-2550.</FONT> Please direct your written request to Caroline L. Kraus, Secretary, at the Company, c/o Goldman Sachs Asset Management, L.P., 200 West Street, New York, New York 10282. Copies of such reports
+are also posted and are available without charge on the SEC&#146;s website at www.sec.gov. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>CORPORATE GOVERNANCE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Code of Ethics </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">We have adopted a Code of
+Ethics pursuant to Rule <FONT STYLE="white-space:nowrap">17j-1</FONT> under the 1940 Act and we have also approved the Company&#146;s Investment Adviser&#146;s Code of Ethics that it adopted in accordance with Rule
+<FONT STYLE="white-space:nowrap">17j-1</FONT> and Rule <FONT STYLE="white-space:nowrap">204A-1</FONT> under the Investment Advisers Act of 1940, as amended. These Codes of Ethics establish, among other things, procedures for personal investments and
+restrict certain personal securities transactions, including transactions in securities that are held by the Company. Personnel subject to each code may invest in securities for their personal investment accounts, so long as such investments are
+made in accordance with the code&#146;s requirements. The Codes of Ethics can be reviewed and copied at the SEC&#146;s Public Reference Room in Washington, D.C. Information on the operation of the Public Reference Room may be obtained by calling the
+SEC at <FONT STYLE="white-space:nowrap">(800)&nbsp;SEC-0330.</FONT> The Codes of Ethics are also available on the EDGAR Database on the SEC&#146;s Internet site (http://www.sec.gov). Copies may also be obtained after paying a duplicating fee by
+writing the SEC&#146;s Public Reference Section, Washington, DC 20549-0102, or by electronic request to publicinfo@sec.gov. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Code of Business Conduct
+and Ethics </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">We have adopted a Code of Business Conduct and Ethics which applies to, among others, the Company&#146;s Chief Executive
+Officer and Chief Financial Officer. The Company intends to disclose any material amendment to or waivers of required provisions of the Code of Business Conduct and Ethics on a current report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> or on
+the Company&#146;s website. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">18 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Corporate Governance Guidelines and Director Charter </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">We have adopted Corporate Governance Guidelines and a Director Charter which applies to, among other things, the authority and duties of the
+directors, the composition of the Board and the election and role of the Chairman of the Board. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ADDITIONAL INFORMATION </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The principal address of the Company&#146;s Investment Adviser is Goldman Sachs Asset Management, L.P., 200&nbsp;West Street, New York, New
+York 10282. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">The principal address of the Company&#146;s administrator is State Street Bank and Trust Company, One Lincoln Street, Boston,
+Massachusetts 02111. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>STOCKHOLDER PROPOSALS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Company expects that the 2018 Annual Meeting of Stockholders will be held in November 2018, but the exact date, time and location of such meeting have yet
+to be determined. A Stockholder who intends to present a proposal at that annual meeting, including nomination of a director, must submit the proposal in writing to the Secretary of the Company, Caroline L. Kraus, c/o Goldman Sachs Asset Management,
+L.P., 200 West Street, New&nbsp;York, New York 10282. Notices of intention to present proposals, including nomination of a director, at the 2018 annual meeting must be received by the Company no earlier than July 5, 2018 and no later than
+5:00&nbsp;p.m., Eastern Time, on August 4, 2018. In order for a proposal to be considered for inclusion in the Company&#146;s proxy statement for the 2018 Annual Meeting, the Company must receive the proposal no later than May 21, 2018. The
+submission of a proposal does not guarantee its inclusion in the Company&#146;s proxy statement or presentation at the meeting unless certain securities law requirements are met. The Company reserves the right to reject, rule out of order or take
+other appropriate action with respect to any proposal that does not comply with these and other applicable requirements. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Stockholders who do not
+expect to be present at the Meeting and who wish to have their shares voted are requested to vote by mail, Internet or telephone. If you choose to vote by mail, please sign and date the enclosed proxy card and return it in the enclosed envelope. No
+postage is required if mailed in the United States. If you choose to vote by Internet or telephone, please use the control number on the proxy card and follow the instructions on the proxy card. If you have any questions regarding the proxy
+materials please contact the Company at (800) <FONT STYLE="white-space:nowrap">621-2550.</FONT> </B></P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">19 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="font-size:72pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:72pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:72pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:72pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:36pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:36pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:72pt; margin-bottom:0pt; font-size:11pt; font-family:Arial Narrow">MMLC 2017 </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<DIV STYLE="position:relative;float:left; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+ <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><B><I>GOLDMAN SACHS MIDDLE MARKET
+LENDING CORP. </I></B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><B><I>71S WACKER DR </I></B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><B><I>SUITE 500 </I></B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:ARIAL" ALIGN="justify"><B><I>CHICAGO, IL 60606
+</I></B></P>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+ <P STYLE="font-size:2pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="justify"><B>VOTE BY INTERNET -
+<U>www.proxyvote.com</U> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="justify">Use the Internet to transmit your voting instructions and for electronic delivery of information up until 11:59 p.m.
+Eastern Time the day before the cut-off date or meeting date. Have your proxy card in hand when you access the web site and follow the instructions to obtain your records and to create an electronic voting instruction form. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="justify"><B>ELECTRONIC DELIVERY OF FUTURE PROXY MATERIALS</B> </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="justify">If you would like to reduce the costs incurred by our company in mailing proxy materials, you can consent to receiving all future proxy statements, proxy
+cards and annual reports electronically via e-mail or the Internet. To sign up for electronic delivery, please follow the instructions above to vote using the Internet and, when prompted, indicate that you agree to receive or access proxy materials
+electronically in future years. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="justify"><B>VOTE BY PHONE - 1-800-690-6903</B> </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="justify">Use any touch-tone telephone to transmit your voting instructions up until 11:59 p.m. Eastern Time the day before the cut-off date or meeting date. Have
+your proxy card in hand when you call and then follow the instructions. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="justify"><B>VOTE BY MAIL</B> </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="justify">Mark, sign and date your proxy card and return it in the postage-paid envelope we have provided or return it to Vote Processing, c/o Broadridge, 51
+Mercedes Way, Edgewood, NY 11717. </P>
+</DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+ <P STYLE="font-size:72pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"><FONT STYLE="font-size:7pt">TO&nbsp;VOTE,&nbsp;MARK&nbsp;BLOCKS&nbsp;BELOW&nbsp;IN&nbsp;BLUE&nbsp;OR&nbsp;BLACK&nbsp;INK&nbsp;AS&nbsp;FOLLOWS:</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>E32851-P97569</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">KEEP&nbsp;THIS&nbsp;PORTION&nbsp;FOR&nbsp;YOUR&nbsp;RECORDS</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" COLSPAN="6" NOWRAP><B>&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;
+&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;
+&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;
+&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;&nbsp;&#151;</B></TD>
+<TD VALIGN="top" NOWRAP><B> &nbsp;</B></TD></TR></TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:7pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" ALIGN="right"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:7pt; font-family:ARIAL" ALIGN="right">DETACH AND RETURN THIS PORTION ONLY</P></TD></TR></TABLE>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>THIS PROXY CARD IS VALID ONLY WHEN SIGNED AND DATED. </B></P> <P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<div style ="BORDER-BOTTOM:1.50pt solid #000000;BORDER-LEFT:1.50pt solid #000000;BORDER-RIGHT:1.50pt solid #000000;BORDER-TOP:1.50pt solid #000000;MARGIN-LEFT:0px;MARGIN-RIGHT:0px;max-width:100%"><div style="width:97%; margin-top:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+
+<DIV STYLE="position:relative;float:left; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL"><B>GOLDMAN SACHS MIDDLE MARKET LENDING CORP. </B></P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:7pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9" VALIGN="top" ALIGN="left"><B>&nbsp;&nbsp;</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:7pt"><B>The Board of Directors recommends you vote FOR the following: </B></P></TD>
+<TD WIDTH="176">&nbsp;</TD></TR></TABLE> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:7pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9">&nbsp;</TD>
+<TD WIDTH="24" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:7pt">To elect four directors of the Company, who will each serve until the 2018 annual meeting of the stockholders and until
+his or her successor is duly elected and qualified. </P></TD>
+<TD WIDTH="176">&nbsp;</TD></TR></TABLE> <P STYLE="font-size:2pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="95%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:7pt">
+
+<TR>
+<TD WIDTH="52%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="15%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="15%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="15%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="bottom" NOWRAP><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nominees:</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>For</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Against</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Abstain</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:ARIAL">1a.&nbsp;&nbsp;&nbsp;Carlos E. Evans</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:ARIAL">1b.&nbsp;&nbsp;&nbsp;Richard A. Mark</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="middle"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:ARIAL">1c.&nbsp;&nbsp;&nbsp;Timothy J. Leach</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="middle"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:ARIAL">1d.&nbsp;&nbsp;&nbsp;Katherine Uniacke</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD></TR></TABLE></DIV>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="88%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="10%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE="BORDER-TOP:2.00pt solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-TOP:2.00pt solid #000000; BORDER-RIGHT:2.00pt solid #000000; padding-right:2pt">&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2" STYLE="BORDER-RIGHT:2.00pt solid #000000">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:2.00pt solid #000000; padding-right:2pt">&nbsp;</TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+</DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+ <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:7pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="1%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="80%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="5%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="bottom" COLSPAN="3" NOWRAP><B>The Board of Directors recommends you vote FOR the following proposal:</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>For</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Against</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Abstain</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top">2.</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:7pt">To ratify the selection of PricewaterhouseCoopers LLP as the Company&#146;s independent registered public accounting firm for the
+fiscal year ending December&nbsp;31, 2017.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<DIV STYLE="position:relative;float:left; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:7pt">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="63%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="11%"></TD></TR>
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" COLSPAN="7"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:7pt">For address changes and/or comments, please check this box and write them on the back where indicated.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="13" COLSPAN="3"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD>
+<TD HEIGHT="13" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:7pt">Please indicate if you plan to attend this meeting.</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:7pt">
+<TD COLSPAN="3" VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Yes</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>No</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="justify">Please sign exactly as your name(s) appear(s) hereon. When signing as attorney, executor, administrator, or other
+fiduciary, please give full title as such. Joint owners should each sign personally. All holders must sign. If a corporation or partnership, please sign in full corporate or partnership name by authorized officer. </P>
+</DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+</DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+ <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+<TR>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="31%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="7%"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD HEIGHT="8" COLSPAN="2" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000">&nbsp;</TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000">&nbsp;</TD>
+<TD HEIGHT="8" COLSPAN="2" STYLE="BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000">&nbsp;</TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-size:1px; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" STYLE="BORDER-LEFT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:7pt; font-family:ARIAL">Signature [PLEASE SIGN WITHIN BOX]</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-size:7pt">Date</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:7pt; font-family:ARIAL">Signature (Joint Owners)</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-size:7pt">Date</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR></TABLE> <P STYLE="font-size:2pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+</div><br clear="All"></div><br clear="All">
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting: </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center">The Notice and Proxy Statement is available at www.proxyvote.com. </P>
+<P STYLE="margin-top:120pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL">&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;
+&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;
+&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151;&nbsp;&nbsp;&#151; </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="right">E32852-P97569 </P>
+<P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><div style="max-width:100%;margin-left:0%; margin-right:0%;border:solid 2.00pt;background-color:;;padding-top:2pt;padding-bottom:3pt">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; padding-top:10pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>GOLDMAN SACHS MIDDLE MARKET LENDING CORP. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Annual Meeting of Stockholders </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>November&nbsp;2, 2017 10:00 AM (Eastern Time) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>This proxy is solicited by the Board of Directors </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:4%; margin-right:4%; font-size:10pt; font-family:ARIAL" ALIGN="justify">The Proxy Statement is furnished in connection with the solicitation of proxies by and on behalf of the Board of
+Directors (the &#147;Board&#148;) of Goldman Sachs Middle Market Lending Corp. (the &#147;Company,&#148; &#147;we,&#148; &#147;our&#148; and &#147;us&#148;) for use at the 2017 Annual Meeting of Stockholders (the &#147;Meeting&#148;), to be held at
+the offices of Goldman Sachs Asset Management, L.P., located at 30 Hudson Street, 21st Floor&#151;Conference Room C, Jersey City, New Jersey 07302, on Thursday, November&nbsp;2, 2017, at 10:00 a.m. (Eastern Time), and any postponement or adjournment
+thereof. Much of the information in the Proxy Statement is required under rules of the Securities and Exchange Commission, and some of it is technical in nature. If there is anything you do not understand, please contact the Company at
+(800)&nbsp;621-2550. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:4%; margin-right:4%; font-size:10pt; font-family:ARIAL" ALIGN="justify">The undersigned stockholder(s) hereby appoint(s) Caroline Kraus, Secretary of the Company,
+and Neena Reddy, Assistant Secretary of the Company, or either of them, as proxies of the undersigned, each with power to appoint her substitute, and hereby authorize(s) them to represent and to vote at the Meeting and any postponement and
+adjournment thereof. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:4%; margin-right:4%; font-size:10pt; font-family:ARIAL" ALIGN="justify"><B>This proxy, when properly executed, will be voted in the manner directed herein. If no
+such direction is made, this proxy will be voted in accordance with the Board of Directors&#146; recommendations. The proxies are also authorized, in their discretion, to vote upon such other matters as may come before the Meeting or any
+postponements or adjournments thereof. </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="65%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-TOP:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt; padding-right:2pt"> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:6pt; margin-bottom:1pt; font-size:8pt; font-family:ARIAL"><B>Address&nbsp;Changes/Comments:</B>&nbsp;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; padding-left:8pt; padding-right:2pt"><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;</U></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" STYLE="BORDER-LEFT:1px solid #000000; BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-left:8pt; padding-right:2pt">&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL" ALIGN="center">(If you noted any Address Changes/Comments above, please mark corresponding box on the reverse side.) </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; padding-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Continued and to be signed on reverse side </B></P></div>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g453882g06v27.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g453882g06v27.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( #4 G0,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /?B<4 (6P.* '#I0 4 % !0 4 % !0 A.* $WCIT- &'K/C
+M#1-!E6"^O5%RWW8(P7D;Z*.: $TO7M0U2\P-!N;:Q(R+BX8(3_P#K0!O YH
+M6@ H * "@ H * *&KZI;:-ID^H7C;8(%W-CDGV [F@#CY8_$;Z#<>(GU*XM;
+ME5:XCLL*8UC'(1ACD[>_K0!W%G,MQ9PS*05D0,"#G.10!/0 4 )G% "T (3C
+MM0!0U/6M.T:U-SJ-Y%;0C^*1L9/L._X4 <\?&MQJBNOAW1;J]X^6XF7R8?P+
+M<D?04 <YX=T+6/$>MZW=ZOK$ML5F%O)!8L44[5' ;KCGL: .ZTCPKHNB[FLK
+M%%E;[TK_ #NWU8\F@#9V@4  &* %H * "@ H * "@#E/%\7]H:CH6D=4N+KS
+M95]4C&[_ -"VT =#>V,=_IMQ8NS)'/$T3%>" 1CB@ L+.+3-/M[*'/E6\8C3
+M<<G &* +(.10 M '.>*->GT2XT:*%$;[=>+;MNZ@$$Y'Y4 ="#B@#E?%&O:I
+M!J5GHF@P))J-R"[R.,I;QYQN;^@H -/\"V2WXU'5[B;5;X<J]R1M0_[*C@4
+M=.L21*%10JCH , 4 <YX(<SZ?J%P4(\V_G()[@2$#]!0!U&,4 % !0 4 % "
+M9QF@!-V.U !NH -Q[4 <O.#/\2[16QLM].D=?JT@'\EH Z@' YH P-8U6\;4
+MX]&THQ+=O&99)I1N6%1P,@=230!?T>ZEFTY3<75O<RJQ1I;?[A(X/T/MF@"?
+M^TK070MC<Q"<](]XW?EUH X[QU(3XJ\&0\%&OV8@^R&@">W^(=B;O58[JWD@
+MALY-D4H&_P"T#)!* =0,&@##\:ZO]C6#Q-I=_$=.NQ':7<J'+1)N^\OOR<T
+M=CX/U-=3\.P3K-YPRRB3.=X!(!_("@#==@ <\#U- '$>"]>T_3_",+ZCJ%M!
+M+)/,Y#R!2<R,1Q0!K'QQHC.T<$TURX'W8+>1_P!0,4 56\='/[GPYJ\J_P!X
+M6Y7^>* (SX\G49/A76!_VR'^- $$OQ,M;3+7NC:A:QJ,LTBKP/IG- $X^)WA
+MF6U26VNI)Y'^[$D+[C^&* ,N3QKXQO9732O!$PCS\DMU,(P1ZD=: %"?%'4!
+MDRZ/IRC'R[79C^/2@!T/A?QT+B.:3Q7"'Q\W[G>#[ <4 =+H>CZKIT4XU#7'
+MU"25]P)A"!!Z  T 9FNW,>C^/-%U"XD$5M=0RV;NW"ALAER?P- &]JFN6.CZ
+M>UY=2J$QE$4Y9SV"CN: //UNM93Q+J<*:;*M[K"PF-R<I!&%^;+#N/3UH M3
+M^%O$CV-QH-C<165D)O.2[5CO;@?+M'3D')SWH IW7AGQ(HU*0:;9F;4<-"8'
+MYM)ATDW$9([^V* .NUWPL_B/2;%)+U[/4+0B2.YA&2K[=IQGV)H ?'X-TJ"?
+M39A%F2P@:",D#!!')(]?\: .#U70_!>F:2V@O&]_JCA]ILT#2!B203SMR,]_
+M2@!^F>$_%=\+>>"*U\.7$9!DN(&)>8#^]&/DR?QH GN_"WB6TNGN-9NFU^TR
+M2%%X;4 >Z@8/YT 97@WQEX6TC2+:UG\/3B\C5F+Q6HE_B/\ $#G\Z -Q_BS9
+MR,ZV6E2P!#]^^!BQ^ 5J )AX@N=;VJ/&6G:>& .VVC^;'U<_TH N0Z?X<+,V
+MI^*)-18_\];W8/\ OE"!0!IV?_"%604VSZ4A7HV]"WYGF@!^IZUX2FLS'?7N
+MGRP]-I96&: ,7P#K[7>LZIH]O-)?:9;'?;7; @!2?]7D]<>OM0!Z!B@ Q0 8
+MH JZAIMGJEJ]K?6\=Q;O]Y)%R#0!F6/@W0=-N4N;;3XUF3[C-EMOTSTH V]F
+M, 8Q0 H4CO0 %>?:@!5&T=<T <_XRTC4M:T(VNF7(AE\Q6=2Q42H#RF1R,T
+M8VDV>O:-91PV/A?3[=NC%)QCZYZF@"\NG^,;[BZU2TT^,GD6L>]P/3+"@"6/
+MP1IQP^HR7&IS9SNNIF8#Z+G H E\(Z(VB:7):/;Q1;9Y2A11RA<E?T- &X]K
+M#)GS(8WS_>4&@"K)H>ERMNDTZU8^IB7_  H B?PUHD@ ?2K0@>L*_P"% %?_
+M (0SPUGG0[+_ +\B@":/POH4"[8M'LT'M"M &E#;QVZA(HTC0=D4 4 2T %
+H!0 4 % !0 4 % !0 4 % !0 4 % !0 4 % !0 4 % !0 4 % '__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g453882g0918204340320.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g453882g0918204340320.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" !1 $@# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#A].\,^=X3
+M77)([FZ>;4%LK>TMCAG.TLQZ$^P '7FIW\#7LL4MQ 9(5:*XN(+>X!$GE1-M
+M;=TPW7C':M?P.-2N_"DXM;;^T4TG5(-0CL86VS;@#N;OE> , 9SSQCFS<:AX
+MBU2'4KW3H[<V^R]\GS&Q,L#2 R#;V.3@9P<$]>, Q#\,K5?%*6CWMRFF/.L"
+M'(,KL8O,/., #CM64OP[D>T%S_::JC0+<;3$20ADV=<\G-=C9S^)I=0GO=37
+M3+4P*UZD1W/LD2-4*D!L@%6'KR*QKR]\4:792Q7=IIT5O#$MGYQ+E6P?-'(Z
+M$Y[XH PU^'EVUS?VRZE T]F9 RJK'A%W9)[9[=:@U?P/<:1I$NH&_240K [H
+M$(XE'&#GG'>K+_$W4W:9VL;+=(TS9 88\Q<-WY]JH:GXXO\ 5=,GL)K:V2.=
+M($9D#9 B^[CGOWH ^IO#_P#R+>E_]>D7_H K1K.\/_\ (MZ7_P!>D7_H K1H
+M$%%%% 'QWHFMPZ,;>XCBN4OK>Y$R3P3",LF!F,\'@X_4\'-=,/B8AANW.D+'
+M=W27*R20R!59I7#!B-N25QCD]*\^HH*.T_X3J$ZOJNIMIK&XU&T-NX$N%C)
+MR1QR..E37/Q$,FHW5[!9S1_:8?)FMVG#12+LVC<NWJ#SFN%HH$'>E'WA]:2E
+M'WA]:!GV;X?_ .1;TO\ Z](O_0!6C6=X?_Y%O2_^O2+_ - %:-!(4444 ?$%
+M%:W_  BWB'_H ZI_X!R?X4?\(MXA_P"@#JG_ (!R?X4%&316M_PBWB'_ * .
+MJ?\ @')_A1_PBWB'_H ZI_X!R?X4 9-*/O#ZUJ_\(MXA_P"@#JG_ (!R?X4H
+M\+>(<C_B1:GU_P"?.3_"@#ZW\/\ _(MZ7_UZ1?\ H K1JAH:/'X?TU'5E=;6
+M(,K#!!"#@U?H)"BBB@!&=4QN8+DX&3CFEKR7XN7WVO4K'2(S=;K2WDU#_1H6
+MD/FCB'.T' R&Y-37?C[5GN=.O;65(M*>WMY)62!9PC.<,)L-NC] 0#DT >J4
+M5Y5/X]URQU:]:X:-K;$_V2-;</#)L&5VRJQ);NP8"JMSXF\4WGAB\,MZL#I)
+M;NEP(D1]KD97:DAP/<]10!Z_145MO^RP^8XD?8-S@8!..N*EH **** "BBB@
+M#EX_$.@)X^N-#6V9-:EA4RS>4-LBA=RKNSDX!/&/6LOP\/ WBBZF.GZ);A]*
+M<('DME4#DD%>>1G)YK!\5:%KZ^+];U[2M.FEN(3:/:,H_P!;^Z>.0#Z;P3]*
+MI+X5U32-+UJS71Y;F"66R3B-G#HJ .^Q6!?!'W<\T >H1^&M BU"74X]+LEN
+MI0=\XC&6SU_/O2Q>'- M[*:PBTFP2UN3NDA$*A9#ZD8YKRBV\'ZE=:=;VESH
+M]R;>&6^9(I(O+"AE'E_*"0 3T&>M1ZAX?UN6XT_.B77VBVBM0DRP-(WRD;_G
+M+83'< 9- 'ML*10QK#"J(D8"JB\!1V&*>&4YPP..#STKQ"VLII/%MI%;PJ-2
+M=KL27J3HXE8CY?NL3QTY Q3++P3K<>@WT7]GWBS/#''-&T:*LS[\D\,2YQ_%
+MQ0![B'4G 8'/O3?/APY\U/DX;YA\OU]*\=B\$ZE9:W'-I^ER6^S5@8Y5_@@,
+M9R>OW=V,U4T_P1K$6@:E$=,O4OC8O!-E8U2XD,F>"#F0]]Q^E 'LEUJUA9)"
+M]Q=1HLTZVT9SG=*QP%X[YHKRW4/!DZK=!?#YGLX=;M;E+:.-/G@$:B7:I(!R
+H1@COWHH ]?HHHH **** /(?"'_):_$'^Z:]>HHH **** "BBB@#_V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g453882g0918204340429.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g453882g0918204340429.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  S %8# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#W^BN)\2_%
+M;PGX88PW%_\ :KH';]GM )&!]SG _.N<?XJZS>W%K]FTG3M*M'8%[G5+Y3E.
+M^U$.<X]: /6:*X.Z^+OA9)/*T^2\U:8'!33[9I,'WZ54'C[Q5J\Q@T'P1=)R
+M?](U*3RD ]U'/Y4 >CUC>)/%6C^$].-[J]XD*D'RXQS)*1V1>I/3\^:\Q\4>
+M*?B;HTNGV[2:*NI:C-Y=OI]G&TC$8Y8EN@'<_P#UZI^!K'4[[XR:B/$IM-:N
+M[:T$DERN62PE)'[I!]T'DCIGCMS0!TL$WCWQY(9(V?PEH18%/DW7LZ^O/" \
+M>A'O7.Z9X<DT[XS:;INA>(-<O/L433ZY<7%SYB\C*1GC!W$<CD\Y'(X]'\?>
+M*SX2\-M<VT7GZE=2+:V%N!DR3/PO'H.OZ=ZC^'OA%_"6@,EY*+C5KV0W%_<9
+MR9)#VSU('^- '6T444 %%%% '!7/P;\$7=W+<R:3B25R[;96 R?05H67PR\'
+M6+[X]#MG?LTHWD?3-=;10!Y]\1[>#2= T;[!;I;J-:LE(@4+\OF=.*Z_7]<L
+MO#>B76K:A($M[=-Q]6/91ZDGBN)^.$\]G\._MMN!YMK?6\RL1D*0_!_/'YUR
+M/C-M9^*WC*WT/P[.%T?22LEU>_\ ++S^O_ B.@'UH J66KZSK7B:[O[.%9?%
+MFK0K%:H.4T:T(^\Q[.00<=<U[!X2\*Z?X,T/[+ VZ5OWMW=2'YII/XG8_P"<
+M4[PIX1TSPCI8M+&/=,_S7%R_,D[]V8_7M7*?&KQ$^D>$X-,BG-J^L3BT>Z/W
+M88N-['\#CZ$T 5O#\3?$7Q^?%MPCG0-()ATA&^[-+T:;'L>GT'I7J=>3Z9X\
+M:*RM]"\!>&KG5+33X%0W,@\N,@#L>Y/7W)K;T7XI:==:BNE:[9W&A:H>!%>+
+MA'/^RW2@#O:*16#*&4@J1D$'K2T %%%% !1110!XA\=_$=_<V]SX3TZ)?)CL
+MUU#4)&(&8Q*H55_X%@G_ /77HWPXTVSTSX=Z EG D2S6,,\A4??=T#,Q]22:
+MY/XU^"++6/"][XAA29-6L8!\\1)\V('E6'H 2<UQ.B^+_%.EO;^'9_%NCZ=I
+MMI;QM8ZA/ Q6ZMPN%V-T)& ,'!SD=10!]%U7O+"SU"-8[VT@N44[@LT8< ^N
+M#7D_@[_A8/C33Y=5/BP:?8^>\5LZZ<I^T1KP)0&((!.>OI7I7A[3M4TNP:#5
+MM:;5IS(66=K=82%P/EPIP>_/O0!I0P0VT0B@B2*,=$10H'X"J&M^'M)\1V36
+MFK6$-U$1@;UY7Z'J*TZ* /,O^$)\7^%99)/!^OBYL?O#3M4)?'^RK_XX J2'
+MXG:AI)1/&'A>^TI2VPW<2^; #GU'->DTUT25&21%=&&"K#((H R=+\5:#K4>
+M_3=7L[D 9.R4$CZT50N_AWX/O;CSYO#UCYF,9C38/R7 HH Z:BBB@!&571D=
+M0RL,$$9!%>/Z5X3T.#XKW.C+IZ/I4<+W26,KM) LIP"PC8E<X/I_*BB@#V!%
+>6-%1%"JHPJJ, #TI:** "BBB@ HHHH **** /__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
